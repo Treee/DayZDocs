@@ -19,16 +19,25 @@ We could spend hours talking about map making so for this video I will focus mos
 
 ## The Height Map
 
-small explanation of height map
+The height map is a way to store 2D color (x,y) information such that it can be computed into 3D height information. Like [Pennyworth](https://github.com/pennyworth12345/A3_MMSI/wiki/Mapframe-Information#cell-size) explains, the 2D image fits into a simple grid with x (`width`) and y (`length`). When we pick any x AND y, trace the coordinates to their location, we find a value. This value represents the "raw" height value before the terrain is built and convert into meters. When you generate a height map you do so at a specific resolution. This resolution is important because it forces downstream decisions due to its relationship with the other mapframe properties.
 
-- https://github.com/pennyworth12345/A3_MMSI/wiki/Mapframe-Information#grid-size
-- segway into how this relates to the cell size and why a lower one might be desired
+## Grid, Cell & Terrain Size
 
-cell size
+The resolution of your height map is the value you will select for `Grid Size`(px). The reason I stress the importance of the height map resolution is because it is closely linked with the desired cell size. Why? you might ask, Grid size multiplied by cell size is equal to terrain size. Knowing that cell size effectively sets the terrain size based on a height map, we can make educated performance decisions about the size of a cell.
 
-- https://pmc.editing.wiki/doku.php?id=arma3:terrain:grid-cell-size
-- review the numbers in the above link
-- example of a map with 2m cell size and 10m cell size
+```
+Grid Size * Cell Size = Terrain Size
+```
+
+`Why do we care about the cell size?`
+
+The cell size determines the distance between two height map points. Smaller values create more `detail` in height maps with variable heights and larger values `smooths` the terrain because there is more distance between the points. [Pennyworth](https://github.com/pennyworth12345/A3_MMSI/wiki/Mapframe-Information#cell-size) accurately lays out the thought process after hearing this--
+
+`"Well then why don't I use the lowest cell size I can?"`
+
+We are trying to strike a balance between performance and quality. It makes little sense to have a small cell size on a mostly flat terrain since there is no real need to display detail between height map points with little difference. It also makes no sense to have a mountainous terrain with a high cell size because the detail will be smoothed out over the distance. The best advice I can give is to experiment with multiple height maps and cell sizes until you find one that `feels` good.
+
+Before jumping into some of the major roadblocks that can come out of improper mapframe values, we will quickly touch on how [Terrain Builder processes](https://github.com/pennyworth12345/A3_MMSI/wiki/Mapframe-Information#tiling-of-the-satellite-and-mask-images) the massive heightmap/satellite map/mask images into smaller tiles.
 
 Tiling of Satellite and Mask Images
 
@@ -56,3 +65,9 @@ land grid
 - show excel with all values
   -- showcase divisible by 4 rule
   -- showcase texture layer being what helps reduce large overlaps
+
+This brings us to several major issues that plague new and veteran map makers alike if we do not respect the relationship between the above numbers:
+
+- Severe Satellite Map Stretching
+- Incorrect Satellite Map Tiling
+- Terrain being considered "out of map" and not rendering ground textures.

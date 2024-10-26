@@ -38,6 +38,7 @@ Unzip the plugin contents into a folder so you can browse its contents. Find the
 ![Game Terrain Tools Python zip folder](images/gtt_python_fix1.png "Game Terrain Tools Python zip folder")
 
 Editing the file; remove `from PyQt5` so only `import sip` remains. Re-zip the folder using `gtt.zip` as the name. (Rename the original if you need)
+
 ![Game Terrain Tools python fix](images/gtt_python_fix2.png "Game Terrain Tools python fix")
 
 ### Orfeo Toolbox (OTB)

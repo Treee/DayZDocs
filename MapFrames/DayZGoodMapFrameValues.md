@@ -49,9 +49,7 @@ In order to avoid some of the major roadblocks that can come out of improper map
 
 By this time you have read Pennyworth's guide several times; enough times that you think you understand it. Sleep on it an read it again. Now that you are fully rested and well read we know that there is `no possible way to remove terrain stretching`.
 
-```
-The observant reader will understand that given a desired overlap and actual overlap of grid cells, the best case scenario will be 'half of the actual overlap' stretched on 'all four sides equally' WHEN the estimated terrain size is the same as your actual terrain size.
-```
+`The observant reader will understand that given a desired overlap and actual overlap of grid cells, the best case scenario will be 'half of the actual overlap' stretched on 'all four sides equally' WHEN the estimated terrain size is the same as your actual terrain size.`
 
 To calculate `Estimated Size` we take the Satellite and Mask Tile Size and subtract the Actial overlap then multiple by the Tiles in Row.
 

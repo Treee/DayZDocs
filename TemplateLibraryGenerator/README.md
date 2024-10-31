@@ -1,5 +1,9 @@
 # Template Library Generator
 
+When starting map making, a common first step is importing map assets into the `Template Library`. In most tutorials the advice is to crawl your `P:/dz` directories and import one by one. I felt this process was labor intensive given we have import options available and fosters the mentality of not updating the libraries often. In order to streamline Template Library updates, there needed to be a way to generate a common format without much labor.
+
+This tool aims to remove the human element for creating Template Libraries and allow for quick updating existing auto generated libraries by using copy and paste.
+
 ![Template Libary Example](images/title.png "Template Libary Example")
 
 ## How To Use (EASY VERSION)

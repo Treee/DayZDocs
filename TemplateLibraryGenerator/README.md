@@ -36,6 +36,8 @@ You now have all vanilla map assets with reasonable categories.
 
 At the time of writing this `dz\water_sakhal\ice_sea\ Ice_Sea_Square_50m.p3d` has a bug regarding the filename which is having an eroneous space prefixing the name. Eventually this will be fixed and running the tool/renaming the template name/p3d path will fix any messages `Terrain Builder` shows when loading a project.
 
+The HASH generated in these files is an arbitrary number not linked to anything other than memes. I have not seen any impact for it being this way and assume it is internal BIS format. If the algorithm to generate the correct value is shared I will update this tool to include the correct hash.
+
 ### (Optional) Data Tweaking
 
 #### getp3dsForImport.js Notes

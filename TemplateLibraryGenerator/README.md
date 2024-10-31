@@ -28,6 +28,10 @@ You now have all vanilla map assets with reasonable categories.
 
 - Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
 
+## Special Considerations
+
+At the time of writing this `dz\water_sakhal\ice_sea\ Ice_Sea_Square_50m.p3d` has a bug regarding the filename which is having an eroneous space prefixing the name. Eventually this will be fixed and running the tool/renaming the template name/p3d path will fix any messages `Terrain Builder` shows when loading a project.
+
 ### (Optional) Data Tweaking
 
 #### getp3dsForImport.js Notes

@@ -122,6 +122,7 @@ function buildTemplateLibraryString(templateName) {
   return copyOfXml;
 }
 const existingP3dNames = {};
+let hash = 10000;
 function buildTemplateLibraryBodyString(p3dFilePath) {
   let copyOfXml = XML_BODY_TEMPLATE;
   let p3DName = getP3DName(p3dFilePath);
@@ -137,7 +138,7 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
   const relativeFilePath = removeStaticFilePath(p3dFilePath);
   copyOfXml = copyOfXml.replace("{P3D_RELATIVE_FILE_PATH}", relativeFilePath);
   copyOfXml = copyOfXml.replace("{TIMESTAMP}", today);
-  copyOfXml = copyOfXml.replace("{P3D_HASH}", -42069);
+  copyOfXml = copyOfXml.replace("{P3D_HASH}", hash++);
   //   console.log(copyOfXml);
   return copyOfXml;
 }

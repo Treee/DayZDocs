@@ -2,17 +2,18 @@ import { readFileSync, writeFileSync } from "node:fs";
 import * as path from "node:path";
 
 const XML_LIBRARY_TEMPLATE = `<?xml version="1.0" ?>
-<Library name="{LIBRARY_NAME}" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="{LIBRARY_NAME}" shape="rectangle" default_fill="{TEMPLATE_FILL}" default_outline="{TEMPLATE_OUTLINE}" tex="0">
     {LIBRARY_BODY}
 </Library>`;
 
+//rgb(128,255,0)
 const XML_BODY_TEMPLATE = `<Template>
     <Name>{P3D_NAME_SANS_SUFFIX}</Name>
     <File>{P3D_RELATIVE_FILE_PATH}</File>
     <Date>{TIMESTAMP}</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
+    <Fill>{TEMPLATE_FILL}</Fill>
+    <Outline>{TEMPLATE_OUTLINE}</Outline>
     <Scale>1.000000</Scale>
     <Hash>{P3D_HASH}</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
@@ -39,6 +40,17 @@ const XML_BODY_TEMPLATE = `<Template>
     <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
     <Placement></Placement>
 </Template>`;
+
+const colorTemplates = {
+  defaultOutline: -16777216, // b lack
+  tree: -16744448, //dark green
+  bush: -8323328, // light green
+  clutter: -8323328, // light green
+  rocks: -8355712, // grey
+  military: -65536, // red
+  structures: -16777216, // black
+  water: -13816321, // blue
+};
 
 function parseP3dsForImport(filePath) {
   const data = readFileSync(filePath, "utf8");
@@ -114,10 +126,26 @@ function formateDate() {
   //   <Date>Mon Oct 28 17:56:41 2024</Date>;
   return `${weekday[rightNow.getDay()]} ${month[rightNow.getMonth()]} ${rightNow.getDate()} ${rightNow.toTimeString().split(" ")[0]} ${rightNow.getFullYear()}`;
 }
+function formatTemplateFill(filePath) {
+  const keys = Object.keys(colorTemplates);
+  for (let i = 0; i < keys.length; i++) {
+    const templateCategory = keys[i];
+    if (filePath.includes(templateCategory)) {
+      return colorTemplates[templateCategory];
+    }
+  }
+  return colorTemplates.bush; // default green color
+}
+
+function formatTemplateOutline(filePath) {
+  return colorTemplates.defaultOutline;
+}
 const today = formateDate();
 function buildTemplateLibraryString(templateName) {
   let copyOfXml = XML_LIBRARY_TEMPLATE;
   copyOfXml = copyOfXml.replace("{LIBRARY_NAME}", templateName);
+  copyOfXml = copyOfXml.replace("{TEMPLATE_FILL}", formatTemplateFill(templateName));
+  copyOfXml = copyOfXml.replace("{TEMPLATE_OUTLINE}", formatTemplateOutline(templateName));
   //   console.log(copyOfXml);
   return copyOfXml;
 }
@@ -138,6 +166,8 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
   const relativeFilePath = removeStaticFilePath(p3dFilePath);
   copyOfXml = copyOfXml.replace("{P3D_RELATIVE_FILE_PATH}", relativeFilePath);
   copyOfXml = copyOfXml.replace("{TIMESTAMP}", today);
+  copyOfXml = copyOfXml.replace("{TEMPLATE_OUTLINE}", formatTemplateOutline(p3dFilePath));
+  copyOfXml = copyOfXml.replace("{TEMPLATE_FILL}", formatTemplateFill(p3dFilePath));
   copyOfXml = copyOfXml.replace("{P3D_HASH}", hash++);
   //   console.log(copyOfXml);
   return copyOfXml;
@@ -167,8 +197,8 @@ function writeTemplateLibraryOutput(libraryData) {
   });
 }
 
-const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));
-// const jsonData = parseP3dsForImport(path.join("./test", "test_minified.json"));
+// const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));
+const jsonData = parseP3dsForImport(path.join("./test", "test_minified.json"));
 
 const templateLibraryData = formatP3dJsonForTemplateLibrary(jsonData);
 

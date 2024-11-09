@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_military_airfield" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_military_airfield" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
     <Name>airfield_hangar_green</Name>
     <File>p:\dz\structures\military\airfield\airfield_hangar_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11134</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>airfield_radar_tall</Name>
     <File>p:\dz\structures\military\airfield\airfield_radar_tall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11135</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>airfield_servicehangar_l</Name>
     <File>p:\dz\structures\military\airfield\airfield_servicehangar_l.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11136</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>airfield_servicehangar_r</Name>
     <File>p:\dz\structures\military\airfield\airfield_servicehangar_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11137</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>mil_aircraftshelter</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11138</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>mil_aircraftshelter_door_l</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_door_l.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11139</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>mil_aircraftshelter_door_r</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_door_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11140</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>mil_aircraftshelter_grass_l</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_grass_l.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11141</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>mil_aircraftshelter_grass_r</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_grass_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11142</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>mil_airfield_hq</Name>
     <File>p:\dz\structures\military\airfield\mil_airfield_hq.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11143</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>mil_atc_big</Name>
     <File>p:\dz\structures\military\airfield\mil_atc_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11144</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>mil_atc_small</Name>
     <File>p:\dz\structures\military\airfield\mil_atc_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11145</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>mil_blastcover1</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11146</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>mil_blastcover1_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover1_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11147</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>mil_blastcover2</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11148</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>mil_blastcover2_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover2_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11149</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>mil_blastcover3</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11150</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>mil_blastcover3_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover3_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11151</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>mil_blastcover4</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11152</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>mil_blastcover4_grass_l</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover4_grass_l.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11153</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>mil_blastcover4_grass_r</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover4_grass_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11154</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>mil_radar_mobile1</Name>
     <File>p:\dz\structures\military\airfield\mil_radar_mobile1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11155</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>mil_radar_mobile2</Name>
     <File>p:\dz\structures\military\airfield\mil_radar_mobile2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11156</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>mil_radar_mobile3</Name>
     <File>p:\dz\structures\military\airfield\mil_radar_mobile3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11157</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>mil_reinforcedtank1</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11158</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>mil_reinforcedtank1_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank1_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11159</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>mil_reinforcedtank2</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11160</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>mil_reinforcedtank2_grass_l</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2_grass_l.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11161</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>mil_reinforcedtank2_grass_r</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2_grass_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11162</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>mil_reinforcedtank2_grass_top</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2_grass_top.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11163</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>fusebox_dupe_2</Name>
     <File>p:\dz\structures\military\airfield\proxy\fusebox.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11164</Hash>
@@ -1026,9 +1026,9 @@
 <Template>
     <Name>high_outlet</Name>
     <File>p:\dz\structures\military\airfield\proxy\high_outlet.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11165</Hash>
@@ -1059,9 +1059,9 @@
 <Template>
     <Name>high_outlet_c</Name>
     <File>p:\dz\structures\military\airfield\proxy\high_outlet_c.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11166</Hash>
@@ -1092,9 +1092,9 @@
 <Template>
     <Name>light_cone</Name>
     <File>p:\dz\structures\military\airfield\proxy\light_cone.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11167</Hash>
@@ -1125,9 +1125,9 @@
 <Template>
     <Name>light_quad</Name>
     <File>p:\dz\structures\military\airfield\proxy\light_quad.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11168</Hash>
@@ -1158,9 +1158,9 @@
 <Template>
     <Name>mainframe</Name>
     <File>p:\dz\structures\military\airfield\proxy\mainframe.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11169</Hash>
@@ -1191,9 +1191,9 @@
 <Template>
     <Name>mil_radar_mobile_1_wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_1_wires.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11170</Hash>
@@ -1224,9 +1224,9 @@
 <Template>
     <Name>mil_radar_mobile_2_wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_2_wires.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11171</Hash>
@@ -1257,9 +1257,9 @@
 <Template>
     <Name>mil_radar_mobile_base</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_base.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11172</Hash>
@@ -1290,9 +1290,9 @@
 <Template>
     <Name>mil_radar_mobile_generator</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_generator.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11173</Hash>
@@ -1323,9 +1323,9 @@
 <Template>
     <Name>mil_radar_mobile_head</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_head.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11174</Hash>
@@ -1356,9 +1356,9 @@
 <Template>
     <Name>mil_radar_tall_connections</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_connections.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11175</Hash>
@@ -1389,9 +1389,9 @@
 <Template>
     <Name>mil_radar_tall_fuseboxs</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_fuseboxs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11176</Hash>
@@ -1422,9 +1422,9 @@
 <Template>
     <Name>mil_radar_tall_generator</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_generator.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11177</Hash>
@@ -1455,9 +1455,9 @@
 <Template>
     <Name>mil_radar_tall_lightbulb</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_lightbulb.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11178</Hash>
@@ -1488,9 +1488,9 @@
 <Template>
     <Name>mil_radar_tall_lightcover</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_lightcover.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11179</Hash>
@@ -1521,9 +1521,9 @@
 <Template>
     <Name>mil_radar_tall_lighttop</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_lighttop.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11180</Hash>
@@ -1554,9 +1554,9 @@
 <Template>
     <Name>mil_radar_tall_mainframepart1</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_mainframepart1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11181</Hash>
@@ -1587,9 +1587,9 @@
 <Template>
     <Name>mil_radar_tall_mainframepart2</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_mainframepart2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11182</Hash>
@@ -1620,9 +1620,9 @@
 <Template>
     <Name>mil_radar_tall_mainframepart3</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_mainframepart3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11183</Hash>
@@ -1653,9 +1653,9 @@
 <Template>
     <Name>mil_radar_tall_planks</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_planks.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11184</Hash>
@@ -1686,9 +1686,9 @@
 <Template>
     <Name>mil_radar_tall_radardish</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_radardish.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11185</Hash>
@@ -1719,9 +1719,9 @@
 <Template>
     <Name>mil_radar_tall_sheets</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_sheets.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11186</Hash>
@@ -1752,9 +1752,9 @@
 <Template>
     <Name>mil_radar_tall_stairs</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11187</Hash>
@@ -1785,9 +1785,9 @@
 <Template>
     <Name>mil_radar_tall_wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_wires.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11188</Hash>
@@ -1818,9 +1818,9 @@
 <Template>
     <Name>mil_reinforcedtank2_shelter1</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_reinforcedtank2_shelter1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11189</Hash>
@@ -1851,9 +1851,9 @@
 <Template>
     <Name>mil_reinforcedtank2_shelter2</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_reinforcedtank2_shelter2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11190</Hash>
@@ -1884,9 +1884,9 @@
 <Template>
     <Name>mil_servicehangar_detail</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_servicehangar_detail.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11191</Hash>
@@ -1917,9 +1917,9 @@
 <Template>
     <Name>mil_servicehangar_detail_r</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_servicehangar_detail_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11192</Hash>
@@ -1950,9 +1950,9 @@
 <Template>
     <Name>outlet_1</Name>
     <File>p:\dz\structures\military\airfield\proxy\outlet_1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11193</Hash>
@@ -1983,9 +1983,9 @@
 <Template>
     <Name>outlet_2</Name>
     <File>p:\dz\structures\military\airfield\proxy\outlet_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11194</Hash>
@@ -2016,9 +2016,9 @@
 <Template>
     <Name>proxy_atcbig_details1</Name>
     <File>p:\dz\structures\military\airfield\proxy\proxy_atcbig_details1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11195</Hash>
@@ -2049,9 +2049,9 @@
 <Template>
     <Name>proxy_atcdoors</Name>
     <File>p:\dz\structures\military\airfield\proxy\proxy_atcdoors.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11196</Hash>
@@ -2082,9 +2082,9 @@
 <Template>
     <Name>proxy_cables</Name>
     <File>p:\dz\structures\military\airfield\proxy\proxy_cables.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11197</Hash>
@@ -2115,9 +2115,9 @@
 <Template>
     <Name>switch_lights</Name>
     <File>p:\dz\structures\military\airfield\proxy\switch_lights.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11198</Hash>
@@ -2148,9 +2148,9 @@
 <Template>
     <Name>wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\wires.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11199</Hash>

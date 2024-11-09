@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_bliss_industrial_farms" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_bliss_industrial_farms" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>farm_hopper2</Name>
     <File>p:\dz\structures_bliss\industrial\farms\farm_hopper2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13192</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>farm_manurepile</Name>
     <File>p:\dz\structures_bliss\industrial\farms\farm_manurepile.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13193</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>farm_silagestorage</Name>
     <File>p:\dz\structures_bliss\industrial\farms\farm_silagestorage.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13194</Hash>

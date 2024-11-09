@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_misc" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_misc" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>lamp_ind</Name>
     <File>p:\dz\structures\industrial\misc\lamp_ind.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11006</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>lamp_rail</Name>
     <File>p:\dz\structures\industrial\misc\lamp_rail.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11007</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>misc_boardspack1</Name>
     <File>p:\dz\structures\industrial\misc\misc_boardspack1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11008</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>misc_boardspack2</Name>
     <File>p:\dz\structures\industrial\misc\misc_boardspack2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11009</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>misc_boardspack3</Name>
     <File>p:\dz\structures\industrial\misc\misc_boardspack3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11010</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>misc_coil</Name>
     <File>p:\dz\structures\industrial\misc\misc_coil.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11011</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>misc_concretepanels</Name>
     <File>p:\dz\structures\industrial\misc\misc_concretepanels.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11012</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>misc_concretepipe</Name>
     <File>p:\dz\structures\industrial\misc\misc_concretepipe.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11013</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>misc_concretepipe_gate</Name>
     <File>p:\dz\structures\industrial\misc\misc_concretepipe_gate.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11014</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>misc_drainage</Name>
     <File>p:\dz\structures\industrial\misc\misc_drainage.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11015</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>misc_gcontainer_big</Name>
     <File>p:\dz\structures\industrial\misc\misc_gcontainer_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11016</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>misc_haybale</Name>
     <File>p:\dz\structures\industrial\misc\misc_haybale.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11017</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>misc_haybale_decayed</Name>
     <File>p:\dz\structures\industrial\misc\misc_haybale_decayed.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11018</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>misc_pallet_dupe_2</Name>
     <File>p:\dz\structures\industrial\misc\misc_pallet.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11019</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>misc_pallets1_dupe_2</Name>
     <File>p:\dz\structures\industrial\misc\misc_pallets1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11020</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>misc_pallets2_dupe_2</Name>
     <File>p:\dz\structures\industrial\misc\misc_pallets2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11021</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>misc_pallets3_dupe_2</Name>
     <File>p:\dz\structures\industrial\misc\misc_pallets3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11022</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>misc_pipes_dupe_2</Name>
     <File>p:\dz\structures\industrial\misc\misc_pipes.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11023</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>misc_pipes_2</Name>
     <File>p:\dz\structures\industrial\misc\misc_pipes_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11024</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>misc_scaffolding</Name>
     <File>p:\dz\structures\industrial\misc\misc_scaffolding.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11025</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>misc_spotlight</Name>
     <File>p:\dz\structures\industrial\misc\misc_spotlight.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11026</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>misc_through_static</Name>
     <File>p:\dz\structures\industrial\misc\misc_through_static.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11027</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>misc_through_trailer</Name>
     <File>p:\dz\structures\industrial\misc\misc_through_trailer.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11028</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>misc_timbers1</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11029</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>misc_timbers2</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11030</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>misc_timbers3</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11031</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>misc_timbers4</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11032</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>misc_timbers_log1</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers_log1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11033</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>misc_timbers_log2</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers_log2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11034</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>misc_timbers_log3</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers_log3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11035</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>misc_timbers_log4</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers_log4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11036</Hash>
@@ -1026,9 +1026,9 @@
 <Template>
     <Name>misc_timbers_log5</Name>
     <File>p:\dz\structures\industrial\misc\misc_timbers_log5.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11037</Hash>
@@ -1059,9 +1059,9 @@
 <Template>
     <Name>misc_tirepile</Name>
     <File>p:\dz\structures\industrial\misc\misc_tirepile.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11038</Hash>
@@ -1092,9 +1092,9 @@
 <Template>
     <Name>misc_tirepile_group</Name>
     <File>p:\dz\structures\industrial\misc\misc_tirepile_group.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11039</Hash>
@@ -1125,9 +1125,9 @@
 <Template>
     <Name>misc_woodpile_forest1</Name>
     <File>p:\dz\structures\industrial\misc\misc_woodpile_forest1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11040</Hash>
@@ -1158,9 +1158,9 @@
 <Template>
     <Name>misc_woodpile_forest2</Name>
     <File>p:\dz\structures\industrial\misc\misc_woodpile_forest2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11041</Hash>
@@ -1191,9 +1191,9 @@
 <Template>
     <Name>misc_woodpile_forest3</Name>
     <File>p:\dz\structures\industrial\misc\misc_woodpile_forest3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11042</Hash>
@@ -1224,9 +1224,9 @@
 <Template>
     <Name>misc_through_static_water</Name>
     <File>p:\dz\structures\industrial\misc\proxy\misc_through_static_water.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11043</Hash>

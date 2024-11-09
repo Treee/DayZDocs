@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_furniture_bathroom" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_furniture_bathroom" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>bathroom_sign_m</Name>
     <File>p:\dz\structures\furniture\bathroom\bathroom_sign_m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10597</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>bathroom_sign_w</Name>
     <File>p:\dz\structures\furniture\bathroom\bathroom_sign_w.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10598</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>basin_a</Name>
     <File>p:\dz\structures\furniture\bathroom\basin_a\basin_a.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10599</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>bath</Name>
     <File>p:\dz\structures\furniture\bathroom\bath\bath.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10600</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>sink</Name>
     <File>p:\dz\structures\furniture\bathroom\sink\sink.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10601</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>toilet_b_02</Name>
     <File>p:\dz\structures\furniture\bathroom\toilet_b_02\toilet_b_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10602</Hash>

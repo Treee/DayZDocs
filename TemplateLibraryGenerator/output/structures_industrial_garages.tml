@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_garages" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_garages" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>garage_big</Name>
     <File>p:\dz\structures\industrial\garages\garage_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10940</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>garage_office</Name>
     <File>p:\dz\structures\industrial\garages\garage_office.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10941</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>garage_row_big</Name>
     <File>p:\dz\structures\industrial\garages\garage_row_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10942</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>garage_row_small</Name>
     <File>p:\dz\structures\industrial\garages\garage_row_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10943</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>garage_small</Name>
     <File>p:\dz\structures\industrial\garages\garage_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10944</Hash>

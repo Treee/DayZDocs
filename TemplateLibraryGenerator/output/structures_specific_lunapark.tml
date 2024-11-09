@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_specific_lunapark" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_specific_lunapark" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>lunapark_autodrome</Name>
     <File>p:\dz\structures\specific\lunapark\lunapark_autodrome.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12840</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>lunapark_bumper_car</Name>
     <File>p:\dz\structures\specific\lunapark\lunapark_bumper_car.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12841</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>lunapark_carousel_small</Name>
     <File>p:\dz\structures\specific\lunapark\lunapark_carousel_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12842</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>lunapark_carousel_swan</Name>
     <File>p:\dz\structures\specific\lunapark\lunapark_carousel_swan.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12843</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>lunapark_ferris_wheel</Name>
     <File>p:\dz\structures\specific\lunapark\lunapark_ferris_wheel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12844</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>lunapark_shooting_gallery</Name>
     <File>p:\dz\structures\specific\lunapark\lunapark_shooting_gallery.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12845</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>ferris_wheel_cab</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\ferris_wheel_cab.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12846</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>ferris_wheel_wheel</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\ferris_wheel_wheel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12847</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>lunapark_autodrome_roof_lod1_lod2</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\lunapark_autodrome_roof_lod1_lod2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12848</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>lunapark_autodrome_scafolding_lod1</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\lunapark_autodrome_scafolding_lod1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12849</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>swan_black_cab</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\swan_black_cab.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12850</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>swan_carousel_spindle</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\swan_carousel_spindle.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12851</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>swan_carousel_stairs</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\swan_carousel_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12852</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>swan_carousel_trailer</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\swan_carousel_trailer.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12853</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>swan_white_cab</Name>
     <File>p:\dz\structures\specific\lunapark\proxy\swan_white_cab.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12854</Hash>

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_construction" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_construction" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>construction_building</Name>
     <File>p:\dz\structures\industrial\construction\construction_building.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10886</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>construction_crane</Name>
     <File>p:\dz\structures\industrial\construction\construction_crane.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10887</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>construction_house1</Name>
     <File>p:\dz\structures\industrial\construction\construction_house1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10888</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>construction_house2</Name>
     <File>p:\dz\structures\industrial\construction\construction_house2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10889</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>a_buildingwip_proxy</Name>
     <File>p:\dz\structures\industrial\construction\proxy\a_buildingwip_proxy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10890</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>barricade_proxy</Name>
     <File>p:\dz\structures\industrial\construction\proxy\barricade_proxy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10891</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>cihly1</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10892</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>cihly2</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10893</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>cihly3</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10894</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>cihly4</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10895</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>koz</Name>
     <File>p:\dz\structures\industrial\construction\proxy\koz.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10896</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>pipe-big</Name>
     <File>p:\dz\structures\industrial\construction\proxy\pipe-big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10897</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>pipe-small</Name>
     <File>p:\dz\structures\industrial\construction\proxy\pipe-small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10898</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>ytong</Name>
     <File>p:\dz\structures\industrial\construction\proxy\ytong.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10899</Hash>

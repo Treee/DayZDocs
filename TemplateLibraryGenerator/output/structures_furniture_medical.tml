@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_furniture_medical" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_furniture_medical" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>medical_table</Name>
     <File>p:\dz\structures\furniture\medical\medical_table\medical_table.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10733</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>patient_monitor</Name>
     <File>p:\dz\structures\furniture\medical\patient_monitor\patient_monitor.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10734</Hash>

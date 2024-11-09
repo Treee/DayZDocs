@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_residential_schools" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_residential_schools" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>city_school</Name>
     <File>p:\dz\structures\residential\schools\city_school.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11684</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>school_details</Name>
     <File>p:\dz\structures\residential\schools\proxy\school_details.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11685</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>school_exterior_proxy</Name>
     <File>p:\dz\structures\residential\schools\proxy\school_exterior_proxy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11686</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>school_interior</Name>
     <File>p:\dz\structures\residential\schools\proxy\school_interior.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11687</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>school_sign</Name>
     <File>p:\dz\structures\residential\schools\proxy\school_sign.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11688</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>windows_dupe_4</Name>
     <File>p:\dz\structures\residential\schools\proxy\windows.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11689</Hash>

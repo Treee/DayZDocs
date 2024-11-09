@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_furniture_decoration" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_furniture_decoration" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>box_c</Name>
     <File>p:\dz\structures\furniture\decoration\box_c\box_c.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10667</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>box_c_multi</Name>
     <File>p:\dz\structures\furniture\decoration\box_c\box_c_multi.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10668</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>bucket</Name>
     <File>p:\dz\structures\furniture\decoration\bucket\bucket.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10669</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>carpet_big</Name>
     <File>p:\dz\structures\furniture\decoration\carpet_big\carpet_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10670</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>carpet_big_washedout</Name>
     <File>p:\dz\structures\furniture\decoration\carpet_big\carpet_big_washedout.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10671</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>flower_01</Name>
     <File>p:\dz\structures\furniture\decoration\flowers\flower_01.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10672</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>flower_01_brown</Name>
     <File>p:\dz\structures\furniture\decoration\flowers\flower_01_brown.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10673</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>flower_02</Name>
     <File>p:\dz\structures\furniture\decoration\flowers\flower_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10674</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>lekarnicka</Name>
     <File>p:\dz\structures\furniture\decoration\lekarnicka\lekarnicka.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10675</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>piano</Name>
     <File>p:\dz\structures\furniture\decoration\piano\piano.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10676</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>picture_a</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_a\picture_a.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10677</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>picture_a_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_a_02\picture_a_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10678</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>picture_a_03</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_a_03\picture_a_03.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10679</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>picture_a_04</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_a_04\picture_a_04.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10680</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>picture_a_05</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_a_05\picture_a_05.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10681</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>picture_b</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_b\picture_b.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10682</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>picture_b_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_b_02\picture_b_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10683</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>picture_c</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_c\picture_c.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10684</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>picture_c_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_c_02\picture_c_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10685</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>picture_d</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_d\picture_d.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10686</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>picture_d_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_d_02\picture_d_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10687</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>picture_e</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_e\picture_e.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10688</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>picture_e_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_e_02\picture_e_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10689</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>picture_f</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_f\picture_f.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10690</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>picture_f_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_f_02\picture_f_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10691</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>picture_g</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_g\picture_g.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10692</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>picture_g_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\picture_g_02\picture_g_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10693</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>wall_board</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\wall_board\wall_board.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10694</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>wall_board_02</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\wall_board_02\wall_board_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10695</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>wall_board_03</Name>
     <File>p:\dz\structures\furniture\decoration\wallboards\wall_board_03\wall_board_03.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10696</Hash>

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_wrecks_vehicles" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_wrecks_vehicles" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>wreck_baler</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_baler.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13086</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>wreck_bmp1</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_bmp1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13087</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>wreck_bmp1_noplacement</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_bmp1_noplacement.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13088</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>wreck_bmp2</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_bmp2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13089</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>wreck_brdm</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_brdm.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13090</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>wreck_bulldozer</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_bulldozer.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13091</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>wreck_caravan_mgreen</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_caravan_mgreen.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13092</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>wreck_caravan_mrust</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_caravan_mrust.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13093</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>wreck_caravan_wbrown</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_caravan_wbrown.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13094</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>wreck_caravan_wgreen</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_caravan_wgreen.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13095</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>wreck_decal_big</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_decal_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13096</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>wreck_decal_big_nolc</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_decal_big_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13097</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>wreck_decal_small1</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_decal_small1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13098</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>wreck_decal_small1_nolc</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_decal_small1_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13099</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>wreck_decal_small2</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_decal_small2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13100</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>wreck_decal_small2_nolc</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_decal_small2_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13101</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>wreck_digger</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_digger.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13102</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>wreck_harverster</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_harverster.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13103</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>wreck_harvester_head_trailer</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_harvester_head_trailer.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13104</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>wreck_hb01_aban1_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban1_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13105</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>wreck_hb01_aban1_green</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban1_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13106</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>wreck_hb01_aban1_police</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban1_police.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13107</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>wreck_hb01_aban1_white</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban1_white.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13108</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>wreck_hb01_aban2_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban2_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13109</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>wreck_hb01_aban2_green</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban2_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13110</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>wreck_hb01_aban2_police</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban2_police.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13111</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>wreck_hb01_aban2_white</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb01_aban2_white.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13112</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>wreck_hb02_aban1_black</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb02_aban1_black.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13113</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>wreck_hb02_aban1_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb02_aban1_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13114</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>wreck_hb02_aban1_red</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb02_aban1_red.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13115</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>wreck_hb02_aban2_black</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb02_aban2_black.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13116</Hash>
@@ -1026,9 +1026,9 @@
 <Template>
     <Name>wreck_hb02_aban2_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb02_aban2_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13117</Hash>
@@ -1059,9 +1059,9 @@
 <Template>
     <Name>wreck_hb02_aban2_red</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hb02_aban2_red.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13118</Hash>
@@ -1092,9 +1092,9 @@
 <Template>
     <Name>wreck_hmmwv</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_hmmwv.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13119</Hash>
@@ -1125,9 +1125,9 @@
 <Template>
     <Name>wreck_ikarus</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_ikarus.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13120</Hash>
@@ -1158,9 +1158,9 @@
 <Template>
     <Name>wreck_lada_green</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_lada_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13121</Hash>
@@ -1191,9 +1191,9 @@
 <Template>
     <Name>wreck_lada_red</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_lada_red.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13122</Hash>
@@ -1224,9 +1224,9 @@
 <Template>
     <Name>wreck_offroad02_aban1</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_offroad02_aban1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13123</Hash>
@@ -1257,9 +1257,9 @@
 <Template>
     <Name>wreck_offroad02_aban2</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_offroad02_aban2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13124</Hash>
@@ -1290,9 +1290,9 @@
 <Template>
     <Name>wreck_powgen</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_powgen.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13125</Hash>
@@ -1323,9 +1323,9 @@
 <Template>
     <Name>wreck_s1023_beige</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_s1023_beige.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13126</Hash>
@@ -1356,9 +1356,9 @@
 <Template>
     <Name>wreck_s1023_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_s1023_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13127</Hash>
@@ -1389,9 +1389,9 @@
 <Template>
     <Name>wreck_s120_red</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_s120_red.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13128</Hash>
@@ -1422,9 +1422,9 @@
 <Template>
     <Name>wreck_sed01_aban1_black</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban1_black.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13129</Hash>
@@ -1455,9 +1455,9 @@
 <Template>
     <Name>wreck_sed01_aban1_police</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban1_police.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13130</Hash>
@@ -1488,9 +1488,9 @@
 <Template>
     <Name>wreck_sed01_aban1_white</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban1_white.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13131</Hash>
@@ -1521,9 +1521,9 @@
 <Template>
     <Name>wreck_sed01_aban1_wine</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban1_wine.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13132</Hash>
@@ -1554,9 +1554,9 @@
 <Template>
     <Name>wreck_sed01_aban2_black</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban2_black.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13133</Hash>
@@ -1587,9 +1587,9 @@
 <Template>
     <Name>wreck_sed01_aban2_police</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban2_police.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13134</Hash>
@@ -1620,9 +1620,9 @@
 <Template>
     <Name>wreck_sed01_aban2_white</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban2_white.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13135</Hash>
@@ -1653,9 +1653,9 @@
 <Template>
     <Name>wreck_sed01_aban2_wine</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed01_aban2_wine.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13136</Hash>
@@ -1686,9 +1686,9 @@
 <Template>
     <Name>wreck_sed02_aban1_grey</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed02_aban1_grey.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13137</Hash>
@@ -1719,9 +1719,9 @@
 <Template>
     <Name>wreck_sed02_aban1_red</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed02_aban1_red.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13138</Hash>
@@ -1752,9 +1752,9 @@
 <Template>
     <Name>wreck_sed02_aban1_yellow</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed02_aban1_yellow.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13139</Hash>
@@ -1785,9 +1785,9 @@
 <Template>
     <Name>wreck_sed02_aban2_grey</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed02_aban2_grey.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13140</Hash>
@@ -1818,9 +1818,9 @@
 <Template>
     <Name>wreck_sed02_aban2_red</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed02_aban2_red.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13141</Hash>
@@ -1851,9 +1851,9 @@
 <Template>
     <Name>wreck_sed02_aban2_yellow</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_sed02_aban2_yellow.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13142</Hash>
@@ -1884,9 +1884,9 @@
 <Template>
     <Name>wreck_t72_chassis</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_t72_chassis.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13143</Hash>
@@ -1917,9 +1917,9 @@
 <Template>
     <Name>wreck_t72_turret</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_t72_turret.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13144</Hash>
@@ -1950,9 +1950,9 @@
 <Template>
     <Name>wreck_trailer_cistern</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_trailer_cistern.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13145</Hash>
@@ -1983,9 +1983,9 @@
 <Template>
     <Name>wreck_trailer_closed</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_trailer_closed.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13146</Hash>
@@ -2016,9 +2016,9 @@
 <Template>
     <Name>wreck_trailer_flat</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_trailer_flat.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13147</Hash>
@@ -2049,9 +2049,9 @@
 <Template>
     <Name>wreck_truck01_aban1_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban1_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13148</Hash>
@@ -2082,9 +2082,9 @@
 <Template>
     <Name>wreck_truck01_aban1_command</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban1_command.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13149</Hash>
@@ -2115,9 +2115,9 @@
 <Template>
     <Name>wreck_truck01_aban1_firetruck</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban1_firetruck.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13150</Hash>
@@ -2148,9 +2148,9 @@
 <Template>
     <Name>wreck_truck01_aban1_green</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban1_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13151</Hash>
@@ -2181,9 +2181,9 @@
 <Template>
     <Name>wreck_truck01_aban1_orange</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban1_orange.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13152</Hash>
@@ -2214,9 +2214,9 @@
 <Template>
     <Name>wreck_truck01_aban2_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban2_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13153</Hash>
@@ -2247,9 +2247,9 @@
 <Template>
     <Name>wreck_truck01_aban2_command</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban2_command.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13154</Hash>
@@ -2280,9 +2280,9 @@
 <Template>
     <Name>wreck_truck01_aban2_firetruck</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban2_firetruck.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13155</Hash>
@@ -2313,9 +2313,9 @@
 <Template>
     <Name>wreck_truck01_aban2_green</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban2_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13156</Hash>
@@ -2346,9 +2346,9 @@
 <Template>
     <Name>wreck_truck01_aban2_orange</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_truck01_aban2_orange.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13157</Hash>
@@ -2379,9 +2379,9 @@
 <Template>
     <Name>wreck_uaz</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_uaz.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13158</Hash>
@@ -2412,9 +2412,9 @@
 <Template>
     <Name>wreck_ural</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_ural.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13159</Hash>
@@ -2445,9 +2445,9 @@
 <Template>
     <Name>wreck_v3s</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_v3s.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13160</Hash>
@@ -2478,9 +2478,9 @@
 <Template>
     <Name>wreck_volha_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_volha_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13161</Hash>
@@ -2511,9 +2511,9 @@
 <Template>
     <Name>wreck_volha_grey</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_volha_grey.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13162</Hash>
@@ -2544,9 +2544,9 @@
 <Template>
     <Name>wreck_volha_police</Name>
     <File>p:\dz\structures\wrecks\vehicles\wreck_volha_police.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13163</Hash>
@@ -2577,9 +2577,9 @@
 <Template>
     <Name>police_beacon</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\police_beacon.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13164</Hash>
@@ -2610,9 +2610,9 @@
 <Template>
     <Name>rubble_glass_dupe_3</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\rubble_glass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13165</Hash>
@@ -2643,9 +2643,9 @@
 <Template>
     <Name>truck_01_2_lod1parts</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_2_lod1parts.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13166</Hash>
@@ -2676,9 +2676,9 @@
 <Template>
     <Name>truck_01_2_lod1parts_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_2_lod1parts_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13167</Hash>
@@ -2709,9 +2709,9 @@
 <Template>
     <Name>truck_01_2_lod1parts_fire</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_2_lod1parts_fire.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13168</Hash>
@@ -2742,9 +2742,9 @@
 <Template>
     <Name>truck_01_2_lod1parts_orange</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_2_lod1parts_orange.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13169</Hash>
@@ -2775,9 +2775,9 @@
 <Template>
     <Name>truck_01_aban_1_lod1parts2_fire</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_aban_1_lod1parts2_fire.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13170</Hash>
@@ -2808,9 +2808,9 @@
 <Template>
     <Name>truck_01_aban_1_lod1parts_fire</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_aban_1_lod1parts_fire.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13171</Hash>
@@ -2841,9 +2841,9 @@
 <Template>
     <Name>truck_01_lod1parts</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_lod1parts.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13172</Hash>
@@ -2874,9 +2874,9 @@
 <Template>
     <Name>truck_01_lod1parts_blue</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_lod1parts_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13173</Hash>
@@ -2907,9 +2907,9 @@
 <Template>
     <Name>truck_01_lod1parts_orange</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\truck_01_lod1parts_orange.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13174</Hash>
@@ -2940,9 +2940,9 @@
 <Template>
     <Name>wreck_harvester_head</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\wreck_harvester_head.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13175</Hash>
@@ -2973,9 +2973,9 @@
 <Template>
     <Name>wreck_offroad02_aban1_proxy</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\wreck_offroad02_aban1_proxy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13176</Hash>
@@ -3006,9 +3006,9 @@
 <Template>
     <Name>wreck_offroad02_aban1_proxy2</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\wreck_offroad02_aban1_proxy2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13177</Hash>
@@ -3039,9 +3039,9 @@
 <Template>
     <Name>wreck_offroad02_aban2_proxy</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\wreck_offroad02_aban2_proxy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13178</Hash>
@@ -3072,9 +3072,9 @@
 <Template>
     <Name>wreck_offroad02_aban2_proxy2</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\wreck_offroad02_aban2_proxy2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13179</Hash>
@@ -3105,9 +3105,9 @@
 <Template>
     <Name>wreck_trailer_closed_base</Name>
     <File>p:\dz\structures\wrecks\vehicles\proxy\wreck_trailer_closed_base.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13180</Hash>

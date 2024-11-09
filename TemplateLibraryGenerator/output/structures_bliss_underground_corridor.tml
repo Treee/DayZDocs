@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_bliss_underground_corridor" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_bliss_underground_corridor" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>underground_corridor_connector</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_connector.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13901</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>underground_corridor_connector_inv</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_connector_inv.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13902</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>underground_corridor_main_both</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_both.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13903</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>underground_corridor_main_gate_l</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_gate_l.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13904</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>underground_corridor_main_gate_r</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_gate_r.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13905</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>underground_corridor_main_left</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_left.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13906</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>underground_corridor_main_right</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_right.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13907</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>underground_corridor_connector_accessories</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_accessories.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13908</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>underground_corridor_connector_accessories_inv</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_accessories_inv.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13909</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>underground_corridor_connector_waterpipe</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_waterpipe.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13910</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>underground_corridor_connector_waterpipe_inv</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_waterpipe_inv.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13911</Hash>

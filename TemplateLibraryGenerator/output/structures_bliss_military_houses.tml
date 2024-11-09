@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_bliss_military_houses" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_bliss_military_houses" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
     <Name>mil_controltower</Name>
     <File>p:\dz\structures_bliss\military\houses\mil_controltower.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13275</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>mil_guardbox_brown</Name>
     <File>p:\dz\structures_bliss\military\houses\mil_guardbox_brown.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13276</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>mil_guardbox_green</Name>
     <File>p:\dz\structures_bliss\military\houses\mil_guardbox_green.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13277</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>mil_guardbox_smooth</Name>
     <File>p:\dz\structures_bliss\military\houses\mil_guardbox_smooth.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13278</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>mil_guardhouse3</Name>
     <File>p:\dz\structures_bliss\military\houses\mil_guardhouse3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13279</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>mil_controltower_acc</Name>
     <File>p:\dz\structures_bliss\military\houses\proxy\mil_controltower_acc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13280</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>mil_enoch_map</Name>
     <File>p:\dz\structures_bliss\military\houses\proxy\mil_enoch_map.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13281</Hash>

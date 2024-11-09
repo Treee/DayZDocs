@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_specific_castles" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_specific_castles" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>castle_bastion</Name>
     <File>p:\dz\structures\specific\castles\castle_bastion.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12737</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>castle_bastion_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_bastion_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12738</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>castle_bergfrit</Name>
     <File>p:\dz\structures\specific\castles\castle_bergfrit.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12739</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>castle_bergfrit2</Name>
     <File>p:\dz\structures\specific\castles\castle_bergfrit2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12740</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>castle_donjon</Name>
     <File>p:\dz\structures\specific\castles\castle_donjon.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12741</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>castle_gate</Name>
     <File>p:\dz\structures\specific\castles\castle_gate.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12742</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>castle_stairs</Name>
     <File>p:\dz\structures\specific\castles\castle_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12743</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>castle_stairs_bottom_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_stairs_bottom_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12744</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>castle_stairs_middle_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_stairs_middle_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12745</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>castle_stairs_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_stairs_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12746</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>castle_stairs_top_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_stairs_top_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12747</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>castle_wall1_20</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_20.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12748</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>castle_wall1_20_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_20_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12749</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>castle_wall1_20_turn</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_20_turn.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12750</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>castle_wall1_20_turn_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_20_turn_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12751</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>castle_wall1_corner1</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_corner1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12752</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>castle_wall1_corner1_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_corner1_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12753</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>castle_wall1_corner2</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_corner2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12754</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>castle_wall1_corner2_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_corner2_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12755</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>castle_wall1_end1</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_end1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12756</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>castle_wall1_end1_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_end1_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12757</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>castle_wall1_end2</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_end2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12758</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>castle_wall1_end2_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall1_end2_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12759</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>castle_wall2_30</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_30.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12760</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>castle_wall2_30_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_30_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12761</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>castle_wall2_corner1</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_corner1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12762</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>castle_wall2_corner1_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_corner1_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12763</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>castle_wall2_corner2</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_corner2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12764</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>castle_wall2_corner2_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_corner2_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12765</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>castle_wall2_end1</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_end1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12766</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>castle_wall2_end1_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_end1_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12767</Hash>
@@ -1026,9 +1026,9 @@
 <Template>
     <Name>castle_wall2_end2</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_end2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12768</Hash>
@@ -1059,9 +1059,9 @@
 <Template>
     <Name>castle_wall2_end2_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_wall2_end2_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12769</Hash>
@@ -1092,9 +1092,9 @@
 <Template>
     <Name>castle_walls_10</Name>
     <File>p:\dz\structures\specific\castles\castle_walls_10.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12770</Hash>
@@ -1125,9 +1125,9 @@
 <Template>
     <Name>castle_walls_10_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_walls_10_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12771</Hash>
@@ -1158,9 +1158,9 @@
 <Template>
     <Name>castle_walls_5_d</Name>
     <File>p:\dz\structures\specific\castles\castle_walls_5_d.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12772</Hash>
@@ -1191,9 +1191,9 @@
 <Template>
     <Name>castle_walls_5_d_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_walls_5_d_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12773</Hash>
@@ -1224,9 +1224,9 @@
 <Template>
     <Name>castle_walls_end</Name>
     <File>p:\dz\structures\specific\castles\castle_walls_end.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12774</Hash>
@@ -1257,9 +1257,9 @@
 <Template>
     <Name>castle_walls_end_nolc</Name>
     <File>p:\dz\structures\specific\castles\castle_walls_end_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12775</Hash>

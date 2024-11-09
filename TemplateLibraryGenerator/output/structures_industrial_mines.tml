@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_mines" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_mines" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>mine_building</Name>
     <File>p:\dz\structures\industrial\mines\mine_building.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10990</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>mine_conveyer1_10</Name>
     <File>p:\dz\structures\industrial\mines\mine_conveyer1_10.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10991</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>mine_conveyer1_begin</Name>
     <File>p:\dz\structures\industrial\mines\mine_conveyer1_begin.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10992</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>mine_conveyer1_endbuild</Name>
     <File>p:\dz\structures\industrial\mines\mine_conveyer1_endbuild.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10993</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>mine_conveyer2_build</Name>
     <File>p:\dz\structures\industrial\mines\mine_conveyer2_build.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10994</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>mine_heap</Name>
     <File>p:\dz\structures\industrial\mines\mine_heap.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10995</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>mine_hopper_build</Name>
     <File>p:\dz\structures\industrial\mines\mine_hopper_build.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10996</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>mine_hopper_build_nolc</Name>
     <File>p:\dz\structures\industrial\mines\mine_hopper_build_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10997</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>mine_rail</Name>
     <File>p:\dz\structures\industrial\mines\mine_rail.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10998</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>mine_rail_end</Name>
     <File>p:\dz\structures\industrial\mines\mine_rail_end.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10999</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>mine_rail_switch</Name>
     <File>p:\dz\structures\industrial\mines\mine_rail_switch.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11000</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>mine_rail_tram</Name>
     <File>p:\dz\structures\industrial\mines\mine_rail_tram.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11001</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>mine_tunnel</Name>
     <File>p:\dz\structures\industrial\mines\mine_tunnel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11002</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>ind_coltan_conv1_end_add_ep1</Name>
     <File>p:\dz\structures\industrial\mines\proxy\ind_coltan_conv1_end_add_ep1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11003</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>ind_coltan_conv2_add_ep1</Name>
     <File>p:\dz\structures\industrial\mines\proxy\ind_coltan_conv2_add_ep1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11004</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>ind_coltan_hopper_add_ep1</Name>
     <File>p:\dz\structures\industrial\mines\proxy\ind_coltan_hopper_add_ep1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11005</Hash>

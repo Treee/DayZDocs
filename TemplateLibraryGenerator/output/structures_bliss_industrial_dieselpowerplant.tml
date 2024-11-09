@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_bliss_industrial_dieselpowerplant" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_bliss_industrial_dieselpowerplant" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>dieselpowerplant_building</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_building.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13182</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>dieselpowerplant_cooling</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_cooling.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13183</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>dieselpowerplant_tank_big</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_tank_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13184</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>dieselpowerplant_tank_small</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_tank_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13185</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>dieselpowerplant_transformer</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_transformer.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13186</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>dieselpowerplant_building_accessories_1</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13187</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>dieselpowerplant_building_accessories_2</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13188</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>dieselpowerplant_building_accessories_3</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13189</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>dieselpowerplant_building_accessories_4</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13190</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>dieselpowerplant_cooling_accessories</Name>
     <File>p:\dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_cooling_accessories.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13191</Hash>

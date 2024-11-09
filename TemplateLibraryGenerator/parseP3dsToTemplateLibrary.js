@@ -42,7 +42,7 @@ const XML_BODY_TEMPLATE = `<Template>
 </Template>`;
 
 const colorTemplates = {
-  defaultOutline: -16777216, // b lack
+  defaultOutline: -16777216, // black
   tree: -16744448, //dark green
   bush: -8323328, // light green
   clutter: -8323328, // light green
@@ -51,6 +51,8 @@ const colorTemplates = {
   structures: -16777216, // black
   water: -13816321, // blue
 };
+
+const allP3ds = [];
 
 function parseP3dsForImport(filePath) {
   const data = readFileSync(filePath, "utf8");
@@ -170,6 +172,7 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
   copyOfXml = copyOfXml.replace("{TEMPLATE_FILL}", formatTemplateFill(p3dFilePath));
   copyOfXml = copyOfXml.replace("{P3D_HASH}", hash++);
   //   console.log(copyOfXml);
+  allP3ds.push(p3DName);
   return copyOfXml;
 }
 
@@ -197,9 +200,24 @@ function writeTemplateLibraryOutput(libraryData) {
   });
 }
 
-// const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));
-const jsonData = parseP3dsForImport(path.join("./test", "test_minified.json"));
+function writeAllP3dsOutput(p3ds, sortAlphabetically) {
+  let fileName = "aaOneOfEverything";
+  if (sortAlphabetically) {
+    p3ds.sort((a, b) => a.localeCompare(b));
+    fileName = fileName.concat("_alphabetical");
+  }
+  let allValues = "";
+  p3ds.forEach((p3d) => {
+    allValues = allValues.concat('"').concat(p3d).concat('",\n');
+  });
+  writeFileSync(`./output/${fileName}.txt`, allValues, "utf8");
+}
+
+const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));
+// const jsonData = parseP3dsForImport(path.join("./test", "test_minified.json"));
 
 const templateLibraryData = formatP3dJsonForTemplateLibrary(jsonData);
 
 writeTemplateLibraryOutput(templateLibraryData);
+writeAllP3dsOutput(allP3ds, false);
+writeAllP3dsOutput(allP3ds, true);

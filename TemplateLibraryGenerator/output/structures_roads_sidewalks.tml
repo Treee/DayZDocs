@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_roads_sidewalks" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_roads_sidewalks" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>sidewalk1_10m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_10m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11962</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>sidewalk1_1m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_1m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11963</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>sidewalk1_5m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_5m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11964</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>sidewalk1_corner</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_corner.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11965</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>sidewalk1_end</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_end.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11966</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>sidewalk1_tcross</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_tcross.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11967</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>sidewalk1_turn_10deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_10deg.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11968</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>sidewalk1_turn_20deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_20deg.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11969</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>sidewalk1_turn_30deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_30deg.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11970</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>sidewalk1_turn_5deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_5deg.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11971</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>sidewalk2_1m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk2_1m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11972</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>sidewalk2_5m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk2_5m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11973</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>sidewalk3_border</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_border.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11974</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>sidewalk3_border_nolc</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_border_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11975</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>sidewalk3_narrow_12m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_narrow_12m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11976</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>sidewalk3_narrow_4m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_narrow_4m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11977</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>sidewalk3_narrow_corner</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_narrow_corner.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11978</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>sidewalk3_wideb_4m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wideb_4m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11979</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>sidewalk3_wide_12m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wide_12m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11980</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>sidewalk3_wide_4m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wide_4m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11981</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>sidewalk3_wide_corner</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wide_corner.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11982</Hash>

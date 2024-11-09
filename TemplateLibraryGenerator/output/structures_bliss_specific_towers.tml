@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_bliss_specific_towers" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_bliss_specific_towers" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>tower_tc5</Name>
     <File>p:\dz\structures_bliss\specific\towers\tower_tc5.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13894</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>tower_tc6</Name>
     <File>p:\dz\structures_bliss\specific\towers\tower_tc6.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13895</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>transmitter_box</Name>
     <File>p:\dz\structures_bliss\specific\towers\transmitter_box.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13896</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>transmitter_small1</Name>
     <File>p:\dz\structures_bliss\specific\towers\transmitter_small1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13897</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>transmitter_small2</Name>
     <File>p:\dz\structures_bliss\specific\towers\transmitter_small2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13898</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>tower_tc6_ladder</Name>
     <File>p:\dz\structures_bliss\specific\towers\proxy\tower_tc6_ladder.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13899</Hash>

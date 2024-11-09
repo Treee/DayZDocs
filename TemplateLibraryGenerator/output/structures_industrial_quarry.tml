@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_quarry" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_quarry" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>quarry_conveyer</Name>
     <File>p:\dz\structures\industrial\quarry\quarry_conveyer.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11109</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>quarry_conveyerlong</Name>
     <File>p:\dz\structures\industrial\quarry\quarry_conveyerlong.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11110</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>quarry_hammermill</Name>
     <File>p:\dz\structures\industrial\quarry\quarry_hammermill.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11111</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>quarry_main</Name>
     <File>p:\dz\structures\industrial\quarry\quarry_main.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11112</Hash>

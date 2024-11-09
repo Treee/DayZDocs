@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_ruins" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_ruins" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>craterlong_02</Name>
     <File>p:\dz\structures\ruins\craterlong_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11989</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>rubble_bricks1</Name>
     <File>p:\dz\structures\ruins\rubble_bricks1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11990</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>rubble_bricks2</Name>
     <File>p:\dz\structures\ruins\rubble_bricks2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11991</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>rubble_bricks3</Name>
     <File>p:\dz\structures\ruins\rubble_bricks3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11992</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>rubble_concrete1</Name>
     <File>p:\dz\structures\ruins\rubble_concrete1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11993</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>rubble_concrete2</Name>
     <File>p:\dz\structures\ruins\rubble_concrete2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11994</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>rubble_concrete3</Name>
     <File>p:\dz\structures\ruins\rubble_concrete3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11995</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>rubble_dirtpile_large</Name>
     <File>p:\dz\structures\ruins\rubble_dirtpile_large.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11996</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>rubble_dirtpile_medium1</Name>
     <File>p:\dz\structures\ruins\rubble_dirtpile_medium1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11997</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>rubble_dirtpile_medium2</Name>
     <File>p:\dz\structures\ruins\rubble_dirtpile_medium2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11998</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>rubble_dirtpile_small</Name>
     <File>p:\dz\structures\ruins\rubble_dirtpile_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11999</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>rubble_glass_dupe_2</Name>
     <File>p:\dz\structures\ruins\rubble_glass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12000</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>rubble_metal1</Name>
     <File>p:\dz\structures\ruins\rubble_metal1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12001</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>rubble_metal2</Name>
     <File>p:\dz\structures\ruins\rubble_metal2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12002</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>rubble_metal3</Name>
     <File>p:\dz\structures\ruins\rubble_metal3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12003</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>rubble_rocks1</Name>
     <File>p:\dz\structures\ruins\rubble_rocks1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12004</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>rubble_rocks2</Name>
     <File>p:\dz\structures\ruins\rubble_rocks2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12005</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>rubble_wood1</Name>
     <File>p:\dz\structures\ruins\rubble_wood1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12006</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>rubble_wood2</Name>
     <File>p:\dz\structures\ruins\rubble_wood2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12007</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>rubble_wood3</Name>
     <File>p:\dz\structures\ruins\rubble_wood3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12008</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>ruin_chimney</Name>
     <File>p:\dz\structures\ruins\ruin_chimney.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12009</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>ruin_church</Name>
     <File>p:\dz\structures\ruins\ruin_church.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12010</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>ruin_corner1</Name>
     <File>p:\dz\structures\ruins\ruin_corner1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12011</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>ruin_corner2</Name>
     <File>p:\dz\structures\ruins\ruin_corner2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12012</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>ruin_doorwall</Name>
     <File>p:\dz\structures\ruins\ruin_doorwall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12013</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>ruin_houseblock_corner_total</Name>
     <File>p:\dz\structures\ruins\ruin_houseblock_corner_total.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12014</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>ruin_houseblock_half</Name>
     <File>p:\dz\structures\ruins\ruin_houseblock_half.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12015</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>ruin_houseblock_total</Name>
     <File>p:\dz\structures\ruins\ruin_houseblock_total.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12016</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>ruin_house_total</Name>
     <File>p:\dz\structures\ruins\ruin_house_total.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12017</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>ruin_rubble</Name>
     <File>p:\dz\structures\ruins\ruin_rubble.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12018</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>ruin_wall</Name>
     <File>p:\dz\structures\ruins\ruin_wall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12019</Hash>

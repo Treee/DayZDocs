@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_coalplant" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_coalplant" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>coalplant_conveyor</Name>
     <File>p:\dz\structures\industrial\coalplant\coalplant_conveyor.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10877</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>coalplant_loadinghouse</Name>
     <File>p:\dz\structures\industrial\coalplant\coalplant_loadinghouse.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10878</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>coalplant_main</Name>
     <File>p:\dz\structures\industrial\coalplant\coalplant_main.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10879</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>coalplant_main_airconduct</Name>
     <File>p:\dz\structures\industrial\coalplant\proxy\coalplant_main_airconduct.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10880</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>coalplant_main_ext_details</Name>
     <File>p:\dz\structures\industrial\coalplant\proxy\coalplant_main_ext_details.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10881</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>coalplant_main_ext_details_2</Name>
     <File>p:\dz\structures\industrial\coalplant\proxy\coalplant_main_ext_details_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10882</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>coalplant_main_ext_stairs</Name>
     <File>p:\dz\structures\industrial\coalplant\proxy\coalplant_main_ext_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10883</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>coalplant_main_int_stairs</Name>
     <File>p:\dz\structures\industrial\coalplant\proxy\coalplant_main_int_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10884</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>coalplant_main_windows</Name>
     <File>p:\dz\structures\industrial\coalplant\proxy\coalplant_main_windows.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10885</Hash>

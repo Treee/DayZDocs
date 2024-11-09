@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_specific_prison" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_specific_prison" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>prison_main</Name>
     <File>p:\dz\structures\specific\prison\prison_main.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12855</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>prison_side</Name>
     <File>p:\dz\structures\specific\prison\prison_side.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12856</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>prison_wall_large</Name>
     <File>p:\dz\structures\specific\prison\prison_wall_large.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12857</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>prison_wall_small</Name>
     <File>p:\dz\structures\specific\prison\prison_wall_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12858</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>prison_maincastle_bars</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_maincastle_bars.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12859</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>prison_maincastle_barsdoors</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_maincastle_barsdoors.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12860</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>prison_maincastle_celldoors</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_maincastle_celldoors.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12861</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>prison_maincastle_doorframes</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_maincastle_doorframes.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12862</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>prison_maincastle_windows</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_maincastle_windows.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12863</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>prison_maincastle_windows_02</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_maincastle_windows_02.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12864</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>prison_main_int_stairs</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_main_int_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12865</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>prison_shadow_interior</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_shadow_interior.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12866</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>prison_sidebuilding_windowsmall</Name>
     <File>p:\dz\structures\specific\prison\proxy\prison_sidebuilding_windowsmall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12867</Hash>

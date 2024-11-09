@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_bliss_underground_stairs" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_bliss_underground_stairs" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>underground_stairs_block</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13921</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>underground_stairs_block_corridor</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block_corridor.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13922</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>underground_stairs_block_corridor_nodoor</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block_corridor_nodoor.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13923</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>underground_stairs_block_terminator</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block_terminator.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13924</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>underground_stairs_collapsed</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_collapsed.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13925</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>underground_stairs_exit</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_exit.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13926</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>underground_stairs_start</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_start.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13927</Hash>

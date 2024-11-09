@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_wrecks_ships" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_wrecks_ships" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>boat_small1</Name>
     <File>p:\dz\structures\wrecks\ships\boat_small1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13052</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>boat_small2</Name>
     <File>p:\dz\structures\wrecks\ships\boat_small2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13053</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>boat_small3</Name>
     <File>p:\dz\structures\wrecks\ships\boat_small3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13054</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>ship_big_backa</Name>
     <File>p:\dz\structures\wrecks\ships\ship_big_backa.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13055</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>ship_big_backb</Name>
     <File>p:\dz\structures\wrecks\ships\ship_big_backb.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13056</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>ship_big_castle</Name>
     <File>p:\dz\structures\wrecks\ships\ship_big_castle.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13057</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>ship_big_fronta</Name>
     <File>p:\dz\structures\wrecks\ships\ship_big_fronta.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13058</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>ship_big_frontb</Name>
     <File>p:\dz\structures\wrecks\ships\ship_big_frontb.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13059</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>ship_big_lifeboat</Name>
     <File>p:\dz\structures\wrecks\ships\ship_big_lifeboat.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13060</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>ship_medium_back</Name>
     <File>p:\dz\structures\wrecks\ships\ship_medium_back.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13061</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>ship_medium_front</Name>
     <File>p:\dz\structures\wrecks\ships\ship_medium_front.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13062</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>abandoned_ship_controlpanel</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\abandoned_ship_controlpanel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13063</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>abandoned_ship_doors</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\abandoned_ship_doors.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13064</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>abandoned_ship_lifebuoy</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\abandoned_ship_lifebuoy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13065</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>abandoned_ship_raft</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\abandoned_ship_raft.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13066</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>anchor_winch</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\anchor_winch.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13067</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>aship_armybed</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\aship_armybed.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13068</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>aship_castle_doors</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\aship_castle_doors.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13069</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>aship_int_piping_1</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\aship_int_piping_1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13070</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>aship_int_piping_2</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\aship_int_piping_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13071</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>beams_back_a</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\beams_back_a.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13072</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>beams_back_b</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\beams_back_b.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13073</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>beams_castle</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\beams_castle.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13074</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>beams_front_a</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\beams_front_a.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13075</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>beams_front_b</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\beams_front_b.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13076</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>covers_back_a</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\covers_back_a.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13077</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>covers_front_b</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\covers_front_b.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13078</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>crane_winch</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\crane_winch.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13079</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>life_boat</Name>
     <File>p:\dz\structures\wrecks\ships\proxy\life_boat.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13080</Hash>

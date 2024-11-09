@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_furniture_radar_equipment" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_furniture_radar_equipment" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>radar_electronics</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_electronics.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10737</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>radar_panel</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_panel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10738</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>radar_panel_flat</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_panel_flat.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10739</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>radar_rack</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_rack.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10740</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>radar_rack_quad</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_rack_quad.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10741</Hash>

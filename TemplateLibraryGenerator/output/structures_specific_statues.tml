@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_specific_statues" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_specific_statues" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>modelmonument_mig21</Name>
     <File>p:\dz\structures\specific\statues\modelmonument_mig21.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12879</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>model_plane_mig21</Name>
     <File>p:\dz\structures\specific\statues\model_plane_mig21.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12880</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>model_plane_mig21_35scale</Name>
     <File>p:\dz\structures\specific\statues\model_plane_mig21_35scale.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12881</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>monument_mig21</Name>
     <File>p:\dz\structures\specific\statues\monument_mig21.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12882</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>monument_soldiers</Name>
     <File>p:\dz\structures\specific\statues\monument_soldiers.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12883</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>monument_t34</Name>
     <File>p:\dz\structures\specific\statues\monument_t34.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12884</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>monument_wall</Name>
     <File>p:\dz\structures\specific\statues\monument_wall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12885</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>monument_war1</Name>
     <File>p:\dz\structures\specific\statues\monument_war1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12886</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>monument_war2</Name>
     <File>p:\dz\structures\specific\statues\monument_war2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12887</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>statue_general</Name>
     <File>p:\dz\structures\specific\statues\statue_general.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12888</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>model_plane_mig21_lines</Name>
     <File>p:\dz\structures\specific\statues\proxy\model_plane_mig21_lines.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12889</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>monument_plane_mig21</Name>
     <File>p:\dz\structures\specific\statues\proxy\monument_plane_mig21.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12890</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>monument_plane_mig21_lines</Name>
     <File>p:\dz\structures\specific\statues\proxy\monument_plane_mig21_lines.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12891</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>t34</Name>
     <File>p:\dz\structures\specific\statues\proxy\t34.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12892</Hash>

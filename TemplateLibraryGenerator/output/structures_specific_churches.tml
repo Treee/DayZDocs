@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_specific_churches" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_specific_churches" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>chapel</Name>
     <File>p:\dz\structures\specific\churches\chapel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12803</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>church1_yellow</Name>
     <File>p:\dz\structures\specific\churches\church1_yellow.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12804</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>church2_1</Name>
     <File>p:\dz\structures\specific\churches\church2_1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12805</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>church2_2</Name>
     <File>p:\dz\structures\specific\churches\church2_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12806</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>church3</Name>
     <File>p:\dz\structures\specific\churches\church3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12807</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>chapel_table_proxy</Name>
     <File>p:\dz\structures\specific\churches\proxy\chapel_table_proxy.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12808</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>chapel_table_proxy2</Name>
     <File>p:\dz\structures\specific\churches\proxy\chapel_table_proxy2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12809</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>church_02_woodwall</Name>
     <File>p:\dz\structures\specific\churches\proxy\church_02_woodwall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12810</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>church_03_interier</Name>
     <File>p:\dz\structures\specific\churches\proxy\church_03_interier.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12811</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>church_03_woodwall</Name>
     <File>p:\dz\structures\specific\churches\proxy\church_03_woodwall.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12812</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>church_03_woodwall_asset1</Name>
     <File>p:\dz\structures\specific\churches\proxy\church_03_woodwall_asset1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12813</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>church_cross_1a</Name>
     <File>p:\dz\structures\specific\churches\proxy\church_cross_1a.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12814</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>church_cross_1b</Name>
     <File>p:\dz\structures\specific\churches\proxy\church_cross_1b.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12815</Hash>

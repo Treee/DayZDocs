@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_residential_misc" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_residential_misc" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>garbage_bin</Name>
     <File>p:\dz\structures\residential\misc\garbage_bin.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11547</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>garbage_container</Name>
     <File>p:\dz\structures\residential\misc\garbage_container.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11548</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>garbage_container_glass</Name>
     <File>p:\dz\structures\residential\misc\garbage_container_glass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11549</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>garbage_container_paper</Name>
     <File>p:\dz\structures\residential\misc\garbage_container_paper.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11550</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>garbage_container_plastic</Name>
     <File>p:\dz\structures\residential\misc\garbage_container_plastic.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11551</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>garbage_groundsq_3m</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_3m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11552</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>garbage_groundsq_3m_nolc</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_3m_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11553</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>garbage_groundsq_5m</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_5m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11554</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>garbage_groundsq_5m_nolc</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_5m_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11555</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>garbage_ground_6m</Name>
     <File>p:\dz\structures\residential\misc\garbage_ground_6m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11556</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>garbage_ground_6m_nolc</Name>
     <File>p:\dz\structures\residential\misc\garbage_ground_6m_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11557</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>garbage_pile1</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11558</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>garbage_pile2</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11559</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>garbage_pile3</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11560</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>garbage_pile4</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11561</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>garbage_pile5</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile5.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11562</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>garbage_pile6</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile6.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11563</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>garden_plot</Name>
     <File>p:\dz\structures\residential\misc\garden_plot.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11564</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>ladder</Name>
     <File>p:\dz\structures\residential\misc\ladder.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11565</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>ladder_half</Name>
     <File>p:\dz\structures\residential\misc\ladder_half.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11566</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>lamp_city1</Name>
     <File>p:\dz\structures\residential\misc\lamp_city1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11567</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>lamp_city1_amp</Name>
     <File>p:\dz\structures\residential\misc\lamp_city1_amp.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11568</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>lamp_city2</Name>
     <File>p:\dz\structures\residential\misc\lamp_city2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11569</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>lamp_city3</Name>
     <File>p:\dz\structures\residential\misc\lamp_city3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11570</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>misc_advertcolumn</Name>
     <File>p:\dz\structures\residential\misc\misc_advertcolumn.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11571</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>misc_barricade</Name>
     <File>p:\dz\structures\residential\misc\misc_barricade.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11572</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>misc_bench1</Name>
     <File>p:\dz\structures\residential\misc\misc_bench1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11573</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>misc_bench2</Name>
     <File>p:\dz\structures\residential\misc\misc_bench2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11574</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>misc_bench3</Name>
     <File>p:\dz\structures\residential\misc\misc_bench3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11575</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>misc_bench4</Name>
     <File>p:\dz\structures\residential\misc\misc_bench4.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11576</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>misc_bench5</Name>
     <File>p:\dz\structures\residential\misc\misc_bench5.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11577</Hash>
@@ -1026,9 +1026,9 @@
 <Template>
     <Name>misc_boogieman</Name>
     <File>p:\dz\structures\residential\misc\misc_boogieman.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11578</Hash>
@@ -1059,9 +1059,9 @@
 <Template>
     <Name>misc_boundarystone</Name>
     <File>p:\dz\structures\residential\misc\misc_boundarystone.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11579</Hash>
@@ -1092,9 +1092,9 @@
 <Template>
     <Name>misc_boundarystone_plastic</Name>
     <File>p:\dz\structures\residential\misc\misc_boundarystone_plastic.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11580</Hash>
@@ -1125,9 +1125,9 @@
 <Template>
     <Name>misc_boundarystone_tube</Name>
     <File>p:\dz\structures\residential\misc\misc_boundarystone_tube.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11581</Hash>
@@ -1158,9 +1158,9 @@
 <Template>
     <Name>misc_boxwooden_dupe_2</Name>
     <File>p:\dz\structures\residential\misc\misc_boxwooden.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11582</Hash>
@@ -1191,9 +1191,9 @@
 <Template>
     <Name>misc_carousel</Name>
     <File>p:\dz\structures\residential\misc\misc_carousel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11583</Hash>
@@ -1224,9 +1224,9 @@
 <Template>
     <Name>misc_carousel_small</Name>
     <File>p:\dz\structures\residential\misc\misc_carousel_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11584</Hash>
@@ -1257,9 +1257,9 @@
 <Template>
     <Name>misc_chair_camp1</Name>
     <File>p:\dz\structures\residential\misc\misc_chair_camp1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11585</Hash>
@@ -1290,9 +1290,9 @@
 <Template>
     <Name>misc_chair_camp2</Name>
     <File>p:\dz\structures\residential\misc\misc_chair_camp2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11586</Hash>
@@ -1323,9 +1323,9 @@
 <Template>
     <Name>misc_chair_plastic</Name>
     <File>p:\dz\structures\residential\misc\misc_chair_plastic.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11587</Hash>
@@ -1356,9 +1356,9 @@
 <Template>
     <Name>misc_chickencoop</Name>
     <File>p:\dz\structures\residential\misc\misc_chickencoop.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11588</Hash>
@@ -1389,9 +1389,9 @@
 <Template>
     <Name>misc_crashbarrier</Name>
     <File>p:\dz\structures\residential\misc\misc_crashbarrier.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11589</Hash>
@@ -1422,9 +1422,9 @@
 <Template>
     <Name>misc_crashbarrier_nolc</Name>
     <File>p:\dz\structures\residential\misc\misc_crashbarrier_nolc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11590</Hash>
@@ -1455,9 +1455,9 @@
 <Template>
     <Name>misc_deerstand1</Name>
     <File>p:\dz\structures\residential\misc\misc_deerstand1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11591</Hash>
@@ -1488,9 +1488,9 @@
 <Template>
     <Name>misc_deerstand2</Name>
     <File>p:\dz\structures\residential\misc\misc_deerstand2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11592</Hash>
@@ -1521,9 +1521,9 @@
 <Template>
     <Name>misc_doghouse</Name>
     <File>p:\dz\structures\residential\misc\misc_doghouse.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11593</Hash>
@@ -1554,9 +1554,9 @@
 <Template>
     <Name>misc_feedrack</Name>
     <File>p:\dz\structures\residential\misc\misc_feedrack.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11594</Hash>
@@ -1587,9 +1587,9 @@
 <Template>
     <Name>misc_feedshack</Name>
     <File>p:\dz\structures\residential\misc\misc_feedshack.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11595</Hash>
@@ -1620,9 +1620,9 @@
 <Template>
     <Name>misc_football_gate</Name>
     <File>p:\dz\structures\residential\misc\misc_football_gate.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11596</Hash>
@@ -1653,9 +1653,9 @@
 <Template>
     <Name>misc_football_line</Name>
     <File>p:\dz\structures\residential\misc\misc_football_line.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11597</Hash>
@@ -1686,9 +1686,9 @@
 <Template>
     <Name>misc_football_line_corner</Name>
     <File>p:\dz\structures\residential\misc\misc_football_line_corner.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11598</Hash>
@@ -1719,9 +1719,9 @@
 <Template>
     <Name>misc_football_line_hcircle</Name>
     <File>p:\dz\structures\residential\misc\misc_football_line_hcircle.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11599</Hash>
@@ -1752,9 +1752,9 @@
 <Template>
     <Name>misc_fountain</Name>
     <File>p:\dz\structures\residential\misc\misc_fountain.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11600</Hash>
@@ -1785,9 +1785,9 @@
 <Template>
     <Name>misc_greenhouse</Name>
     <File>p:\dz\structures\residential\misc\misc_greenhouse.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11601</Hash>
@@ -1818,9 +1818,9 @@
 <Template>
     <Name>misc_haystack</Name>
     <File>p:\dz\structures\residential\misc\misc_haystack.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11602</Hash>
@@ -1851,9 +1851,9 @@
 <Template>
     <Name>misc_hutch</Name>
     <File>p:\dz\structures\residential\misc\misc_hutch.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11603</Hash>
@@ -1884,9 +1884,9 @@
 <Template>
     <Name>misc_noticeboard1</Name>
     <File>p:\dz\structures\residential\misc\misc_noticeboard1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11604</Hash>
@@ -1917,9 +1917,9 @@
 <Template>
     <Name>misc_noticeboard2</Name>
     <File>p:\dz\structures\residential\misc\misc_noticeboard2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11605</Hash>
@@ -1950,9 +1950,9 @@
 <Template>
     <Name>misc_polytunnel</Name>
     <File>p:\dz\structures\residential\misc\misc_polytunnel.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11606</Hash>
@@ -1983,9 +1983,9 @@
 <Template>
     <Name>misc_postbox1</Name>
     <File>p:\dz\structures\residential\misc\misc_postbox1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11607</Hash>
@@ -2016,9 +2016,9 @@
 <Template>
     <Name>misc_postbox2</Name>
     <File>p:\dz\structures\residential\misc\misc_postbox2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11608</Hash>
@@ -2049,9 +2049,9 @@
 <Template>
     <Name>misc_roadbarrier</Name>
     <File>p:\dz\structures\residential\misc\misc_roadbarrier.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11609</Hash>
@@ -2082,9 +2082,9 @@
 <Template>
     <Name>misc_roadbarrier2</Name>
     <File>p:\dz\structures\residential\misc\misc_roadbarrier2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11610</Hash>
@@ -2115,9 +2115,9 @@
 <Template>
     <Name>misc_sandbox</Name>
     <File>p:\dz\structures\residential\misc\misc_sandbox.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11611</Hash>
@@ -2148,9 +2148,9 @@
 <Template>
     <Name>misc_seesaw</Name>
     <File>p:\dz\structures\residential\misc\misc_seesaw.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11612</Hash>
@@ -2181,9 +2181,9 @@
 <Template>
     <Name>misc_stadiumbenches</Name>
     <File>p:\dz\structures\residential\misc\misc_stadiumbenches.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11613</Hash>
@@ -2214,9 +2214,9 @@
 <Template>
     <Name>misc_sunshade</Name>
     <File>p:\dz\structures\residential\misc\misc_sunshade.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11614</Hash>
@@ -2247,9 +2247,9 @@
 <Template>
     <Name>misc_table</Name>
     <File>p:\dz\structures\residential\misc\misc_table.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11615</Hash>
@@ -2280,9 +2280,9 @@
 <Template>
     <Name>misc_table_camp</Name>
     <File>p:\dz\structures\residential\misc\misc_table_camp.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11616</Hash>
@@ -2313,9 +2313,9 @@
 <Template>
     <Name>misc_table_camp_small</Name>
     <File>p:\dz\structures\residential\misc\misc_table_camp_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11617</Hash>
@@ -2346,9 +2346,9 @@
 <Template>
     <Name>misc_toilet_dry</Name>
     <File>p:\dz\structures\residential\misc\misc_toilet_dry.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11618</Hash>
@@ -2379,9 +2379,9 @@
 <Template>
     <Name>misc_toilet_mobile</Name>
     <File>p:\dz\structures\residential\misc\misc_toilet_mobile.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11619</Hash>
@@ -2412,9 +2412,9 @@
 <Template>
     <Name>misc_trafficlights</Name>
     <File>p:\dz\structures\residential\misc\misc_trafficlights.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11620</Hash>
@@ -2445,9 +2445,9 @@
 <Template>
     <Name>misc_trailroof_big</Name>
     <File>p:\dz\structures\residential\misc\misc_trailroof_big.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11621</Hash>
@@ -2478,9 +2478,9 @@
 <Template>
     <Name>misc_trailroof_small</Name>
     <File>p:\dz\structures\residential\misc\misc_trailroof_small.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11622</Hash>
@@ -2511,9 +2511,9 @@
 <Template>
     <Name>misc_tree_pavement1</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_pavement1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11623</Hash>
@@ -2544,9 +2544,9 @@
 <Template>
     <Name>misc_tree_pavement2</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_pavement2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11624</Hash>
@@ -2577,9 +2577,9 @@
 <Template>
     <Name>misc_tree_pavement3</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_pavement3.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11625</Hash>
@@ -2610,9 +2610,9 @@
 <Template>
     <Name>misc_tree_protector</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_protector.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11626</Hash>
@@ -2643,9 +2643,9 @@
 <Template>
     <Name>misc_well</Name>
     <File>p:\dz\structures\residential\misc\misc_well.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11627</Hash>
@@ -2676,9 +2676,9 @@
 <Template>
     <Name>misc_well_pump_blue</Name>
     <File>p:\dz\structures\residential\misc\misc_well_pump_blue.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11628</Hash>
@@ -2709,9 +2709,9 @@
 <Template>
     <Name>misc_well_pump_yellow</Name>
     <File>p:\dz\structures\residential\misc\misc_well_pump_yellow.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11629</Hash>
@@ -2742,9 +2742,9 @@
 <Template>
     <Name>misc_windbreak</Name>
     <File>p:\dz\structures\residential\misc\misc_windbreak.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11630</Hash>
@@ -2775,9 +2775,9 @@
 <Template>
     <Name>misc_woodblock</Name>
     <File>p:\dz\structures\residential\misc\misc_woodblock.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11631</Hash>
@@ -2808,9 +2808,9 @@
 <Template>
     <Name>misc_woodpile1</Name>
     <File>p:\dz\structures\residential\misc\misc_woodpile1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11632</Hash>
@@ -2841,9 +2841,9 @@
 <Template>
     <Name>misc_woodpile2</Name>
     <File>p:\dz\structures\residential\misc\misc_woodpile2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11633</Hash>
@@ -2874,9 +2874,9 @@
 <Template>
     <Name>misc_woodreserve</Name>
     <File>p:\dz\structures\residential\misc\misc_woodreserve.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11634</Hash>
@@ -2907,9 +2907,9 @@
 <Template>
     <Name>misc_woodtable_indoor</Name>
     <File>p:\dz\structures\residential\misc\misc_woodtable_indoor.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11635</Hash>
@@ -2940,9 +2940,9 @@
 <Template>
     <Name>misc_woodtable_outdoor</Name>
     <File>p:\dz\structures\residential\misc\misc_woodtable_outdoor.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11636</Hash>

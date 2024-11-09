@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_industrial_pipes" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_industrial_pipes" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>pipe_big_18m</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_18m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11044</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>pipe_big_18m_ladder</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_18m_ladder.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11045</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>pipe_big_9m</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_9m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11046</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>pipe_big_buildl</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_buildl.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11047</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>pipe_big_buildr</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_buildr.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11048</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>pipe_big_cornerl</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_cornerl.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11049</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>pipe_big_cornerr</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_cornerr.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11050</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>pipe_big_ground1</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_ground1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11051</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>pipe_big_ground2</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_ground2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11052</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>pipe_big_smallconl</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_smallconl.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11053</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>pipe_big_smallconr</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_smallconr.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11054</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>pipe_big_support</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_big_support.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11055</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>pipe_medl_buildr</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_medl_buildr.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11056</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>pipe_medl_cornerl</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_medl_cornerl.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11057</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>pipe_medl_cornerr</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_medl_cornerr.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11058</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>pipe_medr_buildl</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_medr_buildl.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11059</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>pipe_medr_buildr</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_medr_buildr.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11060</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>pipe_med_9m</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_med_9m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11061</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>pipe_med_ground1</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_med_ground1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11062</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>pipe_med_ground2</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_med_ground2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11063</Hash>
@@ -663,9 +663,9 @@
 <Template>
     <Name>pipe_small_20m</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_20m.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11064</Hash>
@@ -696,9 +696,9 @@
 <Template>
     <Name>pipe_small_broken</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_broken.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11065</Hash>
@@ -729,9 +729,9 @@
 <Template>
     <Name>pipe_small_ground1</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_ground1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11066</Hash>
@@ -762,9 +762,9 @@
 <Template>
     <Name>pipe_small_ground2</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_ground2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11067</Hash>
@@ -795,9 +795,9 @@
 <Template>
     <Name>pipe_small_l45</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_l45.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11068</Hash>
@@ -828,9 +828,9 @@
 <Template>
     <Name>pipe_small_l90</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_l90.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11069</Hash>
@@ -861,9 +861,9 @@
 <Template>
     <Name>pipe_small_r45</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_r45.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11070</Hash>
@@ -894,9 +894,9 @@
 <Template>
     <Name>pipe_small_r90</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_r90.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11071</Hash>
@@ -927,9 +927,9 @@
 <Template>
     <Name>pipe_small_stairs</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_stairs.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11072</Hash>
@@ -960,9 +960,9 @@
 <Template>
     <Name>pipe_small_u</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_u.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11073</Hash>
@@ -993,9 +993,9 @@
 <Template>
     <Name>pipe_small_valve</Name>
     <File>p:\dz\structures\industrial\pipes\pipe_small_valve.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11074</Hash>

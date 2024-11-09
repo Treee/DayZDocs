@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="structures_roads_panels" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
+<Library name="structures_roads_panels" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>panels_concrete</Name>
     <File>p:\dz\structures\roads\panels\panels_concrete.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11787</Hash>
@@ -36,9 +36,9 @@
 <Template>
     <Name>panels_concrete_lc</Name>
     <File>p:\dz\structures\roads\panels\panels_concrete_lc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11788</Hash>
@@ -69,9 +69,9 @@
 <Template>
     <Name>panel_concrete_1</Name>
     <File>p:\dz\structures\roads\panels\panel_concrete_1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11789</Hash>
@@ -102,9 +102,9 @@
 <Template>
     <Name>panel_concrete_1_lc</Name>
     <File>p:\dz\structures\roads\panels\panel_concrete_1_lc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11790</Hash>
@@ -135,9 +135,9 @@
 <Template>
     <Name>panel_concrete_2</Name>
     <File>p:\dz\structures\roads\panels\panel_concrete_2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11791</Hash>
@@ -168,9 +168,9 @@
 <Template>
     <Name>panel_concrete_2_lc</Name>
     <File>p:\dz\structures\roads\panels\panel_concrete_2_lc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11792</Hash>
@@ -201,9 +201,9 @@
 <Template>
     <Name>panel_concrete_dam</Name>
     <File>p:\dz\structures\roads\panels\panel_concrete_dam.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11793</Hash>
@@ -234,9 +234,9 @@
 <Template>
     <Name>panel_concrete_dam_lc</Name>
     <File>p:\dz\structures\roads\panels\panel_concrete_dam_lc.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11794</Hash>
@@ -267,9 +267,9 @@
 <Template>
     <Name>path_panels</Name>
     <File>p:\dz\structures\roads\panels\path_panels.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11795</Hash>
@@ -300,9 +300,9 @@
 <Template>
     <Name>path_panels_damaged</Name>
     <File>p:\dz\structures\roads\panels\path_panels_damaged.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11796</Hash>
@@ -333,9 +333,9 @@
 <Template>
     <Name>concrete_panels_main_grass</Name>
     <File>p:\dz\structures\roads\panels\proxy\concrete_panels_main_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11797</Hash>
@@ -366,9 +366,9 @@
 <Template>
     <Name>concrete_panel_2_grass</Name>
     <File>p:\dz\structures\roads\panels\proxy\concrete_panel_2_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11798</Hash>
@@ -399,9 +399,9 @@
 <Template>
     <Name>concrete_panel_dam_grass</Name>
     <File>p:\dz\structures\roads\panels\proxy\concrete_panel_dam_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11799</Hash>
@@ -432,9 +432,9 @@
 <Template>
     <Name>concrete_panel_grass</Name>
     <File>p:\dz\structures\roads\panels\proxy\concrete_panel_grass.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11800</Hash>
@@ -465,9 +465,9 @@
 <Template>
     <Name>grass_runwaypanel_double1</Name>
     <File>p:\dz\structures\roads\panels\proxy\grass_runwaypanel_double1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11801</Hash>
@@ -498,9 +498,9 @@
 <Template>
     <Name>grass_runwaypanel_double2</Name>
     <File>p:\dz\structures\roads\panels\proxy\grass_runwaypanel_double2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11802</Hash>
@@ -531,9 +531,9 @@
 <Template>
     <Name>grass_runwaypanel_line1</Name>
     <File>p:\dz\structures\roads\panels\proxy\grass_runwaypanel_line1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11803</Hash>
@@ -564,9 +564,9 @@
 <Template>
     <Name>grass_runwaypanel_line2</Name>
     <File>p:\dz\structures\roads\panels\proxy\grass_runwaypanel_line2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11804</Hash>
@@ -597,9 +597,9 @@
 <Template>
     <Name>grass_runwaypanel_single1</Name>
     <File>p:\dz\structures\roads\panels\proxy\grass_runwaypanel_single1.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11805</Hash>
@@ -630,9 +630,9 @@
 <Template>
     <Name>grass_runwaypanel_single2</Name>
     <File>p:\dz\structures\roads\panels\proxy\grass_runwaypanel_single2.p3d</File>
-    <Date>Mon Nov 4 10:24:56 2024</Date>
+    <Date>Sat Nov 9 09:53:35 2024</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11806</Hash>

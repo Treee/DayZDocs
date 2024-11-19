@@ -172,7 +172,7 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
   copyOfXml = copyOfXml.replace("{TEMPLATE_FILL}", formatTemplateFill(p3dFilePath));
   copyOfXml = copyOfXml.replace("{P3D_HASH}", hash++);
   //   console.log(copyOfXml);
-  allP3ds.push(p3DName);
+  allP3ds.push(p3dFilePath);
   return copyOfXml;
 }
 
@@ -200,16 +200,25 @@ function writeTemplateLibraryOutput(libraryData) {
   });
 }
 
-function writeAllP3dsOutput(p3ds, sortAlphabetically) {
+function writeAllP3dsOutput(p3ds, sortAlphabetically, fullFilePath) {
   let fileName = "aaOneOfEverything";
   if (sortAlphabetically) {
     p3ds.sort((a, b) => a.localeCompare(b));
     fileName = fileName.concat("_alphabetical");
   }
+
   let allValues = "";
-  p3ds.forEach((p3d) => {
-    allValues = allValues.concat('"').concat(p3d).concat('",\n');
-  });
+  if (!fullFilePath) {
+    p3ds.forEach((p3d) => {
+      allValues = allValues.concat('"').concat(getP3DName(p3d)).concat('",\n');
+    });
+    fileName = fileName.concat("_p3d_only");
+  } else {
+    p3ds.forEach((p3d) => {
+      allValues = allValues.concat('"').concat(p3d).concat('",\n');
+    });
+    fileName = fileName.concat("_full_filepath");
+  }
   writeFileSync(`./output/${fileName}.txt`, allValues, "utf8");
 }
 
@@ -219,5 +228,6 @@ const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.
 const templateLibraryData = formatP3dJsonForTemplateLibrary(jsonData);
 
 writeTemplateLibraryOutput(templateLibraryData);
-writeAllP3dsOutput(allP3ds, false);
-writeAllP3dsOutput(allP3ds, true);
+writeAllP3dsOutput(allP3ds, false, false);
+writeAllP3dsOutput(allP3ds, true, false);
+writeAllP3dsOutput(allP3ds, true, true);

@@ -54,10 +54,24 @@ function readdirRecursiveSync(rootFilePath, folder) {
   }
 }
 
-const foldersToTemplate = ["plants", "plants_bliss", "plants_sakhal", "rocks", "rocks_bliss", "rocks_sakhal", "structures", "structures_bliss", "structures_sakhal", "water", "water_bliss", "water_sakhal"];
+const foldersToTemplate = [
+  "dz\\plants",
+  "dz\\plants_bliss",
+  "dz\\plants_sakhal",
+  "dz\\rocks",
+  "dz\\rocks_bliss",
+  "dz\\rocks_sakhal",
+  "dz\\structures",
+  "dz\\structures_bliss",
+  "dz\\structures_sakhal",
+  "dz\\water",
+  "dz\\water_bliss",
+  "dz\\water_sakhal",
+  "ALV_UN_Props",
+  "ALV_UN_Structures\\Structures",
+];
 foldersToTemplate.forEach((folder) => {
-  readdirRecursiveSync("P:\\dz", folder);
+  readdirRecursiveSync("P:\\", folder);
 });
-// console.log(foldersFound);
 
 writeFileSync("./test/rawTemplateLibraryData.json", JSON.stringify(foldersFound), "utf8");

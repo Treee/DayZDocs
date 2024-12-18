@@ -49,10 +49,24 @@ This file is fairly basic and the bulk of code is file i/o. The important items 
 - `writeFileSync` - Writes the payload to a file for subsequent parsing.
 
 ```js
-const foldersToTemplate = ["plants", "plants_bliss", "plants_sakhal", "rocks", "rocks_bliss", "rocks_sakhal", "structures", "structures_bliss", "structures_sakhal", "water", "water_bliss", "water_sakhal"];
-
+const foldersToTemplate = [
+  "dz\\plants",
+  "dz\\plants_bliss",
+  "dz\\plants_sakhal",
+  "dz\\rocks",
+  "dz\\rocks_bliss",
+  "dz\\rocks_sakhal",
+  "dz\\structures",
+  "dz\\structures_bliss",
+  "dz\\structures_sakhal",
+  "dz\\water",
+  "dz\\water_bliss",
+  "dz\\water_sakhal", // vanilla dayz files
+  "ALV_UN_Props", // unpacked mod from workshop in P drive
+  "ALV_UN_Structures\\Structures", // unpacked mod from workshop in P drive with nested folders
+];
 foldersToTemplate.forEach((folder) => {
-  readdirRecursiveSync("P:\\dz", folder);
+  readdirRecursiveSync("P:\\", folder); // root folder is P drive
 });
 
 writeFileSync("./test/rawTemplateLibraryData.json", JSON.stringify(foldersFound), "utf8");

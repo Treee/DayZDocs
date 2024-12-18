@@ -56,11 +56,13 @@ const allP3ds = [];
 
 function parseP3dsForImport(filePath) {
   const data = readFileSync(filePath, "utf8");
-  //   console.log(JSON.parse(data));
+  // console.log(JSON.parse(data));
   return JSON.parse(data);
 }
 function formatFilePathToTemplateName(filePath) {
-  return filePath.split("\\").join("_").replace("P:_dz_", "").toLowerCase();
+  filePath = filePath.split("\\").join("_").replace("P:_", "").toLowerCase();
+  filePath = filePath.replace("p:_", "");
+  return filePath;
 }
 function isWithinDepthLimits(filePath, depthLimit) {
   const numSubParts = filePath.split("\\").length;
@@ -76,6 +78,7 @@ function formatP3dJsonForTemplateLibrary(data) {
 
   Object.keys(data).forEach((key) => {
     const payload = data[key];
+    // console.log(`Key to format: ${key}`);
     // root level category
     if (payload.configcpp !== "") {
       numRootParts = key.split("\\").length;
@@ -91,11 +94,13 @@ function formatP3dJsonForTemplateLibrary(data) {
     }
     // blindly make a new template name from the key
     templateName = formatFilePathToTemplateName(key);
+    // console.log(`Formatted Key: ${templateName}`);
     // if the current key has traces of last key inside
     if (key.indexOf(lastKey) > -1) {
       // use the last key as our template name (nesting folders)
       templateName = formatFilePathToTemplateName(lastKey);
     }
+    // console.log(`Updated Formatted Key?: ${templateName}`);
     // if our helper object has this key AND items
     if (templateLibraryData[templateName] && templateLibraryData[templateName].length > 0) {
       // append
@@ -215,7 +220,9 @@ function writeAllP3dsOutput(p3ds, sortAlphabetically, fullFilePath) {
     fileName = fileName.concat("_p3d_only");
   } else {
     p3ds.forEach((p3d) => {
-      allValues = allValues.concat('"').concat(p3d).concat('",\n');
+      p3d = p3d.replace("p:\\", "");
+      p3d = p3d.replaceAll("\\", "/");
+      allValues = allValues.concat(p3d).concat("\n");
     });
     fileName = fileName.concat("_full_filepath");
   }

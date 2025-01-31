@@ -2,10 +2,10 @@
 <Library name="dz_structures_rail_misc" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>rail_concreteramp</Name>
-    <File>p:\dz\structures\rail\misc\rail_concreteramp.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_concreteramp.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11369</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>rail_crossing_barrier</Name>
-    <File>p:\dz\structures\rail\misc\rail_crossing_barrier.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_crossing_barrier.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11370</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>rail_crossing_block_10</Name>
-    <File>p:\dz\structures\rail\misc\rail_crossing_block_10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_crossing_block_10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11371</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>rail_crossing_block_25</Name>
-    <File>p:\dz\structures\rail\misc\rail_crossing_block_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_crossing_block_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11372</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>rail_linebreak_concrete</Name>
-    <File>p:\dz\structures\rail\misc\rail_linebreak_concrete.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_linebreak_concrete.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11373</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>rail_linebreak_iron</Name>
-    <File>p:\dz\structures\rail\misc\rail_linebreak_iron.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_linebreak_iron.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11374</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>rail_platform_cross</Name>
-    <File>p:\dz\structures\rail\misc\rail_platform_cross.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_platform_cross.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11375</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>rail_platform_segment</Name>
-    <File>p:\dz\structures\rail\misc\rail_platform_segment.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_platform_segment.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11376</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>rail_platform_start</Name>
-    <File>p:\dz\structures\rail\misc\rail_platform_start.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_platform_start.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11377</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>rail_polef</Name>
-    <File>p:\dz\structures\rail\misc\rail_polef.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_polef.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11378</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>rail_polet</Name>
-    <File>p:\dz\structures\rail\misc\rail_polet.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_polet.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11379</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>rail_polett1</Name>
-    <File>p:\dz\structures\rail\misc\rail_polett1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_polett1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11380</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>rail_polett2</Name>
-    <File>p:\dz\structures\rail\misc\rail_polett2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_polett2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11381</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>rail_signals</Name>
-    <File>p:\dz\structures\rail\misc\rail_signals.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/rail/misc/rail_signals.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11382</Hash>

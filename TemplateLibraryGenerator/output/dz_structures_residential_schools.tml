@@ -2,10 +2,10 @@
 <Library name="dz_structures_residential_schools" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>city_school</Name>
-    <File>p:\dz\structures\residential\schools\city_school.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/schools/city_school.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11692</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>school_details</Name>
-    <File>p:\dz\structures\residential\schools\proxy\school_details.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/schools/proxy/school_details.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11693</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>school_exterior_proxy</Name>
-    <File>p:\dz\structures\residential\schools\proxy\school_exterior_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/schools/proxy/school_exterior_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11694</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>school_interior</Name>
-    <File>p:\dz\structures\residential\schools\proxy\school_interior.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/schools/proxy/school_interior.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11695</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>school_sign</Name>
-    <File>p:\dz\structures\residential\schools\proxy\school_sign.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/schools/proxy/school_sign.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11696</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>windows_dupe_4</Name>
-    <File>p:\dz\structures\residential\schools\proxy\windows.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/schools/proxy/windows.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11697</Hash>

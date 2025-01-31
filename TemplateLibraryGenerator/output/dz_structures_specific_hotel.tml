@@ -2,13 +2,13 @@
 <Library name="dz_structures_specific_hotel" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>hotel</Name>
-    <File>p:\dz\structures\specific\hotel\hotel.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12841</Hash>
+    <Hash>12819</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>hotel_damaged</Name>
-    <File>p:\dz\structures\specific\hotel\hotel_damaged.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel_damaged.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12842</Hash>
+    <Hash>12820</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>hotel_damaged_airplane_back</Name>
-    <File>p:\dz\structures\specific\hotel\hotel_damaged_airplane_back.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel_damaged_airplane_back.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12843</Hash>
+    <Hash>12821</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -101,13 +101,13 @@
 </Template>
 <Template>
     <Name>hotel_damaged_airplane_wing</Name>
-    <File>p:\dz\structures\specific\hotel\hotel_damaged_airplane_wing.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel_damaged_airplane_wing.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12844</Hash>
+    <Hash>12822</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -134,13 +134,13 @@
 </Template>
 <Template>
     <Name>hotel_damaged_decal1</Name>
-    <File>p:\dz\structures\specific\hotel\hotel_damaged_decal1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel_damaged_decal1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12845</Hash>
+    <Hash>12823</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -167,13 +167,13 @@
 </Template>
 <Template>
     <Name>hotel_damaged_decal2</Name>
-    <File>p:\dz\structures\specific\hotel\hotel_damaged_decal2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel_damaged_decal2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12846</Hash>
+    <Hash>12824</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -200,13 +200,13 @@
 </Template>
 <Template>
     <Name>hotel_damaged_rubble</Name>
-    <File>p:\dz\structures\specific\hotel\hotel_damaged_rubble.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/hotel_damaged_rubble.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12847</Hash>
+    <Hash>12825</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -233,13 +233,13 @@
 </Template>
 <Template>
     <Name>houseb_tenement_dayz_airplane</Name>
-    <File>p:\dz\structures\specific\hotel\proxy\houseb_tenement_dayz_airplane.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/proxy/houseb_tenement_dayz_airplane.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12848</Hash>
+    <Hash>12826</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -266,13 +266,13 @@
 </Template>
 <Template>
     <Name>houseb_tenement_dayz_alfa</Name>
-    <File>p:\dz\structures\specific\hotel\proxy\houseb_tenement_dayz_alfa.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/proxy/houseb_tenement_dayz_alfa.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12849</Hash>
+    <Hash>12827</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -299,13 +299,13 @@
 </Template>
 <Template>
     <Name>houseb_tenement_dayz_proxy</Name>
-    <File>p:\dz\structures\specific\hotel\proxy\houseb_tenement_dayz_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/hotel/proxy/houseb_tenement_dayz_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12850</Hash>
+    <Hash>12828</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

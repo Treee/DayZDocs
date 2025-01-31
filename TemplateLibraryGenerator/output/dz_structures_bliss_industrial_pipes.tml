@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_industrial_pipes" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>pipe_small2_24m</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_24m.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_24m.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13220</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_8m</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_8m.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_8m.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13221</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_8m_metalsup</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_8m_metalsup.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_8m_metalsup.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13222</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_8m_nosup</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_8m_nosup.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_8m_nosup.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13223</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_8m_nosup_nolc</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_8m_nosup_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_8m_nosup_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13224</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_block</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_block.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_block.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13225</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_curve</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_curve.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_curve.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13226</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_curve45</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_curve45.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_curve45.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13227</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_ground</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_ground.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_ground.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13228</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_high_24m</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_high_24m.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_high_24m.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13229</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_high_8m</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_high_8m.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_high_8m.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13230</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_high_curve</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_high_curve.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_high_curve.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13231</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_high_ground</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_high_ground.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_high_ground.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13232</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>pipe_small2_high_ground2</Name>
-    <File>p:\dz\structures_bliss\industrial\pipes\pipe_small2_high_ground2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/pipes/pipe_small2_high_ground2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13233</Hash>

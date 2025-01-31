@@ -2,10 +2,10 @@
 <Library name="dz_structures_residential_offices" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>office1</Name>
-    <File>p:\dz\structures\residential\offices\office1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11643</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>office2</Name>
-    <File>p:\dz\structures\residential\offices\office2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11644</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>office2_ghost1</Name>
-    <File>p:\dz\structures\residential\offices\office2_ghost1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office2_ghost1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11645</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>office2_ghost2</Name>
-    <File>p:\dz\structures\residential\offices\office2_ghost2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office2_ghost2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11646</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>office_municipal1</Name>
-    <File>p:\dz\structures\residential\offices\office_municipal1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office_municipal1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11647</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>office_municipal2</Name>
-    <File>p:\dz\structures\residential\offices\office_municipal2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office_municipal2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11648</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>office_municipal2_archway</Name>
-    <File>p:\dz\structures\residential\offices\office_municipal2_archway.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/office_municipal2_archway.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11649</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>a_office01_ladder</Name>
-    <File>p:\dz\structures\residential\offices\proxy\a_office01_ladder.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/a_office01_ladder.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11650</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>a_office01_metalbars</Name>
-    <File>p:\dz\structures\residential\offices\proxy\a_office01_metalbars.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/a_office01_metalbars.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11651</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>a_office02_grnd_proxy</Name>
-    <File>p:\dz\structures\residential\offices\proxy\a_office02_grnd_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/a_office02_grnd_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11652</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>a_office02_metalbars</Name>
-    <File>p:\dz\structures\residential\offices\proxy\a_office02_metalbars.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/a_office02_metalbars.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11653</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>a_office02_windows</Name>
-    <File>p:\dz\structures\residential\offices\proxy\a_office02_windows.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/a_office02_windows.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11654</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>black</Name>
-    <File>p:\dz\structures\residential\offices\proxy\black.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/black.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11655</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>doorglass</Name>
-    <File>p:\dz\structures\residential\offices\proxy\doorglass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/doorglass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11656</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>doorinterier</Name>
-    <File>p:\dz\structures\residential\offices\proxy\doorinterier.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/doorinterier.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11657</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>doorinterier_closed</Name>
-    <File>p:\dz\structures\residential\offices\proxy\doorinterier_closed.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/doorinterier_closed.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11658</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>doorsmallglass</Name>
-    <File>p:\dz\structures\residential\offices\proxy\doorsmallglass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/doorsmallglass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11659</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>ladder_dupe_2</Name>
-    <File>p:\dz\structures\residential\offices\proxy\ladder.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/ladder.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11660</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>ladderlong</Name>
-    <File>p:\dz\structures\residential\offices\proxy\ladderlong.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/ladderlong.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11661</Hash>
@@ -628,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>municipaloffice2_details_proxy</Name>
-    <File>p:\dz\structures\residential\offices\proxy\municipaloffice2_details_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>municipaloffice2_int</Name>
+    <File>dz/structures/residential/offices/proxy/municipaloffice2_int.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11662</Hash>
@@ -661,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>municipaloffice2_int</Name>
-    <File>p:\dz\structures\residential\offices\proxy\municipaloffice2_int.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>municipaloffice2_details_proxy</Name>
+    <File>dz/structures/residential/offices/proxy/municipaloffice2_details_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11663</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>windowhall</Name>
-    <File>p:\dz\structures\residential\offices\proxy\windowhall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/windowhall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11664</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>windowlarge</Name>
-    <File>p:\dz\structures\residential\offices\proxy\windowlarge.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/windowlarge.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11665</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>windowsmall</Name>
-    <File>p:\dz\structures\residential\offices\proxy\windowsmall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/windowsmall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11666</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>window_a</Name>
-    <File>p:\dz\structures\residential\offices\proxy\window_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/window_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11667</Hash>
@@ -827,10 +827,10 @@
 </Template>
 <Template>
     <Name>window_a_broken</Name>
-    <File>p:\dz\structures\residential\offices\proxy\window_a_broken.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/window_a_broken.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11668</Hash>
@@ -860,10 +860,10 @@
 </Template>
 <Template>
     <Name>window_b</Name>
-    <File>p:\dz\structures\residential\offices\proxy\window_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/window_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11669</Hash>
@@ -893,10 +893,10 @@
 </Template>
 <Template>
     <Name>window_b_broken</Name>
-    <File>p:\dz\structures\residential\offices\proxy\window_b_broken.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/window_b_broken.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11670</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>zarivky</Name>
-    <File>p:\dz\structures\residential\offices\proxy\zarivky.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/offices/proxy/zarivky.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11671</Hash>

@@ -1,209 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_structures_roads_parts" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
-    <Name>asf1_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\asf1_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>centerline_12</Name>
+    <File>dz/structures/roads/parts/centerline_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>11819</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\asf1_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>11820</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1_10 100</Name>
-    <File>p:\dz\structures\roads\parts\asf1_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>11821</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1_10 25</Name>
-    <File>p:\dz\structures\roads\parts\asf1_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>11822</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1_10 50</Name>
-    <File>p:\dz\structures\roads\parts\asf1_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>11823</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1_10 75</Name>
-    <File>p:\dz\structures\roads\parts\asf1_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>11824</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1_12</Name>
-    <File>p:\dz\structures\roads\parts\asf1_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11825</Hash>
@@ -232,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_15 75</Name>
-    <File>p:\dz\structures\roads\parts\asf1_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>centerline_25</Name>
+    <File>dz/structures/roads/parts/centerline_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11826</Hash>
@@ -265,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_22 50</Name>
-    <File>p:\dz\structures\roads\parts\asf1_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>centerline_6</Name>
+    <File>dz/structures/roads/parts/centerline_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11827</Hash>
@@ -298,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_25</Name>
-    <File>p:\dz\structures\roads\parts\asf1_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>centerline_6konec</Name>
+    <File>dz/structures/roads/parts/centerline_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11828</Hash>
@@ -331,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_30 25</Name>
-    <File>p:\dz\structures\roads\parts\asf1_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_0 2000</Name>
+    <File>dz/structures/roads/parts/taxiway_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11829</Hash>
@@ -364,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_6</Name>
-    <File>p:\dz\structures\roads\parts\asf1_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_1 1000</Name>
+    <File>dz/structures/roads/parts/taxiway_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11830</Hash>
@@ -397,11 +199,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_60 10</Name>
-    <File>p:\dz\structures\roads\parts\asf1_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_10 100</Name>
+    <File>dz/structures/roads/parts/taxiway_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11831</Hash>
@@ -430,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_6konec</Name>
-    <File>p:\dz\structures\roads\parts\asf1_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_10 25</Name>
+    <File>dz/structures/roads/parts/taxiway_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11832</Hash>
@@ -463,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_6_crosswalk</Name>
-    <File>p:\dz\structures\roads\parts\asf1_6_crosswalk.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_10 50</Name>
+    <File>dz/structures/roads/parts/taxiway_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11833</Hash>
@@ -496,11 +298,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf1_7 100</Name>
-    <File>p:\dz\structures\roads\parts\asf1_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_10 75</Name>
+    <File>dz/structures/roads/parts/taxiway_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11834</Hash>
@@ -529,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\asf2_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_12</Name>
+    <File>dz/structures/roads/parts/taxiway_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11835</Hash>
@@ -562,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\asf2_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_15 75</Name>
+    <File>dz/structures/roads/parts/taxiway_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11836</Hash>
@@ -595,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_10 100</Name>
-    <File>p:\dz\structures\roads\parts\asf2_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_22 50</Name>
+    <File>dz/structures/roads/parts/taxiway_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11837</Hash>
@@ -628,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_10 25</Name>
-    <File>p:\dz\structures\roads\parts\asf2_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_25</Name>
+    <File>dz/structures/roads/parts/taxiway_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11838</Hash>
@@ -661,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_10 50</Name>
-    <File>p:\dz\structures\roads\parts\asf2_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_30 25</Name>
+    <File>dz/structures/roads/parts/taxiway_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11839</Hash>
@@ -694,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_10 75</Name>
-    <File>p:\dz\structures\roads\parts\asf2_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_6</Name>
+    <File>dz/structures/roads/parts/taxiway_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11840</Hash>
@@ -727,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_12</Name>
-    <File>p:\dz\structures\roads\parts\asf2_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_60 10</Name>
+    <File>dz/structures/roads/parts/taxiway_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11841</Hash>
@@ -760,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_15 75</Name>
-    <File>p:\dz\structures\roads\parts\asf2_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_6konec</Name>
+    <File>dz/structures/roads/parts/taxiway_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11842</Hash>
@@ -793,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_22 50</Name>
-    <File>p:\dz\structures\roads\parts\asf2_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>taxiway_7 100</Name>
+    <File>dz/structures/roads/parts/taxiway_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11843</Hash>
@@ -826,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_25</Name>
-    <File>p:\dz\structures\roads\parts\asf2_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_0 2000</Name>
+    <File>dz/structures/roads/parts/asf1_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11844</Hash>
@@ -859,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_30 25</Name>
-    <File>p:\dz\structures\roads\parts\asf2_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_1 1000</Name>
+    <File>dz/structures/roads/parts/asf1_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11845</Hash>
@@ -892,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_6</Name>
-    <File>p:\dz\structures\roads\parts\asf2_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_10 100</Name>
+    <File>dz/structures/roads/parts/asf1_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11846</Hash>
@@ -925,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_60 10</Name>
-    <File>p:\dz\structures\roads\parts\asf2_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_10 25</Name>
+    <File>dz/structures/roads/parts/asf1_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11847</Hash>
@@ -958,11 +760,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_6konec</Name>
-    <File>p:\dz\structures\roads\parts\asf2_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_10 50</Name>
+    <File>dz/structures/roads/parts/asf1_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11848</Hash>
@@ -991,11 +793,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_6_crosswalk</Name>
-    <File>p:\dz\structures\roads\parts\asf2_6_crosswalk.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_10 75</Name>
+    <File>dz/structures/roads/parts/asf1_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11849</Hash>
@@ -1024,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2_7 100</Name>
-    <File>p:\dz\structures\roads\parts\asf2_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_12</Name>
+    <File>dz/structures/roads/parts/asf1_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11850</Hash>
@@ -1057,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\asf3_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_15 75</Name>
+    <File>dz/structures/roads/parts/asf1_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11851</Hash>
@@ -1090,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\asf3_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_22 50</Name>
+    <File>dz/structures/roads/parts/asf1_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11852</Hash>
@@ -1123,11 +925,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_10 100</Name>
-    <File>p:\dz\structures\roads\parts\asf3_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_25</Name>
+    <File>dz/structures/roads/parts/asf1_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11853</Hash>
@@ -1156,11 +958,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_10 25</Name>
-    <File>p:\dz\structures\roads\parts\asf3_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_30 25</Name>
+    <File>dz/structures/roads/parts/asf1_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11854</Hash>
@@ -1189,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_10 50</Name>
-    <File>p:\dz\structures\roads\parts\asf3_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_6</Name>
+    <File>dz/structures/roads/parts/asf1_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11855</Hash>
@@ -1222,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_10 75</Name>
-    <File>p:\dz\structures\roads\parts\asf3_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_60 10</Name>
+    <File>dz/structures/roads/parts/asf1_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11856</Hash>
@@ -1255,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_12</Name>
-    <File>p:\dz\structures\roads\parts\asf3_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_6_crosswalk</Name>
+    <File>dz/structures/roads/parts/asf1_6_crosswalk.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11857</Hash>
@@ -1288,11 +1090,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_15 75</Name>
-    <File>p:\dz\structures\roads\parts\asf3_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_6konec</Name>
+    <File>dz/structures/roads/parts/asf1_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11858</Hash>
@@ -1321,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_22 50</Name>
-    <File>p:\dz\structures\roads\parts\asf3_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf1_7 100</Name>
+    <File>dz/structures/roads/parts/asf1_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11859</Hash>
@@ -1354,11 +1156,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_25</Name>
-    <File>p:\dz\structures\roads\parts\asf3_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_0 2000</Name>
+    <File>dz/structures/roads/parts/asf2_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11860</Hash>
@@ -1387,11 +1189,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_30 25</Name>
-    <File>p:\dz\structures\roads\parts\asf3_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_1 1000</Name>
+    <File>dz/structures/roads/parts/asf2_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11861</Hash>
@@ -1420,11 +1222,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_6</Name>
-    <File>p:\dz\structures\roads\parts\asf3_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_10 100</Name>
+    <File>dz/structures/roads/parts/asf2_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11862</Hash>
@@ -1453,11 +1255,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_60 10</Name>
-    <File>p:\dz\structures\roads\parts\asf3_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_10 25</Name>
+    <File>dz/structures/roads/parts/asf2_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11863</Hash>
@@ -1486,11 +1288,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_6konec</Name>
-    <File>p:\dz\structures\roads\parts\asf3_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_10 50</Name>
+    <File>dz/structures/roads/parts/asf2_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11864</Hash>
@@ -1519,11 +1321,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3_7 100</Name>
-    <File>p:\dz\structures\roads\parts\asf3_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_10 75</Name>
+    <File>dz/structures/roads/parts/asf2_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11865</Hash>
@@ -1552,11 +1354,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>centerline_12</Name>
-    <File>p:\dz\structures\roads\parts\centerline_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_12</Name>
+    <File>dz/structures/roads/parts/asf2_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11866</Hash>
@@ -1585,11 +1387,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>centerline_25</Name>
-    <File>p:\dz\structures\roads\parts\centerline_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_15 75</Name>
+    <File>dz/structures/roads/parts/asf2_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11867</Hash>
@@ -1618,11 +1420,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>centerline_6</Name>
-    <File>p:\dz\structures\roads\parts\centerline_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_22 50</Name>
+    <File>dz/structures/roads/parts/asf2_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11868</Hash>
@@ -1651,11 +1453,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>centerline_6konec</Name>
-    <File>p:\dz\structures\roads\parts\centerline_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_25</Name>
+    <File>dz/structures/roads/parts/asf2_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11869</Hash>
@@ -1684,11 +1486,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\city_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_30 25</Name>
+    <File>dz/structures/roads/parts/asf2_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11870</Hash>
@@ -1717,11 +1519,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\city_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_6</Name>
+    <File>dz/structures/roads/parts/asf2_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11871</Hash>
@@ -1750,11 +1552,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_10 100</Name>
-    <File>p:\dz\structures\roads\parts\city_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_60 10</Name>
+    <File>dz/structures/roads/parts/asf2_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11872</Hash>
@@ -1783,11 +1585,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_10 25</Name>
-    <File>p:\dz\structures\roads\parts\city_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_6_crosswalk</Name>
+    <File>dz/structures/roads/parts/asf2_6_crosswalk.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11873</Hash>
@@ -1816,11 +1618,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_10 50</Name>
-    <File>p:\dz\structures\roads\parts\city_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_6konec</Name>
+    <File>dz/structures/roads/parts/asf2_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11874</Hash>
@@ -1849,11 +1651,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_10 75</Name>
-    <File>p:\dz\structures\roads\parts\city_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf2_7 100</Name>
+    <File>dz/structures/roads/parts/asf2_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11875</Hash>
@@ -1882,11 +1684,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_12</Name>
-    <File>p:\dz\structures\roads\parts\city_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_0 2000</Name>
+    <File>dz/structures/roads/parts/asf3_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11876</Hash>
@@ -1915,11 +1717,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_15 75</Name>
-    <File>p:\dz\structures\roads\parts\city_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_1 1000</Name>
+    <File>dz/structures/roads/parts/asf3_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11877</Hash>
@@ -1948,11 +1750,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_22 50</Name>
-    <File>p:\dz\structures\roads\parts\city_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_10 100</Name>
+    <File>dz/structures/roads/parts/asf3_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11878</Hash>
@@ -1981,11 +1783,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_25</Name>
-    <File>p:\dz\structures\roads\parts\city_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_10 25</Name>
+    <File>dz/structures/roads/parts/asf3_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11879</Hash>
@@ -2014,11 +1816,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_30 25</Name>
-    <File>p:\dz\structures\roads\parts\city_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_10 50</Name>
+    <File>dz/structures/roads/parts/asf3_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11880</Hash>
@@ -2047,11 +1849,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_6</Name>
-    <File>p:\dz\structures\roads\parts\city_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_10 75</Name>
+    <File>dz/structures/roads/parts/asf3_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11881</Hash>
@@ -2080,11 +1882,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_60 10</Name>
-    <File>p:\dz\structures\roads\parts\city_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_12</Name>
+    <File>dz/structures/roads/parts/asf3_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11882</Hash>
@@ -2113,11 +1915,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_6konec</Name>
-    <File>p:\dz\structures\roads\parts\city_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_15 75</Name>
+    <File>dz/structures/roads/parts/asf3_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11883</Hash>
@@ -2146,11 +1948,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_6_crosswalk</Name>
-    <File>p:\dz\structures\roads\parts\city_6_crosswalk.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_22 50</Name>
+    <File>dz/structures/roads/parts/asf3_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11884</Hash>
@@ -2179,11 +1981,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_7 100</Name>
-    <File>p:\dz\structures\roads\parts\city_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_25</Name>
+    <File>dz/structures/roads/parts/asf3_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11885</Hash>
@@ -2212,11 +2014,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\grav_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_30 25</Name>
+    <File>dz/structures/roads/parts/asf3_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11886</Hash>
@@ -2245,11 +2047,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\grav_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_6</Name>
+    <File>dz/structures/roads/parts/asf3_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11887</Hash>
@@ -2278,11 +2080,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_10 100</Name>
-    <File>p:\dz\structures\roads\parts\grav_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_60 10</Name>
+    <File>dz/structures/roads/parts/asf3_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11888</Hash>
@@ -2311,11 +2113,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_10 25</Name>
-    <File>p:\dz\structures\roads\parts\grav_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_6konec</Name>
+    <File>dz/structures/roads/parts/asf3_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11889</Hash>
@@ -2344,11 +2146,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_10 50</Name>
-    <File>p:\dz\structures\roads\parts\grav_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>asf3_7 100</Name>
+    <File>dz/structures/roads/parts/asf3_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11890</Hash>
@@ -2377,11 +2179,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_10 75</Name>
-    <File>p:\dz\structures\roads\parts\grav_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_0 2000</Name>
+    <File>dz/structures/roads/parts/city_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11891</Hash>
@@ -2410,11 +2212,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_12</Name>
-    <File>p:\dz\structures\roads\parts\grav_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_1 1000</Name>
+    <File>dz/structures/roads/parts/city_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11892</Hash>
@@ -2443,11 +2245,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_15 75</Name>
-    <File>p:\dz\structures\roads\parts\grav_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_10 100</Name>
+    <File>dz/structures/roads/parts/city_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11893</Hash>
@@ -2476,11 +2278,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_22 50</Name>
-    <File>p:\dz\structures\roads\parts\grav_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_10 25</Name>
+    <File>dz/structures/roads/parts/city_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11894</Hash>
@@ -2509,11 +2311,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_25</Name>
-    <File>p:\dz\structures\roads\parts\grav_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_10 50</Name>
+    <File>dz/structures/roads/parts/city_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11895</Hash>
@@ -2542,11 +2344,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_30 25</Name>
-    <File>p:\dz\structures\roads\parts\grav_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_10 75</Name>
+    <File>dz/structures/roads/parts/city_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11896</Hash>
@@ -2575,11 +2377,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_6</Name>
-    <File>p:\dz\structures\roads\parts\grav_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_12</Name>
+    <File>dz/structures/roads/parts/city_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11897</Hash>
@@ -2608,11 +2410,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_60 10</Name>
-    <File>p:\dz\structures\roads\parts\grav_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_15 75</Name>
+    <File>dz/structures/roads/parts/city_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11898</Hash>
@@ -2641,11 +2443,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_6konec</Name>
-    <File>p:\dz\structures\roads\parts\grav_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_22 50</Name>
+    <File>dz/structures/roads/parts/city_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11899</Hash>
@@ -2674,11 +2476,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>grav_7 100</Name>
-    <File>p:\dz\structures\roads\parts\grav_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_25</Name>
+    <File>dz/structures/roads/parts/city_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11900</Hash>
@@ -2707,11 +2509,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf1_asf2</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf1_asf2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_30 25</Name>
+    <File>dz/structures/roads/parts/city_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11901</Hash>
@@ -2740,11 +2542,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf1_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf1_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_6</Name>
+    <File>dz/structures/roads/parts/city_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11902</Hash>
@@ -2773,11 +2575,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf1_city</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf1_city.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_60 10</Name>
+    <File>dz/structures/roads/parts/city_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11903</Hash>
@@ -2806,11 +2608,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf2_asf2</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf2_asf2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_6_crosswalk</Name>
+    <File>dz/structures/roads/parts/city_6_crosswalk.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11904</Hash>
@@ -2839,11 +2641,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf2_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf2_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_6konec</Name>
+    <File>dz/structures/roads/parts/city_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11905</Hash>
@@ -2872,11 +2674,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf3_asf2</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf3_asf2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_7 100</Name>
+    <File>dz/structures/roads/parts/city_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11906</Hash>
@@ -2905,11 +2707,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf3_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf3_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_0 2000</Name>
+    <File>dz/structures/roads/parts/grav_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11907</Hash>
@@ -2938,11 +2740,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_asf3_mud</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_asf3_mud.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_1 1000</Name>
+    <File>dz/structures/roads/parts/grav_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11908</Hash>
@@ -2971,11 +2773,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_city_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_city_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_10 100</Name>
+    <File>dz/structures/roads/parts/grav_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11909</Hash>
@@ -3004,11 +2806,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_city_city</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_city_city.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_10 25</Name>
+    <File>dz/structures/roads/parts/grav_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11910</Hash>
@@ -3037,11 +2839,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_t_mud_mud</Name>
-    <File>p:\dz\structures\roads\parts\kr_t_mud_mud.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_10 50</Name>
+    <File>dz/structures/roads/parts/grav_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11911</Hash>
@@ -3070,11 +2872,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_x_asf1_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_x_asf1_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_10 75</Name>
+    <File>dz/structures/roads/parts/grav_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11912</Hash>
@@ -3103,11 +2905,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_x_asf1_city</Name>
-    <File>p:\dz\structures\roads\parts\kr_x_asf1_city.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_12</Name>
+    <File>dz/structures/roads/parts/grav_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11913</Hash>
@@ -3136,11 +2938,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_x_asf2_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_x_asf2_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_15 75</Name>
+    <File>dz/structures/roads/parts/grav_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11914</Hash>
@@ -3169,11 +2971,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_x_city_city</Name>
-    <File>p:\dz\structures\roads\parts\kr_x_city_city.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_22 50</Name>
+    <File>dz/structures/roads/parts/grav_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11915</Hash>
@@ -3202,11 +3004,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>kr_x_city_city_asf3</Name>
-    <File>p:\dz\structures\roads\parts\kr_x_city_city_asf3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_25</Name>
+    <File>dz/structures/roads/parts/grav_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11916</Hash>
@@ -3235,11 +3037,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\mud_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_30 25</Name>
+    <File>dz/structures/roads/parts/grav_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11917</Hash>
@@ -3268,11 +3070,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\mud_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_6</Name>
+    <File>dz/structures/roads/parts/grav_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11918</Hash>
@@ -3301,11 +3103,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_10 100</Name>
-    <File>p:\dz\structures\roads\parts\mud_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_60 10</Name>
+    <File>dz/structures/roads/parts/grav_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11919</Hash>
@@ -3334,11 +3136,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_10 25</Name>
-    <File>p:\dz\structures\roads\parts\mud_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_6konec</Name>
+    <File>dz/structures/roads/parts/grav_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11920</Hash>
@@ -3367,11 +3169,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_10 50</Name>
-    <File>p:\dz\structures\roads\parts\mud_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>grav_7 100</Name>
+    <File>dz/structures/roads/parts/grav_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11921</Hash>
@@ -3400,11 +3202,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_10 75</Name>
-    <File>p:\dz\structures\roads\parts\mud_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf1_asf2</Name>
+    <File>dz/structures/roads/parts/kr_t_asf1_asf2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11922</Hash>
@@ -3433,11 +3235,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_12</Name>
-    <File>p:\dz\structures\roads\parts\mud_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf1_asf3</Name>
+    <File>dz/structures/roads/parts/kr_t_asf1_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11923</Hash>
@@ -3466,11 +3268,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_15 75</Name>
-    <File>p:\dz\structures\roads\parts\mud_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf1_city</Name>
+    <File>dz/structures/roads/parts/kr_t_asf1_city.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11924</Hash>
@@ -3499,11 +3301,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_22 50</Name>
-    <File>p:\dz\structures\roads\parts\mud_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf2_asf2</Name>
+    <File>dz/structures/roads/parts/kr_t_asf2_asf2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11925</Hash>
@@ -3532,11 +3334,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_25</Name>
-    <File>p:\dz\structures\roads\parts\mud_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf2_asf3</Name>
+    <File>dz/structures/roads/parts/kr_t_asf2_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11926</Hash>
@@ -3565,11 +3367,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_30 25</Name>
-    <File>p:\dz\structures\roads\parts\mud_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf3_asf2</Name>
+    <File>dz/structures/roads/parts/kr_t_asf3_asf2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11927</Hash>
@@ -3598,11 +3400,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_6</Name>
-    <File>p:\dz\structures\roads\parts\mud_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf3_asf3</Name>
+    <File>dz/structures/roads/parts/kr_t_asf3_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11928</Hash>
@@ -3631,11 +3433,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_60 10</Name>
-    <File>p:\dz\structures\roads\parts\mud_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_asf3_mud</Name>
+    <File>dz/structures/roads/parts/kr_t_asf3_mud.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11929</Hash>
@@ -3664,11 +3466,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_6konec</Name>
-    <File>p:\dz\structures\roads\parts\mud_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_city_asf3</Name>
+    <File>dz/structures/roads/parts/kr_t_city_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11930</Hash>
@@ -3697,11 +3499,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mud_7 100</Name>
-    <File>p:\dz\structures\roads\parts\mud_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_city_city</Name>
+    <File>dz/structures/roads/parts/kr_t_city_city.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11931</Hash>
@@ -3730,11 +3532,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>path_dirt_10</Name>
-    <File>p:\dz\structures\roads\parts\path_dirt_10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_t_mud_mud</Name>
+    <File>dz/structures/roads/parts/kr_t_mud_mud.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11932</Hash>
@@ -3763,11 +3565,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>path_dirt_30</Name>
-    <File>p:\dz\structures\roads\parts\path_dirt_30.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_x_asf1_asf3</Name>
+    <File>dz/structures/roads/parts/kr_x_asf1_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11933</Hash>
@@ -3796,11 +3598,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>path_dirt_curve</Name>
-    <File>p:\dz\structures\roads\parts\path_dirt_curve.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_x_asf1_city</Name>
+    <File>dz/structures/roads/parts/kr_x_asf1_city.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11934</Hash>
@@ -3829,11 +3631,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>path_rock_10</Name>
-    <File>p:\dz\structures\roads\parts\path_rock_10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_x_asf2_asf3</Name>
+    <File>dz/structures/roads/parts/kr_x_asf2_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11935</Hash>
@@ -3862,11 +3664,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>path_rock_30</Name>
-    <File>p:\dz\structures\roads\parts\path_rock_30.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_x_city_city</Name>
+    <File>dz/structures/roads/parts/kr_x_city_city.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11936</Hash>
@@ -3895,11 +3697,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>path_rock_curve</Name>
-    <File>p:\dz\structures\roads\parts\path_rock_curve.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>kr_x_city_city_asf3</Name>
+    <File>dz/structures/roads/parts/kr_x_city_city_asf3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11937</Hash>
@@ -3928,11 +3730,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runwayold_40_main</Name>
-    <File>p:\dz\structures\roads\parts\runwayold_40_main.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_0 2000</Name>
+    <File>dz/structures/roads/parts/mud_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11938</Hash>
@@ -3961,11 +3763,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_beton</Name>
-    <File>p:\dz\structures\roads\parts\runway_beton.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_1 1000</Name>
+    <File>dz/structures/roads/parts/mud_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11939</Hash>
@@ -3994,11 +3796,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_beton_end1</Name>
-    <File>p:\dz\structures\roads\parts\runway_beton_end1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_10 100</Name>
+    <File>dz/structures/roads/parts/mud_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11940</Hash>
@@ -4027,11 +3829,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_beton_end2</Name>
-    <File>p:\dz\structures\roads\parts\runway_beton_end2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_10 25</Name>
+    <File>dz/structures/roads/parts/mud_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11941</Hash>
@@ -4060,11 +3862,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_dirt_1</Name>
-    <File>p:\dz\structures\roads\parts\runway_dirt_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_10 50</Name>
+    <File>dz/structures/roads/parts/mud_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11942</Hash>
@@ -4093,11 +3895,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_dirt_2</Name>
-    <File>p:\dz\structures\roads\parts\runway_dirt_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_10 75</Name>
+    <File>dz/structures/roads/parts/mud_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11943</Hash>
@@ -4126,11 +3928,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_dirt_3</Name>
-    <File>p:\dz\structures\roads\parts\runway_dirt_3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_12</Name>
+    <File>dz/structures/roads/parts/mud_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11944</Hash>
@@ -4159,11 +3961,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_end15</Name>
-    <File>p:\dz\structures\roads\parts\runway_end15.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_15 75</Name>
+    <File>dz/structures/roads/parts/mud_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11945</Hash>
@@ -4192,11 +3994,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_end33</Name>
-    <File>p:\dz\structures\roads\parts\runway_end33.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_22 50</Name>
+    <File>dz/structures/roads/parts/mud_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11946</Hash>
@@ -4225,11 +4027,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_main</Name>
-    <File>p:\dz\structures\roads\parts\runway_main.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_25</Name>
+    <File>dz/structures/roads/parts/mud_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11947</Hash>
@@ -4258,11 +4060,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_main_40</Name>
-    <File>p:\dz\structures\roads\parts\runway_main_40.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_30 25</Name>
+    <File>dz/structures/roads/parts/mud_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11948</Hash>
@@ -4291,11 +4093,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_draha</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_draha.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_6</Name>
+    <File>dz/structures/roads/parts/mud_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11949</Hash>
@@ -4324,11 +4126,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_l_1</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_l_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_60 10</Name>
+    <File>dz/structures/roads/parts/mud_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11950</Hash>
@@ -4357,11 +4159,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_l_1_end</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_l_1_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_6konec</Name>
+    <File>dz/structures/roads/parts/mud_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11951</Hash>
@@ -4390,11 +4192,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_l_2</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_l_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>mud_7 100</Name>
+    <File>dz/structures/roads/parts/mud_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11952</Hash>
@@ -4423,11 +4225,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_l_2_end</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_l_2_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>path_dirt_10</Name>
+    <File>dz/structures/roads/parts/path_dirt_10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11953</Hash>
@@ -4456,11 +4258,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_spoj</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_spoj.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>path_dirt_30</Name>
+    <File>dz/structures/roads/parts/path_dirt_30.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11954</Hash>
@@ -4489,11 +4291,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_spoj_2</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_spoj_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>path_dirt_curve</Name>
+    <File>dz/structures/roads/parts/path_dirt_curve.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11955</Hash>
@@ -4522,11 +4324,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_t_1</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_t_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>path_rock_10</Name>
+    <File>dz/structures/roads/parts/path_rock_10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11956</Hash>
@@ -4555,11 +4357,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>runway_poj_t_2</Name>
-    <File>p:\dz\structures\roads\parts\runway_poj_t_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>path_rock_30</Name>
+    <File>dz/structures/roads/parts/path_rock_30.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11957</Hash>
@@ -4588,11 +4390,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_0 2000</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>path_rock_curve</Name>
+    <File>dz/structures/roads/parts/path_rock_curve.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11958</Hash>
@@ -4621,11 +4423,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_1 1000</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_beton</Name>
+    <File>dz/structures/roads/parts/runway_beton.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11959</Hash>
@@ -4654,11 +4456,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_10 100</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_beton_end1</Name>
+    <File>dz/structures/roads/parts/runway_beton_end1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11960</Hash>
@@ -4687,11 +4489,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_10 25</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_beton_end2</Name>
+    <File>dz/structures/roads/parts/runway_beton_end2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11961</Hash>
@@ -4720,11 +4522,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_10 50</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_dirt_1</Name>
+    <File>dz/structures/roads/parts/runway_dirt_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11962</Hash>
@@ -4753,11 +4555,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_10 75</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_dirt_2</Name>
+    <File>dz/structures/roads/parts/runway_dirt_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11963</Hash>
@@ -4786,11 +4588,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_12</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_dirt_3</Name>
+    <File>dz/structures/roads/parts/runway_dirt_3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11964</Hash>
@@ -4819,11 +4621,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_15 75</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_end15</Name>
+    <File>dz/structures/roads/parts/runway_end15.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11965</Hash>
@@ -4852,11 +4654,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_22 50</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_end33</Name>
+    <File>dz/structures/roads/parts/runway_end33.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11966</Hash>
@@ -4885,11 +4687,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_25</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_main</Name>
+    <File>dz/structures/roads/parts/runway_main.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11967</Hash>
@@ -4918,11 +4720,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_30 25</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_main_40</Name>
+    <File>dz/structures/roads/parts/runway_main_40.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11968</Hash>
@@ -4951,11 +4753,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_6</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_poj_l_1</Name>
+    <File>dz/structures/roads/parts/runway_poj_l_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11969</Hash>
@@ -4984,11 +4786,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_60 10</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_poj_l_1_end</Name>
+    <File>dz/structures/roads/parts/runway_poj_l_1_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11970</Hash>
@@ -5017,11 +4819,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_6konec</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_poj_l_2</Name>
+    <File>dz/structures/roads/parts/runway_poj_l_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11971</Hash>
@@ -5050,14 +4852,212 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>taxiway_7 100</Name>
-    <File>p:\dz\structures\roads\parts\taxiway_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>runway_poj_l_2_end</Name>
+    <File>dz/structures/roads/parts/runway_poj_l_2_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11972</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>runway_poj_t_1</Name>
+    <File>dz/structures/roads/parts/runway_poj_t_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Archive></Archive>
+    <Fill>-16744448</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>11973</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>runway_poj_t_2</Name>
+    <File>dz/structures/roads/parts/runway_poj_t_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Archive></Archive>
+    <Fill>-16744448</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>11974</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>runway_poj_draha</Name>
+    <File>dz/structures/roads/parts/runway_poj_draha.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Archive></Archive>
+    <Fill>-16744448</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>11975</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>runway_poj_spoj</Name>
+    <File>dz/structures/roads/parts/runway_poj_spoj.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Archive></Archive>
+    <Fill>-16744448</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>11976</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>runway_poj_spoj_2</Name>
+    <File>dz/structures/roads/parts/runway_poj_spoj_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Archive></Archive>
+    <Fill>-16744448</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>11977</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>runwayold_40_main</Name>
+    <File>dz/structures/roads/parts/runwayold_40_main.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Archive></Archive>
+    <Fill>-16744448</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>11978</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

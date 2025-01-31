@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_underground_entrance" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>underground_entrance</Name>
-    <File>p:\dz\structures_bliss\underground\entrance\underground_entrance.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/entrance/underground_entrance.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13923</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>underground_panel</Name>
-    <File>p:\dz\structures_bliss\underground\entrance\underground_panel.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/entrance/underground_panel.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13924</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>underground_panel_lever</Name>
-    <File>p:\dz\structures_bliss\underground\entrance\underground_panel_lever.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/entrance/underground_panel_lever.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13925</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>underground_entrance_detail</Name>
-    <File>p:\dz\structures_bliss\underground\entrance\proxy\underground_entrance_detail.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/entrance/proxy/underground_entrance_detail.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13926</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>underground_entrance_door</Name>
-    <File>p:\dz\structures_bliss\underground\entrance\proxy\underground_entrance_door.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/entrance/proxy/underground_entrance_door.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13927</Hash>

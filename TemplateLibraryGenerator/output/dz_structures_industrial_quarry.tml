@@ -2,13 +2,13 @@
 <Library name="dz_structures_industrial_quarry" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>quarry_conveyer</Name>
-    <File>p:\dz\structures\industrial\quarry\quarry_conveyer.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/quarry/quarry_conveyer.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11109</Hash>
+    <Hash>11129</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>quarry_conveyerlong</Name>
-    <File>p:\dz\structures\industrial\quarry\quarry_conveyerlong.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/quarry/quarry_conveyerlong.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11110</Hash>
+    <Hash>11130</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>quarry_hammermill</Name>
-    <File>p:\dz\structures\industrial\quarry\quarry_hammermill.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/quarry/quarry_hammermill.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11111</Hash>
+    <Hash>11131</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -101,13 +101,13 @@
 </Template>
 <Template>
     <Name>quarry_main</Name>
-    <File>p:\dz\structures\industrial\quarry\quarry_main.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/quarry/quarry_main.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11112</Hash>
+    <Hash>11132</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

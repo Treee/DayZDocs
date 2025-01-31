@@ -2,13 +2,13 @@
 <Library name="dz_structures_industrial_garages" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>garage_big</Name>
-    <File>p:\dz\structures\industrial\garages\garage_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/garages/garage_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10940</Hash>
+    <Hash>10960</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>garage_office</Name>
-    <File>p:\dz\structures\industrial\garages\garage_office.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/garages/garage_office.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10941</Hash>
+    <Hash>10961</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>garage_row_big</Name>
-    <File>p:\dz\structures\industrial\garages\garage_row_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/garages/garage_row_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10942</Hash>
+    <Hash>10962</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -101,13 +101,13 @@
 </Template>
 <Template>
     <Name>garage_row_small</Name>
-    <File>p:\dz\structures\industrial\garages\garage_row_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/garages/garage_row_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10943</Hash>
+    <Hash>10963</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -134,13 +134,13 @@
 </Template>
 <Template>
     <Name>garage_small</Name>
-    <File>p:\dz\structures\industrial\garages\garage_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/garages/garage_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10944</Hash>
+    <Hash>10964</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

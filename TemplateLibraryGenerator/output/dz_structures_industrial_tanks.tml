@@ -2,13 +2,13 @@
 <Library name="dz_structures_industrial_tanks" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>tank_big</Name>
-    <File>p:\dz\structures\industrial\tanks\tank_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/tanks/tank_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11128</Hash>
+    <Hash>11148</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>tank_medium</Name>
-    <File>p:\dz\structures\industrial\tanks\tank_medium.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/tanks/tank_medium.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11129</Hash>
+    <Hash>11149</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>tank_medium_stairs</Name>
-    <File>p:\dz\structures\industrial\tanks\tank_medium_stairs.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/tanks/tank_medium_stairs.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11130</Hash>
+    <Hash>11150</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -101,13 +101,13 @@
 </Template>
 <Template>
     <Name>tank_small_gas</Name>
-    <File>p:\dz\structures\industrial\tanks\tank_small_gas.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/tanks/tank_small_gas.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11131</Hash>
+    <Hash>11151</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -134,13 +134,13 @@
 </Template>
 <Template>
     <Name>tank_small_rusty</Name>
-    <File>p:\dz\structures\industrial\tanks\tank_small_rusty.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/tanks/tank_small_rusty.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11132</Hash>
+    <Hash>11152</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -167,13 +167,13 @@
 </Template>
 <Template>
     <Name>tank_small_white</Name>
-    <File>p:\dz\structures\industrial\tanks\tank_small_white.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/industrial/tanks/tank_small_white.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>11133</Hash>
+    <Hash>11153</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

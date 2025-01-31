@@ -2,10 +2,10 @@
 <Library name="dz_structures_sakhal_military" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
     <Name>mil_blastcover1_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\mil_blastcover1_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/mil_blastcover1_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14192</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover2_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\mil_blastcover2_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/mil_blastcover2_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14193</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover3_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\mil_blastcover3_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/mil_blastcover3_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14194</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover4_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\mil_blastcover4_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/mil_blastcover4_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14195</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>mil_reinforcedtank1_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\mil_reinforcedtank1_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/mil_reinforcedtank1_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14196</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\mil_reinforcedtank2_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/mil_reinforcedtank2_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14197</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover1_sakhal_grass</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_blastcover1_sakhal_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_blastcover1_sakhal_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14198</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover2_sakhal_grassl</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_blastcover2_sakhal_grassl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_blastcover2_sakhal_grassl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14199</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover2_sakhal_grassr</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_blastcover2_sakhal_grassr.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_blastcover2_sakhal_grassr.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14200</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover3_sakhal_grass</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_blastcover3_sakhal_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_blastcover3_sakhal_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14201</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>mil_blastcover4_sakhal_grass</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_blastcover4_sakhal_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_blastcover4_sakhal_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14202</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>mil_reinforcedtank1_sakhal_grass</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_reinforcedtank1_sakhal_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_reinforcedtank1_sakhal_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14203</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_sakhal_grassl</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_reinforcedtank2_sakhal_grassl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_reinforcedtank2_sakhal_grassl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14204</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_sakhal_grassr</Name>
-    <File>p:\dz\structures_sakhal\military\airfield\proxy\mil_reinforcedtank2_sakhal_grassr.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/airfield/proxy/mil_reinforcedtank2_sakhal_grassr.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14205</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>mil_controltower_east</Name>
-    <File>p:\dz\structures_sakhal\military\houses\mil_controltower_east.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/houses/mil_controltower_east.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14206</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>mil_artilery_rampart_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\improvised\mil_artilery_rampart_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/improvised/mil_artilery_rampart_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14207</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>mil_artillery_nest_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\improvised\mil_artillery_nest_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/improvised/mil_artillery_nest_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14208</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>mil_artilery_rampart_sakhal_grass</Name>
-    <File>p:\dz\structures_sakhal\military\improvised\proxy\mil_artilery_rampart_sakhal_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/improvised/proxy/mil_artilery_rampart_sakhal_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14209</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>mil_artillery_nest_sakhal_grass</Name>
-    <File>p:\dz\structures_sakhal\military\improvised\proxy\mil_artillery_nest_sakhal_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/improvised/proxy/mil_artillery_nest_sakhal_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14210</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>mil_antena_k7</Name>
-    <File>p:\dz\structures_sakhal\military\radar\mil_antena_k7.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/radar/mil_antena_k7.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14211</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>mil_radome_big</Name>
-    <File>p:\dz\structures_sakhal\military\radar\mil_radome_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/radar/mil_radome_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14212</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>mil_radome_small</Name>
-    <File>p:\dz\structures_sakhal\military\radar\mil_radome_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/radar/mil_radome_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14213</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_entrance</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_entrance.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_entrance.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14214</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_entrance_roof</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_entrance_roof.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_entrance_roof.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14215</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_entrance_roof_detail1</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_entrance_roof_detail1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_entrance_roof_detail1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14216</Hash>
@@ -827,10 +827,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_entrance_roof_detail2</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_entrance_roof_detail2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_entrance_roof_detail2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14217</Hash>
@@ -860,10 +860,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_main</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_main.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_main.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14218</Hash>
@@ -893,10 +893,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_powerstation</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_powerstation.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_powerstation.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14219</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_powerstation_generator</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_powerstation_generator.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_powerstation_generator.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14220</Hash>
@@ -959,10 +959,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_room1</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_room1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_room1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14221</Hash>
@@ -992,10 +992,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_room2</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_room2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_room2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14222</Hash>
@@ -1025,10 +1025,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_room3</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_room3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_room3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14223</Hash>
@@ -1058,10 +1058,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_room4</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_room4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_room4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14224</Hash>
@@ -1091,10 +1091,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_top</Name>
-    <File>p:\dz\structures_sakhal\military\storage\warheadstorage_top.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/warheadstorage_top.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14225</Hash>
@@ -1124,10 +1124,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_top_bottomleft_grass</Name>
-    <File>p:\dz\structures_sakhal\military\storage\grass_proxy\warheadstorage_top_bottomleft_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_bottomleft_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14226</Hash>
@@ -1157,10 +1157,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_top_bottomright_grass</Name>
-    <File>p:\dz\structures_sakhal\military\storage\grass_proxy\warheadstorage_top_bottomright_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_bottomright_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14227</Hash>
@@ -1190,10 +1190,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_top_topleft_grass</Name>
-    <File>p:\dz\structures_sakhal\military\storage\grass_proxy\warheadstorage_top_topleft_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_topleft_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14228</Hash>
@@ -1223,10 +1223,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_top_topright_grass</Name>
-    <File>p:\dz\structures_sakhal\military\storage\grass_proxy\warheadstorage_top_topright_grass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_topright_grass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14229</Hash>
@@ -1256,10 +1256,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_entrance_roof_detail1_dupe_2</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_entrance_roof_detail1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_entrance_roof_detail1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14230</Hash>
@@ -1289,10 +1289,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_entrance_roof_detail2_dupe_2</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_entrance_roof_detail2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_entrance_roof_detail2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14231</Hash>
@@ -1322,10 +1322,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_main_detail_01</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_main_detail_01.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_01.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14232</Hash>
@@ -1355,10 +1355,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_main_detail_02</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_main_detail_02.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_02.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14233</Hash>
@@ -1388,10 +1388,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_main_detail_03</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_main_detail_03.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_03.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14234</Hash>
@@ -1421,10 +1421,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_main_detail_04</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_main_detail_04.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_04.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14235</Hash>
@@ -1454,10 +1454,10 @@
 </Template>
 <Template>
     <Name>warheadstorage_main_detail_05</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warheadstorage_main_detail_05.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_05.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14236</Hash>
@@ -1487,10 +1487,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_airlock</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_airlock.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_airlock.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14237</Hash>
@@ -1520,10 +1520,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_crane</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_crane.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_crane.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14238</Hash>
@@ -1553,10 +1553,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_door_slide</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_door_slide.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_door_slide.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14239</Hash>
@@ -1586,10 +1586,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_door_switch</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_door_switch.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_door_switch.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14240</Hash>
@@ -1619,10 +1619,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_electronic_box</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_electronic_box.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_electronic_box.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14241</Hash>
@@ -1652,10 +1652,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_heater_long</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_heater_long.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_heater_long.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14242</Hash>
@@ -1685,10 +1685,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_heater_short</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_heater_short.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_heater_short.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14243</Hash>
@@ -1718,10 +1718,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_lamp</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_lamp.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_lamp.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14244</Hash>
@@ -1751,10 +1751,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_lamp_broken</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_lamp_broken.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_lamp_broken.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14245</Hash>
@@ -1784,10 +1784,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_light</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_light.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_light.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14246</Hash>
@@ -1817,10 +1817,10 @@
 </Template>
 <Template>
     <Name>warhead_storage_locker</Name>
-    <File>p:\dz\structures_sakhal\military\storage\proxy\warhead_storage_locker.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/storage/proxy/warhead_storage_locker.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14247</Hash>
@@ -1850,10 +1850,10 @@
 </Template>
 <Template>
     <Name>tisy_bighangar_a</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\tisy_bighangar_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/tisy_bighangar_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14248</Hash>
@@ -1883,10 +1883,10 @@
 </Template>
 <Template>
     <Name>tisy_bighangar_b</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\tisy_bighangar_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/tisy_bighangar_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14249</Hash>
@@ -1916,10 +1916,10 @@
 </Template>
 <Template>
     <Name>tisy_garages2_sakhal</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\tisy_garages2_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/tisy_garages2_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14250</Hash>
@@ -1949,10 +1949,10 @@
 </Template>
 <Template>
     <Name>tisy_garages3</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\tisy_garages3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/tisy_garages3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14251</Hash>
@@ -1982,10 +1982,10 @@
 </Template>
 <Template>
     <Name>tisy_launchcontrol</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\tisy_launchcontrol.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/tisy_launchcontrol.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14252</Hash>
@@ -2015,10 +2015,10 @@
 </Template>
 <Template>
     <Name>tisy_bighangar_a_grass_l</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_bighangar_a_grass_l.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_bighangar_a_grass_l.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14253</Hash>
@@ -2048,10 +2048,10 @@
 </Template>
 <Template>
     <Name>tisy_bighangar_a_grass_r</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_bighangar_a_grass_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_bighangar_a_grass_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14254</Hash>
@@ -2081,10 +2081,10 @@
 </Template>
 <Template>
     <Name>tisy_bighangar_b_grass_l</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_bighangar_b_grass_l.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_bighangar_b_grass_l.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14255</Hash>
@@ -2114,10 +2114,10 @@
 </Template>
 <Template>
     <Name>tisy_bighangar_b_grass_r</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_bighangar_b_grass_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_bighangar_b_grass_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14256</Hash>
@@ -2147,10 +2147,10 @@
 </Template>
 <Template>
     <Name>tisy_garages2_sakhal_grass_l</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_garages2_sakhal_grass_l.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_garages2_sakhal_grass_l.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14257</Hash>
@@ -2180,10 +2180,10 @@
 </Template>
 <Template>
     <Name>tisy_garages2_sakhal_grass_r</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_garages2_sakhal_grass_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_garages2_sakhal_grass_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14258</Hash>
@@ -2213,10 +2213,10 @@
 </Template>
 <Template>
     <Name>tisy_launchcontrol_grass_l</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_launchcontrol_grass_l.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_launchcontrol_grass_l.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14259</Hash>
@@ -2246,10 +2246,10 @@
 </Template>
 <Template>
     <Name>tisy_launchcontrol_grass_r</Name>
-    <File>p:\dz\structures_sakhal\military\tisy\proxy\tisy_launchcontrol_grass_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/military/tisy/proxy/tisy_launchcontrol_grass_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14260</Hash>

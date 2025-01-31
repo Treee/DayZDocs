@@ -2,10 +2,10 @@
 <Library name="dz_structures_specific_towers" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>tower_tc1</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12904</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>tower_tc2_base</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc2_base.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc2_base.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12905</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>tower_tc2_mid</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc2_mid.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc2_mid.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12906</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>tower_tc2_top</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc2_top.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc2_top.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12907</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>tower_tc3_grey</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc3_grey.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc3_grey.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12908</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>tower_tc3_red</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc3_red.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc3_red.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12909</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>tower_tc4_base</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc4_base.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc4_base.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12910</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>tower_tc4_mid</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc4_mid.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc4_mid.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12911</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>tower_tc4_top</Name>
-    <File>p:\dz\structures\specific\towers\tower_tc4_top.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/towers/tower_tc4_top.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12912</Hash>

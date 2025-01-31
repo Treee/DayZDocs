@@ -8,13 +8,13 @@ This tool aims to remove the human element for creating Template Libraries and a
 
 ## How To Use (EASY VERSION)
 
-- Step 1: Download the auto generated files here [https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output](https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output)
+-   Step 1: Download the auto generated files here [https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output](https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output)
 
-- Step 2: Place these files inside your `TemplateLibrary` folder within the source of your `Terrain Builder` project. Take note, `Terrain Builder` does not like duplicate values so if you have existing `.tml` files ensure no duplicate names are present.
+-   Step 2: Place these files inside your `TemplateLibrary` folder within the source of your `Terrain Builder` project. Take note, `Terrain Builder` does not like duplicate values so if you have existing `.tml` files ensure no duplicate names are present.
 
 ![Template Libary File Location](images/template-lib-location.png "Template Libary File Location")
 
-- Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
+-   Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
 
 ![Template Libary Load Action](images/load-library.png "Template Libary Load Action")
 
@@ -22,15 +22,15 @@ You now have all vanilla map assets with reasonable categories.
 
 ## How To Use (MANUAL VERSION)
 
-- Step 1: Clone the repository
+-   Step 1: Clone the repository
 
-- Step 2: Navigate to the root directory
+-   Step 2: Navigate to the root directory
 
-- Step 3: Open a terminal and enter the command `npm start`
+-   Step 3: Open a terminal and enter the command `npm start`
 
-- Step 4: Copy the template files into the `TemplateLibrary` folder within the source of your `Terrain Builder` project.
+-   Step 4: Copy the template files into the `TemplateLibrary` folder within the source of your `Terrain Builder` project.
 
-- Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
+-   Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
 
 ## Special Considerations
 
@@ -44,29 +44,47 @@ The HASH generated in these files is an arbitrary number not linked to anything 
 
 This file is fairly basic and the bulk of code is file i/o. The important items to call out are:
 
-- `foldersToTemplate` - Array of folders the crawler will consider important.
-- `readdirRecursiveSync` - Function that takes a root filePath and folder and crawls for p3ds.
-- `writeFileSync` - Writes the payload to a file for subsequent parsing.
+-   `foldersToTemplate` - Array of folders the crawler will consider important.
+-   `readdirRecursiveSync` - Function that takes a root filePath and folder and crawls for p3ds.
+-   `writeFileSync` - Writes the payload to a file for subsequent parsing.
 
 ```js
 const foldersToTemplate = [
-  "dz\\plants",
-  "dz\\plants_bliss",
-  "dz\\plants_sakhal",
-  "dz\\rocks",
-  "dz\\rocks_bliss",
-  "dz\\rocks_sakhal",
-  "dz\\structures",
-  "dz\\structures_bliss",
-  "dz\\structures_sakhal",
-  "dz\\water",
-  "dz\\water_bliss",
-  "dz\\water_sakhal", // vanilla dayz files
-  "ALV_UN_Props", // unpacked mod from workshop in P drive
-  "ALV_UN_Structures\\Structures", // unpacked mod from workshop in P drive with nested folders
+    "dz\\plants",
+    "dz\\plants_bliss",
+    "dz\\plants_sakhal",
+    "dz\\rocks",
+    "dz\\rocks_bliss",
+    "dz\\rocks_sakhal",
+    "dz\\structures",
+    "dz\\structures_bliss",
+    "dz\\structures_sakhal",
+    "dz\\water",
+    "dz\\water_bliss",
+    "dz\\water_sakhal", // vanilla dayz files
+    "ALV_UN_Props", // unpacked mod from workshop in P drive
+    "ALV_UN_Structures\\Structures", // unpacked mod from workshop in P drive with nested folders
 ];
+
+const b_IsWindows = process.platform === "win32"; // check if we can use windows filepaths
+
+let rootFilepath = "P:\\"; // default to p drive
+
+// if the runtime is not in windows
+if (!b_IsWindows) {
+    const windowsUsername = ""; // this is your windows user profile
+    rootFilepath = `/mnt/c/Users/${windowsUsername}/Documents/DayZ Projects`;
+    // replace \\ with / to reconcil filepath differences
+    foldersToTemplate.forEach((folderFilePath, index, theArray) => {
+        theArray[index] = folderFilePath.replaceAll("\\", "/");
+    });
+    // if you use WSL 2 you can mount virtual file systems and just mount your p drive normally
+    // (or whatever drive you want really)
+    // rootFilepath = "p";
+}
+
 foldersToTemplate.forEach((folder) => {
-  readdirRecursiveSync("P:\\", folder); // root folder is P drive
+    readdirRecursiveSync(rootFilepath, folder);
 });
 
 writeFileSync("./test/rawTemplateLibraryData.json", JSON.stringify(foldersFound), "utf8");
@@ -78,9 +96,9 @@ It is untested but there is no reason this would not work for P drive as the roo
 
 This file contains the logic to parse raw data and format into `TemplateLibrary (.tml)` files. I have broken out the main steps into functions as you can see below.
 
-- Import raw data from file. We generated this file from `getp3dsForImport.js`
-- Format the raw data into an object that can be iterated over easily.
-- Write the formatted data to their respective Template files.
+-   Import raw data from file. We generated this file from `getp3dsForImport.js`
+-   Format the raw data into an object that can be iterated over easily.
+-   Write the formatted data to their respective Template files.
 
 ```js
 const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));
@@ -94,7 +112,7 @@ I have encoded a few assumptions that might not be applicable to everyone so bel
 
 ```js
 function formatP3dJsonForTemplateLibrary(data) {
-  /* This is the main data object returned. Template Names for the key and the value is list of p3ds to include within the template. There are two types of Category for a template I consider notable:
+    /* This is the main data object returned. Template Names for the key and the value is list of p3ds to include within the template. There are two types of Category for a template I consider notable:
 
   a. Root Category - This is defined by having a config.cpp present within a directory. It tells me that definitions exist for p3ds in this folder or sub folders. Either way, a good identifier for template names. In practice, folders like dz/plants/clutter and dz/plants/bush have their own configs which allow for nice groupings for templates instead of putting all objects within dz/plants.
   b. Sub Category - This is defined by being a child of the root. (1 level within the directory). This value can be changed to crawl deeper and create MORE folders for templates inside isWithinDepthLimits. I felt 1 level was reasonable given, between DZ/Bliss/Sakhal, there are already 183 categories and the majority of those residue within "structures".
@@ -118,44 +136,44 @@ function formatP3dJsonForTemplateLibrary(data) {
     For each raw key (template name),
     Group "like" p3ds together using the children directories of Root/Sub Categories
     */
-  const templateLibraryData = {};
-  let lastKey = Object.keys(data)[0];
-  let numRootParts = 0;
-  let templateName = "";
-  let associatedP3Ds = [];
+    const templateLibraryData = {};
+    let lastKey = Object.keys(data)[0];
+    let numRootParts = 0;
+    let templateName = "";
+    let associatedP3Ds = [];
 
-  Object.keys(data).forEach((key) => {
-    const payload = data[key];
-    // root level category
-    if (payload.configcpp !== "") {
-      numRootParts = key.split("\\").length;
-      lastKey = key;
-      // reset associated p3ds when new categories are found
-      associatedP3Ds = [];
-    }
-    // check 1 level deep directories
-    if (isWithinDepthLimits(key, numRootParts + 1)) {
-      lastKey = key;
-      // reset associated p3ds when new categories are found
-      associatedP3Ds = [];
-    }
-    // blindly make a new template name from the key
-    templateName = formatFilePathToTemplateName(key);
-    // if the current key has traces of last key inside
-    if (key.indexOf(lastKey) > -1) {
-      // use the last key as our template name (nesting folders)
-      templateName = formatFilePathToTemplateName(lastKey);
-    }
-    // if our helper object has this key AND items
-    if (templateLibraryData[templateName] && templateLibraryData[templateName].length > 0) {
-      // append
-      templateLibraryData[templateName] = [...templateLibraryData[templateName], ...payload.p3ds];
-    } else {
-      // define
-      templateLibraryData[templateName] = payload.p3ds;
-    }
-  });
+    Object.keys(data).forEach((key) => {
+        const payload = data[key];
+        // root level category
+        if (payload.configcpp !== "") {
+            numRootParts = key.split("\\").length;
+            lastKey = key;
+            // reset associated p3ds when new categories are found
+            associatedP3Ds = [];
+        }
+        // check 1 level deep directories
+        if (isWithinDepthLimits(key, numRootParts + 1)) {
+            lastKey = key;
+            // reset associated p3ds when new categories are found
+            associatedP3Ds = [];
+        }
+        // blindly make a new template name from the key
+        templateName = formatFilePathToTemplateName(key);
+        // if the current key has traces of last key inside
+        if (key.indexOf(lastKey) > -1) {
+            // use the last key as our template name (nesting folders)
+            templateName = formatFilePathToTemplateName(lastKey);
+        }
+        // if our helper object has this key AND items
+        if (templateLibraryData[templateName] && templateLibraryData[templateName].length > 0) {
+            // append
+            templateLibraryData[templateName] = [...templateLibraryData[templateName], ...payload.p3ds];
+        } else {
+            // define
+            templateLibraryData[templateName] = payload.p3ds;
+        }
+    });
 
-  return templateLibraryData;
+    return templateLibraryData;
 }
 ```

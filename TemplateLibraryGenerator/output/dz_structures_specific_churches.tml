@@ -2,13 +2,13 @@
 <Library name="dz_structures_specific_churches" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>chapel</Name>
-    <File>p:\dz\structures\specific\churches\chapel.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/chapel.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12814</Hash>
+    <Hash>12878</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>church1_yellow</Name>
-    <File>p:\dz\structures\specific\churches\church1_yellow.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/church1_yellow.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12815</Hash>
+    <Hash>12879</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>church2_1</Name>
-    <File>p:\dz\structures\specific\churches\church2_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/church2_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12816</Hash>
+    <Hash>12880</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -101,13 +101,13 @@
 </Template>
 <Template>
     <Name>church2_2</Name>
-    <File>p:\dz\structures\specific\churches\church2_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/church2_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12817</Hash>
+    <Hash>12881</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -134,13 +134,13 @@
 </Template>
 <Template>
     <Name>church3</Name>
-    <File>p:\dz\structures\specific\churches\church3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/church3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12818</Hash>
+    <Hash>12882</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -167,13 +167,13 @@
 </Template>
 <Template>
     <Name>chapel_table_proxy</Name>
-    <File>p:\dz\structures\specific\churches\proxy\chapel_table_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/chapel_table_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12819</Hash>
+    <Hash>12883</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -200,13 +200,13 @@
 </Template>
 <Template>
     <Name>chapel_table_proxy2</Name>
-    <File>p:\dz\structures\specific\churches\proxy\chapel_table_proxy2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/chapel_table_proxy2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12820</Hash>
+    <Hash>12884</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -233,13 +233,13 @@
 </Template>
 <Template>
     <Name>church_02_woodwall</Name>
-    <File>p:\dz\structures\specific\churches\proxy\church_02_woodwall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/church_02_woodwall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12821</Hash>
+    <Hash>12885</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -266,13 +266,13 @@
 </Template>
 <Template>
     <Name>church_03_interier</Name>
-    <File>p:\dz\structures\specific\churches\proxy\church_03_interier.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/church_03_interier.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12822</Hash>
+    <Hash>12886</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -299,13 +299,13 @@
 </Template>
 <Template>
     <Name>church_03_woodwall</Name>
-    <File>p:\dz\structures\specific\churches\proxy\church_03_woodwall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/church_03_woodwall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12823</Hash>
+    <Hash>12887</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -332,13 +332,13 @@
 </Template>
 <Template>
     <Name>church_03_woodwall_asset1</Name>
-    <File>p:\dz\structures\specific\churches\proxy\church_03_woodwall_asset1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/church_03_woodwall_asset1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12824</Hash>
+    <Hash>12888</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -365,13 +365,13 @@
 </Template>
 <Template>
     <Name>church_cross_1a</Name>
-    <File>p:\dz\structures\specific\churches\proxy\church_cross_1a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/church_cross_1a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12825</Hash>
+    <Hash>12889</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -398,13 +398,13 @@
 </Template>
 <Template>
     <Name>church_cross_1b</Name>
-    <File>p:\dz\structures\specific\churches\proxy\church_cross_1b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/churches/proxy/church_cross_1b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>12826</Hash>
+    <Hash>12890</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

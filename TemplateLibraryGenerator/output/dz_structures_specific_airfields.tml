@@ -2,10 +2,10 @@
 <Library name="dz_structures_specific_airfields" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>airfield_lamp</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_lamp.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_lamp.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12723</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>airfield_light_edge</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_edge.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_edge.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12724</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>airfield_light_navig</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_navig.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_navig.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12725</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>airfield_light_papi1</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_papi1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_papi1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12726</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>airfield_light_papi2</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_papi2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_papi2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12727</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>airfield_light_papi3</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_papi3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_papi3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12728</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>airfield_light_papi4</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_papi4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_papi4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12729</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>airfield_light_reflector</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_light_reflector.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_light_reflector.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12730</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>airfield_small_control</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_small_control.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_small_control.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12731</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>airfield_small_hangar</Name>
-    <File>p:\dz\structures\specific\airfields\airfield_small_hangar.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/airfield_small_hangar.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12732</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>misc_postbox2_dupe_2</Name>
-    <File>p:\dz\structures\specific\airfields\proxy\misc_postbox2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/proxy/misc_postbox2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12733</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>misc_woodpile1_dupe_2</Name>
-    <File>p:\dz\structures\specific\airfields\proxy\misc_woodpile1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/proxy/misc_woodpile1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12734</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>misc_woodtable_indoor_dupe_2</Name>
-    <File>p:\dz\structures\specific\airfields\proxy\misc_woodtable_indoor.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/specific/airfields/proxy/misc_woodtable_indoor.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12735</Hash>

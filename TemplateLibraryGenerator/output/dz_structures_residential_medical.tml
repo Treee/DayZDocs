@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_structures_residential_medical" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
-    <Name>city_hospital</Name>
-    <File>p:\dz\structures\residential\medical\city_hospital.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>curcylinder_01_f</Name>
+    <File>dz/structures/residential/medical/curcylinder_01_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11507</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_hospital_ghost1</Name>
-    <File>p:\dz\structures\residential\medical\city_hospital_ghost1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_hospital</Name>
+    <File>dz/structures/residential/medical/city_hospital.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11508</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_hospital_ghost2</Name>
-    <File>p:\dz\structures\residential\medical\city_hospital_ghost2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_hospital_ghost1</Name>
+    <File>dz/structures/residential/medical/city_hospital_ghost1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11509</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>curcylinder_01_f</Name>
-    <File>p:\dz\structures\residential\medical\curcylinder_01_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_hospital_ghost2</Name>
+    <File>dz/structures/residential/medical/city_hospital_ghost2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11510</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>decon_cbrncase_01_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_cbrncase_01_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_cbrncase_01_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11511</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>decon_hazmatbag_01_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_hazmatbag_01_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_hazmatbag_01_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11512</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>decon_hazmatbag_01_roll_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_hazmatbag_01_roll_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_hazmatbag_01_roll_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11513</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_corner_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_corner_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_corner_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11514</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_curvelong_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_curvelong_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_curvelong_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11515</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_curveshort_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_curveshort_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_curveshort_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11516</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_roll_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_roll_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_roll_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11517</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_sbend_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_sbend_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_sbend_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11518</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_step_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_step_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_step_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11519</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_straightlong_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_straightlong_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_straightlong_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11520</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>decon_layflathose_01_straightshort_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_layflathose_01_straightshort_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_layflathose_01_straightshort_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11521</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_corner_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_corner_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_corner_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11522</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_curvelong_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_curvelong_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_curvelong_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11523</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_curveshort_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_curveshort_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_curveshort_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11524</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_roll_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_roll_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_roll_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11525</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_sbend_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_sbend_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_sbend_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11526</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_step_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_step_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_step_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11527</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_straightlong_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_straightlong_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_straightlong_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11528</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>decon_powercable_01_straightshort_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_powercable_01_straightshort_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_powercable_01_straightshort_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11529</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_corner_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_corner_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_corner_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11530</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_curvelong_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_curvelong_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_curvelong_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11531</Hash>
@@ -827,10 +827,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_curveshort_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_curveshort_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_curveshort_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11532</Hash>
@@ -860,10 +860,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_roll_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_roll_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_roll_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11533</Hash>
@@ -893,10 +893,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_sbend_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_sbend_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_sbend_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11534</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_step_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_step_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_step_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11535</Hash>
@@ -959,10 +959,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_straightlong_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_straightlong_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_straightlong_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11536</Hash>
@@ -992,10 +992,10 @@
 </Template>
 <Template>
     <Name>decon_pressurehose_01_straightshort_f</Name>
-    <File>p:\dz\structures\residential\medical\decon_pressurehose_01_straightshort_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/decon_pressurehose_01_straightshort_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11537</Hash>
@@ -1025,10 +1025,10 @@
 </Template>
 <Template>
     <Name>emergencyblanket_discarded</Name>
-    <File>p:\dz\structures\residential\medical\emergencyblanket_discarded.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/emergencyblanket_discarded.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11538</Hash>
@@ -1058,10 +1058,10 @@
 </Template>
 <Template>
     <Name>medical_tent_big</Name>
-    <File>p:\dz\structures\residential\medical\medical_tent_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/medical_tent_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11539</Hash>
@@ -1091,10 +1091,10 @@
 </Template>
 <Template>
     <Name>medical_tent_shower</Name>
-    <File>p:\dz\structures\residential\medical\medical_tent_shower.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/medical_tent_shower.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11540</Hash>
@@ -1124,10 +1124,10 @@
 </Template>
 <Template>
     <Name>scbacylinder_01_f</Name>
-    <File>p:\dz\structures\residential\medical\scbacylinder_01_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/scbacylinder_01_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11541</Hash>
@@ -1157,10 +1157,10 @@
 </Template>
 <Template>
     <Name>sponge_01_f</Name>
-    <File>p:\dz\structures\residential\medical\sponge_01_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/sponge_01_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11542</Hash>
@@ -1190,10 +1190,10 @@
 </Template>
 <Template>
     <Name>village_healthcare</Name>
-    <File>p:\dz\structures\residential\medical\village_healthcare.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/village_healthcare.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11543</Hash>
@@ -1223,10 +1223,10 @@
 </Template>
 <Template>
     <Name>village_healthcare_ghost1</Name>
-    <File>p:\dz\structures\residential\medical\village_healthcare_ghost1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/village_healthcare_ghost1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11544</Hash>
@@ -1256,10 +1256,10 @@
 </Template>
 <Template>
     <Name>village_healthcare_ghost2</Name>
-    <File>p:\dz\structures\residential\medical\village_healthcare_ghost2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/village_healthcare_ghost2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11545</Hash>
@@ -1289,10 +1289,10 @@
 </Template>
 <Template>
     <Name>a_hospital_grnd_proxy</Name>
-    <File>p:\dz\structures\residential\medical\proxy\a_hospital_grnd_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/a_hospital_grnd_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11546</Hash>
@@ -1322,10 +1322,10 @@
 </Template>
 <Template>
     <Name>a_hospital_ladder</Name>
-    <File>p:\dz\structures\residential\medical\proxy\a_hospital_ladder.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/a_hospital_ladder.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11547</Hash>
@@ -1355,10 +1355,10 @@
 </Template>
 <Template>
     <Name>cross</Name>
-    <File>p:\dz\structures\residential\medical\proxy\cross.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/cross.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11548</Hash>
@@ -1388,10 +1388,10 @@
 </Template>
 <Template>
     <Name>lightningcond_a_hospital</Name>
-    <File>p:\dz\structures\residential\medical\proxy\lightningcond_a_hospital.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/lightningcond_a_hospital.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11549</Hash>
@@ -1421,10 +1421,10 @@
 </Template>
 <Template>
     <Name>medical_tent_frame</Name>
-    <File>p:\dz\structures\residential\medical\proxy\medical_tent_frame.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/medical_tent_frame.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11550</Hash>
@@ -1454,10 +1454,10 @@
 </Template>
 <Template>
     <Name>showertent_furniture</Name>
-    <File>p:\dz\structures\residential\medical\proxy\showertent_furniture.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/showertent_furniture.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11551</Hash>
@@ -1487,10 +1487,10 @@
 </Template>
 <Template>
     <Name>signs_int</Name>
-    <File>p:\dz\structures\residential\medical\proxy\signs_int.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/medical/proxy/signs_int.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11552</Hash>

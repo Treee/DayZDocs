@@ -2,10 +2,10 @@
 <Library name="alv_un_structures_structures_misc" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>house_marketstall</Name>
-    <File>p:\alv_un_structures\structures\misc\house_marketstall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/misc/house_marketstall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15932</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>house_smallgallows</Name>
-    <File>p:\alv_un_structures\structures\misc\house_smallgallows.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/misc/house_smallgallows.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15933</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>house_watertower_1</Name>
-    <File>p:\alv_un_structures\structures\misc\house_watertower_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/misc/house_watertower_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15934</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>house_windturbine</Name>
-    <File>p:\alv_un_structures\structures\misc\house_windturbine.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/misc/house_windturbine.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15935</Hash>

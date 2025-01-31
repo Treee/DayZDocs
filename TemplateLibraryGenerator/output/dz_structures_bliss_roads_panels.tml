@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_roads_panels" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>concretepanels_02_four_f</Name>
-    <File>p:\dz\structures_bliss\roads\panels\concretepanels_02_four_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/roads/panels/concretepanels_02_four_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13411</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>panels_concrete_small</Name>
-    <File>p:\dz\structures_bliss\roads\panels\panels_concrete_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>panel_concrete_small_1</Name>
+    <File>dz/structures_bliss/roads/panels/panel_concrete_small_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13412</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>panel_concrete_small_1</Name>
-    <File>p:\dz\structures_bliss\roads\panels\panel_concrete_small_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>panel_concrete_small_2</Name>
+    <File>dz/structures_bliss/roads/panels/panel_concrete_small_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13413</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>panel_concrete_small_2</Name>
-    <File>p:\dz\structures_bliss\roads\panels\panel_concrete_small_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>panel_concrete_small_dam</Name>
+    <File>dz/structures_bliss/roads/panels/panel_concrete_small_dam.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13414</Hash>
@@ -133,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>panel_concrete_small_dam</Name>
-    <File>p:\dz\structures_bliss\roads\panels\panel_concrete_small_dam.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>panels_concrete_small</Name>
+    <File>dz/structures_bliss/roads/panels/panels_concrete_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13415</Hash>

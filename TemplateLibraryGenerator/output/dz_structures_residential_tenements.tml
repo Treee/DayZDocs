@@ -2,10 +2,10 @@
 <Library name="dz_structures_residential_tenements" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>tenement_big</Name>
-    <File>p:\dz\structures\residential\tenements\tenement_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/tenement_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11715</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>tenement_big_entry</Name>
-    <File>p:\dz\structures\residential\tenements\tenement_big_entry.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/tenement_big_entry.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11716</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>tenement_small</Name>
-    <File>p:\dz\structures\residential\tenements\tenement_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/tenement_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11717</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>tenement_small_entry</Name>
-    <File>p:\dz\structures\residential\tenements\tenement_small_entry.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/tenement_small_entry.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11718</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>balcony_rail</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\balcony_rail.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/balcony_rail.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11719</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>tb_big_doorricade</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_big_doorricade.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_big_doorricade.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11720</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>tb_big_doorsframe_extract</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_big_doorsframe_extract.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_big_doorsframe_extract.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11721</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>tb_big_handrail</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_big_handrail.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_big_handrail.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11722</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>tb_big_ladders</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_big_ladders.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_big_ladders.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11723</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>tb_big_roof_items</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_big_roof_items.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_big_roof_items.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11724</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>tb_doors_a</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_doors_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_doors_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11725</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>tb_doors_b</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_doors_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_doors_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11726</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>tb_doors_c</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_doors_c.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_doors_c.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11727</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>tb_elevator_stairs</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_elevator_stairs.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_elevator_stairs.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11728</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>tb_elevator_winch</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_elevator_winch.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_elevator_winch.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11729</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>tb_lobby</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_lobby.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tb_lobby.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11730</Hash>
@@ -529,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>tb_small_barrier_proxy</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_small_barrier_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>tb_small_roof_items</Name>
+    <File>dz/structures/residential/tenements/proxy/tb_small_roof_items.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11731</Hash>
@@ -562,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>tb_small_doors_proxy</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_small_doors_proxy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>tb_windows</Name>
+    <File>dz/structures/residential/tenements/proxy/tb_windows.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11732</Hash>
@@ -595,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>tb_small_roof_items</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_small_roof_items.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>tb_small_barrier_proxy</Name>
+    <File>dz/structures/residential/tenements/proxy/tb_small_barrier_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11733</Hash>
@@ -628,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>tb_windows</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tb_windows.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>tb_small_doors_proxy</Name>
+    <File>dz/structures/residential/tenements/proxy/tb_small_doors_proxy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11734</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>tenement_big_win</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tenement_big_win.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tenement_big_win.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11735</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>tenement_big_win_single</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tenement_big_win_single.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tenement_big_win_single.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11736</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>tenement_small_win_back</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tenement_small_win_back.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tenement_small_win_back.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11737</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>tenement_small_win_front</Name>
-    <File>p:\dz\structures\residential\tenements\proxy\tenement_small_win_front.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/tenements/proxy/tenement_small_win_front.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11738</Hash>

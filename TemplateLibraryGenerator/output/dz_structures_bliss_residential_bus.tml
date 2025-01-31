@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_residential_bus" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>busstop_village2</Name>
-    <File>p:\dz\structures_bliss\residential\bus\busstop_village2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/residential/bus/busstop_village2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13320</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>busstop_village2_sign</Name>
-    <File>p:\dz\structures_bliss\residential\bus\busstop_village2_sign.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/residential/bus/busstop_village2_sign.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13321</Hash>

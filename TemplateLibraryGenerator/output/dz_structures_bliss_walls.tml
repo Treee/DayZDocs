@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_walls" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>wall_backalley_01_l_1m_f</Name>
-    <File>p:\dz\structures_bliss\walls\wall_backalley_01_l_1m_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_backalley_01_l_1m_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14001</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>wall_backalley_01_l_gap_f</Name>
-    <File>p:\dz\structures_bliss\walls\wall_backalley_01_l_gap_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_backalley_01_l_gap_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14002</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>wall_backalley_01_l_gate_f</Name>
-    <File>p:\dz\structures_bliss\walls\wall_backalley_01_l_gate_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_backalley_01_l_gate_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14003</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>wall_backalley_02_l_1m_f</Name>
-    <File>p:\dz\structures_bliss\walls\wall_backalley_02_l_1m_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_backalley_02_l_1m_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14004</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>wall_barricade1_10</Name>
-    <File>p:\dz\structures_bliss\walls\wall_barricade1_10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_barricade1_10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14005</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>wall_barricade1_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_barricade1_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_barricade1_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14006</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>wall_canal_10</Name>
-    <File>p:\dz\structures_bliss\walls\wall_canal_10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_canal_10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14007</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>wall_cncbarrier_4block</Name>
-    <File>p:\dz\structures_bliss\walls\wall_cncbarrier_4block.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_cncbarrier_4block.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14008</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>wall_cncbarrier_block</Name>
-    <File>p:\dz\structures_bliss\walls\wall_cncbarrier_block.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_cncbarrier_block.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14009</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>wall_fen3_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen3_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen3_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14010</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>wall_fen3_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen3_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen3_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14011</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>wall_fen3_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen3_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen3_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14012</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>wall_fen3_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen3_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen3_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14013</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>wall_fen4_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen4_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen4_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14014</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>wall_fen4_4_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen4_4_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen4_4_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14015</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>wall_fen4_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen4_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen4_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14016</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>wall_fen4_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14017</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>wall_fen4_d_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen4_d_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen4_d_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14018</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>wall_fen4_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen4_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen4_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14019</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>wall_fen5_10</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen5_10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen5_10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14020</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>wall_fen5_10_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen5_10_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen5_10_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14021</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>wall_fen5_5</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen5_5.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen5_5.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14022</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>wall_fen5_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen5_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen5_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14023</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>wall_fen6_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen6_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen6_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14024</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>wall_fen6_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen6_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen6_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14025</Hash>
@@ -827,10 +827,10 @@
 </Template>
 <Template>
     <Name>wall_fen7_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen7_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen7_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14026</Hash>
@@ -860,10 +860,10 @@
 </Template>
 <Template>
     <Name>wall_fen7_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fen7_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fen7_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14027</Hash>
@@ -893,10 +893,10 @@
 </Template>
 <Template>
     <Name>wall_fenforest_5</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fenforest_5.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fenforest_5.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14028</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>wall_fenforest_5_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fenforest_5_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fenforest_5_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14029</Hash>
@@ -959,10 +959,10 @@
 </Template>
 <Template>
     <Name>wall_fenforest_gate</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fenforest_gate.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fenforest_gate.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14030</Hash>
@@ -992,10 +992,10 @@
 </Template>
 <Template>
     <Name>wall_fenforest_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fenforest_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fenforest_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14031</Hash>
@@ -1025,10 +1025,10 @@
 </Template>
 <Template>
     <Name>wall_fenstadium</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fenstadium.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fenstadium.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14032</Hash>
@@ -1058,10 +1058,10 @@
 </Template>
 <Template>
     <Name>wall_fenvineyard</Name>
-    <File>p:\dz\structures_bliss\walls\wall_fenvineyard.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_fenvineyard.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14033</Hash>
@@ -1091,10 +1091,10 @@
 </Template>
 <Template>
     <Name>wall_gate_fen3</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_fen3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_fen3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14034</Hash>
@@ -1124,10 +1124,10 @@
 </Template>
 <Template>
     <Name>wall_gate_fen4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_fen4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_fen4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14035</Hash>
@@ -1157,10 +1157,10 @@
 </Template>
 <Template>
     <Name>wall_gate_ind3</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_ind3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_ind3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14036</Hash>
@@ -1190,10 +1190,10 @@
 </Template>
 <Template>
     <Name>wall_gate_indcnc4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_indcnc4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_indcnc4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14037</Hash>
@@ -1223,10 +1223,10 @@
 </Template>
 <Template>
     <Name>wall_gate_indcnc4_low</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_indcnc4_low.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_indcnc4_low.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14038</Hash>
@@ -1256,10 +1256,10 @@
 </Template>
 <Template>
     <Name>wall_gate_tin6_1</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_tin6_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_tin6_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14039</Hash>
@@ -1289,10 +1289,10 @@
 </Template>
 <Template>
     <Name>wall_gate_tin6_2</Name>
-    <File>p:\dz\structures_bliss\walls\wall_gate_tin6_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_gate_tin6_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14040</Hash>
@@ -1322,10 +1322,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc3_1_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc3_1_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc3_1_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14041</Hash>
@@ -1355,10 +1355,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc3_1_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc3_1_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc3_1_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14042</Hash>
@@ -1388,10 +1388,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc3_2_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc3_2_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc3_2_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14043</Hash>
@@ -1421,10 +1421,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc3_2_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc3_2_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc3_2_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14044</Hash>
@@ -1454,10 +1454,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc3_end</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc3_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc3_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14045</Hash>
@@ -1487,10 +1487,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc3_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc3_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc3_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14046</Hash>
@@ -1520,10 +1520,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14047</Hash>
@@ -1553,10 +1553,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14048</Hash>
@@ -1586,10 +1586,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_8_graffiti</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_8_graffiti.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_8_graffiti.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14049</Hash>
@@ -1619,10 +1619,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14050</Hash>
@@ -1652,10 +1652,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_low_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_low_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_low_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14051</Hash>
@@ -1685,10 +1685,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_low_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_low_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_low_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14052</Hash>
@@ -1718,10 +1718,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_low_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_low_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_low_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14053</Hash>
@@ -1751,10 +1751,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_low_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_low_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_low_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14054</Hash>
@@ -1784,10 +1784,10 @@
 </Template>
 <Template>
     <Name>wall_indcnc4_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indcnc4_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indcnc4_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14055</Hash>
@@ -1817,10 +1817,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_3</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14056</Hash>
@@ -1850,10 +1850,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_3_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_3_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_3_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14057</Hash>
@@ -1883,10 +1883,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_3_d_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_3_d_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_3_d_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14058</Hash>
@@ -1916,10 +1916,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_3_hole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_3_hole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_3_hole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14059</Hash>
@@ -1949,10 +1949,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_3_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_3_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_3_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14060</Hash>
@@ -1982,10 +1982,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_9</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_9.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_9.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14061</Hash>
@@ -2015,10 +2015,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_9_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_9_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_9_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14062</Hash>
@@ -2048,10 +2048,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_corner</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_corner.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_corner.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14063</Hash>
@@ -2081,10 +2081,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14064</Hash>
@@ -2114,10 +2114,10 @@
 </Template>
 <Template>
     <Name>wall_indfnc2_pole_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indfnc2_pole_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indfnc2_pole_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14065</Hash>
@@ -2147,10 +2147,10 @@
 </Template>
 <Template>
     <Name>wall_indvar3_5</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indvar3_5.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indvar3_5.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14066</Hash>
@@ -2180,10 +2180,10 @@
 </Template>
 <Template>
     <Name>wall_indvar3_5_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indvar3_5_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indvar3_5_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14067</Hash>
@@ -2213,10 +2213,10 @@
 </Template>
 <Template>
     <Name>wall_indvar3_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_indvar3_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_indvar3_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14068</Hash>
@@ -2246,10 +2246,10 @@
 </Template>
 <Template>
     <Name>wall_milcncbarrier</Name>
-    <File>p:\dz\structures_bliss\walls\wall_milcncbarrier.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_milcncbarrier.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14069</Hash>
@@ -2279,10 +2279,10 @@
 </Template>
 <Template>
     <Name>wall_milcnc_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_milcnc_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_milcnc_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14070</Hash>
@@ -2312,10 +2312,10 @@
 </Template>
 <Template>
     <Name>wall_milcnc_corner</Name>
-    <File>p:\dz\structures_bliss\walls\wall_milcnc_corner.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_milcnc_corner.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14071</Hash>
@@ -2345,10 +2345,10 @@
 </Template>
 <Template>
     <Name>wall_pipefencewall_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_pipefencewall_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_pipefencewall_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14072</Hash>
@@ -2378,10 +2378,10 @@
 </Template>
 <Template>
     <Name>wall_pipefence_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_pipefence_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_pipefence_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14073</Hash>
@@ -2411,10 +2411,10 @@
 </Template>
 <Template>
     <Name>wall_pipefence_4_nolc</Name>
-    <File>p:\dz\structures_bliss\walls\wall_pipefence_4_nolc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_pipefence_4_nolc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14074</Hash>
@@ -2444,10 +2444,10 @@
 </Template>
 <Template>
     <Name>wall_pipefence_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_pipefence_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_pipefence_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14075</Hash>
@@ -2477,10 +2477,10 @@
 </Template>
 <Template>
     <Name>wall_polewall_5_1</Name>
-    <File>p:\dz\structures_bliss\walls\wall_polewall_5_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_polewall_5_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14076</Hash>
@@ -2510,10 +2510,10 @@
 </Template>
 <Template>
     <Name>wall_polewall_5_2</Name>
-    <File>p:\dz\structures_bliss\walls\wall_polewall_5_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_polewall_5_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14077</Hash>
@@ -2543,10 +2543,10 @@
 </Template>
 <Template>
     <Name>wall_polewall_end</Name>
-    <File>p:\dz\structures_bliss\walls\wall_polewall_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_polewall_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14078</Hash>
@@ -2576,10 +2576,10 @@
 </Template>
 <Template>
     <Name>wall_railing_1_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_railing_1_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_railing_1_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14079</Hash>
@@ -2609,10 +2609,10 @@
 </Template>
 <Template>
     <Name>wall_silagewall_5</Name>
-    <File>p:\dz\structures_bliss\walls\wall_silagewall_5.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_silagewall_5.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14080</Hash>
@@ -2642,10 +2642,10 @@
 </Template>
 <Template>
     <Name>wall_silagewall_5_d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_silagewall_5_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_silagewall_5_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14081</Hash>
@@ -2675,10 +2675,10 @@
 </Template>
 <Template>
     <Name>wall_silagewall_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_silagewall_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_silagewall_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14082</Hash>
@@ -2708,10 +2708,10 @@
 </Template>
 <Template>
     <Name>wall_stone2</Name>
-    <File>p:\dz\structures_bliss\walls\wall_stone2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_stone2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14083</Hash>
@@ -2741,10 +2741,10 @@
 </Template>
 <Template>
     <Name>wall_stone2d</Name>
-    <File>p:\dz\structures_bliss\walls\wall_stone2d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_stone2d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14084</Hash>
@@ -2774,10 +2774,10 @@
 </Template>
 <Template>
     <Name>wall_tin6_1_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_tin6_1_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_tin6_1_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14085</Hash>
@@ -2807,10 +2807,10 @@
 </Template>
 <Template>
     <Name>wall_tin6_1_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_tin6_1_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_tin6_1_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14086</Hash>
@@ -2840,10 +2840,10 @@
 </Template>
 <Template>
     <Name>wall_tin6_2_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_tin6_2_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_tin6_2_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14087</Hash>
@@ -2873,10 +2873,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_4</Name>
-    <File>p:\dz\structures_bliss\walls\wall_tin7_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_tin7_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14088</Hash>
@@ -2906,10 +2906,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_8</Name>
-    <File>p:\dz\structures_bliss\walls\wall_tin7_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_tin7_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14089</Hash>
@@ -2939,10 +2939,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_pole</Name>
-    <File>p:\dz\structures_bliss\walls\wall_tin7_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/walls/wall_tin7_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14090</Hash>

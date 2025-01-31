@@ -2,10 +2,10 @@
 <Library name="dz_structures_residential_stores" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>city_stand_fastfood</Name>
-    <File>p:\dz\structures\residential\stores\city_stand_fastfood.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/city_stand_fastfood.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11708</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>city_stand_grocery</Name>
-    <File>p:\dz\structures\residential\stores\city_stand_grocery.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/city_stand_grocery.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11709</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>city_stand_news1</Name>
-    <File>p:\dz\structures\residential\stores\city_stand_news1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/city_stand_news1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11710</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>city_stand_news2</Name>
-    <File>p:\dz\structures\residential\stores\city_stand_news2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/city_stand_news2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11711</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>city_store</Name>
-    <File>p:\dz\structures\residential\stores\city_store.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/city_store.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11712</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>city_store_withstairs</Name>
-    <File>p:\dz\structures\residential\stores\city_store_withstairs.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/city_store_withstairs.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11713</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>village_store</Name>
-    <File>p:\dz\structures\residential\stores\village_store.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/stores/village_store.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11714</Hash>

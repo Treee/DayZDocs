@@ -2,10 +2,10 @@
 <Library name="dz_structures_sakhal_walls" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>wall_gate_village_green</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_gate_village_green.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_gate_village_green.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14492</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>wall_gate_village_red</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_gate_village_red.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_gate_village_red.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14493</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_blue_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin7_blue_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin7_blue_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14494</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_blue_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin7_blue_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin7_blue_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14495</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_green_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin7_green_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin7_green_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14496</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_green_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin7_green_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin7_green_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14497</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_red_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin7_red_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin7_red_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14498</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>wall_tin7_red_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin7_red_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin7_red_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14499</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowblue_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowblue_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowblue_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14500</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowblue_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowblue_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowblue_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14501</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowblue_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowblue_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowblue_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14502</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowblue_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowblue_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowblue_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14503</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowgreen_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowgreen_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowgreen_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14504</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowgreen_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowgreen_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowgreen_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14505</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowgreen_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowgreen_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowgreen_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14506</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowgreen_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowgreen_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowgreen_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14507</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowred_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowred_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowred_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14508</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowred_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowred_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowred_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14509</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowred_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowred_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowred_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14510</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowred_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowred_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowred_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14511</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowrusty_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowrusty_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowrusty_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14512</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowrusty_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowrusty_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowrusty_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14513</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowrusty_8</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowrusty_8.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowrusty_8.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14514</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>wall_tin8_lowrusty_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_tin8_lowrusty_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_tin8_lowrusty_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14515</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_green_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_green_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_green_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14516</Hash>
@@ -827,10 +827,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_green_4_2</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_green_4_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_green_4_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14517</Hash>
@@ -860,10 +860,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_green_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_green_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_green_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14518</Hash>
@@ -893,10 +893,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_green_4_end</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_green_4_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_green_4_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14519</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_green_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_green_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_green_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14520</Hash>
@@ -959,10 +959,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_red_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_red_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_red_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14521</Hash>
@@ -992,10 +992,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_red_4_2</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_red_4_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_red_4_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14522</Hash>
@@ -1025,10 +1025,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_red_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_red_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_red_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14523</Hash>
@@ -1058,10 +1058,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_red_4_end</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_red_4_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_red_4_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14524</Hash>
@@ -1091,10 +1091,10 @@
 </Template>
 <Template>
     <Name>wall_vilvar2_red_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_vilvar2_red_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_vilvar2_red_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14525</Hash>
@@ -1124,10 +1124,10 @@
 </Template>
 <Template>
     <Name>wall_wood5_4</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_wood5_4.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_wood5_4.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14526</Hash>
@@ -1157,10 +1157,10 @@
 </Template>
 <Template>
     <Name>wall_wood5_4_2</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_wood5_4_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_wood5_4_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14527</Hash>
@@ -1190,10 +1190,10 @@
 </Template>
 <Template>
     <Name>wall_wood5_4_d</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_wood5_4_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_wood5_4_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14528</Hash>
@@ -1223,10 +1223,10 @@
 </Template>
 <Template>
     <Name>wall_wood5_4_end</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_wood5_4_end.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_wood5_4_end.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14529</Hash>
@@ -1256,10 +1256,10 @@
 </Template>
 <Template>
     <Name>wall_wood5_4_pole</Name>
-    <File>p:\dz\structures_sakhal\walls\wall_wood5_4_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/walls/wall_wood5_4_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14530</Hash>

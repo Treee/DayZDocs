@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_military_training" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
     <Name>shellcrater1</Name>
-    <File>p:\dz\structures_bliss\military\training\shellcrater1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/shellcrater1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13298</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>shellcrater1_decal</Name>
-    <File>p:\dz\structures_bliss\military\training\shellcrater1_decal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/shellcrater1_decal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13299</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>shellcrater2_debris</Name>
-    <File>p:\dz\structures_bliss\military\training\shellcrater2_debris.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/shellcrater2_debris.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13300</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>shellcrater2_decal</Name>
-    <File>p:\dz\structures_bliss\military\training\shellcrater2_decal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/shellcrater2_decal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13301</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>shellcrater2_large</Name>
-    <File>p:\dz\structures_bliss\military\training\shellcrater2_large.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/shellcrater2_large.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13302</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>shellcrater2_small</Name>
-    <File>p:\dz\structures_bliss\military\training\shellcrater2_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/shellcrater2_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13303</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>target_concrete1</Name>
-    <File>p:\dz\structures_bliss\military\training\target_concrete1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/target_concrete1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13304</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>target_concrete2</Name>
-    <File>p:\dz\structures_bliss\military\training\target_concrete2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/target_concrete2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13305</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>target_concrete_block</Name>
-    <File>p:\dz\structures_bliss\military\training\target_concrete_block.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/target_concrete_block.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13306</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>target_concrete_ramp</Name>
-    <File>p:\dz\structures_bliss\military\training\target_concrete_ramp.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/target_concrete_ramp.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13307</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>target_support</Name>
-    <File>p:\dz\structures_bliss\military\training\target_support.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/military/training/target_support.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-65536</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13308</Hash>

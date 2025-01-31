@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_signs_misc" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>signt_sharpbendleft</Name>
-    <File>p:\dz\structures_bliss\signs\misc\signt_sharpbendleft.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/signt_sharpbendleft.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13760</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>signt_sharpbendright</Name>
-    <File>p:\dz\structures_bliss\signs\misc\signt_sharpbendright.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/signt_sharpbendright.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13761</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>sign_build_sila</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_build_sila.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_build_sila.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13762</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>sign_enochmil_entry_enpl</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochmil_entry_enpl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochmil_entry_enpl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13763</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>sign_enochmil_leave_big_enpl</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochmil_leave_big_enpl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochmil_leave_big_enpl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13764</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>sign_enochmil_leave_enpl</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochmil_leave_enpl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochmil_leave_enpl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13765</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>sign_enochmil_noentry_small_enpl</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochmil_noentry_small_enpl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochmil_noentry_small_enpl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13766</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>sign_enochmil_warning1_pl</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochmil_warning1_pl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochmil_warning1_pl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13767</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>sign_enochmil_warning2_pl</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochmil_warning2_pl.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochmil_warning2_pl.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13768</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>sign_enochquarry</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_enochquarry.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_enochquarry.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13769</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>sign_rail_brena</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_brena.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_brena.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13770</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>sign_rail_crossing_minor2</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_crossing_minor2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_crossing_minor2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13771</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>sign_rail_crossing_minor3</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_crossing_minor3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_crossing_minor3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13772</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>sign_rail_gliniska</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_gliniska.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_gliniska.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13773</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>sign_rail_grabin</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_grabin.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_grabin.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13774</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>sign_rail_kolembrody</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_kolembrody.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_kolembrody.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13775</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>sign_rail_topolin</Name>
-    <File>p:\dz\structures_bliss\signs\misc\sign_rail_topolin.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/signs/misc/sign_rail_topolin.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13776</Hash>

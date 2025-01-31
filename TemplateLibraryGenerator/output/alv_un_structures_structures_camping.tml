@@ -2,10 +2,10 @@
 <Library name="alv_un_structures_structures_camping" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>house_convertedcaravan</Name>
-    <File>p:\alv_un_structures\structures\camping\house_convertedcaravan.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/camping/house_convertedcaravan.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15923</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_largetent</Name>
-    <File>p:\alv_un_structures\structures\camping\house_largetent.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>house_wagon_camp</Name>
+    <File>alv_un_structures/structures/camping/house_wagon_camp.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15924</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_teepee_1</Name>
-    <File>p:\alv_un_structures\structures\camping\house_teepee_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>house_largetent</Name>
+    <File>alv_un_structures/structures/camping/house_largetent.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15925</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_wagon_camp</Name>
-    <File>p:\alv_un_structures\structures\camping\house_wagon_camp.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>house_teepee_1</Name>
+    <File>alv_un_structures/structures/camping/house_teepee_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15926</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>house_wooltent</Name>
-    <File>p:\alv_un_structures\structures\camping\house_wooltent.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/camping/house_wooltent.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15927</Hash>

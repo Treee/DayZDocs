@@ -2,10 +2,10 @@
 <Library name="dz_structures_sakhal_roads" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>bridge_concrete2_left_sakhal</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete2_left_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_concrete2_left_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14304</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>bridge_concrete2_right_sakhal</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete2_right_sakhal.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_concrete2_right_sakhal.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14305</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>bridge_concrete3</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_concrete3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14306</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>bridge_concrete3_snow</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete3_snow.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_concrete3_snow.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14307</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>bridge_wood2</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_wood2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_wood2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14308</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>bridge_wood2_pillar</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_wood2_pillar.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_wood2_pillar.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14309</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>bridge_wood2_snow</Name>
-    <File>p:\dz\structures_sakhal\roads\bridges\bridge_wood2_snow.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/bridges/bridge_wood2_snow.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14310</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>decal_caveinterior_square</Name>
-    <File>p:\dz\structures_sakhal\roads\decals\decal_caveinterior_square.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/decals/decal_caveinterior_square.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14311</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>decal_crosswalk_east</Name>
-    <File>p:\dz\structures_sakhal\roads\decals\decal_crosswalk_east.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/decals/decal_crosswalk_east.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14312</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14313</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14314</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14315</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14316</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14317</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14318</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14319</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14320</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14321</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14322</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14323</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14324</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14325</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14326</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_dashedline_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14327</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14328</Hash>
@@ -827,10 +827,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14329</Hash>
@@ -860,10 +860,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14330</Hash>
@@ -893,10 +893,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14331</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14332</Hash>
@@ -959,10 +959,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14333</Hash>
@@ -992,10 +992,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14334</Hash>
@@ -1025,10 +1025,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14335</Hash>
@@ -1058,10 +1058,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14336</Hash>
@@ -1091,10 +1091,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14337</Hash>
@@ -1124,10 +1124,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14338</Hash>
@@ -1157,10 +1157,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14339</Hash>
@@ -1190,10 +1190,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14340</Hash>
@@ -1223,10 +1223,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14341</Hash>
@@ -1256,10 +1256,10 @@
 </Template>
 <Template>
     <Name>asf1sakhal_fullline_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14342</Hash>
@@ -1289,10 +1289,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14343</Hash>
@@ -1322,10 +1322,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14344</Hash>
@@ -1355,10 +1355,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14345</Hash>
@@ -1388,10 +1388,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14346</Hash>
@@ -1421,10 +1421,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14347</Hash>
@@ -1454,10 +1454,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14348</Hash>
@@ -1487,10 +1487,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14349</Hash>
@@ -1520,10 +1520,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14350</Hash>
@@ -1553,10 +1553,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14351</Hash>
@@ -1586,10 +1586,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14352</Hash>
@@ -1619,10 +1619,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14353</Hash>
@@ -1652,10 +1652,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14354</Hash>
@@ -1685,10 +1685,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14355</Hash>
@@ -1718,10 +1718,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_6konec1</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_6konec1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_6konec1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14356</Hash>
@@ -1751,10 +1751,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_6konec2</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_6konec2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_6konec2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14357</Hash>
@@ -1784,10 +1784,10 @@
 </Template>
 <Template>
     <Name>asf2sakhal_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf2sakhal_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14358</Hash>
@@ -1817,10 +1817,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14359</Hash>
@@ -1850,10 +1850,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14360</Hash>
@@ -1883,10 +1883,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14361</Hash>
@@ -1916,10 +1916,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14362</Hash>
@@ -1949,10 +1949,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14363</Hash>
@@ -1982,10 +1982,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14364</Hash>
@@ -2015,10 +2015,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14365</Hash>
@@ -2048,10 +2048,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14366</Hash>
@@ -2081,10 +2081,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14367</Hash>
@@ -2114,10 +2114,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14368</Hash>
@@ -2147,10 +2147,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14369</Hash>
@@ -2180,10 +2180,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14370</Hash>
@@ -2213,10 +2213,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14371</Hash>
@@ -2246,10 +2246,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14372</Hash>
@@ -2279,10 +2279,10 @@
 </Template>
 <Template>
     <Name>asf3sakhal_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/asf3sakhal_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14373</Hash>
@@ -2312,10 +2312,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14374</Hash>
@@ -2345,10 +2345,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14375</Hash>
@@ -2378,10 +2378,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14376</Hash>
@@ -2411,10 +2411,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14377</Hash>
@@ -2444,10 +2444,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14378</Hash>
@@ -2477,10 +2477,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14379</Hash>
@@ -2510,10 +2510,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14380</Hash>
@@ -2543,10 +2543,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14381</Hash>
@@ -2576,10 +2576,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14382</Hash>
@@ -2609,10 +2609,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14383</Hash>
@@ -2642,10 +2642,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14384</Hash>
@@ -2675,10 +2675,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14385</Hash>
@@ -2708,10 +2708,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14386</Hash>
@@ -2741,10 +2741,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14387</Hash>
@@ -2774,10 +2774,10 @@
 </Template>
 <Template>
     <Name>gravsakhal_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/gravsakhal_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14388</Hash>
@@ -2807,10 +2807,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14389</Hash>
@@ -2840,10 +2840,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14390</Hash>
@@ -2873,10 +2873,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14391</Hash>
@@ -2906,10 +2906,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14392</Hash>
@@ -2939,10 +2939,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14393</Hash>
@@ -2972,10 +2972,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14394</Hash>
@@ -3005,10 +3005,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14395</Hash>
@@ -3038,10 +3038,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14396</Hash>
@@ -3071,10 +3071,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14397</Hash>
@@ -3104,10 +3104,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14398</Hash>
@@ -3137,10 +3137,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14399</Hash>
@@ -3170,10 +3170,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14400</Hash>
@@ -3203,10 +3203,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14401</Hash>
@@ -3236,10 +3236,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14402</Hash>
@@ -3269,10 +3269,10 @@
 </Template>
 <Template>
     <Name>mudsakhal_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/mudsakhal_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14403</Hash>
@@ -3302,10 +3302,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14404</Hash>
@@ -3335,10 +3335,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14405</Hash>
@@ -3368,10 +3368,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14406</Hash>
@@ -3401,10 +3401,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14407</Hash>
@@ -3434,10 +3434,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14408</Hash>
@@ -3467,10 +3467,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14409</Hash>
@@ -3500,10 +3500,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14410</Hash>
@@ -3533,10 +3533,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14411</Hash>
@@ -3566,10 +3566,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14412</Hash>
@@ -3599,10 +3599,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14413</Hash>
@@ -3632,10 +3632,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14414</Hash>
@@ -3665,10 +3665,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14415</Hash>
@@ -3698,10 +3698,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14416</Hash>
@@ -3731,10 +3731,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14417</Hash>
@@ -3764,10 +3764,10 @@
 </Template>
 <Template>
     <Name>quarrysakhal_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/quarrysakhal_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14418</Hash>
@@ -3797,10 +3797,10 @@
 </Template>
 <Template>
     <Name>snowroad_0 2000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_0 2000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_0 2000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14419</Hash>
@@ -3830,10 +3830,10 @@
 </Template>
 <Template>
     <Name>snowroad_1 1000</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_1 1000.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_1 1000.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14420</Hash>
@@ -3863,10 +3863,10 @@
 </Template>
 <Template>
     <Name>snowroad_10 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_10 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14421</Hash>
@@ -3896,10 +3896,10 @@
 </Template>
 <Template>
     <Name>snowroad_10 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_10 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14422</Hash>
@@ -3929,10 +3929,10 @@
 </Template>
 <Template>
     <Name>snowroad_10 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_10 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14423</Hash>
@@ -3962,10 +3962,10 @@
 </Template>
 <Template>
     <Name>snowroad_10 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_10 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14424</Hash>
@@ -3995,10 +3995,10 @@
 </Template>
 <Template>
     <Name>snowroad_12</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_12.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_12.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14425</Hash>
@@ -4028,10 +4028,10 @@
 </Template>
 <Template>
     <Name>snowroad_15 75</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_15 75.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_15 75.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14426</Hash>
@@ -4061,10 +4061,10 @@
 </Template>
 <Template>
     <Name>snowroad_22 50</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_22 50.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_22 50.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14427</Hash>
@@ -4094,10 +4094,10 @@
 </Template>
 <Template>
     <Name>snowroad_25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14428</Hash>
@@ -4127,10 +4127,10 @@
 </Template>
 <Template>
     <Name>snowroad_30 25</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_30 25.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_30 25.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14429</Hash>
@@ -4160,10 +4160,10 @@
 </Template>
 <Template>
     <Name>snowroad_6</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_6.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_6.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14430</Hash>
@@ -4193,10 +4193,10 @@
 </Template>
 <Template>
     <Name>snowroad_60 10</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_60 10.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_60 10.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14431</Hash>
@@ -4226,10 +4226,10 @@
 </Template>
 <Template>
     <Name>snowroad_6konec</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_6konec.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_6konec.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14432</Hash>
@@ -4259,10 +4259,10 @@
 </Template>
 <Template>
     <Name>snowroad_7 100</Name>
-    <File>p:\dz\structures_sakhal\roads\parts\snowroad_7 100.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/roads/parts/snowroad_7 100.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14433</Hash>

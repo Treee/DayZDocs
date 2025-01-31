@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_underground_storage" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>underground_storage_ammo</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_ammo.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_ammo.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13939</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>underground_storage_ammo2</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_ammo2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_ammo2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13940</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>underground_storage_barracks</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_barracks.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_barracks.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13941</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>underground_storage_big</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13942</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>underground_storage_big_vent</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_big_vent.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_big_vent.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13943</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>underground_storage_hospital</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_hospital.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_hospital.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13944</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>underground_storage_laboratory</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_laboratory.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_laboratory.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13945</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>underground_storage_pox</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_pox.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_pox.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13946</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>underground_storage_pox2</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_pox2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_pox2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13947</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>underground_storage_prison</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_prison.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_prison.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13948</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>underground_storage_workshop</Name>
-    <File>p:\dz\structures_bliss\underground\storage\underground_storage_workshop.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/storage/underground_storage_workshop.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13949</Hash>
@@ -364,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ammoboxes_big</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\ammoboxes_big.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>curtain_divider</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/curtain_divider.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13950</Hash>
@@ -397,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ammoboxes_pox</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\ammoboxes_pox.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>enginecrane_01_f</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/enginecrane_01_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13951</Hash>
@@ -430,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ammoboxes_single</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\ammoboxes_single.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>laboratory_scaffolding_1</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/laboratory_scaffolding_1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13952</Hash>
@@ -463,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ammoboxes_single_open</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\ammoboxes_single_open.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>laboratory_scaffolding_2</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/laboratory_scaffolding_2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13953</Hash>
@@ -496,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ammoboxes_single_open2</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\ammoboxes_single_open2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>laboratory_tarps</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/laboratory_tarps.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13954</Hash>
@@ -529,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ammoboxes_stacked</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\ammoboxes_stacked.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>medical_tarp_large_yellow</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/medical_tarp_large_yellow.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13955</Hash>
@@ -562,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>curtain_divider</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\curtain_divider.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>pallettrolley_01_yellow_f</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/pallettrolley_01_yellow_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13956</Hash>
@@ -595,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>enginecrane_01_f</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\enginecrane_01_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>prison_cell_door</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/prison_cell_door.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13957</Hash>
@@ -628,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>laboratory_scaffolding_1</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\laboratory_scaffolding_1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>prison_cell_nodoor</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/prison_cell_nodoor.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13958</Hash>
@@ -661,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>laboratory_scaffolding_2</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\laboratory_scaffolding_2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>tooltrolley_02_f</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/tooltrolley_02_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13959</Hash>
@@ -694,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>laboratory_tarps</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\laboratory_tarps.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>unidentified_organic_matter</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/unidentified_organic_matter.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13960</Hash>
@@ -727,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>medical_tarp_large_yellow</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\medical_tarp_large_yellow.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>whiteboard</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/whiteboard.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13961</Hash>
@@ -760,11 +760,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pallettrolley_01_yellow_f</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\pallettrolley_01_yellow_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>whiteboard_laboratory</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/whiteboard_laboratory.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13962</Hash>
@@ -793,11 +793,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>prison_cell_door</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\prison_cell_door.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ammoboxes_pox</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/ammoboxes_pox.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13963</Hash>
@@ -826,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>prison_cell_nodoor</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\prison_cell_nodoor.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ammoboxes_big</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/ammoboxes_big.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13964</Hash>
@@ -859,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>shells</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\shells.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ammoboxes_single</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/ammoboxes_single.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13965</Hash>
@@ -892,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>shells2</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\shells2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ammoboxes_single_open</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/ammoboxes_single_open.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13966</Hash>
@@ -925,11 +925,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>shells_single</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\shells_single.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ammoboxes_single_open2</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/ammoboxes_single_open2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13967</Hash>
@@ -958,11 +958,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>shells_supportbottom</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\shells_supportbottom.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ammoboxes_stacked</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/ammoboxes_stacked.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13968</Hash>
@@ -991,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>shells_supporttop</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\shells_supporttop.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>shell_dummy</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/shell_dummy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13969</Hash>
@@ -1024,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>shell_dummy</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\shell_dummy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>shells</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/shells.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13970</Hash>
@@ -1057,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>tooltrolley_02_f</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\tooltrolley_02_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>shells2</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/shells2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13971</Hash>
@@ -1090,11 +1090,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>unidentified_organic_matter</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\unidentified_organic_matter.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>shells_single</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/shells_single.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13972</Hash>
@@ -1123,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>whiteboard</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\whiteboard.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>shells_supportbottom</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/shells_supportbottom.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13973</Hash>
@@ -1156,11 +1156,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>whiteboard_laboratory</Name>
-    <File>p:\dz\structures_bliss\underground\storage\proxy\whiteboard_laboratory.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>shells_supporttop</Name>
+    <File>dz/structures_bliss/underground/storage/proxy/shells_supporttop.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13974</Hash>

@@ -2,8 +2,8 @@
 <Library name="dz_plants_tree" shape="rectangle" default_fill="-16744448" default_outline="-16777216" tex="0">
     <Template>
     <Name>b_betulapendula_1f</Name>
-    <File>p:\dz\plants\tree\b_betulapendula_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/b_betulapendula_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -35,8 +35,8 @@
 </Template>
 <Template>
     <Name>b_fagussylvatica_1f</Name>
-    <File>p:\dz\plants\tree\b_fagussylvatica_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/b_fagussylvatica_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -68,8 +68,8 @@
 </Template>
 <Template>
     <Name>b_piceaabies_1f</Name>
-    <File>p:\dz\plants\tree\b_piceaabies_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/b_piceaabies_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -101,8 +101,8 @@
 </Template>
 <Template>
     <Name>b_piceaabies_1fb</Name>
-    <File>p:\dz\plants\tree\b_piceaabies_1fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/b_piceaabies_1fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -134,8 +134,8 @@
 </Template>
 <Template>
     <Name>b_quercusrobur_1f</Name>
-    <File>p:\dz\plants\tree\b_quercusrobur_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/b_quercusrobur_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -167,8 +167,8 @@
 </Template>
 <Template>
     <Name>d_fagussylvatica_fallen</Name>
-    <File>p:\dz\plants\tree\d_fagussylvatica_fallen.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_fagussylvatica_fallen.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -200,8 +200,8 @@
 </Template>
 <Template>
     <Name>d_fagussylvatica_fallenb</Name>
-    <File>p:\dz\plants\tree\d_fagussylvatica_fallenb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_fagussylvatica_fallenb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -233,8 +233,8 @@
 </Template>
 <Template>
     <Name>d_fagussylvatica_fallenc</Name>
-    <File>p:\dz\plants\tree\d_fagussylvatica_fallenc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_fagussylvatica_fallenc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -266,8 +266,8 @@
 </Template>
 <Template>
     <Name>d_fagussylvatica_stump</Name>
-    <File>p:\dz\plants\tree\d_fagussylvatica_stump.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_fagussylvatica_stump.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -299,8 +299,8 @@
 </Template>
 <Template>
     <Name>d_fagussylvatica_stumpb</Name>
-    <File>p:\dz\plants\tree\d_fagussylvatica_stumpb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_fagussylvatica_stumpb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -332,8 +332,8 @@
 </Template>
 <Template>
     <Name>d_fagussylvatica_stumpc</Name>
-    <File>p:\dz\plants\tree\d_fagussylvatica_stumpc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_fagussylvatica_stumpc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -364,9 +364,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallen</Name>
-    <File>p:\dz\plants\tree\d_piceaabies_fallen.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_pinussylvestris_fallen</Name>
+    <File>dz/plants/tree/d_pinussylvestris_fallen.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -397,9 +397,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallenb</Name>
-    <File>p:\dz\plants\tree\d_piceaabies_fallenb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_pinussylvestris_fallenb</Name>
+    <File>dz/plants/tree/d_pinussylvestris_fallenb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -430,9 +430,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallenc</Name>
-    <File>p:\dz\plants\tree\d_piceaabies_fallenc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_pinussylvestris_fallenc</Name>
+    <File>dz/plants/tree/d_pinussylvestris_fallenc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -463,9 +463,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stump</Name>
-    <File>p:\dz\plants\tree\d_piceaabies_stump.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_pinussylvestris_stump</Name>
+    <File>dz/plants/tree/d_pinussylvestris_stump.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -496,9 +496,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stumpb</Name>
-    <File>p:\dz\plants\tree\d_piceaabies_stumpb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_pinussylvestris_stumpb</Name>
+    <File>dz/plants/tree/d_pinussylvestris_stumpb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -529,9 +529,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_pinussylvestris_fallen</Name>
-    <File>p:\dz\plants\tree\d_pinussylvestris_fallen.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_piceaabies_fallen</Name>
+    <File>dz/plants/tree/d_piceaabies_fallen.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -562,9 +562,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_pinussylvestris_fallenb</Name>
-    <File>p:\dz\plants\tree\d_pinussylvestris_fallenb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_piceaabies_fallenb</Name>
+    <File>dz/plants/tree/d_piceaabies_fallenb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -595,9 +595,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_pinussylvestris_fallenc</Name>
-    <File>p:\dz\plants\tree\d_pinussylvestris_fallenc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_piceaabies_fallenc</Name>
+    <File>dz/plants/tree/d_piceaabies_fallenc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -628,9 +628,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_pinussylvestris_stump</Name>
-    <File>p:\dz\plants\tree\d_pinussylvestris_stump.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_piceaabies_stump</Name>
+    <File>dz/plants/tree/d_piceaabies_stump.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -661,9 +661,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_pinussylvestris_stumpb</Name>
-    <File>p:\dz\plants\tree\d_pinussylvestris_stumpb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>d_piceaabies_stumpb</Name>
+    <File>dz/plants/tree/d_piceaabies_stumpb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -695,8 +695,8 @@
 </Template>
 <Template>
     <Name>d_quercusrobur_fallenb</Name>
-    <File>p:\dz\plants\tree\d_quercusrobur_fallenb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_quercusrobur_fallenb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -728,8 +728,8 @@
 </Template>
 <Template>
     <Name>d_quercusrobur_fallenc</Name>
-    <File>p:\dz\plants\tree\d_quercusrobur_fallenc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_quercusrobur_fallenc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -761,8 +761,8 @@
 </Template>
 <Template>
     <Name>d_quercusrobur_stump</Name>
-    <File>p:\dz\plants\tree\d_quercusrobur_stump.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_quercusrobur_stump.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -794,8 +794,8 @@
 </Template>
 <Template>
     <Name>d_quercusrobur_stumpb</Name>
-    <File>p:\dz\plants\tree\d_quercusrobur_stumpb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/d_quercusrobur_stumpb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -827,8 +827,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_1f</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -860,8 +860,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_1fb</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_1fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_1fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -893,8 +893,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_1s</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -926,8 +926,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2f</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -959,8 +959,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2fb</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_2fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_2fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -992,8 +992,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2fc</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_2fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_2fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1025,8 +1025,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2s</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1058,8 +1058,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2w</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_2w.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_2w.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1091,8 +1091,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_3f</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1124,8 +1124,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_3fb</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_3fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_3fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1157,8 +1157,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_3fc</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_3fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_3fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1190,8 +1190,8 @@
 </Template>
 <Template>
     <Name>t_betulapendula_3s</Name>
-    <File>p:\dz\plants\tree\t_betulapendula_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_betulapendula_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1222,9 +1222,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_carpinus_2s</Name>
-    <File>p:\dz\plants\tree\t_carpinus_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_1f</Name>
+    <File>dz/plants/tree/t_fagussylvatica_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1255,9 +1255,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_1f</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_1fb</Name>
+    <File>dz/plants/tree/t_fagussylvatica_1fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1288,9 +1288,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_1fb</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_1fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_1fc</Name>
+    <File>dz/plants/tree/t_fagussylvatica_1fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1321,9 +1321,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_1fc</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_1fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_1fd</Name>
+    <File>dz/plants/tree/t_fagussylvatica_1fd.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1354,9 +1354,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_1fd</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_1fd.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_1fe</Name>
+    <File>dz/plants/tree/t_fagussylvatica_1fe.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1387,9 +1387,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_1fe</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_1fe.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_1s</Name>
+    <File>dz/plants/tree/t_fagussylvatica_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1420,9 +1420,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_1s</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2d</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1453,9 +1453,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2d</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2f</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1486,9 +1486,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2f</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2fb</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1519,9 +1519,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2fb</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2fc</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1552,9 +1552,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2fc</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2s</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1585,9 +1585,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2s</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2sb</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1618,9 +1618,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2sb</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2sb_trail_b</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2sb_trail_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1651,9 +1651,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2sb_trail_b</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2sb_trail_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2sb_trail_g</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2sb_trail_g.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1684,9 +1684,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2sb_trail_g</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2sb_trail_g.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2sb_trail_r</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2sb_trail_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1717,9 +1717,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2sb_trail_r</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2sb_trail_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_2sb_trail_y</Name>
+    <File>dz/plants/tree/t_fagussylvatica_2sb_trail_y.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1750,9 +1750,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_2sb_trail_y</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_2sb_trail_y.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_3d</Name>
+    <File>dz/plants/tree/t_fagussylvatica_3d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1783,9 +1783,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_3d</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_3d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_3f</Name>
+    <File>dz/plants/tree/t_fagussylvatica_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1816,9 +1816,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_3f</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_3fb</Name>
+    <File>dz/plants/tree/t_fagussylvatica_3fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1849,9 +1849,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_3fb</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_3fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_3fb_test</Name>
+    <File>dz/plants/tree/t_fagussylvatica_3fb_test.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1882,9 +1882,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_3fb_test</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_3fb_test.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fagussylvatica_3s</Name>
+    <File>dz/plants/tree/t_fagussylvatica_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1915,9 +1915,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fagussylvatica_3s</Name>
-    <File>p:\dz\plants\tree\t_fagussylvatica_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fraxinusexcelsior_2f</Name>
+    <File>dz/plants/tree/t_fraxinusexcelsior_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1948,9 +1948,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fraxinusexcelsior_2f</Name>
-    <File>p:\dz\plants\tree\t_fraxinusexcelsior_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fraxinusexcelsior_2s</Name>
+    <File>dz/plants/tree/t_fraxinusexcelsior_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -1981,9 +1981,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fraxinusexcelsior_2s</Name>
-    <File>p:\dz\plants\tree\t_fraxinusexcelsior_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fraxinusexcelsior_2w</Name>
+    <File>dz/plants/tree/t_fraxinusexcelsior_2w.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2014,9 +2014,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fraxinusexcelsior_2w</Name>
-    <File>p:\dz\plants\tree\t_fraxinusexcelsior_2w.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_fraxinusexcelsior_3s</Name>
+    <File>dz/plants/tree/t_fraxinusexcelsior_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2047,9 +2047,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_fraxinusexcelsior_3s</Name>
-    <File>p:\dz\plants\tree\t_fraxinusexcelsior_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_1f</Name>
+    <File>dz/plants/tree/t_larixdecidua_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2080,9 +2080,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_juglansregia_2s</Name>
-    <File>p:\dz\plants\tree\t_juglansregia_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_1s</Name>
+    <File>dz/plants/tree/t_larixdecidua_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2113,9 +2113,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_juglansregia_3s</Name>
-    <File>p:\dz\plants\tree\t_juglansregia_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_2f</Name>
+    <File>dz/plants/tree/t_larixdecidua_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2146,9 +2146,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_1f</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_2fb</Name>
+    <File>dz/plants/tree/t_larixdecidua_2fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2179,9 +2179,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_1s</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_2s</Name>
+    <File>dz/plants/tree/t_larixdecidua_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2212,9 +2212,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_2f</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_3f</Name>
+    <File>dz/plants/tree/t_larixdecidua_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2245,9 +2245,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_2fb</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_2fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_larixdecidua_3fb</Name>
+    <File>dz/plants/tree/t_larixdecidua_3fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2278,9 +2278,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_2s</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_1f</Name>
+    <File>dz/plants/tree/t_piceaabies_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2311,9 +2311,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_3f</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_1s</Name>
+    <File>dz/plants/tree/t_piceaabies_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2344,9 +2344,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_larixdecidua_3fb</Name>
-    <File>p:\dz\plants\tree\t_larixdecidua_3fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_1sb</Name>
+    <File>dz/plants/tree/t_piceaabies_1sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2377,9 +2377,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_malusdomestica_1s</Name>
-    <File>p:\dz\plants\tree\t_malusdomestica_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2f</Name>
+    <File>dz/plants/tree/t_piceaabies_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2410,9 +2410,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_malusdomestica_2s</Name>
-    <File>p:\dz\plants\tree\t_malusdomestica_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2fb</Name>
+    <File>dz/plants/tree/t_piceaabies_2fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2443,9 +2443,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_malusdomestica_3s</Name>
-    <File>p:\dz\plants\tree\t_malusdomestica_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2s</Name>
+    <File>dz/plants/tree/t_piceaabies_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2476,9 +2476,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_naked_1s</Name>
-    <File>p:\dz\plants\tree\t_naked_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2s_green_xmas</Name>
+    <File>dz/plants/tree/t_piceaabies_2s_green_xmas.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2509,9 +2509,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_naked_2s</Name>
-    <File>p:\dz\plants\tree\t_naked_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2s_xmas</Name>
+    <File>dz/plants/tree/t_piceaabies_2s_xmas.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2542,9 +2542,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1f</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2sb</Name>
+    <File>dz/plants/tree/t_piceaabies_2sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2575,9 +2575,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1s</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3f</Name>
+    <File>dz/plants/tree/t_piceaabies_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2608,9 +2608,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1sb</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_1sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3f_trail_b</Name>
+    <File>dz/plants/tree/t_piceaabies_3f_trail_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2641,9 +2641,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2d</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3f_trail_g</Name>
+    <File>dz/plants/tree/t_piceaabies_3f_trail_g.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2674,9 +2674,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2f</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3f_trail_r</Name>
+    <File>dz/plants/tree/t_piceaabies_3f_trail_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2707,9 +2707,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2fb</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3f_trail_y</Name>
+    <File>dz/plants/tree/t_piceaabies_3f_trail_y.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2740,9 +2740,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2s</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3s</Name>
+    <File>dz/plants/tree/t_piceaabies_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2773,9 +2773,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2sb</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_1f</Name>
+    <File>dz/plants/tree/t_pinussylvestris_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2806,9 +2806,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2s_green_xmas</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2s_green_xmas.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_1s</Name>
+    <File>dz/plants/tree/t_pinussylvestris_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2839,9 +2839,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2s_xmas</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_2s_xmas.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_2f</Name>
+    <File>dz/plants/tree/t_pinussylvestris_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2872,9 +2872,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3d</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_2fb</Name>
+    <File>dz/plants/tree/t_pinussylvestris_2fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2905,9 +2905,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3f</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_2s</Name>
+    <File>dz/plants/tree/t_pinussylvestris_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2938,9 +2938,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3f_trail_b</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3f_trail_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_2sb</Name>
+    <File>dz/plants/tree/t_pinussylvestris_2sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2971,9 +2971,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3f_trail_g</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3f_trail_g.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_3d</Name>
+    <File>dz/plants/tree/t_pinussylvestris_3d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3004,9 +3004,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3f_trail_r</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3f_trail_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_3f</Name>
+    <File>dz/plants/tree/t_pinussylvestris_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3037,9 +3037,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3f_trail_y</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3f_trail_y.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_3fb</Name>
+    <File>dz/plants/tree/t_pinussylvestris_3fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3070,9 +3070,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_3s</Name>
-    <File>p:\dz\plants\tree\t_piceaabies_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_3fc</Name>
+    <File>dz/plants/tree/t_pinussylvestris_3fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3103,9 +3103,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_1f</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_pinussylvestris_3s</Name>
+    <File>dz/plants/tree/t_pinussylvestris_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3136,9 +3136,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_1s</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_carpinus_2s</Name>
+    <File>dz/plants/tree/t_carpinus_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3169,9 +3169,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_2f</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_juglansregia_2s</Name>
+    <File>dz/plants/tree/t_juglansregia_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3202,9 +3202,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_2fb</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_2fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_juglansregia_3s</Name>
+    <File>dz/plants/tree/t_juglansregia_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3235,9 +3235,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_2s</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_malusdomestica_1s</Name>
+    <File>dz/plants/tree/t_malusdomestica_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3268,9 +3268,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_2sb</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_2sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_malusdomestica_2s</Name>
+    <File>dz/plants/tree/t_malusdomestica_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3301,9 +3301,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_3d</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_3d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_malusdomestica_3s</Name>
+    <File>dz/plants/tree/t_malusdomestica_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3334,9 +3334,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_3f</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_naked_1s</Name>
+    <File>dz/plants/tree/t_naked_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3367,9 +3367,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_3fb</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_3fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_naked_2s</Name>
+    <File>dz/plants/tree/t_naked_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3400,9 +3400,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_3fc</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_3fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_2d</Name>
+    <File>dz/plants/tree/t_piceaabies_2d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3433,9 +3433,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_pinussylvestris_3s</Name>
-    <File>p:\dz\plants\tree\t_pinussylvestris_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>t_piceaabies_3d</Name>
+    <File>dz/plants/tree/t_piceaabies_3d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3467,8 +3467,8 @@
 </Template>
 <Template>
     <Name>t_populusalba_1f</Name>
-    <File>p:\dz\plants\tree\t_populusalba_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_populusalba_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3500,8 +3500,8 @@
 </Template>
 <Template>
     <Name>t_populusalba_2s</Name>
-    <File>p:\dz\plants\tree\t_populusalba_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_populusalba_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3533,8 +3533,8 @@
 </Template>
 <Template>
     <Name>t_populusalba_3s</Name>
-    <File>p:\dz\plants\tree\t_populusalba_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_populusalba_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3566,8 +3566,8 @@
 </Template>
 <Template>
     <Name>t_populusnigra_3s</Name>
-    <File>p:\dz\plants\tree\t_populusnigra_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_populusnigra_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3599,8 +3599,8 @@
 </Template>
 <Template>
     <Name>t_prunusdomestica_2s</Name>
-    <File>p:\dz\plants\tree\t_prunusdomestica_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_prunusdomestica_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3632,8 +3632,8 @@
 </Template>
 <Template>
     <Name>t_pyruscommunis_2s</Name>
-    <File>p:\dz\plants\tree\t_pyruscommunis_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_pyruscommunis_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3665,8 +3665,8 @@
 </Template>
 <Template>
     <Name>t_pyruscommunis_3s</Name>
-    <File>p:\dz\plants\tree\t_pyruscommunis_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_pyruscommunis_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3698,8 +3698,8 @@
 </Template>
 <Template>
     <Name>t_pyruscommunis_3sb</Name>
-    <File>p:\dz\plants\tree\t_pyruscommunis_3sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_pyruscommunis_3sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3731,8 +3731,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_1f</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3764,8 +3764,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_1fb</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_1fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_1fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3797,8 +3797,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_1fc</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_1fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_1fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3830,8 +3830,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_1fd</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_1fd.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_1fd.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3863,8 +3863,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_1s</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3896,8 +3896,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2d</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3929,8 +3929,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2f</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3962,8 +3962,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2fb</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -3995,8 +3995,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2fc</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2fc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2fc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4028,8 +4028,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2s</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4061,8 +4061,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2sb</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4094,8 +4094,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_2sc</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_2sc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_2sc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4127,8 +4127,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_3d</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_3d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_3d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4160,8 +4160,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_3f</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4193,8 +4193,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_3fb</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_3fb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_3fb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4226,8 +4226,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_3s</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_3s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_3s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4259,8 +4259,8 @@
 </Template>
 <Template>
     <Name>t_quercusrobur_3sb</Name>
-    <File>p:\dz\plants\tree\t_quercusrobur_3sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_quercusrobur_3sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4292,8 +4292,8 @@
 </Template>
 <Template>
     <Name>t_robiniapseudoacacia_1f</Name>
-    <File>p:\dz\plants\tree\t_robiniapseudoacacia_1f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_robiniapseudoacacia_1f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4325,8 +4325,8 @@
 </Template>
 <Template>
     <Name>t_robiniapseudoacacia_2f</Name>
-    <File>p:\dz\plants\tree\t_robiniapseudoacacia_2f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_robiniapseudoacacia_2f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4358,8 +4358,8 @@
 </Template>
 <Template>
     <Name>t_robiniapseudoacacia_2s</Name>
-    <File>p:\dz\plants\tree\t_robiniapseudoacacia_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_robiniapseudoacacia_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4391,8 +4391,8 @@
 </Template>
 <Template>
     <Name>t_robiniapseudoacacia_3f</Name>
-    <File>p:\dz\plants\tree\t_robiniapseudoacacia_3f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_robiniapseudoacacia_3f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4424,8 +4424,8 @@
 </Template>
 <Template>
     <Name>t_salixalba_2s</Name>
-    <File>p:\dz\plants\tree\t_salixalba_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_salixalba_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4457,8 +4457,8 @@
 </Template>
 <Template>
     <Name>t_salixalba_2sb</Name>
-    <File>p:\dz\plants\tree\t_salixalba_2sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_salixalba_2sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4490,8 +4490,8 @@
 </Template>
 <Template>
     <Name>t_salixalba_2sb_swamp</Name>
-    <File>p:\dz\plants\tree\t_salixalba_2sb_swamp.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_salixalba_2sb_swamp.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4523,8 +4523,8 @@
 </Template>
 <Template>
     <Name>t_sorbus_2s</Name>
-    <File>p:\dz\plants\tree\t_sorbus_2s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_sorbus_2s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4556,8 +4556,8 @@
 </Template>
 <Template>
     <Name>t_town_1s</Name>
-    <File>p:\dz\plants\tree\t_town_1s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_town_1s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4589,8 +4589,8 @@
 </Template>
 <Template>
     <Name>t_town_1sb</Name>
-    <File>p:\dz\plants\tree\t_town_1sb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/t_town_1sb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4622,8 +4622,8 @@
 </Template>
 <Template>
     <Name>t_fagussylvatica_2f_cut</Name>
-    <File>p:\dz\plants\tree\cutted_cut\t_fagussylvatica_2f_cut.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -4655,8 +4655,8 @@
 </Template>
 <Template>
     <Name>t_fagussylvatica_2f_stump</Name>
-    <File>p:\dz\plants\tree\cutted_stump\t_fagussylvatica_2f_stump.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants/tree/cutted_stump/t_fagussylvatica_2f_stump.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_plants_bliss_building" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
     <Template>
-    <Name>ivy_a</Name>
-    <File>p:\dz\plants_bliss\building\ivy_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_special_c</Name>
+    <File>dz/plants_bliss/building/ivy_special_c.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10197</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_b</Name>
-    <File>p:\dz\plants_bliss\building\ivy_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_a</Name>
+    <File>dz/plants_bliss/building/ivy_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10198</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_c</Name>
-    <File>p:\dz\plants_bliss\building\ivy_c.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_b</Name>
+    <File>dz/plants_bliss/building/ivy_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10199</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_c2</Name>
-    <File>p:\dz\plants_bliss\building\ivy_c2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_c</Name>
+    <File>dz/plants_bliss/building/ivy_c.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10200</Hash>
@@ -133,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_d</Name>
-    <File>p:\dz\plants_bliss\building\ivy_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_c2</Name>
+    <File>dz/plants_bliss/building/ivy_c2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10201</Hash>
@@ -166,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_a</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_d</Name>
+    <File>dz/plants_bliss/building/ivy_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10202</Hash>
@@ -199,11 +199,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_b</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_f</Name>
+    <File>dz/plants_bliss/building/ivy_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10203</Hash>
@@ -232,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_c</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_c.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_g</Name>
+    <File>dz/plants_bliss/building/ivy_g.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10204</Hash>
@@ -265,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_d</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_h</Name>
+    <File>dz/plants_bliss/building/ivy_h.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10205</Hash>
@@ -298,11 +298,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_e</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_e.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_i</Name>
+    <File>dz/plants_bliss/building/ivy_i.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10206</Hash>
@@ -331,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_f</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_j</Name>
+    <File>dz/plants_bliss/building/ivy_j.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10207</Hash>
@@ -364,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_g</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_g.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_k</Name>
+    <File>dz/plants_bliss/building/ivy_k.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10208</Hash>
@@ -397,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_h</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_h.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_l</Name>
+    <File>dz/plants_bliss/building/ivy_l.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10209</Hash>
@@ -430,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_i</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_i.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_m</Name>
+    <File>dz/plants_bliss/building/ivy_m.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10210</Hash>
@@ -463,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_dry_j</Name>
-    <File>p:\dz\plants_bliss\building\ivy_dry_j.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_n</Name>
+    <File>dz/plants_bliss/building/ivy_n.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10211</Hash>
@@ -496,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_f</Name>
-    <File>p:\dz\plants_bliss\building\ivy_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_o</Name>
+    <File>dz/plants_bliss/building/ivy_o.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10212</Hash>
@@ -529,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_g</Name>
-    <File>p:\dz\plants_bliss\building\ivy_g.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_p</Name>
+    <File>dz/plants_bliss/building/ivy_p.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10213</Hash>
@@ -562,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_h</Name>
-    <File>p:\dz\plants_bliss\building\ivy_h.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_r</Name>
+    <File>dz/plants_bliss/building/ivy_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10214</Hash>
@@ -595,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_i</Name>
-    <File>p:\dz\plants_bliss\building\ivy_i.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_s</Name>
+    <File>dz/plants_bliss/building/ivy_s.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10215</Hash>
@@ -628,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_j</Name>
-    <File>p:\dz\plants_bliss\building\ivy_j.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_t</Name>
+    <File>dz/plants_bliss/building/ivy_t.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10216</Hash>
@@ -661,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_k</Name>
-    <File>p:\dz\plants_bliss\building\ivy_k.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_u</Name>
+    <File>dz/plants_bliss/building/ivy_u.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10217</Hash>
@@ -694,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_l</Name>
-    <File>p:\dz\plants_bliss\building\ivy_l.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_v</Name>
+    <File>dz/plants_bliss/building/ivy_v.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10218</Hash>
@@ -727,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_m</Name>
-    <File>p:\dz\plants_bliss\building\ivy_m.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_x</Name>
+    <File>dz/plants_bliss/building/ivy_x.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10219</Hash>
@@ -760,11 +760,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_n</Name>
-    <File>p:\dz\plants_bliss\building\ivy_n.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_a</Name>
+    <File>dz/plants_bliss/building/ivy_dry_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10220</Hash>
@@ -793,11 +793,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_o</Name>
-    <File>p:\dz\plants_bliss\building\ivy_o.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_b</Name>
+    <File>dz/plants_bliss/building/ivy_dry_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10221</Hash>
@@ -826,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_p</Name>
-    <File>p:\dz\plants_bliss\building\ivy_p.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_c</Name>
+    <File>dz/plants_bliss/building/ivy_dry_c.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10222</Hash>
@@ -859,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_r</Name>
-    <File>p:\dz\plants_bliss\building\ivy_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_d</Name>
+    <File>dz/plants_bliss/building/ivy_dry_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10223</Hash>
@@ -892,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_roof_a</Name>
-    <File>p:\dz\plants_bliss\building\ivy_roof_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_e</Name>
+    <File>dz/plants_bliss/building/ivy_dry_e.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10224</Hash>
@@ -925,11 +925,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_roof_b</Name>
-    <File>p:\dz\plants_bliss\building\ivy_roof_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_f</Name>
+    <File>dz/plants_bliss/building/ivy_dry_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10225</Hash>
@@ -958,11 +958,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_s</Name>
-    <File>p:\dz\plants_bliss\building\ivy_s.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_g</Name>
+    <File>dz/plants_bliss/building/ivy_dry_g.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10226</Hash>
@@ -991,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_special_a</Name>
-    <File>p:\dz\plants_bliss\building\ivy_special_a.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_h</Name>
+    <File>dz/plants_bliss/building/ivy_dry_h.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10227</Hash>
@@ -1024,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_special_b</Name>
-    <File>p:\dz\plants_bliss\building\ivy_special_b.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_i</Name>
+    <File>dz/plants_bliss/building/ivy_dry_i.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10228</Hash>
@@ -1057,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_special_c</Name>
-    <File>p:\dz\plants_bliss\building\ivy_special_c.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_dry_j</Name>
+    <File>dz/plants_bliss/building/ivy_dry_j.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10229</Hash>
@@ -1090,11 +1090,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_special_d</Name>
-    <File>p:\dz\plants_bliss\building\ivy_special_d.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_roof_a</Name>
+    <File>dz/plants_bliss/building/ivy_roof_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10230</Hash>
@@ -1123,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_special_e</Name>
-    <File>p:\dz\plants_bliss\building\ivy_special_e.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_roof_b</Name>
+    <File>dz/plants_bliss/building/ivy_roof_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10231</Hash>
@@ -1156,11 +1156,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_special_f</Name>
-    <File>p:\dz\plants_bliss\building\ivy_special_f.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_special_a</Name>
+    <File>dz/plants_bliss/building/ivy_special_a.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10232</Hash>
@@ -1189,11 +1189,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_t</Name>
-    <File>p:\dz\plants_bliss\building\ivy_t.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_special_b</Name>
+    <File>dz/plants_bliss/building/ivy_special_b.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10233</Hash>
@@ -1222,11 +1222,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_u</Name>
-    <File>p:\dz\plants_bliss\building\ivy_u.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_special_d</Name>
+    <File>dz/plants_bliss/building/ivy_special_d.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10234</Hash>
@@ -1255,11 +1255,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_v</Name>
-    <File>p:\dz\plants_bliss\building\ivy_v.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_special_e</Name>
+    <File>dz/plants_bliss/building/ivy_special_e.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10235</Hash>
@@ -1288,11 +1288,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>ivy_x</Name>
-    <File>p:\dz\plants_bliss\building\ivy_x.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>ivy_special_f</Name>
+    <File>dz/plants_bliss/building/ivy_special_f.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10236</Hash>
@@ -1322,10 +1322,10 @@
 </Template>
 <Template>
     <Name>poison_ivy</Name>
-    <File>p:\dz\plants_bliss\building\poison_ivy.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_bliss/building/poison_ivy.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10237</Hash>

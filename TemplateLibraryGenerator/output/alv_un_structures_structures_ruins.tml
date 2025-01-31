@@ -2,10 +2,10 @@
 <Library name="alv_un_structures_structures_ruins" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>house_makeshift_shelter</Name>
-    <File>p:\alv_un_structures\structures\ruins\house_makeshift_shelter.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/ruins/house_makeshift_shelter.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15940</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>house_stone_ruins</Name>
-    <File>p:\alv_un_structures\structures\ruins\house_stone_ruins.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/ruins/house_stone_ruins.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15941</Hash>

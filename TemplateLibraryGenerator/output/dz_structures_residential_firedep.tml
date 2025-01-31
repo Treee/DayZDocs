@@ -2,10 +2,10 @@
 <Library name="dz_structures_residential_firedep" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>city_firestation</Name>
-    <File>p:\dz\structures\residential\firedep\city_firestation.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/firedep/city_firestation.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11450</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>mil_firestation</Name>
-    <File>p:\dz\structures\residential\firedep\mil_firestation.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/firedep/mil_firestation.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11451</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_firestation_hoses</Name>
-    <File>p:\dz\structures\residential\firedep\proxy\city_firestation_hoses.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_firestation_int</Name>
+    <File>dz/structures/residential/firedep/proxy/city_firestation_int.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11452</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>city_firestation_int</Name>
-    <File>p:\dz\structures\residential\firedep\proxy\city_firestation_int.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>city_firestation_hoses</Name>
+    <File>dz/structures/residential/firedep/proxy/city_firestation_hoses.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11453</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>mil_firedep_windows</Name>
-    <File>p:\dz\structures\residential\firedep\proxy\mil_firedep_windows.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/firedep/proxy/mil_firedep_windows.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11454</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>windows_dupe_3</Name>
-    <File>p:\dz\structures\residential\firedep\proxy\windows.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures/residential/firedep/proxy/windows.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>11455</Hash>

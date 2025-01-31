@@ -2,10 +2,10 @@
 <Library name="dz_structures_sakhal_furniture" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>model_submarine</Name>
-    <File>p:\dz\structures_sakhal\furniture\props\model_submarine.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/furniture/props/model_submarine.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14099</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>basketball_korb_dupe_2</Name>
-    <File>p:\dz\structures_sakhal\furniture\school_equipment\basketball_korb.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/furniture/school_equipment/basketball_korb.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14100</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>flag_sakhal_pole</Name>
-    <File>p:\dz\structures_sakhal\furniture\school_equipment\flag_sakhal_pole.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/furniture/school_equipment/flag_sakhal_pole.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14101</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>tac_board_posters_level1_dupe_2</Name>
-    <File>p:\dz\structures_sakhal\furniture\school_equipment\tac_board_posters_level1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/furniture/school_equipment/tac_board_posters_level1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14102</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>tac_board_posters_level2_dupe_2</Name>
-    <File>p:\dz\structures_sakhal\furniture\school_equipment\tac_board_posters_level2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_sakhal/furniture/school_equipment/tac_board_posters_level2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14103</Hash>

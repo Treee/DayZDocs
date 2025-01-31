@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_underground_floor" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>underground_floor_comms</Name>
-    <File>p:\dz\structures_bliss\underground\floor\underground_floor_comms.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/floor/underground_floor_comms.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13928</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>underground_floor_crew</Name>
-    <File>p:\dz\structures_bliss\underground\floor\underground_floor_crew.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/floor/underground_floor_crew.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13929</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>underground_floor_comms_accessories</Name>
-    <File>p:\dz\structures_bliss\underground\floor\proxy\underground_floor_comms_accessories.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/floor/proxy/underground_floor_comms_accessories.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13930</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>underground_floor_comms_safe</Name>
-    <File>p:\dz\structures_bliss\underground\floor\proxy\underground_floor_comms_safe.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/underground/floor/proxy/underground_floor_comms_safe.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13931</Hash>

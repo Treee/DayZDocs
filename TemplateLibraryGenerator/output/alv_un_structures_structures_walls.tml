@@ -2,10 +2,10 @@
 <Library name="alv_un_structures_structures_walls" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>1m_picketfence</Name>
-    <File>p:\alv_un_structures\structures\walls\1m_picketfence.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/1m_picketfence.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15942</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>2m_picketfence</Name>
-    <File>p:\alv_un_structures\structures\walls\2m_picketfence.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/2m_picketfence.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15943</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>4m_fortwalkwaycorner_ruins</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwalkwaycorner_ruins.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwalkwaycorner_ruins.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15944</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>4m_fortwalkway_ruins</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwalkway_ruins.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwalkway_ruins.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15945</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>4m_fortwall</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15946</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>4m_fortwall_ruins</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwall_ruins.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwall_ruins.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15947</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>4m_fortwall_stairs</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwall_stairs.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwall_stairs.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15948</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>4m_fortwall_walkway</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwall_walkway.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwall_walkway.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15949</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>4m_fortwall_walkwaycorner</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_fortwall_walkwaycorner.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_fortwall_walkwaycorner.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15950</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>4m_picketfence</Name>
-    <File>p:\alv_un_structures\structures\walls\4m_picketfence.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/4m_picketfence.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15951</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>house_fortgatehouse</Name>
-    <File>p:\alv_un_structures\structures\walls\house_fortgatehouse.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/house_fortgatehouse.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15952</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>house_forttower_ladder</Name>
-    <File>p:\alv_un_structures\structures\walls\house_forttower_ladder.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/house_forttower_ladder.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15953</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>house_forttower_stairs</Name>
-    <File>p:\alv_un_structures\structures\walls\house_forttower_stairs.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/house_forttower_stairs.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15954</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>medium_ranchfence</Name>
-    <File>p:\alv_un_structures\structures\walls\medium_ranchfence.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/medium_ranchfence.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15955</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>ranch_gate</Name>
-    <File>p:\alv_un_structures\structures\walls\ranch_gate.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/ranch_gate.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15956</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>small_ranchfence</Name>
-    <File>p:\alv_un_structures\structures\walls\small_ranchfence.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/walls/small_ranchfence.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15957</Hash>

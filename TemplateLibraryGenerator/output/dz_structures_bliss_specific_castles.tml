@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_specific_castles" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>castle_bastion2</Name>
-    <File>p:\dz\structures_bliss\specific\castles\castle_bastion2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/specific/castles/castle_bastion2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13863</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>castle_wall3</Name>
-    <File>p:\dz\structures_bliss\specific\castles\castle_wall3.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/specific/castles/castle_wall3.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13864</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>castle_wall3_d_l</Name>
-    <File>p:\dz\structures_bliss\specific\castles\castle_wall3_d_l.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/specific/castles/castle_wall3_d_l.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13865</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>castle_wall3_d_r</Name>
-    <File>p:\dz\structures_bliss\specific\castles\castle_wall3_d_r.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/specific/castles/castle_wall3_d_r.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13866</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>casltes_bastion2_etc</Name>
-    <File>p:\dz\structures_bliss\specific\castles\proxy\casltes_bastion2_etc.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/specific/castles/proxy/casltes_bastion2_etc.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13867</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>casltes_bastion2_rocks</Name>
-    <File>p:\dz\structures_bliss\specific\castles\proxy\casltes_bastion2_rocks.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/specific/castles/proxy/casltes_bastion2_rocks.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8355712</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13868</Hash>

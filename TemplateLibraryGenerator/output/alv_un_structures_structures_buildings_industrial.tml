@@ -2,10 +2,10 @@
 <Library name="alv_un_structures_structures_buildings_industrial" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>house_barn</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_barn.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/buildings/industrial/house_barn.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15910</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>house_blacksmiths</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_blacksmiths.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/buildings/industrial/house_blacksmiths.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15911</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>house_stable_shop</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_stable_shop.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/buildings/industrial/house_stable_shop.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15912</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>house_storagehouse</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_storagehouse.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/buildings/industrial/house_storagehouse.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15913</Hash>
@@ -133,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_wooden_stable</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_wooden_stable.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>house_wood_workshop</Name>
+    <File>alv_un_structures/structures/buildings/industrial/house_wood_workshop.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15914</Hash>
@@ -166,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_wood_workshop</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_wood_workshop.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>house_wooden_stable</Name>
+    <File>alv_un_structures/structures/buildings/industrial/house_wooden_stable.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15915</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>house_workshop</Name>
-    <File>p:\alv_un_structures\structures\buildings\industrial\house_workshop.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>alv_un_structures/structures/buildings/industrial/house_workshop.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15916</Hash>

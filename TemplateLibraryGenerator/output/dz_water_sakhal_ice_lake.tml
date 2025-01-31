@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_water_sakhal_ice_lake" shape="rectangle" default_fill="-13816321" default_outline="-16777216" tex="0">
     <Template>
-    <Name>sakhal_50x50_ice_lake</Name>
-    <File>p:\dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>sakhal_50x50_ice_underlayer</Name>
+    <File>dz/water_sakhal/ice_lake/sakhal_50x50_ice_underlayer.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15830</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>sakhal_50x50_ice_lake_clear</Name>
-    <File>p:\dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>sakhal_50x50_ice_lake</Name>
+    <File>dz/water_sakhal/ice_lake/sakhal_50x50_ice_lake.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15831</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>sakhal_50x50_ice_underlayer</Name>
-    <File>p:\dz\water_sakhal\ice_lake\sakhal_50x50_ice_underlayer.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <Name>sakhal_50x50_ice_lake_clear</Name>
+    <File>dz/water_sakhal/ice_lake/sakhal_50x50_ice_lake_clear.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>15832</Hash>

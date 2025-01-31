@@ -2,10 +2,10 @@
 <Library name="dz_structures_bliss_industrial_misc" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>misc_cinderblocks</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_cinderblocks.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_cinderblocks.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13210</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>misc_drainage_dupe_2</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_drainage.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_drainage.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13211</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>misc_haybale_packed</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_haybale_packed.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_haybale_packed.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13212</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>misc_haybale_packed_stack</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_haybale_packed_stack.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_haybale_packed_stack.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13213</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>misc_surveymarker_cover</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_surveymarker_cover.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_surveymarker_cover.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13214</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>misc_surveymarker_post</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_surveymarker_post.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_surveymarker_post.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13215</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>misc_surveymarker_rod</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_surveymarker_rod.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_surveymarker_rod.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13216</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>misc_tire</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_tire.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_tire.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13217</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>misc_tirepile_large</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_tirepile_large.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_tirepile_large.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13218</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>misc_transformer</Name>
-    <File>p:\dz\structures_bliss\industrial\misc\misc_transformer.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/structures_bliss/industrial/misc/misc_transformer.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-16777216</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13219</Hash>

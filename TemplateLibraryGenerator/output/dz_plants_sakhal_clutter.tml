@@ -2,10 +2,10 @@
 <Library name="dz_plants_sakhal_clutter" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
     <Template>
     <Name>c_birchleaves</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_birchleaves.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_birchleaves.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10389</Hash>
@@ -35,10 +35,10 @@
 </Template>
 <Template>
     <Name>c_birchleaves_sparse</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_birchleaves_sparse.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_birchleaves_sparse.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10390</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>c_browngrass</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_browngrass.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_browngrass.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10391</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>c_browngrass_flat</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_browngrass_flat.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_browngrass_flat.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10392</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>c_browngrass_lump</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_browngrass_lump.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_browngrass_lump.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10393</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>c_browngrass_tall</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_browngrass_tall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_browngrass_tall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10394</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>c_browngrass_tall2</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_browngrass_tall2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_browngrass_tall2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10395</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>c_drythistle</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_drythistle.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_drythistle.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10396</Hash>
@@ -266,10 +266,10 @@
 </Template>
 <Template>
     <Name>c_greengrass_tall</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_greengrass_tall.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_greengrass_tall.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10397</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>c_greengrass_tall2</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_greengrass_tall2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_greengrass_tall2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10398</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>c_piceacluster</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_piceacluster.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_piceacluster.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10399</Hash>
@@ -365,10 +365,10 @@
 </Template>
 <Template>
     <Name>c_piceacones</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_piceacones.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_piceacones.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10400</Hash>
@@ -398,10 +398,10 @@
 </Template>
 <Template>
     <Name>c_stones</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_stones.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_stones.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10401</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>c_stones_small</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_stones_small.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_stones_small.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10402</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>c_twigs1</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_twigs1.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_twigs1.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10403</Hash>
@@ -497,10 +497,10 @@
 </Template>
 <Template>
     <Name>c_twigs2</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_twigs2.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_twigs2.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10404</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>c_volcanicstones_red</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_volcanicstones_red.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_volcanicstones_red.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10405</Hash>
@@ -563,10 +563,10 @@
 </Template>
 <Template>
     <Name>c_volcanicstones_yellow</Name>
-    <File>p:\dz\plants_sakhal\clutter\c_volcanicstones_yellow.p3d</File>
-    <Date>Wed Dec 18 12:26:03 2024</Date>
+    <File>dz/plants_sakhal/clutter/c_volcanicstones_yellow.p3d</File>
+    <Date>Thu Jan 30 20:24:27 2025</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
+    <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10406</Hash>

@@ -76,7 +76,7 @@ const b_IsWindows = process.platform === "win32";
 let rootFilepath = "P:\\";
 
 if (!b_IsWindows) {
-    const windowsUsername = "Tree";
+    const windowsUsername = "";
     rootFilepath = `/mnt/c/Users/${windowsUsername}/Documents/DayZ Projects`;
     foldersToTemplate.forEach((folderFilePath, index, theArray) => {
         theArray[index] = folderFilePath.replaceAll("\\", "/");

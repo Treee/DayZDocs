@@ -67,8 +67,11 @@ const foldersToTemplate = [
     "dz\\water",
     "dz\\water_bliss",
     "dz\\water_sakhal",
-    // "ALV_UN_Props",
-    // "ALV_UN_Structures\\Structures",
+    "ALV_UN_Structures_Commercial",
+    "ALV_UN_Structures_Industrial",
+    "ALV_UN_Structures_Misc",
+    "ALV_UN_Structures_Residential",
+    "ALV_UN_Structures_Walls",
 ];
 
 const b_IsWindows = process.platform === "win32";

@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="dz_water_streambed" shape="rectangle" default_fill="-13816321" default_outline="-16777216" tex="0">
+<Library name="dz_rocks_snow_rocks" shape="rectangle" default_fill="-8355712" default_outline="-16777216" tex="0">
     <Template>
-    <Name>streambed_leaf_long_curve_left</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_curve_left.p3d</File>
+    <Name>snow_rock_apart1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_apart1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14794</Hash>
+    <Hash>10532</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_long_curve_left_2</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_curve_left_2.p3d</File>
+    <Name>snow_rock_apart2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_apart2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14795</Hash>
+    <Hash>10533</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +67,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_long_curve_right</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_curve_right.p3d</File>
+    <Name>snow_rock_bright_apart1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_apart1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14796</Hash>
+    <Hash>10534</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +100,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_long_curve_right_2</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_curve_right_2.p3d</File>
+    <Name>snow_rock_bright_apart2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_apart2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14797</Hash>
+    <Hash>10535</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +133,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_long_snake</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_snake.p3d</File>
+    <Name>snow_rock_bright_monolith1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_monolith1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14798</Hash>
+    <Hash>10536</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +166,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_long_straight</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_straight.p3d</File>
+    <Name>snow_rock_bright_monolith2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_monolith2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14799</Hash>
+    <Hash>10537</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +199,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_long_straight_2</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_long_straight_2.p3d</File>
+    <Name>snow_rock_bright_monolith3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_monolith3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14800</Hash>
+    <Hash>10538</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +232,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_short_arrow</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_short_arrow.p3d</File>
+    <Name>snow_rock_bright_monolith4</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_monolith4.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14801</Hash>
+    <Hash>10539</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +265,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_short_slanted</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_short_slanted.p3d</File>
+    <Name>snow_rock_bright_spike1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_spike1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14802</Hash>
+    <Hash>10540</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -298,14 +298,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_short_slanted_inv</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_short_slanted_inv.p3d</File>
+    <Name>snow_rock_bright_spike2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_spike2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14803</Hash>
+    <Hash>10541</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -331,14 +331,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_leaf_short_straight</Name>
-    <File>p:\dz\water\streambed\streambed_leaf_short_straight.p3d</File>
+    <Name>snow_rock_bright_spike3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_spike3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14804</Hash>
+    <Hash>10542</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -364,14 +364,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_curve_left</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_curve_left.p3d</File>
+    <Name>snow_rock_bright_wallh1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_wallh1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14805</Hash>
+    <Hash>10543</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -397,14 +397,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_curve_left_2</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_curve_left_2.p3d</File>
+    <Name>snow_rock_bright_wallh2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_wallh2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14806</Hash>
+    <Hash>10544</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -430,14 +430,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_curve_right</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_curve_right.p3d</File>
+    <Name>snow_rock_bright_wallh3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_wallh3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14807</Hash>
+    <Hash>10545</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -463,14 +463,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_curve_right_2</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_curve_right_2.p3d</File>
+    <Name>snow_rock_bright_wallv</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_bright_wallv.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14808</Hash>
+    <Hash>10546</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -496,14 +496,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_snake</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_snake.p3d</File>
+    <Name>snow_rock_monolith1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_monolith1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14809</Hash>
+    <Hash>10547</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -529,14 +529,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_straight</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_straight.p3d</File>
+    <Name>snow_rock_monolith2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_monolith2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14810</Hash>
+    <Hash>10548</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -562,14 +562,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_long_straight_2</Name>
-    <File>p:\dz\water\streambed\streambed_moss_long_straight_2.p3d</File>
+    <Name>snow_rock_monolith3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_monolith3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14811</Hash>
+    <Hash>10549</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -595,14 +595,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_short_arrow</Name>
-    <File>p:\dz\water\streambed\streambed_moss_short_arrow.p3d</File>
+    <Name>snow_rock_monolith4</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_monolith4.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14812</Hash>
+    <Hash>10550</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -628,14 +628,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_short_slanted</Name>
-    <File>p:\dz\water\streambed\streambed_moss_short_slanted.p3d</File>
+    <Name>snow_rock_spike1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_spike1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14813</Hash>
+    <Hash>10551</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -661,14 +661,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_short_slanted_inv</Name>
-    <File>p:\dz\water\streambed\streambed_moss_short_slanted_inv.p3d</File>
+    <Name>snow_rock_spike2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_spike2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14814</Hash>
+    <Hash>10552</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -694,14 +694,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_moss_short_straight</Name>
-    <File>p:\dz\water\streambed\streambed_moss_short_straight.p3d</File>
+    <Name>snow_rock_spike3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_spike3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14815</Hash>
+    <Hash>10553</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -727,14 +727,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_long_curve_left</Name>
-    <File>p:\dz\water\streambed\streambed_sand_long_curve_left.p3d</File>
+    <Name>snow_rock_wallh1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_wallh1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14816</Hash>
+    <Hash>10554</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -760,14 +760,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_long_curve_right</Name>
-    <File>p:\dz\water\streambed\streambed_sand_long_curve_right.p3d</File>
+    <Name>snow_rock_wallh2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_wallh2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14817</Hash>
+    <Hash>10555</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -793,14 +793,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_long_snake</Name>
-    <File>p:\dz\water\streambed\streambed_sand_long_snake.p3d</File>
+    <Name>snow_rock_wallh3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_wallh3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14818</Hash>
+    <Hash>10556</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -826,14 +826,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_long_straight</Name>
-    <File>p:\dz\water\streambed\streambed_sand_long_straight.p3d</File>
+    <Name>snow_rock_wallv</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_rock_wallv.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14819</Hash>
+    <Hash>10557</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -859,14 +859,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_short_arrow</Name>
-    <File>p:\dz\water\streambed\streambed_sand_short_arrow.p3d</File>
+    <Name>snow_stone1</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone1.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14820</Hash>
+    <Hash>10558</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -892,14 +892,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_short_slanted</Name>
-    <File>p:\dz\water\streambed\streambed_sand_short_slanted.p3d</File>
+    <Name>snow_stone2</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone2.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14821</Hash>
+    <Hash>10559</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -925,14 +925,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_short_slanted_inv</Name>
-    <File>p:\dz\water\streambed\streambed_sand_short_slanted_inv.p3d</File>
+    <Name>snow_stone3</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone3.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14822</Hash>
+    <Hash>10560</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -958,14 +958,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>streambed_sand_short_straight</Name>
-    <File>p:\dz\water\streambed\streambed_sand_short_straight.p3d</File>
+    <Name>snow_stone4</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone4.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14823</Hash>
+    <Hash>10561</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -991,14 +991,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>stones_leaf_bar</Name>
-    <File>p:\dz\water\streambed\misc\stones_leaf_bar.p3d</File>
+    <Name>snow_stone5</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone5.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14824</Hash>
+    <Hash>10562</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1024,14 +1024,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>stones_leaf_bar_curve</Name>
-    <File>p:\dz\water\streambed\misc\stones_leaf_bar_curve.p3d</File>
+    <Name>snow_stone5_trail_b</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone5_trail_b.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14825</Hash>
+    <Hash>10563</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1057,14 +1057,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>stones_leaf_group_1</Name>
-    <File>p:\dz\water\streambed\misc\stones_leaf_group_1.p3d</File>
+    <Name>snow_stone5_trail_g</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone5_trail_g.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14826</Hash>
+    <Hash>10564</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1090,14 +1090,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>stones_leaf_group_2</Name>
-    <File>p:\dz\water\streambed\misc\stones_leaf_group_2.p3d</File>
+    <Name>snow_stone5_trail_r</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone5_trail_r.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14827</Hash>
+    <Hash>10565</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1123,14 +1123,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>stones_leaf_group_3</Name>
-    <File>p:\dz\water\streambed\misc\stones_leaf_group_3.p3d</File>
+    <Name>snow_stone5_trail_y</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stone5_trail_y.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14828</Hash>
+    <Hash>10566</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1156,575 +1156,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>stones_moss_bar</Name>
-    <File>p:\dz\water\streambed\misc\stones_moss_bar.p3d</File>
+    <Name>snow_stones_erosion</Name>
+    <File>p:\dz\rocks\snow_rocks\snow_stones_erosion.p3d</File>
     <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-13816321</Fill>
+    <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14829</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_moss_bar_curve</Name>
-    <File>p:\dz\water\streambed\misc\stones_moss_bar_curve.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14830</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_moss_group_1</Name>
-    <File>p:\dz\water\streambed\misc\stones_moss_group_1.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14831</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_moss_group_2</Name>
-    <File>p:\dz\water\streambed\misc\stones_moss_group_2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14832</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_moss_group_3</Name>
-    <File>p:\dz\water\streambed\misc\stones_moss_group_3.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14833</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_sand_bar</Name>
-    <File>p:\dz\water\streambed\misc\stones_sand_bar.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14834</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_sand_bar_curve</Name>
-    <File>p:\dz\water\streambed\misc\stones_sand_bar_curve.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14835</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_sand_group_1</Name>
-    <File>p:\dz\water\streambed\misc\stones_sand_group_1.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14836</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_sand_group_2</Name>
-    <File>p:\dz\water\streambed\misc\stones_sand_group_2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14837</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>stones_sand_group_3</Name>
-    <File>p:\dz\water\streambed\misc\stones_sand_group_3.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14838</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_long_curve_left_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_long_curve_left_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14839</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_long_curve_right_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_long_curve_right_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14840</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_long_snake_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_long_snake_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14841</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_long_straight_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_long_straight_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14842</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_short_arrow_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_short_arrow_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14843</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_short_slanted_inv_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_short_slanted_inv_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14844</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_short_slanted_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_short_slanted_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14845</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>streambed_short_straight_water</Name>
-    <File>p:\dz\water\streambed\proxy\streambed_short_straight_water.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
-    <Archive></Archive>
-    <Fill>-13816321</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14846</Hash>
+    <Hash>10567</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

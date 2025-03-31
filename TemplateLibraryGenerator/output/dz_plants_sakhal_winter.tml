@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_plants_sakhal_winter" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
     <Template>
-    <Name>b_betulapendula_1f_winter</Name>
-    <File>dz/plants_sakhal/winter/b_betulapendula_1f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_betulahumilis_1s_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_betulahumilis_1s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10458</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_piceaabies_1f_winter</Name>
-    <File>dz/plants_sakhal/winter/b_piceaabies_1f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_betulanana_1s_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_betulanana_1s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10459</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_piceaabies_1fb_winter</Name>
-    <File>dz/plants_sakhal/winter/b_piceaabies_1fb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_betulapendula_1f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_betulapendula_1f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10460</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_betulahumilis_1s_winter</Name>
-    <File>dz/plants_sakhal/winter/b_betulahumilis_1s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_caraganaarborescens_2s_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_caraganaarborescens_2s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10461</Hash>
@@ -133,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_betulanana_1s_winter</Name>
-    <File>dz/plants_sakhal/winter/b_betulanana_1s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_piceaabies_1fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_piceaabies_1fb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10462</Hash>
@@ -166,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_caraganaarborescens_2s_winter</Name>
-    <File>dz/plants_sakhal/winter/b_caraganaarborescens_2s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_piceaabies_1f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_piceaabies_1f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10463</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>d_betulapendula_fallen_winter</Name>
-    <File>dz/plants_sakhal/winter/d_betulapendula_fallen_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\d_betulapendula_fallen_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10464</Hash>
@@ -233,10 +233,10 @@
 </Template>
 <Template>
     <Name>d_betulapendula_stump_winter</Name>
-    <File>dz/plants_sakhal/winter/d_betulapendula_stump_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\d_betulapendula_stump_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10465</Hash>
@@ -265,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallen_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_fallen_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallenb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallenb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10466</Hash>
@@ -298,11 +298,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallenb_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_fallenb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallenc_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallenc_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10467</Hash>
@@ -331,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallenc_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_fallenc_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallend_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallend_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10468</Hash>
@@ -364,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallend_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_fallend_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallene_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallene_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10469</Hash>
@@ -397,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallene_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_fallene_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallen_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallen_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10470</Hash>
@@ -430,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stump_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_stump_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_stumpb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_stumpb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10471</Hash>
@@ -463,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stumpb_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_stumpb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_stumpc_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_stumpc_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10472</Hash>
@@ -496,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stumpc_winter</Name>
-    <File>dz/plants_sakhal/winter/d_piceaabies_stumpc_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_stump_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_stump_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10473</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>t_betulapendulae_2w_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendulae_2w_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendulae_2w_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10474</Hash>
@@ -562,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_1f_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_1f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_1fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_1fb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10475</Hash>
@@ -595,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_1fb_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_1fb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_1f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_1f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10476</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_1s_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_1s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_1s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10477</Hash>
@@ -661,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2f_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_2f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_2fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2fb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10478</Hash>
@@ -694,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2fb_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_2fb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_2fc_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2fc_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10479</Hash>
@@ -727,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2fc_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_2fc_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_2f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10480</Hash>
@@ -761,10 +761,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2s_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_2s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10481</Hash>
@@ -794,10 +794,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2w_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_2w_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2w_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10482</Hash>
@@ -826,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3f_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_3f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_3fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_3fb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10483</Hash>
@@ -859,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3fb_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_3fb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_3fc_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_3fc_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10484</Hash>
@@ -892,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3fc_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_3fc_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_3f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_3f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10485</Hash>
@@ -926,10 +926,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_3s_winter</Name>
-    <File>dz/plants_sakhal/winter/t_betulapendula_3s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_3s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10486</Hash>
@@ -959,10 +959,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_1f_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_1f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_1f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10487</Hash>
@@ -991,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1s_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_1s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_1sb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_1sb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10488</Hash>
@@ -1024,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1sb_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_1sb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_1s_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_1s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10489</Hash>
@@ -1057,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2f_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_2f_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2d_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2d_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10490</Hash>
@@ -1091,10 +1091,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_2fb_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_2fb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2fb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10491</Hash>
@@ -1123,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2s_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_2s_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2f_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10492</Hash>
@@ -1157,10 +1157,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_2sb_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_2sb_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2sb_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10493</Hash>
@@ -1189,11 +1189,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2d_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_2d_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2s_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2s_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10494</Hash>
@@ -1223,10 +1223,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_3d_winter</Name>
-    <File>dz/plants_sakhal/winter/t_piceaabies_3d_winter.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_3d_winter.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10495</Hash>

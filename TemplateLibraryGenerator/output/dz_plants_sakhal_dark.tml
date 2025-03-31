@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_plants_sakhal_dark" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
     <Template>
-    <Name>b_piceaabies_1f_dark</Name>
-    <File>dz/plants_sakhal/dark/b_piceaabies_1f_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_piceaabies_1fb_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\b_piceaabies_1fb_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10407</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_piceaabies_1fb_dark</Name>
-    <File>dz/plants_sakhal/dark/b_piceaabies_1fb_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_piceaabies_1f_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\b_piceaabies_1f_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10408</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallen_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_fallen_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallenb_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_fallenb_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10409</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallenb_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_fallenb_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallenc_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_fallenc_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10410</Hash>
@@ -133,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallenc_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_fallenc_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallend_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_fallend_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10411</Hash>
@@ -166,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallend_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_fallend_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallene_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_fallene_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10412</Hash>
@@ -199,11 +199,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallene_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_fallene_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_fallen_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_fallen_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10413</Hash>
@@ -232,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stump_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_stump_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_stumpb_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_stumpb_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10414</Hash>
@@ -265,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stumpb_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_stumpb_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_stumpc_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_stumpc_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10415</Hash>
@@ -298,11 +298,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stumpc_dark</Name>
-    <File>dz/plants_sakhal/dark/d_piceaabies_stumpc_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>d_piceaabies_stump_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\d_piceaabies_stump_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10416</Hash>
@@ -332,10 +332,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_1f_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_1f_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_1f_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10417</Hash>
@@ -364,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1s_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_1s_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_1sb_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_1sb_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10418</Hash>
@@ -397,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1sb_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_1sb_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_1s_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_1s_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10419</Hash>
@@ -430,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2f_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_2f_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2d_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_2d_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10420</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_2fb_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_2fb_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_2fb_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10421</Hash>
@@ -496,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2s_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_2s_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2f_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_2f_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10422</Hash>
@@ -530,10 +530,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_2sb_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_2sb_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_2sb_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10423</Hash>
@@ -562,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2d_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_2d_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2s_dark</Name>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_2s_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10424</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_3d_dark</Name>
-    <File>dz/plants_sakhal/dark/t_piceaabies_3d_dark.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\dark\t_piceaabies_3d_dark.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10425</Hash>

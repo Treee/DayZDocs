@@ -2,1627 +2,10 @@
 <Library name="dz_structures_sakhal_roads" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>bridge_concrete2_left_sakhal</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_concrete2_left_sakhal.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete2_left_sakhal.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14304</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>bridge_concrete2_right_sakhal</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_concrete2_right_sakhal.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14305</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>bridge_concrete3</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_concrete3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14306</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>bridge_concrete3_snow</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_concrete3_snow.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14307</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>bridge_wood2</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_wood2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14308</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>bridge_wood2_pillar</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_wood2_pillar.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14309</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>bridge_wood2_snow</Name>
-    <File>dz/structures_sakhal/roads/bridges/bridge_wood2_snow.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14310</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>decal_caveinterior_square</Name>
-    <File>dz/structures_sakhal/roads/decals/decal_caveinterior_square.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14311</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>decal_crosswalk_east</Name>
-    <File>dz/structures_sakhal/roads/decals/decal_crosswalk_east.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14312</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14313</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14314</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14315</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14316</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14317</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14318</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_12</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14319</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14320</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14321</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14322</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14323</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_6</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14324</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14325</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14326</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_dashedline_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_dashedline_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14327</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14328</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14329</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14330</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14331</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14332</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14333</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_12</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14334</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14335</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14336</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14337</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14338</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_6</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14339</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14340</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14341</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf1sakhal_fullline_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf1sakhal_fullline_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14342</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14343</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14344</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14345</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14346</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14347</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14348</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_12</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14349</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14350</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14351</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14352</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>asf2sakhal_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14353</Hash>
@@ -1651,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2sakhal_6</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>bridge_concrete2_right_sakhal</Name>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete2_right_sakhal.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14354</Hash>
@@ -1684,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2sakhal_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>bridge_concrete3</Name>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14355</Hash>
@@ -1717,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2sakhal_6konec1</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_6konec1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>bridge_concrete3_snow</Name>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_concrete3_snow.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14356</Hash>
@@ -1750,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2sakhal_6konec2</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_6konec2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>bridge_wood2</Name>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_wood2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14357</Hash>
@@ -1783,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf2sakhal_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf2sakhal_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>bridge_wood2_pillar</Name>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_wood2_pillar.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14358</Hash>
@@ -1816,11 +199,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>bridge_wood2_snow</Name>
+    <File>p:\dz\structures_sakhal\roads\bridges\bridge_wood2_snow.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14359</Hash>
@@ -1849,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_caveinterior_square</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_caveinterior_square.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14360</Hash>
@@ -1882,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_crosswalk_east</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_crosswalk_east.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14361</Hash>
@@ -1915,11 +298,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_01</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14362</Hash>
@@ -1948,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_01_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_01_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14363</Hash>
@@ -1981,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_02</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14364</Hash>
@@ -2014,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_12</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_02_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_02_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14365</Hash>
@@ -2047,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_03</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14366</Hash>
@@ -2080,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_03_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_03_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14367</Hash>
@@ -2113,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_04</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14368</Hash>
@@ -2146,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_04_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_04_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14369</Hash>
@@ -2179,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_6</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_05</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_05.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14370</Hash>
@@ -2212,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_05_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_05_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14371</Hash>
@@ -2245,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_06</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_06.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14372</Hash>
@@ -2278,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>asf3sakhal_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/asf3sakhal_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_06_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_06_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14373</Hash>
@@ -2311,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_long1</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_long1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14374</Hash>
@@ -2344,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>decal_sakhal_snow_long1_nolc</Name>
+    <File>p:\dz\structures_sakhal\roads\decals\decal_sakhal_snow_long1_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14375</Hash>
@@ -2377,11 +760,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14376</Hash>
@@ -2410,11 +793,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14377</Hash>
@@ -2443,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14378</Hash>
@@ -2476,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14379</Hash>
@@ -2509,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_12</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14380</Hash>
@@ -2542,11 +925,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14381</Hash>
@@ -2575,11 +958,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14382</Hash>
@@ -2608,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_25</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14383</Hash>
@@ -2641,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14384</Hash>
@@ -2674,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_6</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14385</Hash>
@@ -2707,11 +1090,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14386</Hash>
@@ -2740,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14387</Hash>
@@ -2773,11 +1156,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>gravsakhal_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/gravsakhal_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14388</Hash>
@@ -2806,11 +1189,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14389</Hash>
@@ -2839,11 +1222,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_dashedline_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_dashedline_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14390</Hash>
@@ -2872,11 +1255,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14391</Hash>
@@ -2905,11 +1288,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14392</Hash>
@@ -2938,11 +1321,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14393</Hash>
@@ -2971,11 +1354,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14394</Hash>
@@ -3004,11 +1387,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_12</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14395</Hash>
@@ -3037,11 +1420,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14396</Hash>
@@ -3070,11 +1453,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14397</Hash>
@@ -3103,11 +1486,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_25</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14398</Hash>
@@ -3136,11 +1519,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14399</Hash>
@@ -3169,11 +1552,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_6</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14400</Hash>
@@ -3202,11 +1585,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14401</Hash>
@@ -3235,11 +1618,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14402</Hash>
@@ -3268,11 +1651,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>mudsakhal_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/mudsakhal_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14403</Hash>
@@ -3301,11 +1684,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14404</Hash>
@@ -3334,11 +1717,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf1sakhal_fullline_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf1sakhal_fullline_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14405</Hash>
@@ -3367,11 +1750,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14406</Hash>
@@ -3400,11 +1783,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14407</Hash>
@@ -3433,11 +1816,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14408</Hash>
@@ -3466,11 +1849,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14409</Hash>
@@ -3499,11 +1882,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_12</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14410</Hash>
@@ -3532,11 +1915,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14411</Hash>
@@ -3565,11 +1948,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14412</Hash>
@@ -3598,11 +1981,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_25</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14413</Hash>
@@ -3631,11 +2014,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14414</Hash>
@@ -3664,11 +2047,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_6</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14415</Hash>
@@ -3697,11 +2080,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14416</Hash>
@@ -3730,11 +2113,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14417</Hash>
@@ -3763,11 +2146,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>quarrysakhal_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/quarrysakhal_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14418</Hash>
@@ -3796,11 +2179,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_0 2000</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_0 2000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_6konec1</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_6konec1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14419</Hash>
@@ -3829,11 +2212,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_1 1000</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_1 1000.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_6konec2</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_6konec2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14420</Hash>
@@ -3862,11 +2245,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_10 100</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_10 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf2sakhal_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf2sakhal_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14421</Hash>
@@ -3895,11 +2278,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_10 25</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_10 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14422</Hash>
@@ -3928,11 +2311,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_10 50</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_10 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14423</Hash>
@@ -3961,11 +2344,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_10 75</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_10 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14424</Hash>
@@ -3994,11 +2377,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_12</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14425</Hash>
@@ -4027,11 +2410,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_15 75</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_15 75.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14426</Hash>
@@ -4060,11 +2443,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_22 50</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_22 50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14427</Hash>
@@ -4093,11 +2476,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_25</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14428</Hash>
@@ -4126,11 +2509,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_30 25</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_30 25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14429</Hash>
@@ -4159,11 +2542,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_6</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14430</Hash>
@@ -4192,11 +2575,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_60 10</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_60 10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14431</Hash>
@@ -4225,11 +2608,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_6konec</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_6konec.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14432</Hash>
@@ -4258,14 +2641,2093 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>snowroad_7 100</Name>
-    <File>dz/structures_sakhal/roads/parts/snowroad_7 100.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>asf3sakhal_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14433</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>asf3sakhal_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14434</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>asf3sakhal_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14435</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>asf3sakhal_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\asf3sakhal_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14436</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14437</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14438</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14439</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14440</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14441</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14442</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14443</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14444</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14445</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14446</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14447</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14448</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14449</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14450</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>gravsakhal_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\gravsakhal_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14451</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14452</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14453</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14454</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14455</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14456</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14457</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14458</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14459</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14460</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14461</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14462</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14463</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14464</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14465</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>mudsakhal_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\mudsakhal_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14466</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14467</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14468</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14469</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14470</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14471</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14472</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14473</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14474</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14475</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14476</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14477</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14478</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14479</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14480</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>quarrysakhal_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\quarrysakhal_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14481</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_0 2000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_0 2000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14482</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_1 1000</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_1 1000.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14483</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_10 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14484</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_10 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14485</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_10 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14486</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_10 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_10 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14487</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_12</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14488</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_15 75</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_15 75.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14489</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_22 50</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_22 50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14490</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14491</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_30 25</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_30 25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14492</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_6</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14493</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_60 10</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_60 10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14494</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_6konec</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_6konec.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14495</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>snowroad_7 100</Name>
+    <File>p:\dz\structures_sakhal\roads\parts\snowroad_7 100.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14496</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

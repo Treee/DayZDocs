@@ -2,13 +2,13 @@
 <Library name="dz_structures_wrecks_trains" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>train_742_blue</Name>
-    <File>dz/structures/wrecks/trains/train_742_blue.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures\wrecks\trains\train_742_blue.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13063</Hash>
+    <Hash>13133</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>train_742_red</Name>
-    <File>dz/structures/wrecks/trains/train_742_red.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures\wrecks\trains\train_742_red.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13064</Hash>
+    <Hash>13134</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>train_wagon_box</Name>
-    <File>dz/structures/wrecks/trains/train_wagon_box.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures\wrecks\trains\train_wagon_box.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13065</Hash>
+    <Hash>13135</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -101,13 +101,13 @@
 </Template>
 <Template>
     <Name>train_wagon_flat</Name>
-    <File>dz/structures/wrecks/trains/train_wagon_flat.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures\wrecks\trains\train_wagon_flat.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13066</Hash>
+    <Hash>13136</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -134,13 +134,13 @@
 </Template>
 <Template>
     <Name>train_wagon_tanker</Name>
-    <File>dz/structures/wrecks/trains/train_wagon_tanker.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures\wrecks\trains\train_wagon_tanker.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13067</Hash>
+    <Hash>13137</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

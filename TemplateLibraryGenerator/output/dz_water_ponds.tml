@@ -2,10 +2,307 @@
 <Library name="dz_water_ponds" shape="rectangle" default_fill="-13816321" default_outline="-16777216" tex="0">
     <Template>
     <Name>lake_50x50</Name>
-    <File>dz/water/ponds/lake_50x50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\water\ponds\lake_50x50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14612</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_50x50</Name>
+    <File>p:\dz\water\ponds\pond_50x50.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14613</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_29_01</Name>
+    <File>p:\dz\water\ponds\pond_big_29_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14614</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_29_02</Name>
+    <File>p:\dz\water\ponds\pond_big_29_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14615</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_29_03</Name>
+    <File>p:\dz\water\ponds\pond_big_29_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14616</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_29_04</Name>
+    <File>p:\dz\water\ponds\pond_big_29_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14617</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_30_01</Name>
+    <File>p:\dz\water\ponds\pond_big_30_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14618</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_30_02</Name>
+    <File>p:\dz\water\ponds\pond_big_30_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14619</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_30_03</Name>
+    <File>p:\dz\water\ponds\pond_big_30_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>14620</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>pond_big_30_04</Name>
+    <File>p:\dz\water\ponds\pond_big_30_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14621</Hash>
@@ -34,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_50x50</Name>
-    <File>dz/water/ponds/pond_50x50.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_01</Name>
+    <File>p:\dz\water\ponds\pond_big_31_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14622</Hash>
@@ -67,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_01</Name>
-    <File>dz/water/ponds/pond_big_29_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_02</Name>
+    <File>p:\dz\water\ponds\pond_big_31_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14623</Hash>
@@ -100,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_02</Name>
-    <File>dz/water/ponds/pond_big_29_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_03</Name>
+    <File>p:\dz\water\ponds\pond_big_31_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14624</Hash>
@@ -133,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_03</Name>
-    <File>dz/water/ponds/pond_big_29_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_04</Name>
+    <File>p:\dz\water\ponds\pond_big_31_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14625</Hash>
@@ -166,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_04</Name>
-    <File>dz/water/ponds/pond_big_29_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_33_01</Name>
+    <File>p:\dz\water\ponds\pond_big_33_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14626</Hash>
@@ -199,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_01</Name>
-    <File>dz/water/ponds/pond_big_30_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_33_02</Name>
+    <File>p:\dz\water\ponds\pond_big_33_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14627</Hash>
@@ -232,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_02</Name>
-    <File>dz/water/ponds/pond_big_30_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_33_03</Name>
+    <File>p:\dz\water\ponds\pond_big_33_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14628</Hash>
@@ -265,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_03</Name>
-    <File>dz/water/ponds/pond_big_30_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_01</Name>
+    <File>p:\dz\water\ponds\pond_big_34_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14629</Hash>
@@ -298,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_04</Name>
-    <File>dz/water/ponds/pond_big_30_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_02</Name>
+    <File>p:\dz\water\ponds\pond_big_34_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14630</Hash>
@@ -331,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_01</Name>
-    <File>dz/water/ponds/pond_big_31_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_03</Name>
+    <File>p:\dz\water\ponds\pond_big_34_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14631</Hash>
@@ -364,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_02</Name>
-    <File>dz/water/ponds/pond_big_31_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_04</Name>
+    <File>p:\dz\water\ponds\pond_big_34_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14632</Hash>
@@ -397,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_03</Name>
-    <File>dz/water/ponds/pond_big_31_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_35_01</Name>
+    <File>p:\dz\water\ponds\pond_big_35_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14633</Hash>
@@ -430,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_04</Name>
-    <File>dz/water/ponds/pond_big_31_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_35_02</Name>
+    <File>p:\dz\water\ponds\pond_big_35_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14634</Hash>
@@ -463,11 +760,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_33_01</Name>
-    <File>dz/water/ponds/pond_big_33_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_01</Name>
+    <File>p:\dz\water\ponds\pond_big_36_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14635</Hash>
@@ -496,11 +793,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_33_02</Name>
-    <File>dz/water/ponds/pond_big_33_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_02</Name>
+    <File>p:\dz\water\ponds\pond_big_36_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14636</Hash>
@@ -529,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_33_03</Name>
-    <File>dz/water/ponds/pond_big_33_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_03</Name>
+    <File>p:\dz\water\ponds\pond_big_36_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14637</Hash>
@@ -562,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_01</Name>
-    <File>dz/water/ponds/pond_big_34_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_04</Name>
+    <File>p:\dz\water\ponds\pond_big_36_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14638</Hash>
@@ -595,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_02</Name>
-    <File>dz/water/ponds/pond_big_34_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_01</Name>
+    <File>p:\dz\water\ponds\pond_big_37_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14639</Hash>
@@ -628,11 +925,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_03</Name>
-    <File>dz/water/ponds/pond_big_34_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_02</Name>
+    <File>p:\dz\water\ponds\pond_big_37_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14640</Hash>
@@ -661,11 +958,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_04</Name>
-    <File>dz/water/ponds/pond_big_34_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_03</Name>
+    <File>p:\dz\water\ponds\pond_big_37_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14641</Hash>
@@ -694,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_35_01</Name>
-    <File>dz/water/ponds/pond_big_35_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_04</Name>
+    <File>p:\dz\water\ponds\pond_big_37_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14642</Hash>
@@ -727,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_35_02</Name>
-    <File>dz/water/ponds/pond_big_35_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_01</Name>
+    <File>p:\dz\water\ponds\pond_big_38_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14643</Hash>
@@ -760,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_01</Name>
-    <File>dz/water/ponds/pond_big_36_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_02</Name>
+    <File>p:\dz\water\ponds\pond_big_38_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14644</Hash>
@@ -793,11 +1090,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_02</Name>
-    <File>dz/water/ponds/pond_big_36_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_03</Name>
+    <File>p:\dz\water\ponds\pond_big_38_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14645</Hash>
@@ -826,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_03</Name>
-    <File>dz/water/ponds/pond_big_36_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_04</Name>
+    <File>p:\dz\water\ponds\pond_big_38_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14646</Hash>
@@ -859,11 +1156,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_04</Name>
-    <File>dz/water/ponds/pond_big_36_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_39_01</Name>
+    <File>p:\dz\water\ponds\pond_big_39_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14647</Hash>
@@ -892,11 +1189,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_01</Name>
-    <File>dz/water/ponds/pond_big_37_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_39_02</Name>
+    <File>p:\dz\water\ponds\pond_big_39_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14648</Hash>
@@ -925,11 +1222,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_02</Name>
-    <File>dz/water/ponds/pond_big_37_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_39_03</Name>
+    <File>p:\dz\water\ponds\pond_big_39_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14649</Hash>
@@ -958,11 +1255,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_03</Name>
-    <File>dz/water/ponds/pond_big_37_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_39_04</Name>
+    <File>p:\dz\water\ponds\pond_big_39_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14650</Hash>
@@ -991,11 +1288,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_04</Name>
-    <File>dz/water/ponds/pond_big_37_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_01</Name>
+    <File>p:\dz\water\ponds\pond_big_40_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14651</Hash>
@@ -1024,11 +1321,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_01</Name>
-    <File>dz/water/ponds/pond_big_38_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_02</Name>
+    <File>p:\dz\water\ponds\pond_big_40_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14652</Hash>
@@ -1057,11 +1354,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_02</Name>
-    <File>dz/water/ponds/pond_big_38_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_03</Name>
+    <File>p:\dz\water\ponds\pond_big_40_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14653</Hash>
@@ -1090,11 +1387,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_03</Name>
-    <File>dz/water/ponds/pond_big_38_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_04</Name>
+    <File>p:\dz\water\ponds\pond_big_40_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14654</Hash>
@@ -1123,11 +1420,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_04</Name>
-    <File>dz/water/ponds/pond_big_38_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_01</Name>
+    <File>p:\dz\water\ponds\pond_big_41_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14655</Hash>
@@ -1156,11 +1453,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_39_01</Name>
-    <File>dz/water/ponds/pond_big_39_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_02</Name>
+    <File>p:\dz\water\ponds\pond_big_41_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14656</Hash>
@@ -1189,11 +1486,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_39_02</Name>
-    <File>dz/water/ponds/pond_big_39_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_03</Name>
+    <File>p:\dz\water\ponds\pond_big_41_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14657</Hash>
@@ -1222,11 +1519,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_39_03</Name>
-    <File>dz/water/ponds/pond_big_39_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_04</Name>
+    <File>p:\dz\water\ponds\pond_big_41_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14658</Hash>
@@ -1255,11 +1552,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_39_04</Name>
-    <File>dz/water/ponds/pond_big_39_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_05</Name>
+    <File>p:\dz\water\ponds\pond_big_41_05.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14659</Hash>
@@ -1288,11 +1585,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_01</Name>
-    <File>dz/water/ponds/pond_big_40_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_01</Name>
+    <File>p:\dz\water\ponds\pond_big_42_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14660</Hash>
@@ -1321,11 +1618,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_02</Name>
-    <File>dz/water/ponds/pond_big_40_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_02</Name>
+    <File>p:\dz\water\ponds\pond_big_42_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14661</Hash>
@@ -1354,11 +1651,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_03</Name>
-    <File>dz/water/ponds/pond_big_40_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_03</Name>
+    <File>p:\dz\water\ponds\pond_big_42_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14662</Hash>
@@ -1387,11 +1684,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_04</Name>
-    <File>dz/water/ponds/pond_big_40_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_04</Name>
+    <File>p:\dz\water\ponds\pond_big_42_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14663</Hash>
@@ -1420,11 +1717,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_01</Name>
-    <File>dz/water/ponds/pond_big_41_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_05</Name>
+    <File>p:\dz\water\ponds\pond_big_42_05.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14664</Hash>
@@ -1453,11 +1750,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_02</Name>
-    <File>dz/water/ponds/pond_big_41_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_06</Name>
+    <File>p:\dz\water\ponds\pond_big_42_06.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14665</Hash>
@@ -1486,11 +1783,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_03</Name>
-    <File>dz/water/ponds/pond_big_41_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_07</Name>
+    <File>p:\dz\water\ponds\pond_big_42_07.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14666</Hash>
@@ -1519,11 +1816,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_04</Name>
-    <File>dz/water/ponds/pond_big_41_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_08</Name>
+    <File>p:\dz\water\ponds\pond_big_42_08.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14667</Hash>
@@ -1552,11 +1849,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_05</Name>
-    <File>dz/water/ponds/pond_big_41_05.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_09</Name>
+    <File>p:\dz\water\ponds\pond_big_42_09.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14668</Hash>
@@ -1585,11 +1882,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_01</Name>
-    <File>dz/water/ponds/pond_big_42_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_10</Name>
+    <File>p:\dz\water\ponds\pond_big_42_10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14669</Hash>
@@ -1618,11 +1915,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_02</Name>
-    <File>dz/water/ponds/pond_big_42_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_11</Name>
+    <File>p:\dz\water\ponds\pond_big_42_11.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14670</Hash>
@@ -1651,11 +1948,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_03</Name>
-    <File>dz/water/ponds/pond_big_42_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_12</Name>
+    <File>p:\dz\water\ponds\pond_big_42_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14671</Hash>
@@ -1684,11 +1981,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_04</Name>
-    <File>dz/water/ponds/pond_big_42_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_13</Name>
+    <File>p:\dz\water\ponds\pond_big_42_13.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14672</Hash>
@@ -1717,11 +2014,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_05</Name>
-    <File>dz/water/ponds/pond_big_42_05.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_14</Name>
+    <File>p:\dz\water\ponds\pond_big_42_14.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14673</Hash>
@@ -1750,11 +2047,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_06</Name>
-    <File>dz/water/ponds/pond_big_42_06.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_15</Name>
+    <File>p:\dz\water\ponds\pond_big_42_15.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14674</Hash>
@@ -1783,11 +2080,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_07</Name>
-    <File>dz/water/ponds/pond_big_42_07.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_16</Name>
+    <File>p:\dz\water\ponds\pond_big_42_16.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14675</Hash>
@@ -1816,11 +2113,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_08</Name>
-    <File>dz/water/ponds/pond_big_42_08.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_17</Name>
+    <File>p:\dz\water\ponds\pond_big_42_17.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14676</Hash>
@@ -1849,11 +2146,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_09</Name>
-    <File>dz/water/ponds/pond_big_42_09.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_18</Name>
+    <File>p:\dz\water\ponds\pond_big_42_18.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14677</Hash>
@@ -1882,11 +2179,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_10</Name>
-    <File>dz/water/ponds/pond_big_42_10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_19</Name>
+    <File>p:\dz\water\ponds\pond_big_42_19.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14678</Hash>
@@ -1915,11 +2212,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_11</Name>
-    <File>dz/water/ponds/pond_big_42_11.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_20</Name>
+    <File>p:\dz\water\ponds\pond_big_42_20.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14679</Hash>
@@ -1948,11 +2245,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_12</Name>
-    <File>dz/water/ponds/pond_big_42_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_44</Name>
+    <File>p:\dz\water\ponds\pond_big_44.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14680</Hash>
@@ -1981,11 +2278,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_13</Name>
-    <File>dz/water/ponds/pond_big_42_13.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_1</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14681</Hash>
@@ -2014,11 +2311,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_14</Name>
-    <File>dz/water/ponds/pond_big_42_14.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_10</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14682</Hash>
@@ -2047,11 +2344,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_15</Name>
-    <File>dz/water/ponds/pond_big_42_15.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_11</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_11.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14683</Hash>
@@ -2080,11 +2377,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_16</Name>
-    <File>dz/water/ponds/pond_big_42_16.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_2</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14684</Hash>
@@ -2113,11 +2410,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_17</Name>
-    <File>dz/water/ponds/pond_big_42_17.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_3</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14685</Hash>
@@ -2146,11 +2443,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_18</Name>
-    <File>dz/water/ponds/pond_big_42_18.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_4</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14686</Hash>
@@ -2179,11 +2476,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_19</Name>
-    <File>dz/water/ponds/pond_big_42_19.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_5</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14687</Hash>
@@ -2212,11 +2509,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_20</Name>
-    <File>dz/water/ponds/pond_big_42_20.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_6</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14688</Hash>
@@ -2245,11 +2542,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_44</Name>
-    <File>dz/water/ponds/pond_big_44.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_7</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_7.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14689</Hash>
@@ -2278,11 +2575,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_1</Name>
-    <File>dz/water/ponds/pond_big_ly_1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_8</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_8.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14690</Hash>
@@ -2311,11 +2608,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_10</Name>
-    <File>dz/water/ponds/pond_big_ly_10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_ly_9</Name>
+    <File>p:\dz\water\ponds\pond_big_ly_9.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14691</Hash>
@@ -2344,11 +2641,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_11</Name>
-    <File>dz/water/ponds/pond_big_ly_11.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_severogd_novo_down</Name>
+    <File>p:\dz\water\ponds\pond_severogd_novo_down.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14692</Hash>
@@ -2377,11 +2674,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_2</Name>
-    <File>dz/water/ponds/pond_big_ly_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_01</Name>
+    <File>p:\dz\water\ponds\pond_small_01.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14693</Hash>
@@ -2410,11 +2707,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_3</Name>
-    <File>dz/water/ponds/pond_big_ly_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_02</Name>
+    <File>p:\dz\water\ponds\pond_small_02.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14694</Hash>
@@ -2443,11 +2740,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_4</Name>
-    <File>dz/water/ponds/pond_big_ly_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_03</Name>
+    <File>p:\dz\water\ponds\pond_small_03.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14695</Hash>
@@ -2476,11 +2773,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_5</Name>
-    <File>dz/water/ponds/pond_big_ly_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_04</Name>
+    <File>p:\dz\water\ponds\pond_small_04.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14696</Hash>
@@ -2509,11 +2806,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_6</Name>
-    <File>dz/water/ponds/pond_big_ly_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_05</Name>
+    <File>p:\dz\water\ponds\pond_small_05.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14697</Hash>
@@ -2542,11 +2839,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_7</Name>
-    <File>dz/water/ponds/pond_big_ly_7.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_06</Name>
+    <File>p:\dz\water\ponds\pond_small_06.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14698</Hash>
@@ -2575,11 +2872,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_8</Name>
-    <File>dz/water/ponds/pond_big_ly_8.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_08</Name>
+    <File>p:\dz\water\ponds\pond_small_08.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14699</Hash>
@@ -2608,11 +2905,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_ly_9</Name>
-    <File>dz/water/ponds/pond_big_ly_9.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_09</Name>
+    <File>p:\dz\water\ponds\pond_small_09.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14700</Hash>
@@ -2641,11 +2938,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_severogd_novo_down</Name>
-    <File>dz/water/ponds/pond_severogd_novo_down.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_10</Name>
+    <File>p:\dz\water\ponds\pond_small_10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14701</Hash>
@@ -2674,11 +2971,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_01</Name>
-    <File>dz/water/ponds/pond_small_01.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_11</Name>
+    <File>p:\dz\water\ponds\pond_small_11.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14702</Hash>
@@ -2707,11 +3004,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_02</Name>
-    <File>dz/water/ponds/pond_small_02.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_12</Name>
+    <File>p:\dz\water\ponds\pond_small_12.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14703</Hash>
@@ -2740,11 +3037,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_03</Name>
-    <File>dz/water/ponds/pond_small_03.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_13</Name>
+    <File>p:\dz\water\ponds\pond_small_13.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14704</Hash>
@@ -2773,11 +3070,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_04</Name>
-    <File>dz/water/ponds/pond_small_04.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_14</Name>
+    <File>p:\dz\water\ponds\pond_small_14.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14705</Hash>
@@ -2806,11 +3103,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_05</Name>
-    <File>dz/water/ponds/pond_small_05.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_15</Name>
+    <File>p:\dz\water\ponds\pond_small_15.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14706</Hash>
@@ -2839,11 +3136,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_06</Name>
-    <File>dz/water/ponds/pond_small_06.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_16</Name>
+    <File>p:\dz\water\ponds\pond_small_16.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14707</Hash>
@@ -2872,11 +3169,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_08</Name>
-    <File>dz/water/ponds/pond_small_08.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_17</Name>
+    <File>p:\dz\water\ponds\pond_small_17.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14708</Hash>
@@ -2905,11 +3202,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_09</Name>
-    <File>dz/water/ponds/pond_small_09.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_18</Name>
+    <File>p:\dz\water\ponds\pond_small_18.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14709</Hash>
@@ -2938,11 +3235,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_10</Name>
-    <File>dz/water/ponds/pond_small_10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_19</Name>
+    <File>p:\dz\water\ponds\pond_small_19.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14710</Hash>
@@ -2971,11 +3268,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_11</Name>
-    <File>dz/water/ponds/pond_small_11.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_20</Name>
+    <File>p:\dz\water\ponds\pond_small_20.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14711</Hash>
@@ -3004,11 +3301,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_12</Name>
-    <File>dz/water/ponds/pond_small_12.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_21</Name>
+    <File>p:\dz\water\ponds\pond_small_21.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14712</Hash>
@@ -3037,11 +3334,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_13</Name>
-    <File>dz/water/ponds/pond_small_13.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_22</Name>
+    <File>p:\dz\water\ponds\pond_small_22.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14713</Hash>
@@ -3070,11 +3367,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_14</Name>
-    <File>dz/water/ponds/pond_small_14.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_23</Name>
+    <File>p:\dz\water\ponds\pond_small_23.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14714</Hash>
@@ -3103,11 +3400,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_15</Name>
-    <File>dz/water/ponds/pond_small_15.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_24</Name>
+    <File>p:\dz\water\ponds\pond_small_24.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14715</Hash>
@@ -3136,11 +3433,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_16</Name>
-    <File>dz/water/ponds/pond_small_16.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_25</Name>
+    <File>p:\dz\water\ponds\pond_small_25.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14716</Hash>
@@ -3169,11 +3466,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_17</Name>
-    <File>dz/water/ponds/pond_small_17.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_26</Name>
+    <File>p:\dz\water\ponds\pond_small_26.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14717</Hash>
@@ -3202,11 +3499,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_18</Name>
-    <File>dz/water/ponds/pond_small_18.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_27</Name>
+    <File>p:\dz\water\ponds\pond_small_27.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14718</Hash>
@@ -3235,11 +3532,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_19</Name>
-    <File>dz/water/ponds/pond_small_19.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_50x50_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_50x50_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14719</Hash>
@@ -3268,11 +3565,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_20</Name>
-    <File>dz/water/ponds/pond_small_20.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_28_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_28_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14720</Hash>
@@ -3301,11 +3598,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_21</Name>
-    <File>dz/water/ponds/pond_small_21.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_28_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_28_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14721</Hash>
@@ -3334,11 +3631,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_22</Name>
-    <File>dz/water/ponds/pond_small_22.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_28_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_28_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14722</Hash>
@@ -3367,11 +3664,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_23</Name>
-    <File>dz/water/ponds/pond_small_23.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_28_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_28_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14723</Hash>
@@ -3400,11 +3697,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_24</Name>
-    <File>dz/water/ponds/pond_small_24.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_29_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_29_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14724</Hash>
@@ -3433,11 +3730,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_25</Name>
-    <File>dz/water/ponds/pond_small_25.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_29_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_29_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14725</Hash>
@@ -3466,11 +3763,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_26</Name>
-    <File>dz/water/ponds/pond_small_26.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_29_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_29_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14726</Hash>
@@ -3499,11 +3796,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_27</Name>
-    <File>dz/water/ponds/pond_small_27.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_29_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_29_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14727</Hash>
@@ -3532,11 +3829,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_50x50_moss</Name>
-    <File>dz/water/ponds/moss/pond_50x50_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_30_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_30_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14728</Hash>
@@ -3565,11 +3862,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_28_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_28_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_30_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_30_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14729</Hash>
@@ -3598,11 +3895,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_28_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_28_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_30_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_30_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14730</Hash>
@@ -3631,11 +3928,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_28_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_28_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_30_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_30_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14731</Hash>
@@ -3664,11 +3961,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_28_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_28_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_31_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14732</Hash>
@@ -3697,11 +3994,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_29_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_31_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14733</Hash>
@@ -3730,11 +4027,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_29_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_31_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14734</Hash>
@@ -3763,11 +4060,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_29_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_31_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_31_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14735</Hash>
@@ -3796,11 +4093,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_29_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_29_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_32_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_32_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14736</Hash>
@@ -3829,11 +4126,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_30_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_32_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_32_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14737</Hash>
@@ -3862,11 +4159,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_30_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_32_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_32_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14738</Hash>
@@ -3895,11 +4192,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_30_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_33_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_33_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14739</Hash>
@@ -3928,11 +4225,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_30_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_30_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_33_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_33_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14740</Hash>
@@ -3961,11 +4258,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_31_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_33_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_33_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14741</Hash>
@@ -3994,11 +4291,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_31_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_34_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14742</Hash>
@@ -4027,11 +4324,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_31_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_34_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14743</Hash>
@@ -4060,11 +4357,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_31_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_31_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_34_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14744</Hash>
@@ -4093,11 +4390,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_32_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_32_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_34_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_34_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14745</Hash>
@@ -4126,11 +4423,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_32_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_32_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_35_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_35_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14746</Hash>
@@ -4159,11 +4456,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_32_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_32_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_36_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14747</Hash>
@@ -4192,11 +4489,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_33_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_33_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_36_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14748</Hash>
@@ -4225,11 +4522,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_33_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_33_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_36_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14749</Hash>
@@ -4258,11 +4555,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_33_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_33_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_36_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_36_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14750</Hash>
@@ -4291,11 +4588,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_34_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_37_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14751</Hash>
@@ -4324,11 +4621,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_34_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_37_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14752</Hash>
@@ -4357,11 +4654,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_34_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_37_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14753</Hash>
@@ -4390,11 +4687,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_34_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_34_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_37_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_37_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14754</Hash>
@@ -4423,11 +4720,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_35_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_35_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_38_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14755</Hash>
@@ -4456,11 +4753,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_36_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_38_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14756</Hash>
@@ -4489,11 +4786,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_36_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_38_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14757</Hash>
@@ -4522,11 +4819,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_36_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_38_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_38_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14758</Hash>
@@ -4555,11 +4852,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_36_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_36_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_40_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14759</Hash>
@@ -4588,11 +4885,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_37_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_40_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14760</Hash>
@@ -4621,11 +4918,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_37_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_40_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14761</Hash>
@@ -4654,11 +4951,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_37_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_40_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_40_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14762</Hash>
@@ -4687,11 +4984,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_37_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_37_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_41_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14763</Hash>
@@ -4720,11 +5017,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_38_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_41_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14764</Hash>
@@ -4753,11 +5050,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_38_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_41_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14765</Hash>
@@ -4786,11 +5083,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_38_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_41_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14766</Hash>
@@ -4819,11 +5116,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_38_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_38_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_41_05_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_41_05_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14767</Hash>
@@ -4852,11 +5149,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_40_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_42_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14768</Hash>
@@ -4885,11 +5182,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_40_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_42_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14769</Hash>
@@ -4918,11 +5215,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_40_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_42_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14770</Hash>
@@ -4951,11 +5248,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_40_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_40_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_42_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_42_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14771</Hash>
@@ -4984,11 +5281,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_41_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_43_30_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_43_30_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14772</Hash>
@@ -5017,11 +5314,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_41_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_big_43_31_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_big_43_31_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14773</Hash>
@@ -5050,11 +5347,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_41_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_01_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_01_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14774</Hash>
@@ -5083,11 +5380,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_41_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_02_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_02_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14775</Hash>
@@ -5116,11 +5413,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_41_05_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_41_05_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_03_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_03_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14776</Hash>
@@ -5149,11 +5446,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_42_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_04_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_04_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14777</Hash>
@@ -5182,11 +5479,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_42_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_05_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_05_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14778</Hash>
@@ -5215,11 +5512,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_42_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_06_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_06_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14779</Hash>
@@ -5248,11 +5545,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_42_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_42_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_08_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_08_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14780</Hash>
@@ -5281,11 +5578,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_43_30_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_43_30_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_09_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_09_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14781</Hash>
@@ -5314,11 +5611,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_big_43_31_moss</Name>
-    <File>dz/water/ponds/moss/pond_big_43_31_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_15_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_15_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14782</Hash>
@@ -5347,11 +5644,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_01_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_01_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_16_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_16_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14783</Hash>
@@ -5380,11 +5677,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_02_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_02_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_17_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_17_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14784</Hash>
@@ -5413,11 +5710,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_03_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_03_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_18_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_18_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14785</Hash>
@@ -5446,11 +5743,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_04_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_04_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_19_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_19_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14786</Hash>
@@ -5479,11 +5776,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_05_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_05_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_20_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_20_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14787</Hash>
@@ -5512,11 +5809,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_06_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_06_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_21_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_21_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14788</Hash>
@@ -5545,11 +5842,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_08_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_08_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_22_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_22_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14789</Hash>
@@ -5578,11 +5875,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_09_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_09_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_24_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_24_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14790</Hash>
@@ -5611,11 +5908,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_15_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_15_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_25_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_25_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14791</Hash>
@@ -5644,11 +5941,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_16_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_16_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_26_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_26_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14792</Hash>
@@ -5677,311 +5974,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>pond_small_17_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_17_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>pond_small_27_moss</Name>
+    <File>p:\dz\water\ponds\moss\pond_small_27_moss.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>14793</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_18_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_18_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14794</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_19_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_19_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14795</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_20_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_20_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14796</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_21_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_21_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14797</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_22_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_22_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14798</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_24_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_24_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14799</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_25_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_25_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14800</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_26_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_26_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14801</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>pond_small_27_moss</Name>
-    <File>dz/water/ponds/moss/pond_small_27_moss.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>14802</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

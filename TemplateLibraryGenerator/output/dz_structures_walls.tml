@@ -1,1364 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_structures_walls" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
-    <Name>wall_cbrk_5</Name>
-    <File>dz/structures/walls/wall_cbrk_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>walls_end</Name>
+    <File>p:\dz\structures\walls\walls_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12913</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cbrk_5_d</Name>
-    <File>dz/structures/walls/wall_cbrk_5_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12914</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cbrk_corner</Name>
-    <File>dz/structures/walls/wall_cbrk_corner.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12915</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cbrk_end</Name>
-    <File>dz/structures/walls/wall_cbrk_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12916</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cbrk_pole</Name>
-    <File>dz/structures/walls/wall_cbrk_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12917</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgrylow_5</Name>
-    <File>dz/structures/walls/wall_cgrylow_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12918</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgrylow_end1</Name>
-    <File>dz/structures/walls/wall_cgrylow_end1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12919</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgrylow_end2</Name>
-    <File>dz/structures/walls/wall_cgrylow_end2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12920</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgry_5</Name>
-    <File>dz/structures/walls/wall_cgry_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12921</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgry_5_d</Name>
-    <File>dz/structures/walls/wall_cgry_5_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12922</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgry_corner</Name>
-    <File>dz/structures/walls/wall_cgry_corner.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12923</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgry_corner_2</Name>
-    <File>dz/structures/walls/wall_cgry_corner_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12924</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cgry_end</Name>
-    <File>dz/structures/walls/wall_cgry_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12925</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cyel_5</Name>
-    <File>dz/structures/walls/wall_cyel_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12926</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cyel_corner</Name>
-    <File>dz/structures/walls/wall_cyel_corner.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12927</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cyel_end</Name>
-    <File>dz/structures/walls/wall_cyel_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12928</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cyel_end2</Name>
-    <File>dz/structures/walls/wall_cyel_end2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12929</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cncsmall_4</Name>
-    <File>dz/structures/walls/wall_cncsmall_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12930</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cncsmall_8</Name>
-    <File>dz/structures/walls/wall_cncsmall_8.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12931</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_cnc_5</Name>
-    <File>dz/structures/walls/wall_cnc_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12932</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen1_5</Name>
-    <File>dz/structures/walls/wall_fen1_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12933</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen1_5_2</Name>
-    <File>dz/structures/walls/wall_fen1_5_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12934</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen1_5_hole</Name>
-    <File>dz/structures/walls/wall_fen1_5_hole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12935</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen1_5_pole</Name>
-    <File>dz/structures/walls/wall_fen1_5_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12936</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen2_6</Name>
-    <File>dz/structures/walls/wall_fen2_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12937</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen2_6_hole</Name>
-    <File>dz/structures/walls/wall_fen2_6_hole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12938</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fen2_pole</Name>
-    <File>dz/structures/walls/wall_fen2_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12939</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_feng_3</Name>
-    <File>dz/structures/walls/wall_feng_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12940</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_feng_pole</Name>
-    <File>dz/structures/walls/wall_feng_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12941</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fenr_3</Name>
-    <File>dz/structures/walls/wall_fenr_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12942</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fenr_pole</Name>
-    <File>dz/structures/walls/wall_fenr_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12943</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fenw_7</Name>
-    <File>dz/structures/walls/wall_fenw_7.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12944</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fenw_7_d</Name>
-    <File>dz/structures/walls/wall_fenw_7_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12945</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_fenw_7_s</Name>
-    <File>dz/structures/walls/wall_fenw_7_s.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12946</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_forfieldfen_1</Name>
-    <File>dz/structures/walls/wall_forfieldfen_1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12947</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_forfieldfen_2</Name>
-    <File>dz/structures/walls/wall_forfieldfen_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12948</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_forfieldfen_end</Name>
-    <File>dz/structures/walls/wall_forfieldfen_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12949</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_garbcont</Name>
-    <File>dz/structures/walls/wall_garbcont.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12950</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_garbcont_corner</Name>
-    <File>dz/structures/walls/wall_garbcont_corner.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12951</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_gate_cgry</Name>
-    <File>dz/structures/walls/wall_gate_cgry.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12952</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_gate_camp</Name>
-    <File>dz/structures/walls/wall_gate_camp.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>12953</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>wall_gate_fen2_l</Name>
-    <File>dz/structures/walls/wall_gate_fen2_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
-    <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12954</Hash>
@@ -1387,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fen2_r</Name>
-    <File>dz/structures/walls/wall_gate_fen2_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cbrk_5</Name>
+    <File>p:\dz\structures\walls\wall_cbrk_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12955</Hash>
@@ -1420,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_feng</Name>
-    <File>dz/structures/walls/wall_gate_feng.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cbrk_5_d</Name>
+    <File>p:\dz\structures\walls\wall_cbrk_5_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12956</Hash>
@@ -1453,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_feng_big</Name>
-    <File>dz/structures/walls/wall_gate_feng_big.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cbrk_corner</Name>
+    <File>p:\dz\structures\walls\wall_cbrk_corner.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12957</Hash>
@@ -1486,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_feng_big_l</Name>
-    <File>dz/structures/walls/wall_gate_feng_big_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cbrk_end</Name>
+    <File>p:\dz\structures\walls\wall_cbrk_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12958</Hash>
@@ -1519,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_feng_big_open</Name>
-    <File>dz/structures/walls/wall_gate_feng_big_open.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cbrk_pole</Name>
+    <File>p:\dz\structures\walls\wall_cbrk_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12959</Hash>
@@ -1552,11 +199,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_feng_big_r</Name>
-    <File>dz/structures/walls/wall_gate_feng_big_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgrylow_5</Name>
+    <File>p:\dz\structures\walls\wall_cgrylow_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12960</Hash>
@@ -1585,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_feng_open</Name>
-    <File>dz/structures/walls/wall_gate_feng_open.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgrylow_end1</Name>
+    <File>p:\dz\structures\walls\wall_cgrylow_end1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12961</Hash>
@@ -1618,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fenr</Name>
-    <File>dz/structures/walls/wall_gate_fenr.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgrylow_end2</Name>
+    <File>p:\dz\structures\walls\wall_cgrylow_end2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12962</Hash>
@@ -1651,11 +298,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fenr_big</Name>
-    <File>dz/structures/walls/wall_gate_fenr_big.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgry_5</Name>
+    <File>p:\dz\structures\walls\wall_cgry_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12963</Hash>
@@ -1684,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fenr_big_l</Name>
-    <File>dz/structures/walls/wall_gate_fenr_big_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgry_5_d</Name>
+    <File>p:\dz\structures\walls\wall_cgry_5_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12964</Hash>
@@ -1717,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fenr_big_open</Name>
-    <File>dz/structures/walls/wall_gate_fenr_big_open.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgry_corner</Name>
+    <File>p:\dz\structures\walls\wall_cgry_corner.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12965</Hash>
@@ -1750,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fenr_big_r</Name>
-    <File>dz/structures/walls/wall_gate_fenr_big_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgry_corner_2</Name>
+    <File>p:\dz\structures\walls\wall_cgry_corner_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12966</Hash>
@@ -1783,11 +430,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_fenr_open</Name>
-    <File>dz/structures/walls/wall_gate_fenr_open.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cgry_end</Name>
+    <File>p:\dz\structures\walls\wall_cgry_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12967</Hash>
@@ -1816,11 +463,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind1_l</Name>
-    <File>dz/structures/walls/wall_gate_ind1_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cncsmall_4</Name>
+    <File>p:\dz\structures\walls\wall_cncsmall_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12968</Hash>
@@ -1849,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind1_r</Name>
-    <File>dz/structures/walls/wall_gate_ind1_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cncsmall_8</Name>
+    <File>p:\dz\structures\walls\wall_cncsmall_8.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12969</Hash>
@@ -1882,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind2a_l</Name>
-    <File>dz/structures/walls/wall_gate_ind2a_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cnc_5</Name>
+    <File>p:\dz\structures\walls\wall_cnc_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12970</Hash>
@@ -1915,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind2a_r</Name>
-    <File>dz/structures/walls/wall_gate_ind2a_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cyel_5</Name>
+    <File>p:\dz\structures\walls\wall_cyel_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12971</Hash>
@@ -1948,11 +595,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind2b_l</Name>
-    <File>dz/structures/walls/wall_gate_ind2b_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cyel_corner</Name>
+    <File>p:\dz\structures\walls\wall_cyel_corner.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12972</Hash>
@@ -1981,11 +628,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind2b_r</Name>
-    <File>dz/structures/walls/wall_gate_ind2b_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cyel_end</Name>
+    <File>p:\dz\structures\walls\wall_cyel_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12973</Hash>
@@ -2014,11 +661,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind2rail_l</Name>
-    <File>dz/structures/walls/wall_gate_ind2rail_l.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_cyel_end2</Name>
+    <File>p:\dz\structures\walls\wall_cyel_end2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12974</Hash>
@@ -2047,11 +694,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_ind2rail_r</Name>
-    <File>dz/structures/walls/wall_gate_ind2rail_r.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen1_5</Name>
+    <File>p:\dz\structures\walls\wall_fen1_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12975</Hash>
@@ -2080,11 +727,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_kolchoz</Name>
-    <File>dz/structures/walls/wall_gate_kolchoz.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen1_5_2</Name>
+    <File>p:\dz\structures\walls\wall_fen1_5_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12976</Hash>
@@ -2113,11 +760,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_opendam</Name>
-    <File>dz/structures/walls/wall_gate_opendam.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen1_5_hole</Name>
+    <File>p:\dz\structures\walls\wall_fen1_5_hole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12977</Hash>
@@ -2146,11 +793,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_village</Name>
-    <File>dz/structures/walls/wall_gate_village.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen1_5_pole</Name>
+    <File>p:\dz\structures\walls\wall_fen1_5_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12978</Hash>
@@ -2179,11 +826,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_wood1</Name>
-    <File>dz/structures/walls/wall_gate_wood1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen2_6</Name>
+    <File>p:\dz\structures\walls\wall_fen2_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12979</Hash>
@@ -2212,11 +859,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_wood2</Name>
-    <File>dz/structures/walls/wall_gate_wood2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen2_6_hole</Name>
+    <File>p:\dz\structures\walls\wall_fen2_6_hole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12980</Hash>
@@ -2245,11 +892,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_wood3</Name>
-    <File>dz/structures/walls/wall_gate_wood3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fen2_pole</Name>
+    <File>p:\dz\structures\walls\wall_fen2_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12981</Hash>
@@ -2278,11 +925,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_gate_wood4</Name>
-    <File>dz/structures/walls/wall_gate_wood4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_feng_3</Name>
+    <File>p:\dz\structures\walls\wall_feng_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12982</Hash>
@@ -2311,11 +958,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc2_3</Name>
-    <File>dz/structures/walls/wall_indcnc2_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_feng_pole</Name>
+    <File>p:\dz\structures\walls\wall_feng_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12983</Hash>
@@ -2344,11 +991,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnch_10</Name>
-    <File>dz/structures/walls/wall_indcnch_10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fenr_3</Name>
+    <File>p:\dz\structures\walls\wall_fenr_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12984</Hash>
@@ -2377,11 +1024,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnch_5</Name>
-    <File>dz/structures/walls/wall_indcnch_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fenr_pole</Name>
+    <File>p:\dz\structures\walls\wall_fenr_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12985</Hash>
@@ -2410,11 +1057,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc_10</Name>
-    <File>dz/structures/walls/wall_indcnc_10.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fenw_7</Name>
+    <File>p:\dz\structures\walls\wall_fenw_7.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12986</Hash>
@@ -2443,11 +1090,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc_4</Name>
-    <File>dz/structures/walls/wall_indcnc_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fenw_7_d</Name>
+    <File>p:\dz\structures\walls\wall_fenw_7_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12987</Hash>
@@ -2476,11 +1123,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc_4_d</Name>
-    <File>dz/structures/walls/wall_indcnc_4_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_fenw_7_s</Name>
+    <File>p:\dz\structures\walls\wall_fenw_7_s.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12988</Hash>
@@ -2509,11 +1156,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc_end_2</Name>
-    <File>dz/structures/walls/wall_indcnc_end_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_forfieldfen_1</Name>
+    <File>p:\dz\structures\walls\wall_forfieldfen_1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12989</Hash>
@@ -2542,11 +1189,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc_end_3</Name>
-    <File>dz/structures/walls/wall_indcnc_end_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_forfieldfen_2</Name>
+    <File>p:\dz\structures\walls\wall_forfieldfen_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12990</Hash>
@@ -2575,11 +1222,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indcnc_pole</Name>
-    <File>dz/structures/walls/wall_indcnc_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_forfieldfen_end</Name>
+    <File>p:\dz\structures\walls\wall_forfieldfen_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12991</Hash>
@@ -2608,11 +1255,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indfnc_3</Name>
-    <File>dz/structures/walls/wall_indfnc_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_garbcont</Name>
+    <File>p:\dz\structures\walls\wall_garbcont.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12992</Hash>
@@ -2641,11 +1288,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indfnc_3_d</Name>
-    <File>dz/structures/walls/wall_indfnc_3_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_garbcont_corner</Name>
+    <File>p:\dz\structures\walls\wall_garbcont_corner.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12993</Hash>
@@ -2674,11 +1321,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indfnc_3_hole</Name>
-    <File>dz/structures/walls/wall_indfnc_3_hole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_camp</Name>
+    <File>p:\dz\structures\walls\wall_gate_camp.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12994</Hash>
@@ -2707,11 +1354,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indfnc_9</Name>
-    <File>dz/structures/walls/wall_indfnc_9.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_cgry</Name>
+    <File>p:\dz\structures\walls\wall_gate_cgry.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12995</Hash>
@@ -2740,11 +1387,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indfnc_corner</Name>
-    <File>dz/structures/walls/wall_indfnc_corner.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fen2_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_fen2_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12996</Hash>
@@ -2773,11 +1420,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indfnc_pole</Name>
-    <File>dz/structures/walls/wall_indfnc_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fen2_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_fen2_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12997</Hash>
@@ -2806,11 +1453,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar1_5</Name>
-    <File>dz/structures/walls/wall_indvar1_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_feng</Name>
+    <File>p:\dz\structures\walls\wall_gate_feng.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12998</Hash>
@@ -2839,11 +1486,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar1_5_2</Name>
-    <File>dz/structures/walls/wall_indvar1_5_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_feng_big</Name>
+    <File>p:\dz\structures\walls\wall_gate_feng_big.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>12999</Hash>
@@ -2872,11 +1519,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar1_5_d</Name>
-    <File>dz/structures/walls/wall_indvar1_5_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_feng_big_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_feng_big_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13000</Hash>
@@ -2905,11 +1552,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar1_5_d_2</Name>
-    <File>dz/structures/walls/wall_indvar1_5_d_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_feng_big_open</Name>
+    <File>p:\dz\structures\walls\wall_gate_feng_big_open.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13001</Hash>
@@ -2938,11 +1585,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar1_pole</Name>
-    <File>dz/structures/walls/wall_indvar1_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_feng_big_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_feng_big_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13002</Hash>
@@ -2971,11 +1618,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar2_5</Name>
-    <File>dz/structures/walls/wall_indvar2_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_feng_open</Name>
+    <File>p:\dz\structures\walls\wall_gate_feng_open.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13003</Hash>
@@ -3004,11 +1651,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar2_5_d</Name>
-    <File>dz/structures/walls/wall_indvar2_5_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fenr</Name>
+    <File>p:\dz\structures\walls\wall_gate_fenr.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13004</Hash>
@@ -3037,11 +1684,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_indvar2_pole</Name>
-    <File>dz/structures/walls/wall_indvar2_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fenr_big</Name>
+    <File>p:\dz\structures\walls\wall_gate_fenr_big.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13005</Hash>
@@ -3070,11 +1717,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_1</Name>
-    <File>dz/structures/walls/wall_railing_1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fenr_big_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_fenr_big_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13006</Hash>
@@ -3103,11 +1750,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_1_endl</Name>
-    <File>dz/structures/walls/wall_railing_1_endl.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fenr_big_open</Name>
+    <File>p:\dz\structures\walls\wall_gate_fenr_big_open.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13007</Hash>
@@ -3136,11 +1783,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_1_endr</Name>
-    <File>dz/structures/walls/wall_railing_1_endr.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fenr_big_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_fenr_big_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13008</Hash>
@@ -3169,11 +1816,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_1_slope</Name>
-    <File>dz/structures/walls/wall_railing_1_slope.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_fenr_open</Name>
+    <File>p:\dz\structures\walls\wall_gate_fenr_open.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13009</Hash>
@@ -3202,11 +1849,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_2</Name>
-    <File>dz/structures/walls/wall_railing_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind1_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind1_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13010</Hash>
@@ -3235,11 +1882,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_2_slope</Name>
-    <File>dz/structures/walls/wall_railing_2_slope.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind1_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind1_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13011</Hash>
@@ -3268,11 +1915,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_endl</Name>
-    <File>dz/structures/walls/wall_railing_endl.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind2a_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind2a_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13012</Hash>
@@ -3301,11 +1948,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_railing_endr</Name>
-    <File>dz/structures/walls/wall_railing_endr.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind2a_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind2a_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13013</Hash>
@@ -3334,11 +1981,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_stone</Name>
-    <File>dz/structures/walls/wall_stone.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind2b_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind2b_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13014</Hash>
@@ -3367,11 +2014,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_stoned</Name>
-    <File>dz/structures/walls/wall_stoned.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind2b_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind2b_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13015</Hash>
@@ -3400,11 +2047,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tincom_3</Name>
-    <File>dz/structures/walls/wall_tincom_3.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind2rail_l</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind2rail_l.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13016</Hash>
@@ -3433,11 +2080,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tincom_9</Name>
-    <File>dz/structures/walls/wall_tincom_9.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_ind2rail_r</Name>
+    <File>p:\dz\structures\walls\wall_gate_ind2rail_r.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13017</Hash>
@@ -3466,11 +2113,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tincom_9_2</Name>
-    <File>dz/structures/walls/wall_tincom_9_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_kolchoz</Name>
+    <File>p:\dz\structures\walls\wall_gate_kolchoz.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13018</Hash>
@@ -3499,11 +2146,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tincom_pole</Name>
-    <File>dz/structures/walls/wall_tincom_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_opendam</Name>
+    <File>p:\dz\structures\walls\wall_gate_opendam.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13019</Hash>
@@ -3532,11 +2179,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tin_4</Name>
-    <File>dz/structures/walls/wall_tin_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_village</Name>
+    <File>p:\dz\structures\walls\wall_gate_village.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13020</Hash>
@@ -3565,11 +2212,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tin_4_2</Name>
-    <File>dz/structures/walls/wall_tin_4_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_wood1</Name>
+    <File>p:\dz\structures\walls\wall_gate_wood1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13021</Hash>
@@ -3598,11 +2245,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tin_5</Name>
-    <File>dz/structures/walls/wall_tin_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_wood2</Name>
+    <File>p:\dz\structures\walls\wall_gate_wood2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13022</Hash>
@@ -3631,11 +2278,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_tin_pole</Name>
-    <File>dz/structures/walls/wall_tin_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_wood3</Name>
+    <File>p:\dz\structures\walls\wall_gate_wood3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13023</Hash>
@@ -3664,11 +2311,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar1_6</Name>
-    <File>dz/structures/walls/wall_vilvar1_6.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_gate_wood4</Name>
+    <File>p:\dz\structures\walls\wall_gate_wood4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13024</Hash>
@@ -3697,11 +2344,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar1_pole</Name>
-    <File>dz/structures/walls/wall_vilvar1_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc2_3</Name>
+    <File>p:\dz\structures\walls\wall_indcnc2_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13025</Hash>
@@ -3730,11 +2377,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar2_4</Name>
-    <File>dz/structures/walls/wall_vilvar2_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnch_10</Name>
+    <File>p:\dz\structures\walls\wall_indcnch_10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13026</Hash>
@@ -3763,11 +2410,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar2_4_2</Name>
-    <File>dz/structures/walls/wall_vilvar2_4_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnch_5</Name>
+    <File>p:\dz\structures\walls\wall_indcnch_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13027</Hash>
@@ -3796,11 +2443,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar2_4_d</Name>
-    <File>dz/structures/walls/wall_vilvar2_4_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc_10</Name>
+    <File>p:\dz\structures\walls\wall_indcnc_10.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13028</Hash>
@@ -3829,11 +2476,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar2_4_end</Name>
-    <File>dz/structures/walls/wall_vilvar2_4_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc_4</Name>
+    <File>p:\dz\structures\walls\wall_indcnc_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13029</Hash>
@@ -3862,11 +2509,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_vilvar2_pole</Name>
-    <File>dz/structures/walls/wall_vilvar2_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc_4_d</Name>
+    <File>p:\dz\structures\walls\wall_indcnc_4_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13030</Hash>
@@ -3895,11 +2542,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood1d_5</Name>
-    <File>dz/structures/walls/wall_wood1d_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc_end_2</Name>
+    <File>p:\dz\structures\walls\wall_indcnc_end_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13031</Hash>
@@ -3928,11 +2575,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood1d_5_2</Name>
-    <File>dz/structures/walls/wall_wood1d_5_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc_end_3</Name>
+    <File>p:\dz\structures\walls\wall_indcnc_end_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13032</Hash>
@@ -3961,11 +2608,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood1d_5_pole</Name>
-    <File>dz/structures/walls/wall_wood1d_5_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indcnc_pole</Name>
+    <File>p:\dz\structures\walls\wall_indcnc_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13033</Hash>
@@ -3994,11 +2641,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood1_5</Name>
-    <File>dz/structures/walls/wall_wood1_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indfnc_3</Name>
+    <File>p:\dz\structures\walls\wall_indfnc_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13034</Hash>
@@ -4027,11 +2674,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood1_5_2</Name>
-    <File>dz/structures/walls/wall_wood1_5_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indfnc_3_d</Name>
+    <File>p:\dz\structures\walls\wall_indfnc_3_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13035</Hash>
@@ -4060,11 +2707,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood1_5_pole</Name>
-    <File>dz/structures/walls/wall_wood1_5_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indfnc_3_hole</Name>
+    <File>p:\dz\structures\walls\wall_indfnc_3_hole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13036</Hash>
@@ -4093,11 +2740,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood2_5</Name>
-    <File>dz/structures/walls/wall_wood2_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indfnc_9</Name>
+    <File>p:\dz\structures\walls\wall_indfnc_9.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13037</Hash>
@@ -4126,11 +2773,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood2_5_d</Name>
-    <File>dz/structures/walls/wall_wood2_5_d.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indfnc_corner</Name>
+    <File>p:\dz\structures\walls\wall_indfnc_corner.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13038</Hash>
@@ -4159,11 +2806,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood2_5_end</Name>
-    <File>dz/structures/walls/wall_wood2_5_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indfnc_pole</Name>
+    <File>p:\dz\structures\walls\wall_indfnc_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13039</Hash>
@@ -4192,11 +2839,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood2_5_end_2</Name>
-    <File>dz/structures/walls/wall_wood2_5_end_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar1_5</Name>
+    <File>p:\dz\structures\walls\wall_indvar1_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13040</Hash>
@@ -4225,11 +2872,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood2_5_nolc</Name>
-    <File>dz/structures/walls/wall_wood2_5_nolc.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar1_5_2</Name>
+    <File>p:\dz\structures\walls\wall_indvar1_5_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13041</Hash>
@@ -4258,11 +2905,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood2_5_pole</Name>
-    <File>dz/structures/walls/wall_wood2_5_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar1_5_d</Name>
+    <File>p:\dz\structures\walls\wall_indvar1_5_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13042</Hash>
@@ -4291,11 +2938,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood3_4</Name>
-    <File>dz/structures/walls/wall_wood3_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar1_5_d_2</Name>
+    <File>p:\dz\structures\walls\wall_indvar1_5_d_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13043</Hash>
@@ -4324,11 +2971,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood3_4_end</Name>
-    <File>dz/structures/walls/wall_wood3_4_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar1_pole</Name>
+    <File>p:\dz\structures\walls\wall_indvar1_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13044</Hash>
@@ -4357,11 +3004,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood4_4</Name>
-    <File>dz/structures/walls/wall_wood4_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar2_5</Name>
+    <File>p:\dz\structures\walls\wall_indvar2_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13045</Hash>
@@ -4390,11 +3037,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood4_end1</Name>
-    <File>dz/structures/walls/wall_wood4_end1.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar2_5_d</Name>
+    <File>p:\dz\structures\walls\wall_indvar2_5_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13046</Hash>
@@ -4423,11 +3070,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood4_end2</Name>
-    <File>dz/structures/walls/wall_wood4_end2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_indvar2_pole</Name>
+    <File>p:\dz\structures\walls\wall_indvar2_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13047</Hash>
@@ -4456,11 +3103,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_wood4_pole</Name>
-    <File>dz/structures/walls/wall_wood4_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_1</Name>
+    <File>p:\dz\structures\walls\wall_railing_1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13048</Hash>
@@ -4489,11 +3136,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_woodf_5</Name>
-    <File>dz/structures/walls/wall_woodf_5.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_1_endl</Name>
+    <File>p:\dz\structures\walls\wall_railing_1_endl.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13049</Hash>
@@ -4522,11 +3169,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_woodf_5_2</Name>
-    <File>dz/structures/walls/wall_woodf_5_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_1_endr</Name>
+    <File>p:\dz\structures\walls\wall_railing_1_endr.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13050</Hash>
@@ -4555,11 +3202,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_woodf_5_end</Name>
-    <File>dz/structures/walls/wall_woodf_5_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_1_slope</Name>
+    <File>p:\dz\structures\walls\wall_railing_1_slope.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13051</Hash>
@@ -4588,11 +3235,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_woodvil_4</Name>
-    <File>dz/structures/walls/wall_woodvil_4.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_2</Name>
+    <File>p:\dz\structures\walls\wall_railing_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13052</Hash>
@@ -4621,11 +3268,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_woodvil_4_2</Name>
-    <File>dz/structures/walls/wall_woodvil_4_2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_2_slope</Name>
+    <File>p:\dz\structures\walls\wall_railing_2_slope.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13053</Hash>
@@ -4654,11 +3301,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>wall_woodvil_4_pole</Name>
-    <File>dz/structures/walls/wall_woodvil_4_pole.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_endl</Name>
+    <File>p:\dz\structures\walls\wall_railing_endl.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13054</Hash>
@@ -4687,14 +3334,1367 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>walls_end</Name>
-    <File>dz/structures/walls/walls_end.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>wall_railing_endr</Name>
+    <File>p:\dz\structures\walls\wall_railing_endr.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>13055</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_stone</Name>
+    <File>p:\dz\structures\walls\wall_stone.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13056</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_stoned</Name>
+    <File>p:\dz\structures\walls\wall_stoned.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13057</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tincom_3</Name>
+    <File>p:\dz\structures\walls\wall_tincom_3.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13058</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tincom_9</Name>
+    <File>p:\dz\structures\walls\wall_tincom_9.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13059</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tincom_9_2</Name>
+    <File>p:\dz\structures\walls\wall_tincom_9_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13060</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tincom_pole</Name>
+    <File>p:\dz\structures\walls\wall_tincom_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13061</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tin_4</Name>
+    <File>p:\dz\structures\walls\wall_tin_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13062</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tin_4_2</Name>
+    <File>p:\dz\structures\walls\wall_tin_4_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13063</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tin_5</Name>
+    <File>p:\dz\structures\walls\wall_tin_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13064</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_tin_pole</Name>
+    <File>p:\dz\structures\walls\wall_tin_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13065</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar1_6</Name>
+    <File>p:\dz\structures\walls\wall_vilvar1_6.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13066</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar1_pole</Name>
+    <File>p:\dz\structures\walls\wall_vilvar1_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13067</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar2_4</Name>
+    <File>p:\dz\structures\walls\wall_vilvar2_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13068</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar2_4_2</Name>
+    <File>p:\dz\structures\walls\wall_vilvar2_4_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13069</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar2_4_d</Name>
+    <File>p:\dz\structures\walls\wall_vilvar2_4_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13070</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar2_4_end</Name>
+    <File>p:\dz\structures\walls\wall_vilvar2_4_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13071</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_vilvar2_pole</Name>
+    <File>p:\dz\structures\walls\wall_vilvar2_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13072</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood1d_5</Name>
+    <File>p:\dz\structures\walls\wall_wood1d_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13073</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood1d_5_2</Name>
+    <File>p:\dz\structures\walls\wall_wood1d_5_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13074</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood1d_5_pole</Name>
+    <File>p:\dz\structures\walls\wall_wood1d_5_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13075</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood1_5</Name>
+    <File>p:\dz\structures\walls\wall_wood1_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13076</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood1_5_2</Name>
+    <File>p:\dz\structures\walls\wall_wood1_5_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13077</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood1_5_pole</Name>
+    <File>p:\dz\structures\walls\wall_wood1_5_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13078</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood2_5</Name>
+    <File>p:\dz\structures\walls\wall_wood2_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13079</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood2_5_d</Name>
+    <File>p:\dz\structures\walls\wall_wood2_5_d.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13080</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood2_5_end</Name>
+    <File>p:\dz\structures\walls\wall_wood2_5_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13081</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood2_5_end_2</Name>
+    <File>p:\dz\structures\walls\wall_wood2_5_end_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13082</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood2_5_nolc</Name>
+    <File>p:\dz\structures\walls\wall_wood2_5_nolc.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13083</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood2_5_pole</Name>
+    <File>p:\dz\structures\walls\wall_wood2_5_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13084</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood3_4</Name>
+    <File>p:\dz\structures\walls\wall_wood3_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13085</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood3_4_end</Name>
+    <File>p:\dz\structures\walls\wall_wood3_4_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13086</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood4_4</Name>
+    <File>p:\dz\structures\walls\wall_wood4_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13087</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood4_end1</Name>
+    <File>p:\dz\structures\walls\wall_wood4_end1.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13088</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood4_end2</Name>
+    <File>p:\dz\structures\walls\wall_wood4_end2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13089</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_wood4_pole</Name>
+    <File>p:\dz\structures\walls\wall_wood4_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13090</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_woodf_5</Name>
+    <File>p:\dz\structures\walls\wall_woodf_5.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13091</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_woodf_5_2</Name>
+    <File>p:\dz\structures\walls\wall_woodf_5_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13092</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_woodf_5_end</Name>
+    <File>p:\dz\structures\walls\wall_woodf_5_end.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13093</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_woodvil_4</Name>
+    <File>p:\dz\structures\walls\wall_woodvil_4.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13094</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_woodvil_4_2</Name>
+    <File>p:\dz\structures\walls\wall_woodvil_4_2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13095</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>wall_woodvil_4_pole</Name>
+    <File>p:\dz\structures\walls\wall_woodvil_4_pole.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>13096</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

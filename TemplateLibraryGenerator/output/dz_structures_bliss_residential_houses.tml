@@ -2,13 +2,13 @@
 <Library name="dz_structures_bliss_residential_houses" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>house_1w13_dam</Name>
-    <File>dz/structures_bliss/residential/houses/house_1w13_dam.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures_bliss\residential\houses\house_1w13_dam.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13322</Hash>
+    <Hash>13363</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>house_1w13_dam_proxy_overgrowth</Name>
-    <File>dz/structures_bliss/residential/houses/proxy/house_1w13_dam_proxy_overgrowth.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures_bliss\residential\houses\proxy\house_1w13_dam_proxy_overgrowth.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13323</Hash>
+    <Hash>13364</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

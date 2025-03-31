@@ -2,13 +2,13 @@
 <Library name="dz_structures_bliss_industrial_farms" shape="rectangle" default_fill="-16777216" default_outline="-16777216" tex="0">
     <Template>
     <Name>farm_hopper2</Name>
-    <File>dz/structures_bliss/industrial/farms/farm_hopper2.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures_bliss\industrial\farms\farm_hopper2.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13203</Hash>
+    <Hash>13244</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -35,13 +35,13 @@
 </Template>
 <Template>
     <Name>farm_manurepile</Name>
-    <File>dz/structures_bliss/industrial/farms/farm_manurepile.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures_bliss\industrial\farms\farm_manurepile.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13204</Hash>
+    <Hash>13245</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -68,13 +68,13 @@
 </Template>
 <Template>
     <Name>farm_silagestorage</Name>
-    <File>dz/structures_bliss/industrial/farms/farm_silagestorage.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\structures_bliss\industrial\farms\farm_silagestorage.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>13205</Hash>
+    <Hash>13246</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

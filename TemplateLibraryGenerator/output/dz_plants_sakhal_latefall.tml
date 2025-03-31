@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_plants_sakhal_latefall" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
     <Template>
-    <Name>b_betulapendula_1f_latefall</Name>
-    <File>dz/plants_sakhal/latefall/b_betulapendula_1f_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_betulahumilis_1s_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\b_betulahumilis_1s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10435</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_betulahumilis_1s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/b_betulahumilis_1s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_betulanana_1s_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\b_betulanana_1s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10436</Hash>
@@ -67,11 +67,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_betulanana_1s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/b_betulanana_1s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_betulapendula_1f_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\b_betulapendula_1f_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10437</Hash>
@@ -101,10 +101,10 @@
 </Template>
 <Template>
     <Name>b_caraganaarborescens_2s_leafless</Name>
-    <File>dz/plants_sakhal/latefall/b_caraganaarborescens_2s_leafless.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\b_caraganaarborescens_2s_leafless.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10438</Hash>
@@ -134,10 +134,10 @@
 </Template>
 <Template>
     <Name>d_betulapendula_fallen_latefall</Name>
-    <File>dz/plants_sakhal/latefall/d_betulapendula_fallen_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\d_betulapendula_fallen_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10439</Hash>
@@ -167,10 +167,10 @@
 </Template>
 <Template>
     <Name>d_betulapendula_stump_latefall</Name>
-    <File>dz/plants_sakhal/latefall/d_betulapendula_stump_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\d_betulapendula_stump_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10440</Hash>
@@ -200,10 +200,10 @@
 </Template>
 <Template>
     <Name>t_betulapendulae_2w_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendulae_2w_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendulae_2w_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10441</Hash>
@@ -232,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_1f_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_1f_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_1fb_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_1fb_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10442</Hash>
@@ -265,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_1fb_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_1fb_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_1f_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_1f_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10443</Hash>
@@ -299,10 +299,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_1s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_1s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_1s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10444</Hash>
@@ -331,11 +331,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2f_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_2f_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_2fb_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_2fb_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10445</Hash>
@@ -364,11 +364,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2fb_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_2fb_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_2fc_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_2fc_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10446</Hash>
@@ -397,11 +397,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2fc_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_2fc_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_2f_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_2f_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10447</Hash>
@@ -431,10 +431,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_2s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_2s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10448</Hash>
@@ -464,10 +464,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_2w_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_2w_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_2w_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10449</Hash>
@@ -496,11 +496,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3f_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_3f_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_3fb_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_3fb_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10450</Hash>
@@ -529,11 +529,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3fb_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_3fb_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_3fc_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_3fc_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10451</Hash>
@@ -562,11 +562,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3fc_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_3fc_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_betulapendula_3f_latefall</Name>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_3f_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10452</Hash>
@@ -596,10 +596,10 @@
 </Template>
 <Template>
     <Name>t_betulapendula_3s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_betulapendula_3s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_betulapendula_3s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10453</Hash>
@@ -629,10 +629,10 @@
 </Template>
 <Template>
     <Name>t_populusalba_1f_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_populusalba_1f_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_populusalba_1f_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10454</Hash>
@@ -662,10 +662,10 @@
 </Template>
 <Template>
     <Name>t_populusalba_2s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_populusalba_2s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_populusalba_2s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10455</Hash>
@@ -695,10 +695,10 @@
 </Template>
 <Template>
     <Name>t_populusalba_3s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_populusalba_3s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_populusalba_3s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10456</Hash>
@@ -728,10 +728,10 @@
 </Template>
 <Template>
     <Name>t_populusnigra_3s_latefall</Name>
-    <File>dz/plants_sakhal/latefall/t_populusnigra_3s_latefall.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\latefall\t_populusnigra_3s_latefall.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10457</Hash>

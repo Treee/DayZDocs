@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <Library name="dz_plants_sakhal_frozen" shape="rectangle" default_fill="-8323328" default_outline="-16777216" tex="0">
     <Template>
-    <Name>b_piceaabies_1f_frozen</Name>
-    <File>dz/plants_sakhal/frozen/b_piceaabies_1f_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_piceaabies_1fb_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\b_piceaabies_1fb_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10426</Hash>
@@ -34,11 +34,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_piceaabies_1fb_frozen</Name>
-    <File>dz/plants_sakhal/frozen/b_piceaabies_1fb_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>b_piceaabies_1f_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\b_piceaabies_1f_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10427</Hash>
@@ -68,10 +68,10 @@
 </Template>
 <Template>
     <Name>t_piceaabies_1f_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_1f_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_1f_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10428</Hash>
@@ -100,11 +100,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1s_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_1s_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_1sb_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_1sb_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10429</Hash>
@@ -133,11 +133,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1sb_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_1sb_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_1s_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_1s_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10430</Hash>
@@ -166,11 +166,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2f_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_2f_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2fb_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_2fb_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10431</Hash>
@@ -199,11 +199,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2fb_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_2fb_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2f_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_2f_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10432</Hash>
@@ -232,11 +232,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2s_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_2s_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2sb_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_2sb_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10433</Hash>
@@ -265,11 +265,11 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2sb_frozen</Name>
-    <File>dz/plants_sakhal/frozen/t_piceaabies_2sb_frozen.p3d</File>
-    <Date>Thu Jan 30 20:24:27 2025</Date>
+    <Name>t_piceaabies_2s_frozen</Name>
+    <File>p:\dz\plants_sakhal\frozen\t_piceaabies_2s_frozen.p3d</File>
+    <Date>Mon Mar 31 16:08:47 2025</Date>
     <Archive></Archive>
-    <Fill>-16744448</Fill>
+    <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
     <Hash>10434</Hash>

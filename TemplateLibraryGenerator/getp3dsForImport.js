@@ -72,6 +72,7 @@ const foldersToTemplate = [
     "ALV_UN_Structures_Misc",
     "ALV_UN_Structures_Residential",
     "ALV_UN_Structures_Walls",
+    "ALV_UN_Props",
 ];
 
 const b_IsWindows = process.platform === "win32";

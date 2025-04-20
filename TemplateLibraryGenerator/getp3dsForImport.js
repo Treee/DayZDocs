@@ -67,6 +67,7 @@ const foldersToTemplate = [
     "dz\\water",
     "dz\\water_bliss",
     "dz\\water_sakhal",
+    "ALV_UN_Structures_Camp",
     "ALV_UN_Structures_Commercial",
     "ALV_UN_Structures_Industrial",
     "ALV_UN_Structures_Misc",

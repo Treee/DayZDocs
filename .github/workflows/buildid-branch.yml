@@ -40,19 +40,19 @@ jobs:
               run: |
                   OUT=$(node TemplateLibraryGenerator/scripts/decide_update.js --from-file ./current_buildids.json --dry-run --decision-only)
                   echo "decision=$OUT" >> $GITHUB_OUTPUT
-
-            - name: Update last_buildids.json
-              if: steps.decide.outputs.decision != 'NO_UPDATE'
-              run: cp current_buildids.json TemplateLibraryGenerator/data/last_buildids.json
+                  if [ "$OUT" != "NO_UPDATE" ]; then
+                    ID=$(node -e "const fs=require('fs'); const cur=JSON.parse(fs.readFileSync('current_buildids.json','utf8')); let id=0; if('public' in cur){ id=Number(cur.public)||0; } else { for (const v of Object.values(cur)) { const n=Number(v)||0; if(n>id) id=n; } } process.stdout.write(String(id));")
+                    echo "branchid=$ID" >> $GITHUB_OUTPUT
+                  fi
 
             - name: Create branch and commit
               if: steps.decide.outputs.decision != 'NO_UPDATE'
               run: |
                   set -e
-                  BRANCH_NAME="update/build-${{ steps.build.outputs.branch }}-${{ steps.build.outputs.id }}"
+                  BRANCH_NAME="update/build-${{ steps.decide.outputs.branchid }}"
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
                   git checkout -b "$BRANCH_NAME"
                   git add TemplateLibraryGenerator/data/last_buildids.json
-                  git commit -m "Update last_buildids.json for ${{ steps.build.outputs.branch }} build ${{ steps.build.outputs.id }}"
+                  git commit -m "Update last_buildids.json for build ${{ steps.decide.outputs.branchid }}"
                   git push --set-upstream origin "$BRANCH_NAME"

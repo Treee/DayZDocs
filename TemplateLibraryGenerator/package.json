@@ -1,15 +1,17 @@
 {
-  "name": "TemplateLibraryGenerator",
-  "version": "1.0.0",
-  "description": "",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "start": "npm run import && npm run parse",
-    "import": "node getp3dsForImport.js",
-    "parse": "node parseP3dsToTemplateLibrary.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "TemplateLibraryGenerator",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "npm run import && npm run parse",
+        "import": "node getp3dsForImport.js",
+        "parse": "node parseP3dsToTemplateLibrary.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "check-steam": "node scripts/steam_buildids.js",
+        "update-if-needed": "node scripts/decide_update.js"
+    },
+    "author": "",
+    "license": "ISC"
 }

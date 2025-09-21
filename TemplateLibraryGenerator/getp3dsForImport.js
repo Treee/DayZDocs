@@ -1,4 +1,4 @@
-import { readdirSync, writeFileSync } from "node:fs";
+import { readdirSync, writeFileSync, readFileSync } from "node:fs";
 import * as path from "node:path";
 
 const foldersToIgnore = ["data"];
@@ -54,22 +54,77 @@ function readdirRecursiveSync(rootFilePath, folder) {
     }
 }
 
-const foldersToTemplate = [
-    "dz\\plants",
-    "dz\\plants_bliss",
-    "dz\\plants_sakhal",
-    "dz\\rocks",
-    "dz\\rocks_bliss",
-    "dz\\rocks_sakhal",
-    "dz\\structures",
-    "dz\\structures_bliss",
-    "dz\\structures_sakhal",
-    "dz\\water",
-    "dz\\water_bliss",
-    "dz\\water_sakhal",
-    // "ALV_UN_Props",
-    // "ALV_UN_Structures\\Structures",
-];
+function argVal(flag) {
+    const i = process.argv.indexOf(flag);
+    return i > -1 ? process.argv[i + 1] : null;
+}
+
+function loadFoldersToTemplate() {
+    const dataDir = path.resolve("./data");
+    let slugs = [];
+
+    // 1) Explicit file list via CLI: --slug-files file1.json,file2.json
+    const slugFilesCsv = argVal("--slug-files");
+    if (slugFilesCsv) {
+        const files = slugFilesCsv
+            .split(",")
+            .map((s) => s.trim())
+            .filter((s) => !!s);
+        for (const f of files) {
+            try {
+                const raw = readFileSync(path.resolve(f), "utf8");
+                const arr = JSON.parse(raw);
+                if (Array.isArray(arr)) {
+                    slugs = slugs.concat(arr.filter((v) => typeof v === "string"));
+                }
+            } catch (e) {
+                // ignore bad files and continue
+            }
+        }
+    }
+
+    // 2) If nothing loaded, auto-discover defaults in data/*_folders_to_import.json
+    try {
+        const candidates = readdirSync(dataDir, { withFileTypes: true })
+            .filter((d) => d.isFile() && d.name.endsWith("_folders_to_import.json"))
+            .map((d) => path.join(dataDir, d.name));
+
+        if (slugs.length === 0) {
+            for (const file of candidates) {
+                try {
+                    const raw = readFileSync(file, "utf8");
+                    const arr = JSON.parse(raw);
+                    if (Array.isArray(arr)) {
+                        slugs = slugs.concat(arr.filter((v) => typeof v === "string"));
+                    }
+                } catch (e) {
+                    // ignore bad files, continue
+                }
+            }
+        }
+    } catch (e) {
+        // data folder missing; will fall back
+    }
+
+    // Fallback to legacy defaults if nothing found
+    if (slugs.length === 0) {
+        slugs = ["dz\\plants"];
+    }
+
+    // Dedupe while preserving order
+    const seen = new Set();
+    const deduped = [];
+    for (const s of slugs) {
+        const key = s.toLowerCase();
+        if (!seen.has(key)) {
+            seen.add(key);
+            deduped.push(s);
+        }
+    }
+    return deduped;
+}
+
+const foldersToTemplate = loadFoldersToTemplate();
 
 const b_IsWindows = process.platform === "win32";
 

@@ -5,8 +5,9 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "start": "npm run import && npm run parse",
-        "import": "node getp3dsForImport.js",
+        "start": "npm run import:vanilla && npm run import:modded && npm run parse",
+        "import:vanilla": "node getp3dsForImport.js --slug-files ./data/vanilla_folders_to_import.json",
+        "import:modded": "node getp3dsForImport.js --slug-files ./data/modded_folders_to_import.json",
         "parse": "node parseP3dsToTemplateLibrary.js",
         "test": "echo \"Error: no test specified\" && exit 1",
         "check-steam": "node scripts/steam_buildids.js",

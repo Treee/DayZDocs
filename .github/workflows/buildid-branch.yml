@@ -2,7 +2,7 @@ name: Template Library BuildId Branch
 
 on:
     schedule:
-        - cron: "0 */6 * * *" # every 6 hours
+        - cron: "0 */6 * * *"
     workflow_dispatch:
 
 permissions:
@@ -38,8 +38,8 @@ jobs:
             - name: Decide update
               id: decide
               run: |
-                  OUT=$(node TemplateLibraryGenerator/scripts/decide_update.js --from-file ./current_buildids.json --dry-run)
-                  echo "decision=$OUT" >> "$GITHUB_OUTPUT"
+                  OUT=$(node TemplateLibraryGenerator/scripts/decide_update.js --from-file ./current_buildids.json --dry-run --decision-only)
+                  echo "decision=$OUT" >> $GITHUB_OUTPUT
 
             - name: Stop if no update
               if: steps.decide.outputs.decision == 'NO_UPDATE'
@@ -53,8 +53,7 @@ jobs:
 
             - name: Update last_buildids.json
               if: steps.decide.outputs.decision != 'NO_UPDATE'
-              run: |
-                  cp current_buildids.json TemplateLibraryGenerator/data/last_buildids.json
+              run: cp current_buildids.json TemplateLibraryGenerator/data/last_buildids.json
 
             - name: Create branch and commit
               if: steps.decide.outputs.decision != 'NO_UPDATE'

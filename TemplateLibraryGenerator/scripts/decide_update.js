@@ -67,6 +67,7 @@ async function main() {
     const fromFile = argVal("--from-file") || positionalFromFile || null;
     const steamcmdPath = argVal("--steamcmd") || process.env.STEAMCMD || null;
     const dryRun = hasFlag("--dry-run");
+    const decisionOnly = hasFlag("--decision-only") || hasFlag("--quiet") || process.env.GITHUB_ACTIONS === 'true';
 
     const lastPath = resolve(__dirname, "..", "data", "last_buildids.json");
     const last = JSON.parse(await readFile(lastPath, "utf8"));
@@ -76,14 +77,22 @@ async function main() {
     const diffs = keys.filter((k) => (last?.[k] ?? 0) !== (current?.[k] ?? 0));
 
     if (diffs.length === 0) {
-        console.log("NO_UPDATE");
+        if (decisionOnly) {
+            process.stdout.write("NO_UPDATE\n");
+        } else {
+            console.log("NO_UPDATE");
+        }
         return;
     }
 
-    console.log(`UPDATE needed for branches: ${diffs.join(", ")}`);
+    if (!decisionOnly) {
+        console.log(`UPDATE needed for branches: ${diffs.join(", ")}`);
+    } else {
+        process.stdout.write("UPDATE\n");
+    }
 
     if (dryRun) {
-        console.log("Dry-run: skipping generator + saving last_buildids.json");
+        if (!decisionOnly) console.log("Dry-run: skipping generator + saving last_buildids.json");
         return;
     }
 
@@ -91,7 +100,7 @@ async function main() {
 
     // Persist the new build ids
     await writeFile(lastPath, JSON.stringify(current, null, 4) + "\n", "utf8");
-    console.log("UPDATED last_buildids.json and regenerated templates.");
+    if (!decisionOnly) console.log("UPDATED last_buildids.json and regenerated templates.");
 }
 
 main().catch((err) => {

@@ -52,16 +52,10 @@ async function getCurrentBuildIds({ fromFile, steamcmdPath } = {}) {
 async function runGenerator() {
     // Run the generator scripts defined in package.json (import + parse)
     // Execute via npm to preserve any lifecycle setup the user has.
-    await execFileP("npm", ["run", "import"], {
+    await execFileP("npm", ["start"], {
         cwd: resolve(__dirname, ".."),
         windowsHide: true,
         shell: process.platform === "win32", // allow npm.cmd resolution
-        maxBuffer: 20 * 1024 * 1024,
-    });
-    await execFileP("npm", ["run", "parse"], {
-        cwd: resolve(__dirname, ".."),
-        windowsHide: true,
-        shell: process.platform === "win32",
         maxBuffer: 20 * 1024 * 1024,
     });
 }

@@ -5,10 +5,12 @@
     "type": "module",
     "main": "index.js",
     "scripts": {
-        "start": "npm run import:vanilla && npm run import:modded && npm run parse",
+        "start": "npm run import:vanilla && npm run parse:vanilla && npm run import:modded && npm run parse:modded",
         "import:vanilla": "node getp3dsForImport.js --slug-files ./data/vanilla_folders_to_import.json",
         "import:modded": "node getp3dsForImport.js --slug-files ./data/modded_folders_to_import.json",
         "parse": "node parseP3dsToTemplateLibrary.js",
+        "parse:vanilla": "node parseP3dsToTemplateLibrary.js --variant vanilla",
+        "parse:modded": "node parseP3dsToTemplateLibrary.js --variant modded",
         "test": "echo \"Error: no test specified\" && exit 1",
         "check-steam": "node scripts/steam_buildids.js",
         "update-if-needed": "node scripts/decide_update.js"

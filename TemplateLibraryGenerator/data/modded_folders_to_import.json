@@ -1,10 +1,18 @@
 [
-    "ALV_UN_Props",
+    "ALV_UN_Props\\Decor",
+    "ALV_UN_Props\\General",
+    "ALV_UN_Props\\Industrial",
+    "ALV_UN_Props\\Shops",
+    "ALV_UN_Props\\Signs",
+    "ALV_UN_Props\\Wrecks",
     "ALV_UN_Structures\\Structures",
-    "ALV_UN_Structures_Camp",
-    "ALV_UN_Structures_Commercial",
-    "ALV_UN_Structures_Industrial",
-    "ALV_UN_Structures_Misc",
-    "ALV_UN_Structures_Residential",
-    "ALV_UN_Structures_Walls"
+    "ALV_UN_Structures_Camp\\Camping",
+    "ALV_UN_Structures_Camp\\Wrecks",
+    "ALV_UN_Structures_Commercial\\Commercial",
+    "ALV_UN_Structures_Industrial\\Industrial",
+    "ALV_UN_Structures_Misc\\Bridges",
+    "ALV_UN_Structures_Misc\\Misc",
+    "ALV_UN_Structures_Misc\\Plants",
+    "ALV_UN_Structures_Residential\\Residential",
+    "ALV_UN_Structures_Walls\\Walls"
 ]

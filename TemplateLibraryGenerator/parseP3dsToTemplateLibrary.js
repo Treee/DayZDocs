@@ -56,6 +56,21 @@ const allP3ds = [];
 
 const b_IsWindows = process.platform === "win32";
 
+function argVal(flag) {
+    const i = process.argv.indexOf(flag);
+    return i > -1 ? process.argv[i + 1] : null;
+}
+
+const variant = (() => {
+    const v = argVal("--variant");
+    if (!v) return "";
+    const safe = String(v)
+        .trim()
+        .toLowerCase()
+        .replace(/[^a-z0-9+._-]/g, "-");
+    return safe.length ? `_${safe}` : "";
+})();
+
 function parseP3dsForImport(filePath) {
     const data = readFileSync(filePath, "utf8");
     // console.log(JSON.parse(data));
@@ -183,7 +198,19 @@ function buildTemplateLibraryString(templateName) {
     return copyOfXml;
 }
 const existingP3dNames = {};
-let hash = 10000;
+
+// v4 hash (sdbm-style) equivalent to the provided Python
+// def: h = c + (h << 6) + (h << 16) - h, reduced to 32-bit, then cast to signed 32-bit
+function getV4Hash(name) {
+    let h = 0 >>> 0; // uint32 accumulator
+    for (let i = 0; i < name.length; i++) {
+        const c = name.charCodeAt(i);
+        // Ensure operations remain within uint32
+        h = (c + ((h << 6) >>> 0) + ((h << 16) >>> 0) - h) >>> 0;
+    }
+    // Convert to signed 32-bit to match ctypes.c_long behavior
+    return h | 0;
+}
 function buildTemplateLibraryBodyString(p3dFilePath) {
     let copyOfXml = XML_BODY_TEMPLATE;
     let p3DName = getP3DName(p3dFilePath);
@@ -201,7 +228,8 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
     copyOfXml = copyOfXml.replace("{TIMESTAMP}", today);
     copyOfXml = copyOfXml.replace("{TEMPLATE_OUTLINE}", formatTemplateOutline(p3dFilePath));
     copyOfXml = copyOfXml.replace("{TEMPLATE_FILL}", formatTemplateFill(p3dFilePath));
-    copyOfXml = copyOfXml.replace("{P3D_HASH}", hash++);
+    const v4Hash = getV4Hash(p3DName);
+    copyOfXml = copyOfXml.replace("{P3D_HASH}", String(v4Hash));
     //   console.log(copyOfXml);
     allP3ds.push(p3dFilePath);
     return copyOfXml;
@@ -236,7 +264,7 @@ function writeTemplateLibraryOutput(libraryData) {
 }
 
 function writeAllP3dsOutput(p3ds, sortAlphabetically, fullFilePath) {
-    let fileName = "aaOneOfEverything";
+    let fileName = "aaOneOfEverything" + variant;
     if (sortAlphabetically) {
         p3ds.sort((a, b) => a.localeCompare(b));
         fileName = fileName.concat("_alphabetical");

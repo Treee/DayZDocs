@@ -3,12 +3,12 @@
     <Template>
     <Name>rock_lava_boulder1</Name>
     <File>p:\dz\rocks_sakhal\rock_lava_boulder1.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10591</Hash>
+    <Hash>-2052389335</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -36,12 +36,12 @@
 <Template>
     <Name>rock_lava_boulder2</Name>
     <File>p:\dz\rocks_sakhal\rock_lava_boulder2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10592</Hash>
+    <Hash>-2052389334</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -69,12 +69,12 @@
 <Template>
     <Name>rock_lava_boulder3</Name>
     <File>p:\dz\rocks_sakhal\rock_lava_boulder3.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10593</Hash>
+    <Hash>-2052389333</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -102,12 +102,12 @@
 <Template>
     <Name>rock_lava_boulder4</Name>
     <File>p:\dz\rocks_sakhal\rock_lava_boulder4.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10594</Hash>
+    <Hash>-2052389332</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -135,12 +135,45 @@
 <Template>
     <Name>rock_monolith5</Name>
     <File>p:\dz\rocks_sakhal\rock_monolith5.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10595</Hash>
+    <Hash>-1616154457</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>rock_monolith5_int</Name>
+    <File>p:\dz\rocks_sakhal\rock_monolith5_int.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-8355712</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1167546359</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -168,12 +201,12 @@
 <Template>
     <Name>rock_monolith5_snow</Name>
     <File>p:\dz\rocks_sakhal\rock_monolith5_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10596</Hash>
+    <Hash>1232391291</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -201,12 +234,45 @@
 <Template>
     <Name>rock_spike4</Name>
     <File>p:\dz\rocks_sakhal\rock_spike4.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10597</Hash>
+    <Hash>-777226776</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>rock_spike4_int</Name>
+    <File>p:\dz\rocks_sakhal\rock_spike4_int.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-8355712</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-1284015048</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -234,12 +300,12 @@
 <Template>
     <Name>rock_spike4_snow</Name>
     <File>p:\dz\rocks_sakhal\rock_spike4_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10598</Hash>
+    <Hash>2011084922</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -267,12 +333,45 @@
 <Template>
     <Name>rock_wallh7_long</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_long.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10599</Hash>
+    <Hash>1247723976</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>rock_wallh7_long_int</Name>
+    <File>p:\dz\rocks_sakhal\rock_wallh7_long_int.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-8355712</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-388896744</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -300,12 +399,12 @@
 <Template>
     <Name>rock_wallh7_long_snow</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_long_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10600</Hash>
+    <Hash>83838106</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -333,12 +432,45 @@
 <Template>
     <Name>rock_wallh7_round</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_round.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10601</Hash>
+    <Hash>-1440917278</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>rock_wallh7_round_int</Name>
+    <File>p:\dz\rocks_sakhal\rock_wallh7_round_int.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-8355712</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>479929650</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -366,12 +498,12 @@
 <Template>
     <Name>rock_wallh7_round_snow</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_round_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10602</Hash>
+    <Hash>10440192</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -399,12 +531,45 @@
 <Template>
     <Name>rock_wallh7_tall</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_tall.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10603</Hash>
+    <Hash>-1213305287</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>rock_wallh7_tall_int</Name>
+    <File>p:\dz\rocks_sakhal\rock_wallh7_tall_int.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-8355712</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1917551497</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -432,12 +597,12 @@
 <Template>
     <Name>rock_wallh7_tall_painting1</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_tall_painting1.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10604</Hash>
+    <Hash>-892286809</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -465,12 +630,12 @@
 <Template>
     <Name>rock_wallh7_tall_snow</Name>
     <File>p:\dz\rocks_sakhal\rock_wallh7_tall_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10605</Hash>
+    <Hash>1969063273</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -498,12 +663,12 @@
 <Template>
     <Name>stone10_snow</Name>
     <File>p:\dz\rocks_sakhal\stone10_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10606</Hash>
+    <Hash>-927746242</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -531,12 +696,12 @@
 <Template>
     <Name>stone10_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone10_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10607</Hash>
+    <Hash>10482456</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -564,12 +729,45 @@
 <Template>
     <Name>stone11</Name>
     <File>p:\dz\rocks_sakhal\stone11.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10608</Hash>
+    <Hash>-457358811</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>stone11_int</Name>
+    <File>p:\dz\rocks_sakhal\stone11_int.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-8355712</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1099885429</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -597,12 +795,12 @@
 <Template>
     <Name>stone11_lc</Name>
     <File>p:\dz\rocks_sakhal\stone11_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10609</Hash>
+    <Hash>-477870735</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -630,12 +828,12 @@
 <Template>
     <Name>stone11_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone11_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10610</Hash>
+    <Hash>-742805223</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -663,12 +861,12 @@
 <Template>
     <Name>stone12</Name>
     <File>p:\dz\rocks_sakhal\stone12.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10611</Hash>
+    <Hash>-457358810</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -696,12 +894,12 @@
 <Template>
     <Name>stone12_lc</Name>
     <File>p:\dz\rocks_sakhal\stone12_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10612</Hash>
+    <Hash>302716464</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -729,12 +927,12 @@
 <Template>
     <Name>stone12_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone12_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10613</Hash>
+    <Hash>-1496092902</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -762,12 +960,12 @@
 <Template>
     <Name>stone13</Name>
     <File>p:\dz\rocks_sakhal\stone13.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10614</Hash>
+    <Hash>-457358809</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -795,12 +993,12 @@
 <Template>
     <Name>stone13_lc</Name>
     <File>p:\dz\rocks_sakhal\stone13_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10615</Hash>
+    <Hash>1083303663</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -828,12 +1026,12 @@
 <Template>
     <Name>stone13_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone13_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10616</Hash>
+    <Hash>2045586715</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -861,12 +1059,12 @@
 <Template>
     <Name>stone14_lava</Name>
     <File>p:\dz\rocks_sakhal\stone14_lava.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10617</Hash>
+    <Hash>-715800809</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -894,12 +1092,12 @@
 <Template>
     <Name>stone14_lava_lc</Name>
     <File>p:\dz\rocks_sakhal\stone14_lava_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10618</Hash>
+    <Hash>762977791</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -927,12 +1125,12 @@
 <Template>
     <Name>stone15_lava</Name>
     <File>p:\dz\rocks_sakhal\stone15_lava.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10619</Hash>
+    <Hash>-343793578</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -960,12 +1158,12 @@
 <Template>
     <Name>stone15_lava_lc</Name>
     <File>p:\dz\rocks_sakhal\stone15_lava_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10620</Hash>
+    <Hash>9690112</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -993,12 +1191,12 @@
 <Template>
     <Name>stone6_snow</Name>
     <File>p:\dz\rocks_sakhal\stone6_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10621</Hash>
+    <Hash>-1981448047</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1026,12 +1224,12 @@
 <Template>
     <Name>stone6_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone6_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10622</Hash>
+    <Hash>-473262075</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1059,12 +1257,12 @@
 <Template>
     <Name>stone7_snow</Name>
     <File>p:\dz\rocks_sakhal\stone7_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10623</Hash>
+    <Hash>-1609440816</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1092,12 +1290,12 @@
 <Template>
     <Name>stone7_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone7_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10624</Hash>
+    <Hash>-1226549754</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1125,12 +1323,12 @@
 <Template>
     <Name>stone8_snow</Name>
     <File>p:\dz\rocks_sakhal\stone8_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10625</Hash>
+    <Hash>-1237433585</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1158,12 +1356,12 @@
 <Template>
     <Name>stone8_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone8_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10626</Hash>
+    <Hash>-1979837433</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1191,12 +1389,12 @@
 <Template>
     <Name>stone9_snow</Name>
     <File>p:\dz\rocks_sakhal\stone9_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10627</Hash>
+    <Hash>-865426354</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1224,12 +1422,12 @@
 <Template>
     <Name>stone9_snow_lc</Name>
     <File>p:\dz\rocks_sakhal\stone9_snow_lc.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10628</Hash>
+    <Hash>1561842184</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1257,12 +1455,12 @@
 <Template>
     <Name>stones_erosion2</Name>
     <File>p:\dz\rocks_sakhal\stones_erosion2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10629</Hash>
+    <Hash>425234604</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1290,12 +1488,12 @@
 <Template>
     <Name>stones_erosion2_snow</Name>
     <File>p:\dz\rocks_sakhal\stones_erosion2_snow.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10630</Hash>
+    <Hash>-1022520650</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1323,12 +1521,12 @@
 <Template>
     <Name>stones_lava_cluster1</Name>
     <File>p:\dz\rocks_sakhal\stones_lava_cluster1.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10631</Hash>
+    <Hash>-2012603291</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1356,12 +1554,12 @@
 <Template>
     <Name>stones_lava_cluster2</Name>
     <File>p:\dz\rocks_sakhal\stones_lava_cluster2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>10632</Hash>
+    <Hash>-2012603290</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

@@ -3,12 +3,12 @@
     <Template>
     <Name>boat_small10_blue</Name>
     <File>p:\dz\structures_sakhal\wrecks\boat_small10_blue.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14595</Hash>
+    <Hash>552378418</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -36,12 +36,12 @@
 <Template>
     <Name>boat_small10_red</Name>
     <File>p:\dz\structures_sakhal\wrecks\boat_small10_red.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14596</Hash>
+    <Hash>1598526265</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -69,12 +69,12 @@
 <Template>
     <Name>boat_small7</Name>
     <File>p:\dz\structures_sakhal\wrecks\boat_small7.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14597</Hash>
+    <Hash>1041551311</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -102,12 +102,12 @@
 <Template>
     <Name>boat_small8_blue</Name>
     <File>p:\dz\structures_sakhal\wrecks\boat_small8_blue.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14598</Hash>
+    <Hash>-74201527</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -135,12 +135,12 @@
 <Template>
     <Name>boat_small8_red</Name>
     <File>p:\dz\structures_sakhal\wrecks\boat_small8_red.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14599</Hash>
+    <Hash>2005038946</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -168,12 +168,45 @@
 <Template>
     <Name>boat_small9</Name>
     <File>p:\dz\structures_sakhal\wrecks\boat_small9.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14600</Hash>
+    <Hash>1041551313</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>patrolboat_military</Name>
+    <File>p:\dz\structures_sakhal\wrecks\patrolboat_military.p3d</File>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
+    <Archive></Archive>
+    <Fill>-65536</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>907656320</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -201,12 +234,12 @@
 <Template>
     <Name>ship_medium2</Name>
     <File>p:\dz\structures_sakhal\wrecks\ship_medium2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14601</Hash>
+    <Hash>-195755814</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -234,12 +267,12 @@
 <Template>
     <Name>static_an2</Name>
     <File>p:\dz\structures_sakhal\wrecks\static_an2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14602</Hash>
+    <Hash>-140388140</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -267,12 +300,12 @@
 <Template>
     <Name>static_mi8_civilian</Name>
     <File>p:\dz\structures_sakhal\wrecks\static_mi8_civilian.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14603</Hash>
+    <Hash>-300756873</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -300,12 +333,12 @@
 <Template>
     <Name>submarine_back</Name>
     <File>p:\dz\structures_sakhal\wrecks\submarine_back.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14604</Hash>
+    <Hash>-1385570844</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -333,12 +366,12 @@
 <Template>
     <Name>submarine_front</Name>
     <File>p:\dz\structures_sakhal\wrecks\submarine_front.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14605</Hash>
+    <Hash>-1216172276</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -366,12 +399,12 @@
 <Template>
     <Name>submarine_middle</Name>
     <File>p:\dz\structures_sakhal\wrecks\submarine_middle.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14606</Hash>
+    <Hash>190632146</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -399,12 +432,12 @@
 <Template>
     <Name>wreck_mi8_civilian</Name>
     <File>p:\dz\structures_sakhal\wrecks\wreck_mi8_civilian.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14607</Hash>
+    <Hash>1207448851</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -432,12 +465,12 @@
 <Template>
     <Name>wreck_sed02_aban1_police</Name>
     <File>p:\dz\structures_sakhal\wrecks\wreck_sed02_aban1_police.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14608</Hash>
+    <Hash>1455461394</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -465,12 +498,12 @@
 <Template>
     <Name>wreck_sed02_aban2_police</Name>
     <File>p:\dz\structures_sakhal\wrecks\wreck_sed02_aban2_police.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14609</Hash>
+    <Hash>-103660079</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -498,12 +531,12 @@
 <Template>
     <Name>cover_ship_medium2</Name>
     <File>p:\dz\structures_sakhal\wrecks\proxy\cover_ship_medium2.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14610</Hash>
+    <Hash>1219872770</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -531,12 +564,12 @@
 <Template>
     <Name>sed02_police_interior_old</Name>
     <File>p:\dz\structures_sakhal\wrecks\proxy\sed02_police_interior_old.p3d</File>
-    <Date>Mon Mar 31 16:08:47 2025</Date>
+    <Date>Sun Sep 21 14:36:41 2025</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>14611</Hash>
+    <Hash>-1747594514</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>

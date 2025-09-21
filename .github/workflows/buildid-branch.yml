@@ -1,0 +1,64 @@
+name: Template Library BuildId Branch
+
+on:
+    schedule:
+        - cron: "0 */6 * * *" # every 6 hours
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    check-and-branch:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+
+            - name: Install steamcmd
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y steamcmd
+
+            - name: Fetch current build IDs
+              run: node TemplateLibraryGenerator/scripts/steam_buildids.js > current_buildids.json
+
+            - name: Decide update
+              id: decide
+              run: |
+                  OUT=$(node TemplateLibraryGenerator/scripts/decide_update.js --from-file ./current_buildids.json --dry-run)
+                  echo "decision=$OUT" >> "$GITHUB_OUTPUT"
+
+            - name: Stop if no update
+              if: steps.decide.outputs.decision == 'NO_UPDATE'
+              run: echo "No update needed."
+
+            - name: Compute build info
+              if: steps.decide.outputs.decision != 'NO_UPDATE'
+              id: build
+              run: |
+                  node -e "const fs=require('fs'); const cur=JSON.parse(fs.readFileSync('current_buildids.json','utf8')); let b='unknown', id=0; if('public' in cur){b='public'; id=cur.public;} else { for (const [k,v] of Object.entries(cur)) { if (v>id) { b=k; id=v; } } } fs.appendFileSync(process.env.GITHUB_OUTPUT, `branch=${b}\n`); fs.appendFileSync(process.env.GITHUB_OUTPUT, `id=${id}\n`);"
+
+            - name: Update last_buildids.json
+              if: steps.decide.outputs.decision != 'NO_UPDATE'
+              run: |
+                  cp current_buildids.json TemplateLibraryGenerator/data/last_buildids.json
+
+            - name: Create branch and commit
+              if: steps.decide.outputs.decision != 'NO_UPDATE'
+              run: |
+                  set -e
+                  BRANCH_NAME="update/build-${{ steps.build.outputs.branch }}-${{ steps.build.outputs.id }}"
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git checkout -b "$BRANCH_NAME"
+                  git add TemplateLibraryGenerator/data/last_buildids.json
+                  git commit -m "Update last_buildids.json for ${{ steps.build.outputs.branch }} build ${{ steps.build.outputs.id }}"
+                  git push --set-upstream origin "$BRANCH_NAME"

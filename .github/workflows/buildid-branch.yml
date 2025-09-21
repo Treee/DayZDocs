@@ -41,16 +41,6 @@ jobs:
                   OUT=$(node TemplateLibraryGenerator/scripts/decide_update.js --from-file ./current_buildids.json --dry-run --decision-only)
                   echo "decision=$OUT" >> $GITHUB_OUTPUT
 
-            - name: Stop if no update
-              if: steps.decide.outputs.decision == 'NO_UPDATE'
-              run: echo "No update needed."
-
-            - name: Compute build info
-              if: steps.decide.outputs.decision != 'NO_UPDATE'
-              id: build
-              run: |
-                  node -e "const fs=require('fs'); const cur=JSON.parse(fs.readFileSync('current_buildids.json','utf8')); let b='unknown', id=0; if('public' in cur){b='public'; id=cur.public;} else { for (const [k,v] of Object.entries(cur)) { if (v>id) { b=k; id=v; } } } fs.appendFileSync(process.env.GITHUB_OUTPUT, `branch=${b}\n`); fs.appendFileSync(process.env.GITHUB_OUTPUT, `id=${id}\n`);"
-
             - name: Update last_buildids.json
               if: steps.decide.outputs.decision != 'NO_UPDATE'
               run: cp current_buildids.json TemplateLibraryGenerator/data/last_buildids.json

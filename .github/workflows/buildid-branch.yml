@@ -53,6 +53,13 @@ jobs:
                   git config user.name "github-actions[bot]"
                   git config user.email "github-actions[bot]@users.noreply.github.com"
                   git checkout -b "$BRANCH_NAME"
+                  # Clean up CI artifacts we don't want to commit
+                  rm -f current_buildids.json steamcmd_linux.tar.gz || true
                   git add TemplateLibraryGenerator/data/last_buildids.json
+                  # Commit only if there are staged changes
+                  if git diff --cached --quiet; then
+                    echo "No changes to commit after update; exiting."
+                    exit 0
+                  fi
                   git commit -m "Update last_buildids.json for build ${{ steps.decide.outputs.branchid }}"
                   git push --set-upstream origin "$BRANCH_NAME"

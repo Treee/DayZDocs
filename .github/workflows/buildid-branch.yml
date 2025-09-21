@@ -45,6 +45,10 @@ jobs:
                     echo "branchid=$ID" >> $GITHUB_OUTPUT
                   fi
 
+            - name: Update last_buildids.json
+              if: steps.decide.outputs.decision != 'NO_UPDATE'
+              run: cp current_buildids.json TemplateLibraryGenerator/data/last_buildids.json
+
             - name: Create branch and commit
               if: steps.decide.outputs.decision != 'NO_UPDATE'
               run: |

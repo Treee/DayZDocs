@@ -22,13 +22,18 @@ jobs:
               with:
                   node-version: "20"
 
-            - name: Install steamcmd
+            - name: Install SteamCMD (manual)
               run: |
+                  set -e
                   sudo apt-get update
-                  sudo apt-get install -y steamcmd
+                  sudo apt-get install -y ca-certificates lib32gcc-s1 curl tar
+                  mkdir -p "$HOME/steamcmd"
+                  curl -sSL https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz -o steamcmd_linux.tar.gz
+                  tar -xzf steamcmd_linux.tar.gz -C "$HOME/steamcmd"
+                  echo "STEAMCMD=$HOME/steamcmd/steamcmd.sh" >> $GITHUB_ENV
 
             - name: Fetch current build IDs
-              run: node TemplateLibraryGenerator/scripts/steam_buildids.js > current_buildids.json
+              run: node TemplateLibraryGenerator/scripts/steam_buildids.js --steamcmd "$STEAMCMD" > current_buildids.json
 
             - name: Decide update
               id: decide

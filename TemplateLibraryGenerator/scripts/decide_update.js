@@ -67,7 +67,7 @@ async function main() {
     const fromFile = argVal("--from-file") || positionalFromFile || null;
     const steamcmdPath = argVal("--steamcmd") || process.env.STEAMCMD || null;
     const dryRun = hasFlag("--dry-run");
-    const decisionOnly = hasFlag("--decision-only") || hasFlag("--quiet") || process.env.GITHUB_ACTIONS === 'true';
+    const decisionOnly = hasFlag("--decision-only") || hasFlag("--quiet") || process.env.GITHUB_ACTIONS === "true";
 
     const lastPath = resolve(__dirname, "..", "data", "last_buildids.json");
     const last = JSON.parse(await readFile(lastPath, "utf8"));
@@ -96,7 +96,7 @@ async function main() {
         return;
     }
 
-    await runGenerator();
+    // await runGenerator();
 
     // Persist the new build ids
     await writeFile(lastPath, JSON.stringify(current, null, 4) + "\n", "utf8");

@@ -3,7 +3,7 @@
     <Template>
     <Name>house_barn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_barn.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -34,9 +34,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>house_barn_construction</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_barn_construction.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-788617066</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>house_blacksmiths</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_blacksmiths.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -69,7 +102,7 @@
 <Template>
     <Name>house_largebarn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_largebarn.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -102,7 +135,7 @@
 <Template>
     <Name>house_largestable</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_largestable.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -133,9 +166,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>house_longwarehouse</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_longwarehouse.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1392161096</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>house_lumberyardoffice</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_lumberyardoffice.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -166,42 +232,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_mediumbarn</Name>
-    <File>p:\alv_un_structures_industrial\industrial\house_mediumbarn.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>1762251887</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>house_medium_construction</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_medium_construction.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -232,9 +265,75 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>house_mediumbarn</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_mediumbarn.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1762251887</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>house_mediumbarn_2</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_mediumbarn_2.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>275227778</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>house_pigshed</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_pigshed.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -267,7 +366,7 @@
 <Template>
     <Name>house_pigshed_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_pigshed_2.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -300,7 +399,7 @@
 <Template>
     <Name>house_pigshed_3</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_pigshed_3.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -333,7 +432,7 @@
 <Template>
     <Name>house_shoehorsebarn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_shoehorsebarn.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -364,9 +463,75 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>house_simple_stable</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_simple_stable.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-683790679</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
+    <Name>house_simple_stable_b</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_simple_stable_b.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>312377836</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>house_simpleshed_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_simpleshed_1.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -399,7 +564,7 @@
 <Template>
     <Name>house_simpleshed_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_simpleshed_2.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -432,7 +597,7 @@
 <Template>
     <Name>house_small_construction</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_small_construction.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -465,7 +630,7 @@
 <Template>
     <Name>house_stable_shop</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_stable_shop.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -498,7 +663,7 @@
 <Template>
     <Name>house_storagehouse</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagehouse.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -531,7 +696,7 @@
 <Template>
     <Name>house_storagesilo_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagesilo_1.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -562,42 +727,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_storagestabledouble</Name>
-    <File>p:\alv_un_structures_industrial\industrial\house_storagestabledouble.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>2065783304</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>house_storagestable_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagestable_1.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -630,7 +762,7 @@
 <Template>
     <Name>house_storagestable_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagestable_2.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -661,9 +793,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>house_storagestabledouble</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_storagestabledouble.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>2065783304</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>house_storehouse_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storehouse_1.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -694,42 +859,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>house_wooden_stable</Name>
-    <File>p:\alv_un_structures_industrial\industrial\house_wooden_stable.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
-    <Archive></Archive>
-    <Fill>-16777216</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>-888168219</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>house_wood_workshop</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_wood_workshop.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -760,9 +892,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>house_wooden_stable</Name>
+    <File>p:\alv_un_structures_industrial\industrial\house_wooden_stable.p3d</File>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Archive></Archive>
+    <Fill>-16777216</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-888168219</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>house_workshop</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_workshop.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -795,7 +960,7 @@
 <Template>
     <Name>house_workshop_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_workshop_1.p3d</File>
-    <Date>Sun Sep 21 15:26:56 2025</Date>
+    <Date>Sat Aug 8 16:26:32 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>

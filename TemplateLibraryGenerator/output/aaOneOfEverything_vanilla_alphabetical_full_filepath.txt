@@ -655,6 +655,7 @@ dz/structures_bliss/industrial/garages/garage_medium.p3d
 dz/structures_bliss/industrial/garages/garage_tall.p3d
 dz/structures_bliss/industrial/harbour/pier_wooden2.p3d
 dz/structures_bliss/industrial/houses/workshop_fuelstation.p3d
+dz/structures_bliss/industrial/misc/misc_cinderblock.p3d
 dz/structures_bliss/industrial/misc/misc_cinderblocks.p3d
 dz/structures_bliss/industrial/misc/misc_drainage.p3d
 dz/structures_bliss/industrial/misc/misc_haybale_packed_stack.p3d
@@ -745,6 +746,7 @@ dz/structures_bliss/military/misc/misc_dragonteeth_single_redwhite.p3d
 dz/structures_bliss/military/misc/misc_dragonteeth_single.p3d
 dz/structures_bliss/military/training/shellcrater1_decal.p3d
 dz/structures_bliss/military/training/shellcrater1.p3d
+dz/structures_bliss/military/training/shellcrater2_debris_lc.p3d
 dz/structures_bliss/military/training/shellcrater2_debris.p3d
 dz/structures_bliss/military/training/shellcrater2_decal.p3d
 dz/structures_bliss/military/training/shellcrater2_large.p3d
@@ -1660,6 +1662,8 @@ dz/structures_sakhal/military/improvised/mil_artilery_rampart_sakhal.p3d
 dz/structures_sakhal/military/improvised/mil_artillery_nest_sakhal.p3d
 dz/structures_sakhal/military/improvised/proxy/mil_artilery_rampart_sakhal_grass.p3d
 dz/structures_sakhal/military/improvised/proxy/mil_artillery_nest_sakhal_grass.p3d
+dz/structures_sakhal/military/misc/misc_barreltarp.p3d
+dz/structures_sakhal/military/misc/misc_secret_document.p3d
 dz/structures_sakhal/military/radar/mil_antena_k7.p3d
 dz/structures_sakhal/military/radar/mil_radome_big.p3d
 dz/structures_sakhal/military/radar/mil_radome_small.p3d
@@ -1667,7 +1671,10 @@ dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_bottomleft_
 dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_bottomright_grass.p3d
 dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_topleft_grass.p3d
 dz/structures_sakhal/military/storage/grass_proxy/warheadstorage_top_topright_grass.p3d
+dz/structures_sakhal/military/storage/proxy/map_chernarus_bunker.p3d
+dz/structures_sakhal/military/storage/proxy/map_livonia_bunker.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_airlock.p3d
+dz/structures_sakhal/military/storage/proxy/warhead_storage_bunker_wall_decals.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_crane.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_door_slide.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_door_switch.p3d
@@ -1676,8 +1683,13 @@ dz/structures_sakhal/military/storage/proxy/warhead_storage_heater_long.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_heater_short.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_lamp_broken.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_lamp.p3d
+dz/structures_sakhal/military/storage/proxy/warhead_storage_light_red.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_light.p3d
 dz/structures_sakhal/military/storage/proxy/warhead_storage_locker.p3d
+dz/structures_sakhal/military/storage/proxy/warheadstorage_bunker_facility_details1.p3d
+dz/structures_sakhal/military/storage/proxy/warheadstorage_bunker_facility_details2.p3d
+dz/structures_sakhal/military/storage/proxy/warheadstorage_bunker_facility_details3.p3d
+dz/structures_sakhal/military/storage/proxy/warheadstorage_bunker_facility_exterior.p3d
 dz/structures_sakhal/military/storage/proxy/warheadstorage_entrance_roof_detail1.p3d
 dz/structures_sakhal/military/storage/proxy/warheadstorage_entrance_roof_detail2.p3d
 dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_01.p3d
@@ -1685,6 +1697,7 @@ dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_02.p3d
 dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_03.p3d
 dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_04.p3d
 dz/structures_sakhal/military/storage/proxy/warheadstorage_main_detail_05.p3d
+dz/structures_sakhal/military/storage/warheadstorage_bunker_facility.p3d
 dz/structures_sakhal/military/storage/warheadstorage_entrance_roof_detail1.p3d
 dz/structures_sakhal/military/storage/warheadstorage_entrance_roof_detail2.p3d
 dz/structures_sakhal/military/storage/warheadstorage_entrance_roof.p3d
@@ -1955,6 +1968,8 @@ dz/structures_sakhal/signs/settlements/sign_zhupanovo_start.p3d
 dz/structures_sakhal/specific/airport/airport_small_hangar.p3d
 dz/structures_sakhal/specific/airport/airport_small_hangar2.p3d
 dz/structures_sakhal/specific/airport/airport_small_main.p3d
+dz/structures_sakhal/specific/maps/map_chernarus_bunker.p3d
+dz/structures_sakhal/specific/maps/map_livonia_bunker.p3d
 dz/structures_sakhal/specific/monuments/monument_bears.p3d
 dz/structures_sakhal/specific/monuments/monument_workcamp.p3d
 dz/structures_sakhal/specific/radio/proxy/radio_building_logo_east.p3d
@@ -2023,6 +2038,7 @@ dz/structures/furniture/bathroom/bath/bath.p3d
 dz/structures/furniture/bathroom/bathroom_sign_m.p3d
 dz/structures/furniture/bathroom/bathroom_sign_w.p3d
 dz/structures/furniture/bathroom/sink/sink.p3d
+dz/structures/furniture/bathroom/toilet_b_02/toilet_b_02_scaled.p3d
 dz/structures/furniture/bathroom/toilet_b_02/toilet_b_02.p3d
 dz/structures/furniture/beds/bed_stacked.p3d
 dz/structures/furniture/beds/matress_white_bent.p3d
@@ -2068,6 +2084,10 @@ dz/structures/furniture/cases/metalcase/metalcase_01.p3d
 dz/structures/furniture/cases/metalcase/metalcase_02.p3d
 dz/structures/furniture/cases/metalcrate_02/metalcrate_02.p3d
 dz/structures/furniture/cases/metalcrate/metalcrate.p3d
+dz/structures/furniture/cases/paperbox/paperbox_01_small_closed.p3d
+dz/structures/furniture/cases/paperbox/paperbox_01_small_destroyed.p3d
+dz/structures/furniture/cases/paperbox/paperbox_01_small_open.p3d
+dz/structures/furniture/cases/paperbox/paperbox_01_small_ransacked.p3d
 dz/structures/furniture/cases/sarcophagus/sarcophagus.p3d
 dz/structures/furniture/cases/skrin_bar/skrin_bar.p3d
 dz/structures/furniture/chairs/airport_bench/airport_bench.p3d
@@ -2091,6 +2111,7 @@ dz/structures/furniture/chairs/vojenska_palanda/vojenska_palanda.p3d
 dz/structures/furniture/decoration/box_c/box_c_multi.p3d
 dz/structures/furniture/decoration/box_c/box_c.p3d
 dz/structures/furniture/decoration/bucket/bucket.p3d
+dz/structures/furniture/decoration/bucket/plasticbucket.p3d
 dz/structures/furniture/decoration/carpet_big/carpet_big_washedout.p3d
 dz/structures/furniture/decoration/carpet_big/carpet_big.p3d
 dz/structures/furniture/decoration/flowers/flower_01_brown.p3d
@@ -2154,6 +2175,7 @@ dz/structures/furniture/lighting/light_bathroom/light_bathroom.p3d
 dz/structures/furniture/lighting/light_kitchen_03/light_kitchen_03.p3d
 dz/structures/furniture/lighting/luxury_lamp/lamp.p3d
 dz/structures/furniture/lighting/luxury_light/luxury_light.p3d
+dz/structures/furniture/medical/medical_garbage/medicalgarbage_bandage.p3d
 dz/structures/furniture/medical/medical_table/medical_table.p3d
 dz/structures/furniture/medical/patient_monitor/patient_monitor.p3d
 dz/structures/furniture/prison/prison_sink.p3d
@@ -2223,6 +2245,7 @@ dz/structures/furniture/various/bar_shelves_dz.p3d
 dz/structures/furniture/various/bar_tap_dz.p3d
 dz/structures/furniture/various/boots_dz.p3d
 dz/structures/furniture/various/canister_dz.p3d
+dz/structures/furniture/various/canister_ground_dz.p3d
 dz/structures/furniture/various/carpet_2_dz.p3d
 dz/structures/furniture/various/chest_dz.p3d
 dz/structures/furniture/various/couch_beige84x213x75_dz.p3d
@@ -2433,6 +2456,7 @@ dz/structures/industrial/mines/proxy/ind_coltan_conv2_add_ep1.p3d
 dz/structures/industrial/mines/proxy/ind_coltan_hopper_add_ep1.p3d
 dz/structures/industrial/misc/lamp_ind.p3d
 dz/structures/industrial/misc/lamp_rail.p3d
+dz/structures/industrial/misc/misc_barrelempty.p3d
 dz/structures/industrial/misc/misc_boardspack1.p3d
 dz/structures/industrial/misc/misc_boardspack2.p3d
 dz/structures/industrial/misc/misc_boardspack3.p3d
@@ -2441,6 +2465,10 @@ dz/structures/industrial/misc/misc_concretepanels.p3d
 dz/structures/industrial/misc/misc_concretepipe_gate.p3d
 dz/structures/industrial/misc/misc_concretepipe.p3d
 dz/structures/industrial/misc/misc_drainage.p3d
+dz/structures/industrial/misc/misc_gastank_01_blue.p3d
+dz/structures/industrial/misc/misc_gastank_01_khaki.p3d
+dz/structures/industrial/misc/misc_gastank_01_yellow.p3d
+dz/structures/industrial/misc/misc_gastank_02.p3d
 dz/structures/industrial/misc/misc_gcontainer_big.p3d
 dz/structures/industrial/misc/misc_haybale_decayed.p3d
 dz/structures/industrial/misc/misc_haybale.p3d
@@ -2463,8 +2491,10 @@ dz/structures/industrial/misc/misc_timbers1.p3d
 dz/structures/industrial/misc/misc_timbers2.p3d
 dz/structures/industrial/misc/misc_timbers3.p3d
 dz/structures/industrial/misc/misc_timbers4.p3d
+dz/structures/industrial/misc/misc_tire_big.p3d
 dz/structures/industrial/misc/misc_tirepile_group.p3d
 dz/structures/industrial/misc/misc_tirepile.p3d
+dz/structures/industrial/misc/misc_weldingtrolley_01.p3d
 dz/structures/industrial/misc/misc_woodpile_forest1.p3d
 dz/structures/industrial/misc/misc_woodpile_forest2.p3d
 dz/structures/industrial/misc/misc_woodpile_forest3.p3d
@@ -4224,6 +4254,7 @@ dz/structures/specific/cemeteries/cemetery_grave3.p3d
 dz/structures/specific/cemeteries/cemetery_grave4.p3d
 dz/structures/specific/cemeteries/cemetery_smallcross.p3d
 dz/structures/specific/cemeteries/cemetery_smallcross2.p3d
+dz/structures/specific/cemeteries/cemetery_smallcross3.p3d
 dz/structures/specific/cemeteries/cemetery_tombstone1.p3d
 dz/structures/specific/cemeteries/cemetery_tombstone10.p3d
 dz/structures/specific/cemeteries/cemetery_tombstone11.p3d
@@ -4537,8 +4568,14 @@ dz/structures/wrecks/vehicles/proxy/truck_01_lod1parts.p3d
 dz/structures/wrecks/vehicles/proxy/wreck_harvester_head.p3d
 dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban1_proxy.p3d
 dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban1_proxy2.p3d
+dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban1_tk_proxy.p3d
+dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban1_tk_proxy2.p3d
 dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban2_proxy.p3d
 dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban2_proxy2.p3d
+dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban2_tk_proxy.p3d
+dz/structures/wrecks/vehicles/proxy/wreck_offroad02_aban2_tk_proxy2.p3d
+dz/structures/wrecks/vehicles/proxy/wreck_offroad02_medic_tk_proxy1.p3d
+dz/structures/wrecks/vehicles/proxy/wreck_offroad02_medic_tk_proxy2.p3d
 dz/structures/wrecks/vehicles/proxy/wreck_trailer_closed_base.p3d
 dz/structures/wrecks/vehicles/wreck_baler.p3d
 dz/structures/wrecks/vehicles/wreck_bmp1_noplacement.p3d
@@ -4577,8 +4614,12 @@ dz/structures/wrecks/vehicles/wreck_hmmwv.p3d
 dz/structures/wrecks/vehicles/wreck_ikarus.p3d
 dz/structures/wrecks/vehicles/wreck_lada_green.p3d
 dz/structures/wrecks/vehicles/wreck_lada_red.p3d
+dz/structures/wrecks/vehicles/wreck_mtvr_cargo.p3d
+dz/structures/wrecks/vehicles/wreck_offroad02_aban1_tk.p3d
 dz/structures/wrecks/vehicles/wreck_offroad02_aban1.p3d
+dz/structures/wrecks/vehicles/wreck_offroad02_aban2_tk.p3d
 dz/structures/wrecks/vehicles/wreck_offroad02_aban2.p3d
+dz/structures/wrecks/vehicles/wreck_offroad02_medic_tk.p3d
 dz/structures/wrecks/vehicles/wreck_powgen.p3d
 dz/structures/wrecks/vehicles/wreck_s1023_beige.p3d
 dz/structures/wrecks/vehicles/wreck_s1023_blue.p3d
@@ -4598,6 +4639,7 @@ dz/structures/wrecks/vehicles/wreck_sed02_aban1_yellow.p3d
 dz/structures/wrecks/vehicles/wreck_sed02_aban2_grey.p3d
 dz/structures/wrecks/vehicles/wreck_sed02_aban2_red.p3d
 dz/structures/wrecks/vehicles/wreck_sed02_aban2_yellow.p3d
+dz/structures/wrecks/vehicles/wreck_stryker.p3d
 dz/structures/wrecks/vehicles/wreck_t72_chassis.p3d
 dz/structures/wrecks/vehicles/wreck_t72_turret.p3d
 dz/structures/wrecks/vehicles/wreck_trailer_cistern.p3d

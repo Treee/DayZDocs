@@ -3,7 +3,7 @@
     <Template>
     <Name>b_betulahumilis_1s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\b_betulahumilis_1s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -36,7 +36,7 @@
 <Template>
     <Name>b_betulanana_1s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\b_betulanana_1s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -69,7 +69,7 @@
 <Template>
     <Name>b_betulapendula_1f_winter</Name>
     <File>p:\dz\plants_sakhal\winter\b_betulapendula_1f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
 <Template>
     <Name>b_caraganaarborescens_2s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\b_caraganaarborescens_2s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -133,42 +133,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>b_piceaabies_1fb_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\b_piceaabies_1fb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>1634397513</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>b_piceaabies_1f_winter</Name>
     <File>p:\dz\plants_sakhal\winter\b_piceaabies_1f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -199,9 +166,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>b_piceaabies_1fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\b_piceaabies_1fb_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1634397513</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>d_betulapendula_fallen_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_betulapendula_fallen_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -234,7 +234,7 @@
 <Template>
     <Name>d_betulapendula_stump_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_betulapendula_stump_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -265,9 +265,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>d_piceaabies_fallen_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallen_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1616743756</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>d_piceaabies_fallenb_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallenb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -300,7 +333,7 @@
 <Template>
     <Name>d_piceaabies_fallenc_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallenc_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -333,7 +366,7 @@
 <Template>
     <Name>d_piceaabies_fallend_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallend_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -366,7 +399,7 @@
 <Template>
     <Name>d_piceaabies_fallene_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallene_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -397,14 +430,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_fallen_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\d_piceaabies_fallen_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Name>d_piceaabies_stump_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\d_piceaabies_stump_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>1616743756</Hash>
+    <Hash>1561716161</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -432,7 +465,7 @@
 <Template>
     <Name>d_piceaabies_stumpb_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_piceaabies_stumpb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -465,7 +498,7 @@
 <Template>
     <Name>d_piceaabies_stumpc_winter</Name>
     <File>p:\dz\plants_sakhal\winter\d_piceaabies_stumpc_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -496,108 +529,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>d_piceaabies_stump_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\d_piceaabies_stump_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>1561716161</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>t_betulapendulae_2w_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_betulapendulae_2w_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>-1617836790</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
-    <Name>t_betulapendula_1fb_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_betulapendula_1fb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>-617803717</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>t_betulapendula_1f_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_1f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -628,9 +562,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>t_betulapendula_1fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_1fb_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-617803717</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>t_betulapendula_1s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_1s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -661,9 +628,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>t_betulapendula_2f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2f_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>897694060</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>t_betulapendula_2fb_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_2fb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -696,7 +696,7 @@
 <Template>
     <Name>t_betulapendula_2fc_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_2fc_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -727,42 +727,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_2f_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_betulapendula_2f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>897694060</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>t_betulapendula_2s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_2s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -795,7 +762,7 @@
 <Template>
     <Name>t_betulapendula_2w_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_2w_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -826,9 +793,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>t_betulapendula_3f_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendula_3f_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>144406381</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>t_betulapendula_3fb_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_3fb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -861,7 +861,7 @@
 <Template>
     <Name>t_betulapendula_3fc_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_3fc_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -892,42 +892,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_betulapendula_3f_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_betulapendula_3f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>144406381</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>t_betulapendula_3s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_betulapendula_3s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -958,9 +925,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>t_betulapendulae_2w_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_betulapendulae_2w_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>-1617836790</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>t_piceaabies_1f_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_piceaabies_1f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -991,42 +991,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_1sb_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_piceaabies_1sb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>1561399400</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>t_piceaabies_1s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_piceaabies_1s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -1057,9 +1024,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>t_piceaabies_1sb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_1sb_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>1561399400</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>t_piceaabies_2d_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_piceaabies_2d_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -1090,42 +1090,9 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2fb_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2fb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
-    <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
-    <Scale>1.000000</Scale>
-    <Hash>1444490394</Hash>
-    <ScaleRandMin>0.000000</ScaleRandMin>
-    <ScaleRandMax>0.000000</ScaleRandMax>
-    <YawRandMin>0.000000</YawRandMin>
-    <YawRandMax>0.000000</YawRandMax>
-    <PitchRandMin>0.000000</PitchRandMin>
-    <PitchRandMax>0.000000</PitchRandMax>
-    <RollRandMin>0.000000</RollRandMin>
-    <RollRandMax>0.000000</RollRandMax>
-    <TexLLU>0.000000</TexLLU>
-    <TexLLV>0.000000</TexLLV>
-    <TexURU>1.000000</TexURU>
-    <TexURV>1.000000</TexURV>
-    <BBRadius>-1.000000</BBRadius>
-    <BBHScale>1.000000</BBHScale>
-    <AutoCenter>0</AutoCenter>
-    <XShift>0.000000</XShift>
-    <YShift>0.000000</YShift>
-    <ZShift>0.000000</ZShift>
-    <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <Placement></Placement>
-</Template>
-<Template>
     <Name>t_piceaabies_2f_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_piceaabies_2f_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -1156,14 +1123,14 @@
     <Placement></Placement>
 </Template>
 <Template>
-    <Name>t_piceaabies_2sb_winter</Name>
-    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2sb_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Name>t_piceaabies_2fb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2fb_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
     <Scale>1.000000</Scale>
-    <Hash>241685159</Hash>
+    <Hash>1444490394</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>
     <ScaleRandMax>0.000000</ScaleRandMax>
     <YawRandMin>0.000000</YawRandMin>
@@ -1191,7 +1158,7 @@
 <Template>
     <Name>t_piceaabies_2s_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_piceaabies_2s_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -1222,9 +1189,42 @@
     <Placement></Placement>
 </Template>
 <Template>
+    <Name>t_piceaabies_2sb_winter</Name>
+    <File>p:\dz\plants_sakhal\winter\t_piceaabies_2sb_winter.p3d</File>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Archive></Archive>
+    <Fill>-8323328</Fill>
+    <Outline>-16777216</Outline>
+    <Scale>1.000000</Scale>
+    <Hash>241685159</Hash>
+    <ScaleRandMin>0.000000</ScaleRandMin>
+    <ScaleRandMax>0.000000</ScaleRandMax>
+    <YawRandMin>0.000000</YawRandMin>
+    <YawRandMax>0.000000</YawRandMax>
+    <PitchRandMin>0.000000</PitchRandMin>
+    <PitchRandMax>0.000000</PitchRandMax>
+    <RollRandMin>0.000000</RollRandMin>
+    <RollRandMax>0.000000</RollRandMax>
+    <TexLLU>0.000000</TexLLU>
+    <TexLLV>0.000000</TexLLV>
+    <TexURU>1.000000</TexURU>
+    <TexURV>1.000000</TexURV>
+    <BBRadius>-1.000000</BBRadius>
+    <BBHScale>1.000000</BBHScale>
+    <AutoCenter>0</AutoCenter>
+    <XShift>0.000000</XShift>
+    <YShift>0.000000</YShift>
+    <ZShift>0.000000</ZShift>
+    <Height>0.000000</Height>
+    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <Placement></Placement>
+</Template>
+<Template>
     <Name>t_piceaabies_3d_winter</Name>
     <File>p:\dz\plants_sakhal\winter\t_piceaabies_3d_winter.p3d</File>
-    <Date>Sun Sep 21 15:18:42 2025</Date>
+    <Date>Sat Aug 8 15:29:54 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>

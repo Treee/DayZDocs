@@ -3,8 +3,8 @@
     <File>{P3D_RELATIVE_FILE_PATH}</File>
     <Date>{TIMESTAMP}</Date>
     <Archive></Archive>
-    <Fill>-8323328</Fill>
-    <Outline>-16777216</Outline>
+    <Fill>{TEMPLATE_FILL}</Fill>
+    <Outline>{TEMPLATE_OUTLINE}</Outline>
     <Scale>1.000000</Scale>
     <Hash>{P3D_HASH}</Hash>
     <ScaleRandMin>0.000000</ScaleRandMin>

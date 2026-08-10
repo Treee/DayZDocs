@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "import-modded-once",
+			"type": "shell",
+			"command": "npm.cmd",
+			"args": [
+				"run",
+				"import:modded"
+			],
+			"isBackground": false
+		}
+	]
+}

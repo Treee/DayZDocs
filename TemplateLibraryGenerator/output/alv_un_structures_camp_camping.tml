@@ -3,7 +3,7 @@
     <Template>
     <Name>house_convertedcaravan</Name>
     <File>p:\alv_un_structures_camp\camping\house_convertedcaravan.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.488008" Y="-0.198984" Z="-4.353103" />
+    <BoundingMax X="2.361353" Y="3.029072" Z="2.375923" />
+    <BoundingCenter X="-0.063327" Y="1.415044" Z="-0.988590" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_largetent</Name>
     <File>p:\alv_un_structures_camp\camping\house_largetent.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.519798" Y="-0.041890" Z="-2.236843" />
+    <BoundingMax X="3.516169" Y="2.721775" Z="3.479541" />
+    <BoundingCenter X="-0.001814" Y="1.339942" Z="0.621349" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_largetent_2</Name>
     <File>p:\alv_un_structures_camp\camping\house_largetent_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.519798" Y="-0.041890" Z="-2.236843" />
+    <BoundingMax X="3.516169" Y="2.721775" Z="3.479541" />
+    <BoundingCenter X="-0.001814" Y="1.339942" Z="0.621349" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_largetent_3</Name>
     <File>p:\alv_un_structures_camp\camping\house_largetent_3.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.516169" Y="-0.802579" Z="-2.236843" />
+    <BoundingMax X="3.519798" Y="2.721775" Z="3.479541" />
+    <BoundingCenter X="0.001814" Y="0.959598" Z="0.621349" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_militarytent</Name>
     <File>p:\alv_un_structures_camp\camping\house_militarytent.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.432653" Y="-0.127006" Z="-3.002869" />
+    <BoundingMax X="3.304618" Y="2.812707" Z="2.855458" />
+    <BoundingCenter X="-0.064018" Y="1.342850" Z="-0.073706" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_militarytent_2</Name>
     <File>p:\alv_un_structures_camp\camping\house_militarytent_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.432653" Y="-0.127006" Z="-3.002869" />
+    <BoundingMax X="3.304618" Y="2.812707" Z="3.053239" />
+    <BoundingCenter X="-0.064018" Y="1.342850" Z="0.025185" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_teepee_1</Name>
     <File>p:\alv_un_structures_camp\camping\house_teepee_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.183701" Y="-0.406195" Z="-2.948422" />
+    <BoundingMax X="2.872144" Y="5.076415" Z="2.961965" />
+    <BoundingCenter X="-0.155779" Y="2.335110" Z="0.006771" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_wagon_camp</Name>
     <File>p:\alv_un_structures_camp\camping\house_wagon_camp.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.166563" Y="-0.663142" Z="-1.672802" />
+    <BoundingMax X="2.030584" Y="2.415954" Z="3.997872" />
+    <BoundingCenter X="-1.567989" Y="0.876406" Z="1.162535" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_wooltent</Name>
     <File>p:\alv_un_structures_camp\camping\house_wooltent.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,9 +292,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.396039" Y="-0.842047" Z="-2.956234" />
+    <BoundingMax X="3.531888" Y="3.178836" Z="3.289350" />
+    <BoundingCenter X="0.067924" Y="1.168395" Z="0.166558" />
     <Placement></Placement>
 </Template>
 

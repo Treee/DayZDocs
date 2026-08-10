@@ -3,7 +3,7 @@
     <Template>
     <Name>garbage_bin</Name>
     <File>p:\dz\structures\residential\misc\garbage_bin.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.331873" Y="-0.565244" Z="-0.350733" />
+    <BoundingMax X="0.331873" Y="0.565244" Z="0.350733" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_container</Name>
     <File>p:\dz\structures\residential\misc\garbage_container.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.598026" Y="-0.839401" Z="-0.740669" />
+    <BoundingMax X="0.598026" Y="0.839401" Z="0.740669" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_container_glass</Name>
     <File>p:\dz\structures\residential\misc\garbage_container_glass.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.598026" Y="-0.839401" Z="-0.740669" />
+    <BoundingMax X="0.598026" Y="0.839401" Z="0.740669" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_container_paper</Name>
     <File>p:\dz\structures\residential\misc\garbage_container_paper.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.598026" Y="-0.839401" Z="-0.740669" />
+    <BoundingMax X="0.598026" Y="0.839401" Z="0.740669" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_container_plastic</Name>
     <File>p:\dz\structures\residential\misc\garbage_container_plastic.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.598026" Y="-0.839401" Z="-0.740669" />
+    <BoundingMax X="0.598026" Y="0.839401" Z="0.740669" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_ground_6m</Name>
     <File>p:\dz\structures\residential\misc\garbage_ground_6m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.719169" Y="-0.018991" Z="-2.791160" />
+    <BoundingMax X="0.719169" Y="0.099295" Z="2.791160" />
+    <BoundingCenter X="0.000000" Y="0.040152" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_ground_6m_nolc</Name>
     <File>p:\dz\structures\residential\misc\garbage_ground_6m_nolc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.719169" Y="-0.059143" Z="-2.791160" />
+    <BoundingMax X="0.719169" Y="0.059143" Z="2.791160" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_groundsq_3m</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_3m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.249135" Y="-0.015462" Z="-1.273485" />
+    <BoundingMax X="1.249135" Y="0.099295" Z="1.273485" />
+    <BoundingCenter X="0.000000" Y="0.041916" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_groundsq_3m_nolc</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_3m_nolc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.249135" Y="-0.057379" Z="-1.273485" />
+    <BoundingMax X="1.249135" Y="0.057379" Z="1.273485" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_groundsq_5m</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_5m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.004165" Y="-0.040423" Z="-2.310980" />
+    <BoundingMax X="2.004165" Y="0.099295" Z="2.310980" />
+    <BoundingCenter X="0.000000" Y="0.029436" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_groundsq_5m_nolc</Name>
     <File>p:\dz\structures\residential\misc\garbage_groundsq_5m_nolc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.004165" Y="-0.069859" Z="-2.310980" />
+    <BoundingMax X="2.004165" Y="0.069859" Z="2.310980" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_pile1</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.040705" Y="-0.690613" Z="-1.569345" />
+    <BoundingMax X="2.040705" Y="0.690613" Z="1.569345" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_pile2</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.015733" Y="-0.363536" Z="-1.795699" />
+    <BoundingMax X="2.015733" Y="0.363536" Z="1.795699" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_pile3</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.517170" Y="-0.358646" Z="-1.255820" />
+    <BoundingMax X="1.517170" Y="0.358646" Z="1.255820" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_pile4</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile4.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.158688" Y="-0.525996" Z="-1.913416" />
+    <BoundingMax X="2.413495" Y="1.262720" Z="2.224904" />
+    <BoundingCenter X="0.127403" Y="0.368362" Z="0.155744" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_pile5</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile5.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.552578" Y="-0.526326" Z="-2.223885" />
+    <BoundingMax X="2.577361" Y="1.381630" Z="2.253687" />
+    <BoundingCenter X="0.012391" Y="0.427652" Z="0.014901" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garbage_pile6</Name>
     <File>p:\dz\structures\residential\misc\garbage_pile6.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.385345" Y="-0.525951" Z="-1.904290" />
+    <BoundingMax X="2.335627" Y="1.208690" Z="1.996622" />
+    <BoundingCenter X="-0.024859" Y="0.341370" Z="0.046166" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>garden_plot</Name>
     <File>p:\dz\structures\residential\misc\garden_plot.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.325171" Y="-0.806312" Z="-2.197994" />
+    <BoundingMax X="2.321238" Y="2.284147" Z="2.285224" />
+    <BoundingCenter X="-0.001966" Y="0.738917" Z="0.043615" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ladder</Name>
     <File>p:\dz\structures\residential\misc\ladder.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.500000" Y="-3.941989" Z="-0.814757" />
+    <BoundingMax X="0.500000" Y="3.941989" Z="0.814757" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ladder_half</Name>
     <File>p:\dz\structures\residential\misc\ladder_half.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.500000" Y="-3.943171" Z="-0.814757" />
+    <BoundingMax X="0.500000" Y="3.943171" Z="0.814757" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>lamp_city1</Name>
     <File>p:\dz\structures\residential\misc\lamp_city1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.292313" Y="-4.831541" Z="-1.666986" />
+    <BoundingMax X="1.292313" Y="4.831541" Z="1.666986" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>lamp_city1_amp</Name>
     <File>p:\dz\structures\residential\misc\lamp_city1_amp.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -721,15 +721,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.292313" Y="-4.831541" Z="-1.760390" />
+    <BoundingMax X="1.292313" Y="4.831541" Z="1.760390" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>lamp_city2</Name>
     <File>p:\dz\structures\residential\misc\lamp_city2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.436897" Y="-4.831541" Z="-1.666986" />
+    <BoundingMax X="2.436897" Y="4.831541" Z="1.666986" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>lamp_city3</Name>
     <File>p:\dz\structures\residential\misc\lamp_city3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.842216" Y="-4.831541" Z="-2.660641" />
+    <BoundingMax X="1.842216" Y="4.831541" Z="2.660641" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_advertcolumn</Name>
     <File>p:\dz\structures\residential\misc\misc_advertcolumn.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.032170" Y="-1.682087" Z="-1.032170" />
+    <BoundingMax X="1.032170" Y="1.682087" Z="1.032170" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_barricade</Name>
     <File>p:\dz\structures\residential\misc\misc_barricade.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.268025" Y="-1.368369" Z="-2.320920" />
+    <BoundingMax X="6.268025" Y="1.368369" Z="2.320920" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_bench1</Name>
     <File>p:\dz\structures\residential\misc\misc_bench1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.792782" Y="-0.469543" Z="-0.277890" />
+    <BoundingMax X="0.792782" Y="0.469543" Z="0.277890" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_bench2</Name>
     <File>p:\dz\structures\residential\misc\misc_bench2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.787707" Y="-0.480801" Z="-0.508182" />
+    <BoundingMax X="0.787707" Y="0.480801" Z="0.508182" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_bench3</Name>
     <File>p:\dz\structures\residential\misc\misc_bench3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -952,15 +952,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.906528" Y="-0.226676" Z="-0.166012" />
+    <BoundingMax X="0.906528" Y="0.226676" Z="0.166012" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_bench4</Name>
     <File>p:\dz\structures\residential\misc\misc_bench4.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -985,15 +985,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.905197" Y="-0.368941" Z="-0.485285" />
+    <BoundingMax X="0.905197" Y="0.368941" Z="0.485285" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_bench5</Name>
     <File>p:\dz\structures\residential\misc\misc_bench5.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1018,15 +1018,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.240579" Y="-0.234199" Z="-0.977629" />
+    <BoundingMax X="0.240579" Y="0.234199" Z="0.977629" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_boogieman</Name>
     <File>p:\dz\structures\residential\misc\misc_boogieman.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1051,15 +1051,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.658531" Y="-0.973014" Z="-0.287639" />
+    <BoundingMax X="0.658531" Y="0.973014" Z="0.287639" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_boundarystone</Name>
     <File>p:\dz\structures\residential\misc\misc_boundarystone.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1084,15 +1084,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.132199" Y="-0.321207" Z="-0.132195" />
+    <BoundingMax X="0.132199" Y="0.321207" Z="0.132195" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_boundarystone_plastic</Name>
     <File>p:\dz\structures\residential\misc\misc_boundarystone_plastic.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1117,15 +1117,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.060000" Y="-0.500000" Z="-0.049372" />
+    <BoundingMax X="0.060000" Y="0.500000" Z="0.049372" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_boundarystone_tube</Name>
     <File>p:\dz\structures\residential\misc\misc_boundarystone_tube.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1150,15 +1150,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.610423" Y="-0.321207" Z="-2.047045" />
+    <BoundingMax X="0.610423" Y="0.321207" Z="2.047045" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_boxwooden_dupe_2</Name>
     <File>p:\dz\structures\residential\misc\misc_boxwooden.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1183,15 +1183,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.501549" Y="-0.486694" Z="-0.501548" />
+    <BoundingMax X="0.501549" Y="0.486694" Z="0.501548" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_carousel</Name>
     <File>p:\dz\structures\residential\misc\misc_carousel.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1216,15 +1216,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.517320" Y="-0.754812" Z="-1.314040" />
+    <BoundingMax X="1.517320" Y="0.754812" Z="1.314040" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_carousel_small</Name>
     <File>p:\dz\structures\residential\misc\misc_carousel_small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1249,15 +1249,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.815001" Y="-0.729302" Z="-0.815000" />
+    <BoundingMax X="0.815001" Y="0.729302" Z="0.815000" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_chair_camp1</Name>
     <File>p:\dz\structures\residential\misc\misc_chair_camp1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1282,15 +1282,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.284924" Y="-0.499710" Z="-0.295471" />
+    <BoundingMax X="0.284924" Y="0.499710" Z="0.295471" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_chair_camp2</Name>
     <File>p:\dz\structures\residential\misc\misc_chair_camp2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1315,15 +1315,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.284924" Y="-0.506300" Z="-0.293012" />
+    <BoundingMax X="0.284924" Y="0.506300" Z="0.293012" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_chair_plastic</Name>
     <File>p:\dz\structures\residential\misc\misc_chair_plastic.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1348,15 +1348,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.348806" Y="-0.020000" Z="-0.376486" />
+    <BoundingMax X="0.342750" Y="0.968149" Z="0.376486" />
+    <BoundingCenter X="-0.003028" Y="0.474075" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_chickencoop</Name>
     <File>p:\dz\structures\residential\misc\misc_chickencoop.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1381,15 +1381,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.099178" Y="-1.133630" Z="-1.703710" />
+    <BoundingMax X="1.099178" Y="1.133630" Z="1.703710" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_crashbarrier</Name>
     <File>p:\dz\structures\residential\misc\misc_crashbarrier.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1414,15 +1414,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.526740" Y="-0.638069" Z="-0.133429" />
+    <BoundingMax X="3.526740" Y="0.638069" Z="0.133429" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_crashbarrier_nolc</Name>
     <File>p:\dz\structures\residential\misc\misc_crashbarrier_nolc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1447,15 +1447,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.526740" Y="-0.638069" Z="-0.133429" />
+    <BoundingMax X="3.526740" Y="0.638069" Z="0.133429" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_deerstand1</Name>
     <File>p:\dz\structures\residential\misc\misc_deerstand1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1480,15 +1480,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.286999" Y="-3.618558" Z="-1.780869" />
+    <BoundingMax X="1.286999" Y="3.618558" Z="1.780869" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_deerstand2</Name>
     <File>p:\dz\structures\residential\misc\misc_deerstand2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1513,15 +1513,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.990718" Y="-3.898597" Z="-2.288404" />
+    <BoundingMax X="1.990718" Y="3.898597" Z="2.288404" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_doghouse</Name>
     <File>p:\dz\structures\residential\misc\misc_doghouse.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1546,15 +1546,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.103646" Y="-1.005500" Z="-1.974764" />
+    <BoundingMax X="1.103646" Y="1.005500" Z="1.974764" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_feedrack</Name>
     <File>p:\dz\structures\residential\misc\misc_feedrack.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1579,15 +1579,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.964815" Y="-1.101705" Z="-0.771229" />
+    <BoundingMax X="0.964815" Y="1.101705" Z="0.771229" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_feedshack</Name>
     <File>p:\dz\structures\residential\misc\misc_feedshack.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1612,15 +1612,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.891349" Y="-3.289371" Z="-2.251460" />
+    <BoundingMax X="3.891349" Y="3.289371" Z="2.251460" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_football_gate</Name>
     <File>p:\dz\structures\residential\misc\misc_football_gate.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1645,15 +1645,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.902603" Y="-1.264549" Z="-0.916414" />
+    <BoundingMax X="2.902603" Y="1.264549" Z="0.916414" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_football_line</Name>
     <File>p:\dz\structures\residential\misc\misc_football_line.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1686,7 +1686,7 @@
 <Template>
     <Name>misc_football_line_corner</Name>
     <File>p:\dz\structures\residential\misc\misc_football_line_corner.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1719,7 +1719,7 @@
 <Template>
     <Name>misc_football_line_hcircle</Name>
     <File>p:\dz\structures\residential\misc\misc_football_line_hcircle.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1752,7 +1752,7 @@
 <Template>
     <Name>misc_fountain</Name>
     <File>p:\dz\structures\residential\misc\misc_fountain.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1777,15 +1777,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.654509" Y="-0.766199" Z="-1.704966" />
+    <BoundingMax X="1.654509" Y="0.766199" Z="1.704966" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_greenhouse</Name>
     <File>p:\dz\structures\residential\misc\misc_greenhouse.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1810,15 +1810,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.844990" Y="-1.949716" Z="-2.115935" />
+    <BoundingMax X="2.844990" Y="1.949716" Z="2.115935" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_haystack</Name>
     <File>p:\dz\structures\residential\misc\misc_haystack.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1843,15 +1843,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.646448" Y="-0.930284" Z="-0.640150" />
+    <BoundingMax X="0.646448" Y="0.930284" Z="0.640150" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_hutch</Name>
     <File>p:\dz\structures\residential\misc\misc_hutch.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1876,15 +1876,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.471336" Y="-2.041115" Z="-1.005408" />
+    <BoundingMax X="2.471336" Y="2.041115" Z="1.005408" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_noticeboard1</Name>
     <File>p:\dz\structures\residential\misc\misc_noticeboard1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1909,15 +1909,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.592294" Y="-1.048514" Z="-0.162477" />
+    <BoundingMax X="0.592294" Y="1.048514" Z="0.162477" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_noticeboard2</Name>
     <File>p:\dz\structures\residential\misc\misc_noticeboard2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1942,15 +1942,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.592294" Y="-1.048514" Z="-0.162477" />
+    <BoundingMax X="0.592294" Y="1.048514" Z="0.162477" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_polytunnel</Name>
     <File>p:\dz\structures\residential\misc\misc_polytunnel.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1975,15 +1975,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.515425" Y="-1.757414" Z="-3.033675" />
+    <BoundingMax X="4.515425" Y="1.757414" Z="3.033675" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_postbox1</Name>
     <File>p:\dz\structures\residential\misc\misc_postbox1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2008,15 +2008,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.148732" Y="-0.001899" Z="-0.091464" />
+    <BoundingMax X="0.118757" Y="1.544390" Z="0.300898" />
+    <BoundingCenter X="-0.014987" Y="0.771245" Z="0.104717" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_postbox2</Name>
     <File>p:\dz\structures\residential\misc\misc_postbox2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2041,15 +2041,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.171102" Y="-0.257151" Z="-0.036551" />
+    <BoundingMax X="0.171102" Y="0.257151" Z="0.036551" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_roadbarrier</Name>
     <File>p:\dz\structures\residential\misc\misc_roadbarrier.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2074,15 +2074,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.379203" Y="-1.287876" Z="-5.240108" />
+    <BoundingMax X="0.379203" Y="1.287876" Z="5.240108" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_roadbarrier2</Name>
     <File>p:\dz\structures\residential\misc\misc_roadbarrier2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2107,15 +2107,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.374881" Y="-4.409227" Z="-0.268046" />
+    <BoundingMax X="4.374881" Y="4.409226" Z="0.268046" />
+    <BoundingCenter X="-0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_sandbox</Name>
     <File>p:\dz\structures\residential\misc\misc_sandbox.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2140,15 +2140,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.440000" Y="-0.659152" Z="-2.440000" />
+    <BoundingMax X="2.440000" Y="0.659152" Z="2.440000" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_seesaw</Name>
     <File>p:\dz\structures\residential\misc\misc_seesaw.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2173,15 +2173,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.215000" Y="-0.635684" Z="-1.547038" />
+    <BoundingMax X="0.215000" Y="0.635684" Z="1.547038" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_stadiumbenches</Name>
     <File>p:\dz\structures\residential\misc\misc_stadiumbenches.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2206,15 +2206,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.025865" Y="-0.895306" Z="-1.982040" />
+    <BoundingMax X="2.025865" Y="0.895306" Z="1.982040" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_sunshade</Name>
     <File>p:\dz\structures\residential\misc\misc_sunshade.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2239,15 +2239,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.727066" Y="-1.563543" Z="-1.717680" />
+    <BoundingMax X="1.727066" Y="1.563543" Z="1.717680" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_table</Name>
     <File>p:\dz\structures\residential\misc\misc_table.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2272,15 +2272,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.582484" Y="-0.453672" Z="-0.737180" />
+    <BoundingMax X="0.582484" Y="0.453672" Z="0.737180" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_table_camp</Name>
     <File>p:\dz\structures\residential\misc\misc_table_camp.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2305,15 +2305,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.010990" Y="-0.412939" Z="-0.411191" />
+    <BoundingMax X="1.010990" Y="0.412939" Z="0.411191" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_table_camp_small</Name>
     <File>p:\dz\structures\residential\misc\misc_table_camp_small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2338,15 +2338,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.509043" Y="-0.405151" Z="-0.315800" />
+    <BoundingMax X="0.509043" Y="0.405151" Z="0.315800" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_toilet_dry</Name>
     <File>p:\dz\structures\residential\misc\misc_toilet_dry.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2371,15 +2371,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.914586" Y="-1.735034" Z="-1.144089" />
+    <BoundingMax X="0.914586" Y="1.735034" Z="1.144089" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_toilet_mobile</Name>
     <File>p:\dz\structures\residential\misc\misc_toilet_mobile.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2404,15 +2404,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.614390" Y="-1.220830" Z="-0.639495" />
+    <BoundingMax X="0.614390" Y="1.220830" Z="0.639495" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_trafficlights</Name>
     <File>p:\dz\structures\residential\misc\misc_trafficlights.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2437,15 +2437,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.341023" Y="-2.794666" Z="-0.232221" />
+    <BoundingMax X="0.341023" Y="2.794666" Z="0.232221" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_trailroof_big</Name>
     <File>p:\dz\structures\residential\misc\misc_trailroof_big.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2470,15 +2470,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.065158" Y="-2.033162" Z="-3.211710" />
+    <BoundingMax X="2.065158" Y="2.033162" Z="3.211710" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_trailroof_small</Name>
     <File>p:\dz\structures\residential\misc\misc_trailroof_small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2503,15 +2503,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.110001" Y="-1.472608" Z="-1.792056" />
+    <BoundingMax X="1.110001" Y="1.472608" Z="1.792056" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_tree_pavement1</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_pavement1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2536,15 +2536,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.122010" Y="-0.325014" Z="-2.122010" />
+    <BoundingMax X="2.122010" Y="0.325014" Z="2.122010" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_tree_pavement2</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_pavement2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2569,15 +2569,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.625000" Y="-0.282997" Z="-0.625000" />
+    <BoundingMax X="0.625000" Y="0.282997" Z="0.625000" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_tree_pavement3</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_pavement3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2602,15 +2602,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.500000" Y="-0.420317" Z="-1.800000" />
+    <BoundingMax X="0.500000" Y="0.420317" Z="1.800000" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_tree_protector</Name>
     <File>p:\dz\structures\residential\misc\misc_tree_protector.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16744448</Fill>
     <Outline>-16777216</Outline>
@@ -2635,15 +2635,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.284824" Y="-0.716751" Z="-0.284824" />
+    <BoundingMax X="0.284824" Y="0.716751" Z="0.284824" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_well</Name>
     <File>p:\dz\structures\residential\misc\misc_well.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2668,15 +2668,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.066540" Y="-0.860983" Z="-1.032955" />
+    <BoundingMax X="1.066540" Y="0.860983" Z="1.032955" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_well_pump_blue</Name>
     <File>p:\dz\structures\residential\misc\misc_well_pump_blue.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2701,15 +2701,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.584000" Y="-1.035553" Z="-1.584000" />
+    <BoundingMax X="1.584000" Y="1.035553" Z="1.584000" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_well_pump_yellow</Name>
     <File>p:\dz\structures\residential\misc\misc_well_pump_yellow.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2734,15 +2734,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.614840" Y="-0.750716" Z="-0.708717" />
+    <BoundingMax X="0.614840" Y="0.750716" Z="0.708717" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_windbreak</Name>
     <File>p:\dz\structures\residential\misc\misc_windbreak.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2767,15 +2767,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.030974" Y="-0.719304" Z="-0.557877" />
+    <BoundingMax X="2.030974" Y="0.719304" Z="0.557877" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_woodblock</Name>
     <File>p:\dz\structures\residential\misc\misc_woodblock.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2800,15 +2800,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.787311" Y="-0.352918" Z="-0.490661" />
+    <BoundingMax X="0.787311" Y="0.352918" Z="0.490661" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_woodpile1</Name>
     <File>p:\dz\structures\residential\misc\misc_woodpile1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2833,15 +2833,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.252149" Y="-0.392937" Z="-0.937500" />
+    <BoundingMax X="0.252149" Y="0.392937" Z="0.937500" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_woodpile2</Name>
     <File>p:\dz\structures\residential\misc\misc_woodpile2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2866,15 +2866,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.324333" Y="-0.332498" Z="-0.711868" />
+    <BoundingMax X="0.324333" Y="0.332498" Z="0.711868" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_woodreserve</Name>
     <File>p:\dz\structures\residential\misc\misc_woodreserve.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2899,15 +2899,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.386357" Y="-0.997675" Z="-1.486134" />
+    <BoundingMax X="0.386357" Y="0.997675" Z="1.486134" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_woodtable_indoor</Name>
     <File>p:\dz\structures\residential\misc\misc_woodtable_indoor.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2932,15 +2932,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.765548" Y="-0.378257" Z="-1.005611" />
+    <BoundingMax X="0.765548" Y="0.378257" Z="1.005611" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>misc_woodtable_outdoor</Name>
     <File>p:\dz\structures\residential\misc\misc_woodtable_outdoor.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2965,9 +2965,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.011550" Y="-0.490010" Z="-1.350334" />
+    <BoundingMax X="1.011550" Y="0.490010" Z="1.350334" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

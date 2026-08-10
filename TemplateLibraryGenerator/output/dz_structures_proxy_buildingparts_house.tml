@@ -3,7 +3,7 @@
     <Template>
     <Name>housev2_02_window</Name>
     <File>p:\dz\structures\proxy_buildingparts\house\housev2_02_window.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,9 +28,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.844666" Y="-1.295320" Z="-0.133238" />
+    <BoundingMax X="0.844665" Y="1.295320" Z="0.183004" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.024883" />
     <Placement></Placement>
 </Template>
 

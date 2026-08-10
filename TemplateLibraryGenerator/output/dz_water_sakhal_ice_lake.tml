@@ -3,7 +3,7 @@
     <Template>
     <Name>sakhal_50x50_ice_lake</Name>
     <File>p:\dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-25.000017" Y="-0.001281" Z="-25.000004" />
+    <BoundingMax X="25.000017" Y="0.001281" Z="25.000004" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sakhal_50x50_ice_lake_clear</Name>
     <File>p:\dz\water_sakhal\ice_lake\sakhal_50x50_ice_lake_clear.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-25.000017" Y="-0.001281" Z="-25.000004" />
+    <BoundingMax X="25.000017" Y="0.001281" Z="25.000004" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sakhal_50x50_ice_underlayer</Name>
     <File>p:\dz\water_sakhal\ice_lake\sakhal_50x50_ice_underlayer.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-13816321</Fill>
     <Outline>-16777216</Outline>
@@ -94,9 +94,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-27.267010" Y="-0.561324" Z="-25.222118" />
+    <BoundingMax X="27.267010" Y="0.561324" Z="25.222120" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000001" />
     <Placement></Placement>
 </Template>
 

@@ -26,8 +26,8 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="{BOUNDING_MIN_X}" Y="{BOUNDING_MIN_Y}" Z="{BOUNDING_MIN_Z}" />
+    <BoundingMax X="{BOUNDING_MAX_X}" Y="{BOUNDING_MAX_Y}" Z="{BOUNDING_MAX_Z}" />
+    <BoundingCenter X="{BOUNDING_CENTER_X}" Y="{BOUNDING_CENTER_Y}" Z="{BOUNDING_CENTER_Z}" />
     <Placement></Placement>
 </Template>

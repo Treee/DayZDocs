@@ -3,7 +3,7 @@
     <Template>
     <Name>castle_bastion2</Name>
     <File>p:\dz\structures_bliss\specific\castles\castle_bastion2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.822351" Y="-4.989855" Z="-10.022341" />
+    <BoundingMax X="9.822351" Y="4.989855" Z="10.022341" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>castle_wall3</Name>
     <File>p:\dz\structures_bliss\specific\castles\castle_wall3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.295616" Y="-4.463430" Z="-4.736055" />
+    <BoundingMax X="9.295616" Y="4.463430" Z="4.736055" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>castle_wall3_d_l</Name>
     <File>p:\dz\structures_bliss\specific\castles\castle_wall3_d_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.348105" Y="-4.271575" Z="-5.183486" />
+    <BoundingMax X="6.348105" Y="4.271575" Z="5.183486" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>castle_wall3_d_r</Name>
     <File>p:\dz\structures_bliss\specific\castles\castle_wall3_d_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.363185" Y="-4.378640" Z="-5.258170" />
+    <BoundingMax X="6.363185" Y="4.378640" Z="5.258170" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>casltes_bastion2_etc</Name>
     <File>p:\dz\structures_bliss\specific\castles\proxy\casltes_bastion2_etc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.125115" Y="-2.674820" Z="-5.188981" />
+    <BoundingMax X="5.125115" Y="2.674820" Z="5.188981" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>casltes_bastion2_rocks</Name>
     <File>p:\dz\structures_bliss\specific\castles\proxy\casltes_bastion2_rocks.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-8355712</Fill>
     <Outline>-16777216</Outline>
@@ -193,9 +193,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.609550" Y="-3.664674" Z="-7.118706" />
+    <BoundingMax X="6.609550" Y="3.664674" Z="7.118706" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

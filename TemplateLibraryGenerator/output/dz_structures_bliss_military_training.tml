@@ -3,7 +3,7 @@
     <Template>
     <Name>shellcrater1</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.757280" Y="-0.395001" Z="-2.851382" />
+    <BoundingMax X="2.757280" Y="0.395001" Z="2.851382" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shellcrater1_decal</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater1_decal.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shellcrater2_debris</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater2_debris.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.784770" Y="-0.133238" Z="-1.812806" />
+    <BoundingMax X="1.784770" Y="0.133238" Z="1.812806" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shellcrater2_debris_lc</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater2_debris_lc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.784770" Y="-0.133238" Z="-1.812806" />
+    <BoundingMax X="1.784770" Y="0.133238" Z="1.812806" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shellcrater2_decal</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater2_decal.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shellcrater2_large</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater2_large.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.017197" Y="-2.857170" Z="-10.075817" />
+    <BoundingMax X="10.017197" Y="2.857170" Z="10.075817" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shellcrater2_small</Name>
     <File>p:\dz\structures_bliss\military\training\shellcrater2_small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.639668" Y="-1.809483" Z="-5.557218" />
+    <BoundingMax X="5.639668" Y="1.809483" Z="5.557218" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>target_concrete1</Name>
     <File>p:\dz\structures_bliss\military\training\target_concrete1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.632501" Y="-1.632501" Z="-0.876728" />
+    <BoundingMax X="1.632501" Y="1.632501" Z="0.876728" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>target_concrete2</Name>
     <File>p:\dz\structures_bliss\military\training\target_concrete2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.632501" Y="-1.632501" Z="-0.876728" />
+    <BoundingMax X="1.632501" Y="1.632501" Z="0.876728" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>target_concrete_block</Name>
     <File>p:\dz\structures_bliss\military\training\target_concrete_block.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.950000" Y="-1.251340" Z="-2.942680" />
+    <BoundingMax X="4.950000" Y="1.251340" Z="2.942680" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>target_concrete_ramp</Name>
     <File>p:\dz\structures_bliss\military\training\target_concrete_ramp.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.134431" Y="-1.307565" Z="-7.142919" />
+    <BoundingMax X="3.134431" Y="1.307565" Z="7.142919" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>target_support</Name>
     <File>p:\dz\structures_bliss\military\training\target_support.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -391,9 +391,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.670120" Y="-1.430044" Z="-0.897483" />
+    <BoundingMax X="0.670120" Y="1.430044" Z="0.897483" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

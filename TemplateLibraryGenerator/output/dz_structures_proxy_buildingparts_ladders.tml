@@ -3,7 +3,7 @@
     <Template>
     <Name>ladder_long_proxy</Name>
     <File>p:\dz\structures\proxy_buildingparts\ladders\ladder_long_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.245559" Y="-2.560000" Z="-0.041713" />
+    <BoundingMax X="0.245441" Y="0.000000" Z="0.195225" />
+    <BoundingCenter X="-0.000059" Y="-1.280000" Z="0.076756" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ladder_medium_proxy</Name>
     <File>p:\dz\structures\proxy_buildingparts\ladders\ladder_medium_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.245441" Y="-1.280000" Z="-0.041713" />
+    <BoundingMax X="0.245441" Y="0.000000" Z="0.193607" />
+    <BoundingCenter X="-0.000000" Y="-0.640000" Z="0.075947" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ladder_short_proxy</Name>
     <File>p:\dz\structures\proxy_buildingparts\ladders\ladder_short_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.245441" Y="-0.319999" Z="-0.041713" />
+    <BoundingMax X="0.245441" Y="0.000000" Z="0.194243" />
+    <BoundingCenter X="0.000000" Y="-0.159999" Z="0.076265" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ladder_top_proxy</Name>
     <File>p:\dz\structures\proxy_buildingparts\ladders\ladder_top_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,9 +127,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.245442" Y="-0.480000" Z="-0.100000" />
+    <BoundingMax X="0.245441" Y="0.700000" Z="0.192000" />
+    <BoundingCenter X="-0.000000" Y="0.110000" Z="0.046000" />
     <Placement></Placement>
 </Template>
 

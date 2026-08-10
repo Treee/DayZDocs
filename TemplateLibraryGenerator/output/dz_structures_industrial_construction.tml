@@ -3,7 +3,7 @@
     <Template>
     <Name>construction_building</Name>
     <File>p:\dz\structures\industrial\construction\construction_building.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-24.857201" Y="-9.510361" Z="-20.569653" />
+    <BoundingMax X="24.857201" Y="9.510361" Z="20.569653" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>construction_crane</Name>
     <File>p:\dz\structures\industrial\construction\construction_crane.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-20.851749" Y="-18.472654" Z="-3.274605" />
+    <BoundingMax X="20.851749" Y="18.472654" Z="3.274605" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>construction_house1</Name>
     <File>p:\dz\structures\industrial\construction\construction_house1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.846750" Y="-5.370002" Z="-8.312201" />
+    <BoundingMax X="5.846750" Y="5.370002" Z="8.312201" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>construction_house2</Name>
     <File>p:\dz\structures\industrial\construction\construction_house2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.791160" Y="-5.512985" Z="-10.927425" />
+    <BoundingMax X="8.791160" Y="5.512985" Z="10.927425" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>a_buildingwip_proxy</Name>
     <File>p:\dz\structures\industrial\construction\proxy\a_buildingwip_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-20.684433" Y="-6.947743" Z="-12.434544" />
+    <BoundingMax X="20.684433" Y="6.947743" Z="12.434544" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>barricade_proxy</Name>
     <File>p:\dz\structures\industrial\construction\proxy\barricade_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-20.068514" Y="-0.931079" Z="-8.919202" />
+    <BoundingMax X="20.068514" Y="0.931079" Z="8.919202" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cihly1</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.634021" Y="-0.002768" Z="-0.583667" />
+    <BoundingMax X="0.636341" Y="1.051910" Z="0.526869" />
+    <BoundingCenter X="0.001160" Y="0.524571" Z="-0.028399" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cihly2</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.652563" Y="-0.002731" Z="-0.541360" />
+    <BoundingMax X="0.622430" Y="1.038260" Z="0.535000" />
+    <BoundingCenter X="-0.015067" Y="0.517765" Z="-0.003180" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cihly3</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.641155" Y="-0.002769" Z="-0.522209" />
+    <BoundingMax X="0.646232" Y="1.031130" Z="0.551968" />
+    <BoundingCenter X="0.002538" Y="0.514180" Z="0.014880" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cihly4</Name>
     <File>p:\dz\structures\industrial\construction\proxy\cihly4.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.634980" Y="-0.002769" Z="-0.529987" />
+    <BoundingMax X="0.618443" Y="0.880606" Z="0.532448" />
+    <BoundingCenter X="-0.008269" Y="0.438919" Z="0.001230" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>koz</Name>
     <File>p:\dz\structures\industrial\construction\proxy\koz.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.088170" Y="-0.008862" Z="-0.440259" />
+    <BoundingMax X="2.132200" Y="0.864500" Z="0.459324" />
+    <BoundingCenter X="0.022015" Y="0.427819" Z="0.009533" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pipe-big</Name>
     <File>p:\dz\structures\industrial\construction\proxy\pipe-big.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.410490" Y="-0.001453" Z="-0.473407" />
+    <BoundingMax X="2.298510" Y="0.785630" Z="0.546187" />
+    <BoundingCenter X="-0.055990" Y="0.392088" Z="0.036390" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pipe-small</Name>
     <File>p:\dz\structures\industrial\construction\proxy\pipe-small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.404210" Y="-0.001299" Z="-0.278131" />
+    <BoundingMax X="1.417550" Y="0.440473" Z="0.293988" />
+    <BoundingCenter X="0.006670" Y="0.219587" Z="0.007929" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ytong</Name>
     <File>p:\dz\structures\industrial\construction\proxy\ytong.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,9 +457,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.621036" Y="-0.002769" Z="-0.517456" />
+    <BoundingMax X="0.599816" Y="1.862010" Z="0.516723" />
+    <BoundingCenter X="-0.010610" Y="0.929621" Z="-0.000366" />
     <Placement></Placement>
 </Template>
 

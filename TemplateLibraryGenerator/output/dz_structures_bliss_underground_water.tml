@@ -3,7 +3,7 @@
     <Template>
     <Name>underground_watermaintenance</Name>
     <File>p:\dz\structures_bliss\underground\water\underground_watermaintenance.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.841587" Y="-0.571386" Z="-6.453165" />
+    <BoundingMax X="8.613455" Y="5.283732" Z="4.126410" />
+    <BoundingCenter X="2.385934" Y="2.356173" Z="-1.163377" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_waterreservoir</Name>
     <File>p:\dz\structures_bliss\underground\water\underground_waterreservoir.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-15.667544" Y="-10.762312" Z="-6.753617" />
+    <BoundingMax X="25.791996" Y="6.425740" Z="6.918374" />
+    <BoundingCenter X="5.062226" Y="-2.168286" Z="0.082379" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_waterreservoir_water</Name>
     <File>p:\dz\structures_bliss\underground\water\underground_waterreservoir_water.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
 <Template>
     <Name>underground_waterreservoir_pipes</Name>
     <File>p:\dz\structures_bliss\underground\water\proxy\underground_waterreservoir_pipes.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-13.903917" Y="-9.636869" Z="-4.695007" />
+    <BoundingMax X="19.751411" Y="4.473598" Z="5.404025" />
+    <BoundingCenter X="2.923747" Y="-2.581636" Z="0.354509" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_waterreservoir_tallymarks</Name>
     <File>p:\dz\structures_bliss\underground\water\proxy\underground_waterreservoir_tallymarks.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,9 +160,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.000000" Y="-0.375000" Z="-0.375000" />
+    <BoundingMax X="-0.000000" Y="0.375000" Z="0.375000" />
+    <BoundingCenter X="-5.000000" Y="0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 

@@ -8,13 +8,13 @@ This tool aims to remove the human element for creating Template Libraries and a
 
 ## How To Use (EASY VERSION)
 
--   Step 1: Download the auto generated files here [https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output](https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output)
+- Step 1: Download the auto generated files here [https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output](https://github.com/Treee/DayZDocs/tree/main/TemplateLibraryGenerator/output)
 
--   Step 2: Place these files inside your `TemplateLibrary` folder within the source of your `Terrain Builder` project. Take note, `Terrain Builder` does not like duplicate values so if you have existing `.tml` files ensure no duplicate names are present.
+- Step 2: Place these files inside your `TemplateLibrary` folder within the source of your `Terrain Builder` project. Take note, `Terrain Builder` does not like duplicate values so if you have existing `.tml` files ensure no duplicate names are present.
 
 ![Template Libary File Location](images/template-lib-location.png "Template Libary File Location")
 
--   Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
+- Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
 
 ![Template Libary Load Action](images/load-library.png "Template Libary Load Action")
 
@@ -22,15 +22,15 @@ You now have all vanilla map assets with reasonable categories.
 
 ## How To Use (MANUAL VERSION)
 
--   Step 1: Clone the repository
+- Step 1: Clone the repository
 
--   Step 2: Navigate to the root directory
+- Step 2: Navigate to the root directory
 
--   Step 3: Open a terminal and enter the command `npm start`
+- Step 3: Open a terminal and enter the command `npm start`
 
--   Step 4: Copy the template files into the `TemplateLibrary` folder within the source of your `Terrain Builder` project.
+- Step 4: Copy the template files into the `TemplateLibrary` folder within the source of your `Terrain Builder` project.
 
--   Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
+- Step 3: Load the libraries into `Terrain Builder` so they are available for object placement.
 
 ## Special Considerations
 
@@ -44,61 +44,57 @@ The HASH generated in these files is an arbitrary number not linked to anything 
 
 This file is fairly basic and the bulk of code is file i/o. The important items to call out are:
 
--   `foldersToTemplate` - Array of folders the crawler will consider important.
--   `readdirRecursiveSync` - Function that takes a root filePath and folder and crawls for p3ds.
--   `writeFileSync` - Writes the payload to a file for subsequent parsing.
+- `data/config.json` - Single source of truth for roots and scan lists.
+- `vanillaPbosToScan` - Explicit vanilla `.pbo` entries in `{ pbo, dir }` format.
+- `modPbosToScan` - Explicit mod `.pbo` entries in the same `{ pbo, dir }` format.
+- `scripts/extractP3dBounds.py` - Import-time bounds bridge for `BoundingMin/Max/Center`.
+- `writeFileSync` - Writes `./test/rawTemplateLibraryData.json` for the parse step.
 
 ```js
-const foldersToTemplate = [
-    "dz\\plants",
-    "dz\\plants_bliss",
-    "dz\\plants_sakhal",
-    "dz\\rocks",
-    "dz\\rocks_bliss",
-    "dz\\rocks_sakhal",
-    "dz\\structures",
-    "dz\\structures_bliss",
-    "dz\\structures_sakhal",
-    "dz\\water",
-    "dz\\water_bliss",
-    "dz\\water_sakhal", // vanilla dayz files
-    "ALV_UN_Props", // unpacked mod from workshop in P drive
-    "ALV_UN_Structures\\Structures", // unpacked mod from workshop in P drive with nested folders
-];
+const config = loadJson("./data/config.json");
+const dayzRoot = argVal("--dayz-root") || config.dayzRoot;
+const workshopRoot = argVal("--workshop-root") || config.workshopRoot;
 
-const b_IsWindows = process.platform === "win32"; // check if we can use windows filepaths
+const vanillaPbosToScan = config.vanillaPbosToScan;
+const modPbosToScan = config.modPbosToScan;
 
-let rootFilepath = "P:\\"; // default to p drive
+// Each entry has the same schema for vanilla and modded:
+// { pbo: "name.pbo", dir: "relative\\folder" }
+// Final path is resolved as path.join(root, dir, pbo)
 
-// if the runtime is not in windows
-if (!b_IsWindows) {
-    const windowsUsername = ""; // this is your windows user profile
-    rootFilepath = `/mnt/c/Users/${windowsUsername}/Documents/DayZ Projects`;
-    // replace \\ with / to reconcil filepath differences
-    foldersToTemplate.forEach((folderFilePath, index, theArray) => {
-        theArray[index] = folderFilePath.replaceAll("\\", "/");
-    });
-    // if you use WSL 2 you can mount virtual file systems and just mount your p drive normally
-    // (or whatever drive you want really)
-    // rootFilepath = "p";
+for (const entry of vanillaPbosToScan) {
+    const pboPath = path.join(dayzRoot, entry.dir, entry.pbo);
+    const { p3ds, configs } = scanPboForP3ds(pboPath);
+    const boundsByPath = loadP3dBoundsForPbo(pboPath, p3ds);
+    buildFolderHierarchy(p3ds, configs, boundsByPath);
 }
 
-foldersToTemplate.forEach((folder) => {
-    readdirRecursiveSync(rootFilepath, folder);
-});
+for (const entry of modPbosToScan) {
+    const pboPath = path.join(workshopRoot, entry.dir, entry.pbo);
+    const { p3ds, configs } = scanPboForP3ds(pboPath);
+    const boundsByPath = loadP3dBoundsForPbo(pboPath, p3ds);
+    buildFolderHierarchy(p3ds, configs, boundsByPath);
+}
 
 writeFileSync("./test/rawTemplateLibraryData.json", JSON.stringify(foldersFound), "utf8");
 ```
 
-It is untested but there is no reason this would not work for P drive as the root and folders other than vanilla.
+This keeps scan configuration declarative and avoids hardcoded folder crawls.
+
+#### Bounds Behavior
+
+- Bounds are extracted during import from P3D payloads (currently optimized for ODOL models).
+- Parse fills XML placeholders for `BoundingMin`, `BoundingMax`, and `BoundingCenter` using those values.
+- If bounds are missing, parser falls back to placeholder values and writes unresolved entries to `output/missing_bounds*.log`.
+- Missing-bounds logging can ignore known helper categories via `ignoreMissingBoundsPathSegments` in `data/config.json`.
 
 #### parseP3dsToTemplateLibrary.js Notes
 
 This file contains the logic to parse raw data and format into `TemplateLibrary (.tml)` files. I have broken out the main steps into functions as you can see below.
 
--   Import raw data from file. We generated this file from `getp3dsForImport.js`
--   Format the raw data into an object that can be iterated over easily.
--   Write the formatted data to their respective Template files.
+- Import raw data from file. We generated this file from `getp3dsForImport.js`
+- Format the raw data into an object that can be iterated over easily.
+- Write the formatted data to their respective Template files.
 
 ```js
 const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));

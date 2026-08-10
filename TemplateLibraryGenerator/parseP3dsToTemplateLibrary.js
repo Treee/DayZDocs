@@ -18,6 +18,48 @@ const colorTemplates = {
 };
 
 const allP3ds = [];
+const missingBoundsEntries = [];
+
+const defaultBounds = {
+    min: [999, 999, 999],
+    max: [-999, -999, -999],
+    center: [-999, -999, -999],
+};
+
+const fallbackIgnoredBoundsPathSegments = ["\\roads\\", "\\decals\\", "\\ponds\\"];
+
+function loadConfig() {
+    try {
+        const raw = readFileSync(path.join(process.cwd(), "data", "config.json"), "utf8");
+        return JSON.parse(raw);
+    } catch (_error) {
+        return {};
+    }
+}
+
+function normalizeIgnoreSegment(segment) {
+    if (!segment || typeof segment !== "string") return "";
+    let normalized = segment.toLowerCase().trim().replaceAll("/", "\\");
+    if (!normalized.startsWith("\\")) {
+        normalized = `\\${normalized}`;
+    }
+    if (!normalized.endsWith("\\")) {
+        normalized = `${normalized}\\`;
+    }
+    return normalized;
+}
+
+function resolveIgnoredBoundsPathSegments(config) {
+    const configured = Array.isArray(config.ignoreMissingBoundsPathSegments) ? config.ignoreMissingBoundsPathSegments : [];
+    const normalizedConfigured = configured.map(normalizeIgnoreSegment).filter(Boolean);
+    if (normalizedConfigured.length > 0) {
+        return normalizedConfigured;
+    }
+    return fallbackIgnoredBoundsPathSegments;
+}
+
+const config = loadConfig();
+const ignoredBoundsPathSegments = resolveIgnoredBoundsPathSegments(config);
 
 const b_IsWindows = process.platform === "win32";
 
@@ -132,6 +174,60 @@ function getP3DName(filePath) {
     }
     return parts[parts.length - 1];
 }
+
+function getEntryPath(entry) {
+    if (typeof entry === "string") {
+        return entry;
+    }
+    if (entry && typeof entry.path === "string") {
+        return entry.path;
+    }
+    return "";
+}
+
+function isValidBounds(bounds) {
+    if (!bounds || typeof bounds !== "object") return false;
+    if (!Array.isArray(bounds.min) || !Array.isArray(bounds.max)) return false;
+    if (bounds.min.length !== 3 || bounds.max.length !== 3) return false;
+    return bounds.min.every((v) => Number.isFinite(v)) && bounds.max.every((v) => Number.isFinite(v));
+}
+
+function normalizeBounds(bounds) {
+    const b = {
+        min: [...bounds.min],
+        max: [...bounds.max],
+        center: Array.isArray(bounds.center) && bounds.center.length === 3 ? [...bounds.center] : [0, 0, 0],
+    };
+    if (!Array.isArray(bounds.center) || bounds.center.length !== 3 || !bounds.center.every((v) => Number.isFinite(v))) {
+        b.center = [(b.min[0] + b.max[0]) / 2, (b.min[1] + b.max[1]) / 2, (b.min[2] + b.max[2]) / 2];
+    }
+    return b;
+}
+
+function formatBoundVal(value) {
+    return Number(value).toFixed(6);
+}
+
+function shouldIgnoreMissingBounds(p3dFilePath) {
+    const normalized = String(p3dFilePath || "")
+        .toLowerCase()
+        .replaceAll("/", "\\");
+    return ignoredBoundsPathSegments.some((segment) => normalized.includes(segment));
+}
+
+function getBoundsFromEntry(entry, p3dFilePath) {
+    if (entry && typeof entry === "object" && isValidBounds(entry.bounds)) {
+        return normalizeBounds(entry.bounds);
+    }
+
+    // Roads/decals/ponds are mostly decal/proxy/water helper assets where
+    // placeholder bounds are acceptable and expected.
+    if (!shouldIgnoreMissingBounds(p3dFilePath)) {
+        missingBoundsEntries.push(p3dFilePath);
+    }
+
+    return defaultBounds;
+}
 function formateDate() {
     const weekday = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
     const month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
@@ -176,7 +272,8 @@ function getV4Hash(name) {
     // Convert to signed 32-bit to match ctypes.c_long behavior
     return h | 0;
 }
-function buildTemplateLibraryBodyString(p3dFilePath) {
+function buildTemplateLibraryBodyString(entry) {
+    const p3dFilePath = getEntryPath(entry);
     let copyOfXml = XML_BODY_TEMPLATE;
     let p3DName = getP3DName(p3dFilePath);
     p3DName = removeP3DSuffix(p3DName);
@@ -195,6 +292,18 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
     copyOfXml = copyOfXml.replace("{TEMPLATE_FILL}", formatTemplateFill(p3dFilePath));
     const v4Hash = getV4Hash(p3DName);
     copyOfXml = copyOfXml.replace("{P3D_HASH}", String(v4Hash));
+
+    const bounds = getBoundsFromEntry(entry, p3dFilePath);
+    copyOfXml = copyOfXml.replace("{BOUNDING_MIN_X}", formatBoundVal(bounds.min[0]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_MIN_Y}", formatBoundVal(bounds.min[1]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_MIN_Z}", formatBoundVal(bounds.min[2]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_MAX_X}", formatBoundVal(bounds.max[0]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_MAX_Y}", formatBoundVal(bounds.max[1]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_MAX_Z}", formatBoundVal(bounds.max[2]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_CENTER_X}", formatBoundVal(bounds.center[0]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_CENTER_Y}", formatBoundVal(bounds.center[1]));
+    copyOfXml = copyOfXml.replace("{BOUNDING_CENTER_Z}", formatBoundVal(bounds.center[2]));
+
     //   console.log(copyOfXml);
     allP3ds.push(p3dFilePath);
     return copyOfXml;
@@ -202,6 +311,10 @@ function buildTemplateLibraryBodyString(p3dFilePath) {
 
 // due to living software we have to ignore some bugs in real time until they are fixed
 const p3dsToIgnore = ["Ice_Sea_Square_50m"];
+function shouldIgnoreEntry(entry) {
+    const p3dPath = getEntryPath(entry);
+    return p3dsToIgnore.includes(removeP3DSuffix(getP3DName(p3dPath)));
+}
 // ensure uniqueness in template names
 function writeTemplateLibraryOutput(libraryData) {
     let libraryTemplate;
@@ -212,7 +325,7 @@ function writeTemplateLibraryOutput(libraryData) {
         const templateLibrary = templateLibraryData[key];
         if (templateLibrary.length > 0) {
             templateLibrary.forEach((entry) => {
-                if (!p3dsToIgnore.includes(entry)) {
+                if (!shouldIgnoreEntry(entry)) {
                     libraryTemplateBody = libraryTemplateBody.concat(buildTemplateLibraryBodyString(entry), "\n");
                 }
             });
@@ -238,11 +351,15 @@ function writeAllP3dsOutput(p3ds, sortAlphabetically, fullFilePath) {
     let allValues = "";
     if (!fullFilePath) {
         p3ds.forEach((p3d) => {
-            allValues = allValues.concat('"').concat(getP3DName(p3d)).concat('",\n');
+            allValues = allValues
+                .concat('"')
+                .concat(getP3DName(getEntryPath(p3d)))
+                .concat('",\n');
         });
         fileName = fileName.concat("_p3d_only");
     } else {
         p3ds.forEach((p3d) => {
+            p3d = getEntryPath(p3d);
             if (!b_IsWindows) {
                 p3d = p3d.replace(/\/mnt\/.*\/dayz projects\//g, "");
             } else {
@@ -260,6 +377,17 @@ function writeAllP3dsOutput(p3ds, sortAlphabetically, fullFilePath) {
     }
 }
 
+function writeMissingBoundsLog() {
+    if (!missingBoundsEntries.length) return;
+    const uniqueMissing = [...new Set(missingBoundsEntries)].sort((a, b) => a.localeCompare(b));
+    const payload = uniqueMissing.join("\n").concat("\n");
+    if (!b_IsWindows) {
+        writeFileSync(`${path.resolve(process.cwd())}/output/missing_bounds${variant}.log`, payload, "utf8");
+    } else {
+        writeFileSync(`./output/missing_bounds${variant}.log`, payload, "utf8");
+    }
+}
+
 const jsonData = parseP3dsForImport(path.join("./test", "rawTemplateLibraryData.json"));
 // const jsonData = parseP3dsForImport(path.join("./test", "test_minified.json"));
 
@@ -269,3 +397,4 @@ writeTemplateLibraryOutput(templateLibraryData);
 writeAllP3dsOutput(allP3ds, false, false);
 writeAllP3dsOutput(allP3ds, true, false);
 writeAllP3dsOutput(allP3ds, true, true);
+writeMissingBoundsLog();

@@ -3,7 +3,7 @@
     <Template>
     <Name>barbers_chair</Name>
     <File>p:\alv_un_props\shops\saloon\barbers_chair.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.365353" Y="-0.658539" Z="-0.567284" />
+    <BoundingMax X="0.365353" Y="0.658539" Z="0.567284" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.566181" Y="-0.500359" Z="-1.596835" />
+    <BoundingMax X="2.566181" Y="0.500359" Z="1.596835" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar_end_l</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar_end_l.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.746200" Y="-0.492791" Z="-0.303858" />
+    <BoundingMax X="0.746200" Y="0.492791" Z="0.303858" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar_end_r</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar_end_r.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.746200" Y="-0.492791" Z="-0.303858" />
+    <BoundingMax X="0.746200" Y="0.492791" Z="0.303858" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar_extension_l</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar_extension_l.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.498553" Y="-0.492791" Z="-0.286064" />
+    <BoundingMax X="0.498553" Y="0.492791" Z="0.286064" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar_extension_r</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar_extension_r.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.498553" Y="-0.492791" Z="-0.286064" />
+    <BoundingMax X="0.498553" Y="0.492791" Z="0.286064" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar_left</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar_left.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.288139" Y="-0.496165" Z="-0.742836" />
+    <BoundingMax X="1.288139" Y="0.496165" Z="0.742836" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_bar_right</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_bar_right.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.288139" Y="-0.496165" Z="-0.742836" />
+    <BoundingMax X="1.288139" Y="0.496165" Z="0.742836" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_chair</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_chair.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.287782" Y="-0.613332" Z="-0.301999" />
+    <BoundingMax X="0.287782" Y="0.613332" Z="0.301999" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_piano</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_piano.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.025856" Y="-0.935252" Z="-0.539192" />
+    <BoundingMax X="1.025856" Y="0.935252" Z="0.539192" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_shelf</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_shelf.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.720962" Y="-1.472834" Z="-0.519554" />
+    <BoundingMax X="1.720962" Y="1.472834" Z="0.519554" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_stool</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_stool.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.206238" Y="-0.356713" Z="-0.206238" />
+    <BoundingMax X="0.206238" Y="0.356713" Z="0.206238" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>saloon_table</Name>
     <File>p:\alv_un_props\shops\saloon\saloon_table.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -424,9 +424,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.705747" Y="-0.409747" Z="-0.705747" />
+    <BoundingMax X="0.705747" Y="0.409747" Z="0.705747" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

@@ -3,7 +3,7 @@
     <Template>
     <Name>c_wheatfield</Name>
     <File>p:\alv_un_structures_misc\plants\c_wheatfield.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.785797" Y="-0.769318" Z="-3.092584" />
+    <BoundingMax X="2.602589" Y="1.776824" Z="2.970707" />
+    <BoundingCenter X="-0.091604" Y="0.503753" Z="-0.060939" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>c_wheatsingle</Name>
     <File>p:\alv_un_structures_misc\plants\c_wheatsingle.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,9 +61,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.453421" Y="-0.011834" Z="-0.676512" />
+    <BoundingMax X="0.370399" Y="1.690951" Z="0.378795" />
+    <BoundingCenter X="-0.041511" Y="0.839558" Z="-0.148859" />
     <Placement></Placement>
 </Template>
 

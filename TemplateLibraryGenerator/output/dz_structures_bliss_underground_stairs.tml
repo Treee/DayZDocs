@@ -3,7 +3,7 @@
     <Template>
     <Name>underground_stairs_block</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.392828" Y="-0.214241" Z="-3.317089" />
+    <BoundingMax X="3.131793" Y="6.497495" Z="3.352276" />
+    <BoundingCenter X="0.369483" Y="3.141627" Z="0.017593" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_stairs_block_corridor</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block_corridor.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.165798" Y="-0.224808" Z="-6.591202" />
+    <BoundingMax X="3.128747" Y="6.484302" Z="3.356866" />
+    <BoundingCenter X="0.481474" Y="3.129747" Z="-1.617168" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_stairs_block_corridor_nodoor</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block_corridor_nodoor.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.165798" Y="-0.224808" Z="-6.591202" />
+    <BoundingMax X="3.128747" Y="6.484302" Z="3.356866" />
+    <BoundingCenter X="0.481474" Y="3.129747" Z="-1.617168" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_stairs_block_terminator</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_block_terminator.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.307937" Y="-0.283726" Z="-6.751993" />
+    <BoundingMax X="3.681235" Y="5.202792" Z="3.812433" />
+    <BoundingCenter X="0.686649" Y="2.459533" Z="-1.469780" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_stairs_collapsed</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_collapsed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.208953" Y="-3.991868" Z="-3.139883" />
+    <BoundingMax X="3.186696" Y="8.012071" Z="6.414333" />
+    <BoundingCenter X="0.488872" Y="2.010101" Z="1.637225" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_stairs_exit</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_exit.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.655363" Y="-5.138013" Z="-6.951344" />
+    <BoundingMax X="6.115732" Y="6.110822" Z="3.649040" />
+    <BoundingCenter X="1.230185" Y="0.486405" Z="-1.651152" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_stairs_start</Name>
     <File>p:\dz\structures_bliss\underground\stairs\underground_stairs_start.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,9 +226,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.246540" Y="-0.315736" Z="-6.836208" />
+    <BoundingMax X="3.351650" Y="5.996622" Z="4.043579" />
+    <BoundingCenter X="0.552555" Y="2.840443" Z="-1.396314" />
     <Placement></Placement>
 </Template>
 

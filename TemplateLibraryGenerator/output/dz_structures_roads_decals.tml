@@ -3,7 +3,7 @@
     <Template>
     <Name>decal_concrete_panel</Name>
     <File>p:\dz\structures\roads\decals\decal_concrete_panel.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.125009" Y="0.000000" Z="-2.083352" />
+    <BoundingMax X="1.125009" Y="0.001000" Z="2.083352" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_concrete_panels</Name>
     <File>p:\dz\structures\roads\decals\decal_concrete_panels.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.250018" Y="0.000000" Z="-6.250051" />
+    <BoundingMax X="2.250018" Y="0.001000" Z="6.250051" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_concrete_panels_end1</Name>
     <File>p:\dz\structures\roads\decals\decal_concrete_panels_end1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.258396" Y="0.000000" Z="-2.080907" />
+    <BoundingMax X="2.258396" Y="0.001000" Z="2.080907" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_concrete_panels_end2</Name>
     <File>p:\dz\structures\roads\decals\decal_concrete_panels_end2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.128380" Y="0.000000" Z="-0.264377" />
+    <BoundingMax X="1.128380" Y="0.001000" Z="0.264377" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_crosswalk</Name>
     <File>p:\dz\structures\roads\decals\decal_crosswalk.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.650625" Y="0.000000" Z="-3.302594" />
+    <BoundingMax X="1.650625" Y="0.001000" Z="3.302594" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_long1</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_long1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.054912" Y="0.000000" Z="-6.444361" />
+    <BoundingMax X="3.054912" Y="0.001000" Z="6.444361" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_long2</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_long2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.933677" Y="0.000000" Z="-6.111829" />
+    <BoundingMax X="2.933677" Y="0.001000" Z="6.111829" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_long3</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_long3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.320272" Y="0.000000" Z="-4.833901" />
+    <BoundingMax X="2.320272" Y="0.000700" Z="4.833901" />
+    <BoundingCenter X="0.000000" Y="0.000350" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_long4</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_long4.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.166598" Y="0.000000" Z="-6.296573" />
+    <BoundingMax X="3.166598" Y="0.001000" Z="6.296573" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_long5</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_long5.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.809970" Y="0.000000" Z="-7.937440" />
+    <BoundingMax X="3.809970" Y="0.001000" Z="7.937440" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_medium1</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_medium1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.809970" Y="0.000000" Z="-3.968720" />
+    <BoundingMax X="3.809970" Y="0.001000" Z="3.968720" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_medium2</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_medium2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.809970" Y="0.000000" Z="-3.968720" />
+    <BoundingMax X="3.809970" Y="0.001000" Z="3.968720" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_small1</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_small1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.412307" Y="0.000000" Z="-1.365020" />
+    <BoundingMax X="1.412307" Y="0.001000" Z="1.365020" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_damage_small2</Name>
     <File>p:\dz\structures\roads\decals\decal_damage_small2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.007450" Y="0.000000" Z="-1.646939" />
+    <BoundingMax X="1.007450" Y="0.001000" Z="1.646939" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_heli_army</Name>
     <File>p:\dz\structures\roads\decals\decal_heli_army.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.878340" Y="0.000000" Z="-6.878340" />
+    <BoundingMax X="6.878340" Y="0.020044" Z="6.878340" />
+    <BoundingCenter X="0.000000" Y="0.010022" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_manhole</Name>
     <File>p:\dz\structures\roads\decals\decal_manhole.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.723200" Y="0.000000" Z="-0.723200" />
+    <BoundingMax X="0.723200" Y="0.001000" Z="0.723200" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_manhole2</Name>
     <File>p:\dz\structures\roads\decals\decal_manhole2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.484544" Y="0.000000" Z="-0.484544" />
+    <BoundingMax X="0.484544" Y="0.001000" Z="0.484544" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_manhole3</Name>
     <File>p:\dz\structures\roads\decals\decal_manhole3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.484544" Y="0.000000" Z="-0.484544" />
+    <BoundingMax X="0.484544" Y="0.001000" Z="0.484544" />
+    <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_aircrafttireprints_01</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_aircrafttireprints_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_aircrafttireprints_01_faded</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_aircrafttireprints_01_faded.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -663,7 +663,7 @@
 <Template>
     <Name>decal_runway_aircrafttireprints_02</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_aircrafttireprints_02.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_aircrafttireprints_02_faded</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_aircrafttireprints_02_faded.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -729,7 +729,7 @@
 <Template>
     <Name>decal_runway_holdshort</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_holdshort.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000058" Y="-10.000000" Z="-10.041412" />
+    <BoundingMax X="0.001000" Y="-1.094264" Z="10.041412" />
+    <BoundingCenter X="0.000471" Y="-5.547132" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_line_1x30</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_line_1x30.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-15.034540" />
+    <BoundingMax X="0.001000" Y="-0.544399" Z="15.034540" />
+    <BoundingCenter X="0.000500" Y="-5.272199" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_line_2x30</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_line_2x30.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-15.036487" />
+    <BoundingMax X="0.001000" Y="-1.044456" Z="15.036487" />
+    <BoundingCenter X="0.000500" Y="-5.522228" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_line_6x30</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_line_6x30.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-15.038496" />
+    <BoundingMax X="0.001000" Y="-3.044348" Z="15.038496" />
+    <BoundingCenter X="0.000500" Y="-6.522174" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num0</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num0.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.537518" />
+    <BoundingMax X="0.001000" Y="-4.538483" Z="1.537518" />
+    <BoundingCenter X="0.000500" Y="-7.269241" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num1</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-0.585343" />
+    <BoundingMax X="0.001000" Y="-4.535364" Z="0.585343" />
+    <BoundingCenter X="0.000500" Y="-7.267682" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num2</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -952,15 +952,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.538144" />
+    <BoundingMax X="0.001000" Y="-4.539190" Z="1.538144" />
+    <BoundingCenter X="0.000500" Y="-7.269595" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num3</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -985,15 +985,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.536288" />
+    <BoundingMax X="0.001000" Y="-4.543237" Z="1.536288" />
+    <BoundingCenter X="0.000500" Y="-7.271618" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num4</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num4.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1018,15 +1018,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-2.172543" />
+    <BoundingMax X="0.001000" Y="-4.535591" Z="2.172543" />
+    <BoundingCenter X="0.000500" Y="-7.267796" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num5</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num5.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1051,15 +1051,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.536258" />
+    <BoundingMax X="0.001000" Y="-4.542846" Z="1.536258" />
+    <BoundingCenter X="0.000500" Y="-7.271423" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num6</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num6.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1084,15 +1084,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.536045" />
+    <BoundingMax X="0.001000" Y="-4.521684" Z="1.536045" />
+    <BoundingCenter X="0.000500" Y="-7.260842" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num7</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num7.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1117,15 +1117,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.766840" />
+    <BoundingMax X="0.001000" Y="-4.533839" Z="1.766840" />
+    <BoundingCenter X="0.000500" Y="-7.266920" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num8</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num8.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1150,15 +1150,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.540900" />
+    <BoundingMax X="0.001000" Y="-4.542295" Z="1.540900" />
+    <BoundingCenter X="0.000500" Y="-7.271147" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_num9</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_num9.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1183,15 +1183,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.000001" Y="-10.000000" Z="-1.535834" />
+    <BoundingMax X="0.001000" Y="-4.520922" Z="1.535834" />
+    <BoundingCenter X="0.000500" Y="-7.260461" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_skidmarks</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_skidmarks.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1216,15 +1216,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1000.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="0.000000" Y="0.033701" Z="0.033701" />
+    <BoundingCenter X="-500.000000" Y="0.016850" Z="0.016850" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_skidmarks_end</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_skidmarks_end.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1257,7 +1257,7 @@
 <Template>
     <Name>decal_runway_skidmarks_end2</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_skidmarks_end2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1290,7 +1290,7 @@
 <Template>
     <Name>decal_runway_skidmarks_end2_light</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_skidmarks_end2_light.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1315,15 +1315,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="0.900000" Z="0.900000" />
+    <BoundingCenter X="0.500000" Y="0.450000" Z="0.450000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_skidmarks_end_light</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_skidmarks_end_light.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1348,15 +1348,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="0.900000" Z="0.900000" />
+    <BoundingCenter X="0.500000" Y="0.450000" Z="0.450000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runway_skidmarks_light</Name>
     <File>p:\dz\structures\roads\decals\decal_runway_skidmarks_light.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1381,15 +1381,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="0.900000" Z="0.900000" />
+    <BoundingCenter X="0.500000" Y="0.450000" Z="0.450000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runwaypanel_1</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1422,7 +1422,7 @@
 <Template>
     <Name>decal_runwaypanel_2</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1455,7 +1455,7 @@
 <Template>
     <Name>decal_runwaypanel_damage_1</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_damage_1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1480,15 +1480,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runwaypanel_damage_2</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_damage_2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1513,15 +1513,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runwaypanel_damage_3</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_damage_3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1546,15 +1546,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runwaypanel_line_15m</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_line_15m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1587,7 +1587,7 @@
 <Template>
     <Name>decal_runwaypanel_line_2m</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_line_2m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1612,15 +1612,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="0.497391" Y="0.833001" Z="0.503136" />
+    <BoundingCenter X="0.248695" Y="0.416501" Z="0.251568" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>decal_runwaypanel_line_8m</Name>
     <File>p:\dz\structures\roads\decals\decal_runwaypanel_line_8m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>

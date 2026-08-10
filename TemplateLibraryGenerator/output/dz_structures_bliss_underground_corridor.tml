@@ -3,7 +3,7 @@
     <Template>
     <Name>underground_corridor_connector</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_connector.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.416065" Y="-1.318199" Z="-6.650467" />
+    <BoundingMax X="8.556947" Y="5.995933" Z="6.842355" />
+    <BoundingCenter X="0.070441" Y="2.338867" Z="0.095944" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_connector_inv</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_connector_inv.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.416065" Y="-1.318199" Z="-6.650467" />
+    <BoundingMax X="8.556947" Y="5.995933" Z="6.842355" />
+    <BoundingCenter X="0.070441" Y="2.338867" Z="0.095944" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_main_both</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_both.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.240550" Y="-0.994857" Z="-11.810587" />
+    <BoundingMax X="7.305507" Y="7.461240" Z="12.208029" />
+    <BoundingCenter X="0.032479" Y="3.233191" Z="0.198721" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_main_gate_l</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_gate_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.882906" Y="-0.000000" Z="-0.166497" />
+    <BoundingMax X="1.805808" Y="4.631590" Z="0.150926" />
+    <BoundingCenter X="-0.038549" Y="2.315795" Z="-0.007785" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_main_gate_r</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_gate_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.844356" Y="-2.315796" Z="-0.150540" />
+    <BoundingMax X="1.844356" Y="2.315796" Z="0.150540" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_main_left</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_left.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.088804" Y="-1.871518" Z="-11.810587" />
+    <BoundingMax X="7.168489" Y="7.461239" Z="11.253677" />
+    <BoundingCenter X="0.039843" Y="2.794860" Z="-0.278455" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_main_right</Name>
     <File>p:\dz\structures_bliss\underground\corridor\underground_corridor_main_right.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.319746" Y="-0.994857" Z="-11.810586" />
+    <BoundingMax X="7.236017" Y="7.461240" Z="11.253677" />
+    <BoundingCenter X="-0.041864" Y="3.233191" Z="-0.278454" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_connector_accessories</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_accessories.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.392819" Y="-2.585629" Z="-6.205388" />
+    <BoundingMax X="7.392819" Y="2.585629" Z="6.205388" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_connector_accessories_inv</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_accessories_inv.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.392819" Y="-2.585629" Z="-6.179025" />
+    <BoundingMax X="7.392819" Y="2.585629" Z="6.179025" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_connector_waterpipe</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_waterpipe.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.450151" Y="-0.198637" Z="-2.254998" />
+    <BoundingMax X="7.450151" Y="0.198637" Z="2.254998" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_corridor_connector_waterpipe_inv</Name>
     <File>p:\dz\structures_bliss\underground\corridor\proxy\underground_corridor_connector_waterpipe_inv.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,9 +358,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.353819" Y="-0.198637" Z="-2.237282" />
+    <BoundingMax X="7.353819" Y="0.198637" Z="2.237282" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

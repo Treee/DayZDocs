@@ -3,7 +3,7 @@
     <Template>
     <Name>1m_picketfence</Name>
     <File>p:\alv_un_structures_walls\walls\1m_picketfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.586702" Y="-0.311852" Z="-0.049213" />
+    <BoundingMax X="0.674434" Y="1.092306" Z="0.128094" />
+    <BoundingCenter X="0.043866" Y="0.390227" Z="0.039441" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>2m_gardenfence</Name>
     <File>p:\alv_un_structures_walls\walls\2m_gardenfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.115145" Y="-0.727951" Z="-0.128470" />
+    <BoundingMax X="1.066600" Y="1.121306" Z="0.043638" />
+    <BoundingCenter X="-0.024273" Y="0.196678" Z="-0.042416" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>2m_highfence</Name>
     <File>p:\alv_un_structures_walls\walls\2m_highfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.151470" Y="-0.714051" Z="-0.042439" />
+    <BoundingMax X="1.122554" Y="2.295588" Z="0.195193" />
+    <BoundingCenter X="-0.014458" Y="0.790768" Z="0.076377" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>2m_picketfence</Name>
     <File>p:\alv_un_structures_walls\walls\2m_picketfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.236702" Y="-0.311852" Z="-0.049213" />
+    <BoundingMax X="1.244389" Y="1.092344" Z="0.128094" />
+    <BoundingCenter X="0.003843" Y="0.390246" Z="0.039441" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>2m_ranchfence</Name>
     <File>p:\alv_un_structures_walls\walls\2m_ranchfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.084223" Y="-0.705963" Z="-0.101535" />
+    <BoundingMax X="1.073517" Y="1.392790" Z="0.080609" />
+    <BoundingCenter X="-0.005353" Y="0.343413" Z="-0.010463" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>2m_ranchfence_b</Name>
     <File>p:\alv_un_structures_walls\walls\2m_ranchfence_b.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.084223" Y="-0.705963" Z="-0.101535" />
+    <BoundingMax X="1.073517" Y="1.392790" Z="0.080609" />
+    <BoundingCenter X="-0.005353" Y="0.343413" Z="-0.010463" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwalkway_ruins</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwalkway_ruins.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.480323" Y="-0.753304" Z="-0.221468" />
+    <BoundingMax X="2.241229" Y="3.279107" Z="1.440390" />
+    <BoundingCenter X="-0.119547" Y="1.262901" Z="0.609461" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwalkwaycorner_ruins</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwalkwaycorner_ruins.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.655685" Y="-0.753304" Z="-0.221468" />
+    <BoundingMax X="2.277617" Y="3.277827" Z="4.561269" />
+    <BoundingCenter X="-0.189034" Y="1.262261" Z="2.169900" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwall</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwall.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.480323" Y="-0.712974" Z="-0.221468" />
+    <BoundingMax X="2.241229" Y="3.276567" Z="0.218889" />
+    <BoundingCenter X="-0.119547" Y="1.281797" Z="-0.001290" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwall_ruins</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwall_ruins.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.480323" Y="-0.718079" Z="-0.221468" />
+    <BoundingMax X="2.241229" Y="3.276567" Z="0.220896" />
+    <BoundingCenter X="-0.119547" Y="1.279244" Z="-0.000286" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwall_stairs</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwall_stairs.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.480323" Y="-0.764881" Z="-0.221468" />
+    <BoundingMax X="2.271783" Y="3.276567" Z="3.594236" />
+    <BoundingCenter X="-0.104270" Y="1.255843" Z="1.686384" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwall_walkway</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwall_walkway.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.480323" Y="-0.753304" Z="-0.221468" />
+    <BoundingMax X="2.295363" Y="3.276567" Z="1.440390" />
+    <BoundingCenter X="-0.092480" Y="1.261632" Z="0.609461" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_fortwall_walkwaycorner</Name>
     <File>p:\alv_un_structures_walls\walls\4m_fortwall_walkwaycorner.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.494870" Y="-0.764948" Z="-0.221468" />
+    <BoundingMax X="2.271783" Y="3.276567" Z="4.566810" />
+    <BoundingCenter X="-0.111543" Y="1.255810" Z="2.172671" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_gardenfence</Name>
     <File>p:\alv_un_structures_walls\walls\4m_gardenfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.168677" Y="-0.727951" Z="-0.128470" />
+    <BoundingMax X="2.239374" Y="1.121306" Z="0.043638" />
+    <BoundingCenter X="0.035349" Y="0.196678" Z="-0.042416" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_highfence</Name>
     <File>p:\alv_un_structures_walls\walls\4m_highfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.151470" Y="-0.714051" Z="-0.042439" />
+    <BoundingMax X="2.401528" Y="2.295588" Z="0.195193" />
+    <BoundingCenter X="0.125029" Y="0.790768" Z="0.076377" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_picketfence</Name>
     <File>p:\alv_un_structures_walls\walls\4m_picketfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.215252" Y="-0.265955" Z="-0.049213" />
+    <BoundingMax X="2.103471" Y="1.145188" Z="0.128094" />
+    <BoundingCenter X="-0.055890" Y="0.439616" Z="0.039441" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_ranchfence</Name>
     <File>p:\alv_un_structures_walls\walls\4m_ranchfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.105890" Y="-0.705963" Z="-0.101535" />
+    <BoundingMax X="2.081362" Y="1.392790" Z="0.080609" />
+    <BoundingCenter X="-0.012264" Y="0.343413" Z="-0.010463" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>4m_ranchfenceb</Name>
     <File>p:\alv_un_structures_walls\walls\4m_ranchfenceb.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.105291" Y="-0.675980" Z="-0.953366" />
+    <BoundingMax X="2.095666" Y="1.378750" Z="1.101801" />
+    <BoundingCenter X="-0.004813" Y="0.351385" Z="0.074217" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>highfence_door</Name>
     <File>p:\alv_un_structures_walls\walls\highfence_door.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.604357" Y="-0.245521" Z="-0.101758" />
+    <BoundingMax X="0.630870" Y="2.210770" Z="0.138933" />
+    <BoundingCenter X="0.013256" Y="0.982625" Z="0.018588" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>highfence_gatedoor</Name>
     <File>p:\alv_un_structures_walls\walls\highfence_gatedoor.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.137807" Y="-0.229363" Z="-0.101758" />
+    <BoundingMax X="2.132000" Y="2.210770" Z="0.174196" />
+    <BoundingCenter X="-0.002903" Y="0.990704" Z="0.036219" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_fortgatehouse</Name>
     <File>p:\alv_un_structures_walls\walls\house_fortgatehouse.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.638310" Y="-0.436639" Z="-0.463572" />
+    <BoundingMax X="4.824044" Y="5.053978" Z="2.918329" />
+    <BoundingCenter X="0.092867" Y="2.308670" Z="1.227379" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_forttower_ladder</Name>
     <File>p:\alv_un_structures_walls\walls\house_forttower_ladder.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -721,15 +721,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.261528" Y="-0.417150" Z="-1.801499" />
+    <BoundingMax X="3.267138" Y="5.053977" Z="1.276089" />
+    <BoundingCenter X="1.502805" Y="2.318414" Z="-0.262705" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_forttower_stairs</Name>
     <File>p:\alv_un_structures_walls\walls\house_forttower_stairs.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.276089" Y="-0.417150" Z="-0.262429" />
+    <BoundingMax X="3.872536" Y="5.053977" Z="3.065943" />
+    <BoundingCenter X="1.298223" Y="2.318414" Z="1.401757" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>medium_ranchfence</Name>
     <File>p:\alv_un_structures_walls\walls\medium_ranchfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.635197" Y="-0.490008" Z="-0.018673" />
+    <BoundingMax X="1.753715" Y="1.242090" Z="0.175529" />
+    <BoundingCenter X="0.059259" Y="0.376041" Z="0.078428" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ranch_gate</Name>
     <File>p:\alv_un_structures_walls\walls\ranch_gate.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.775207" Y="-0.670925" Z="-0.018673" />
+    <BoundingMax X="3.935990" Y="4.037717" Z="0.176985" />
+    <BoundingCenter X="0.080391" Y="1.683396" Z="0.079156" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ranchfence_door</Name>
     <File>p:\alv_un_structures_walls\walls\ranchfence_door.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.935206" Y="-1.262782" Z="-4.486874" />
+    <BoundingMax X="4.121880" Y="2.398091" Z="4.980429" />
+    <BoundingCenter X="0.093337" Y="0.567654" Z="0.246778" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ranchfence_gate</Name>
     <File>p:\alv_un_structures_walls\walls\ranchfence_gate.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.277746" Y="-0.683244" Z="-0.096414" />
+    <BoundingMax X="2.394171" Y="3.722904" Z="0.143764" />
+    <BoundingCenter X="0.058212" Y="1.519830" Z="0.023675" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ranchfence_post</Name>
     <File>p:\alv_un_structures_walls\walls\ranchfence_post.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.057382" Y="-0.709162" Z="-0.064066" />
+    <BoundingMax X="0.090876" Y="1.392790" Z="0.088998" />
+    <BoundingCenter X="0.016747" Y="0.341814" Z="0.012466" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>small_ranchfence</Name>
     <File>p:\alv_un_structures_walls\walls\small_ranchfence.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -952,9 +952,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.903064" Y="-0.475851" Z="-0.018673" />
+    <BoundingMax X="0.958049" Y="1.242090" Z="0.175529" />
+    <BoundingCenter X="0.027492" Y="0.383119" Z="0.078428" />
     <Placement></Placement>
 </Template>
 

@@ -3,7 +3,7 @@
     <Template>
     <Name>barrel</Name>
     <File>p:\westernz_world_assets\assetpack_1\barrel.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.388160" Y="0.002446" Z="-0.369293" />
+    <BoundingMax X="0.363690" Y="1.020054" Z="0.363690" />
+    <BoundingCenter X="-0.012235" Y="0.511250" Z="-0.002802" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>bunkbed_i</Name>
     <File>p:\westernz_world_assets\assetpack_1\bunkbed_i.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.146553" Y="-0.005338" Z="-0.532607" />
+    <BoundingMax X="1.168140" Y="0.768575" Z="0.524362" />
+    <BoundingCenter X="0.010793" Y="0.381619" Z="-0.004122" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>bunkbed_ii</Name>
     <File>p:\westernz_world_assets\assetpack_1\bunkbed_ii.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.112855" Y="-0.011198" Z="-0.540721" />
+    <BoundingMax X="1.201838" Y="1.858059" Z="0.517251" />
+    <BoundingCenter X="0.044492" Y="0.923430" Z="-0.011735" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>bunkbed_iii</Name>
     <File>p:\westernz_world_assets\assetpack_1\bunkbed_iii.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.080033" Y="-0.005338" Z="-0.537583" />
+    <BoundingMax X="1.234661" Y="2.313195" Z="0.519386" />
+    <BoundingCenter X="0.077314" Y="1.153929" Z="-0.009099" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>candle</Name>
     <File>p:\westernz_world_assets\assetpack_1\candle.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.032071" Y="-0.013588" Z="-0.039307" />
+    <BoundingMax X="0.047929" Y="0.193487" Z="0.043876" />
+    <BoundingCenter X="0.007929" Y="0.089949" Z="0.002284" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cannon</Name>
     <File>p:\westernz_world_assets\assetpack_1\cannon.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.884071" Y="0.000154" Z="-0.339497" />
+    <BoundingMax X="1.037933" Y="0.799400" Z="0.339497" />
+    <BoundingCenter X="0.076931" Y="0.399777" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cannonballs</Name>
     <File>p:\westernz_world_assets\assetpack_1\cannonballs.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.107194" Y="-0.004430" Z="-0.131723" />
+    <BoundingMax X="0.141385" Y="0.214645" Z="0.124346" />
+    <BoundingCenter X="0.017095" Y="0.105108" Z="-0.003688" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair</Name>
     <File>p:\westernz_world_assets\assetpack_1\chair.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.264143" Y="-0.006671" Z="-0.262385" />
+    <BoundingMax X="0.263361" Y="1.144918" Z="0.302865" />
+    <BoundingCenter X="-0.000391" Y="0.569124" Z="0.020240" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>coffee_table</Name>
     <File>p:\westernz_world_assets\assetpack_1\coffee_table.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.509909" Y="0.001947" Z="-0.519671" />
+    <BoundingMax X="0.514445" Y="0.650769" Z="0.504683" />
+    <BoundingCenter X="0.002268" Y="0.326358" Z="-0.007494" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>cross_table</Name>
     <File>p:\westernz_world_assets\assetpack_1\cross_table.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.500000" Y="0.000612" Z="-0.700000" />
+    <BoundingMax X="1.500000" Y="0.900381" Z="0.700097" />
+    <BoundingCenter X="0.000000" Y="0.450496" Z="0.000048" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>displaycase</Name>
     <File>p:\westernz_world_assets\assetpack_1\displaycase.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.383745" Y="0.002157" Z="-0.383748" />
+    <BoundingMax X="0.383751" Y="0.752885" Z="0.383748" />
+    <BoundingCenter X="0.000003" Y="0.377521" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kerosene_light_blue</Name>
     <File>p:\westernz_world_assets\assetpack_1\kerosene_light_blue.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.090000" Y="-0.000872" Z="-0.094077" />
+    <BoundingMax X="0.097198" Y="0.636063" Z="0.094098" />
+    <BoundingCenter X="0.003599" Y="0.317595" Z="0.000010" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kerosene_light_green</Name>
     <File>p:\westernz_world_assets\assetpack_1\kerosene_light_green.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.090000" Y="-0.000872" Z="-0.094077" />
+    <BoundingMax X="0.097198" Y="0.636063" Z="0.094098" />
+    <BoundingCenter X="0.003599" Y="0.317595" Z="0.000010" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kerosene_light_red</Name>
     <File>p:\westernz_world_assets\assetpack_1\kerosene_light_red.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.090000" Y="-0.000872" Z="-0.094077" />
+    <BoundingMax X="0.097198" Y="0.636063" Z="0.094098" />
+    <BoundingCenter X="0.003599" Y="0.317595" Z="0.000010" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kerosene_light_wall_blue</Name>
     <File>p:\westernz_world_assets\assetpack_1\kerosene_light_wall_blue.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.092070" Y="-0.000872" Z="-0.094077" />
+    <BoundingMax X="0.097198" Y="0.636063" Z="0.211470" />
+    <BoundingCenter X="0.002564" Y="0.317595" Z="0.058697" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kerosene_light_wall_green</Name>
     <File>p:\westernz_world_assets\assetpack_1\kerosene_light_wall_green.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.092070" Y="-0.000872" Z="-0.094077" />
+    <BoundingMax X="0.097198" Y="0.636063" Z="0.211470" />
+    <BoundingCenter X="0.002564" Y="0.317595" Z="0.058697" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kerosene_light_wall_red</Name>
     <File>p:\westernz_world_assets\assetpack_1\kerosene_light_wall_red.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.092070" Y="-0.000872" Z="-0.094077" />
+    <BoundingMax X="0.097198" Y="0.636063" Z="0.211470" />
+    <BoundingCenter X="0.002564" Y="0.317595" Z="0.058697" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>poker_table</Name>
     <File>p:\westernz_world_assets\assetpack_1\poker_table.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.081088" Y="-0.012631" Z="-1.042490" />
+    <BoundingMax X="1.080658" Y="1.018955" Z="1.119686" />
+    <BoundingCenter X="-0.000215" Y="0.503162" Z="0.038598" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokercards_2pcs</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokercards_2pcs.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.063824" Y="-0.001480" Z="-0.062359" />
+    <BoundingMax X="0.063824" Y="0.001480" Z="0.062359" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokercards_4pcs</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokercards_4pcs.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.054626" Y="-0.002879" Z="-0.069300" />
+    <BoundingMax X="0.068201" Y="0.004664" Z="0.061232" />
+    <BoundingCenter X="0.006788" Y="0.000892" Z="-0.004034" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokercards_single_1</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokercards_single_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.052002" Y="-0.000787" Z="-0.062359" />
+    <BoundingMax X="0.052002" Y="0.000787" Z="0.062359" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokercards_single_2</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokercards_single_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -721,15 +721,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.037000" Y="-0.000787" Z="-0.055119" />
+    <BoundingMax X="0.037000" Y="0.000787" Z="0.055119" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokercards_single_3</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokercards_single_3.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.063156" Y="-0.000787" Z="-0.055364" />
+    <BoundingMax X="0.063156" Y="0.000787" Z="0.055364" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokerchip_25</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokerchip_25.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.029961" Y="-0.003363" Z="-0.029961" />
+    <BoundingMax X="0.029960" Y="0.003363" Z="0.029961" />
+    <BoundingCenter X="-0.000000" Y="-0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokerchip_5</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokerchip_5.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.029961" Y="-0.003363" Z="-0.029961" />
+    <BoundingMax X="0.029961" Y="0.003363" Z="0.029961" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>pokerchip_50</Name>
     <File>p:\westernz_world_assets\assetpack_1\pokerchip_50.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.029961" Y="-0.003363" Z="-0.029961" />
+    <BoundingMax X="0.029960" Y="0.003363" Z="0.029961" />
+    <BoundingCenter X="-0.000000" Y="-0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>rocking_chair</Name>
     <File>p:\westernz_world_assets\assetpack_1\rocking_chair.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.370446" Y="-0.664888" Z="-0.558080" />
+    <BoundingMax X="0.370446" Y="0.664888" Z="0.558080" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>servicedesk</Name>
     <File>p:\westernz_world_assets\assetpack_1\servicedesk.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.630123" Y="-0.000486" Z="-0.637440" />
+    <BoundingMax X="1.629619" Y="1.088265" Z="0.562873" />
+    <BoundingCenter X="-0.000252" Y="0.543890" Z="-0.037284" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>stool</Name>
     <File>p:\westernz_world_assets\assetpack_1\stool.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -952,15 +952,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.216980" Y="-0.011828" Z="-0.217156" />
+    <BoundingMax X="0.217075" Y="0.623703" Z="0.216899" />
+    <BoundingCenter X="0.000048" Y="0.305938" Z="-0.000129" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>tall_cabinet</Name>
     <File>p:\westernz_world_assets\assetpack_1\tall_cabinet.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -985,15 +985,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.760525" Y="-0.000920" Z="-0.239150" />
+    <BoundingMax X="0.761163" Y="2.258363" Z="0.183779" />
+    <BoundingCenter X="0.000319" Y="1.128721" Z="-0.027685" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>wagonwheellamp</Name>
     <File>p:\westernz_world_assets\assetpack_1\wagonwheellamp.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-8323328</Fill>
     <Outline>-16777216</Outline>
@@ -1018,9 +1018,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.765128" Y="2.035369" Z="-0.880551" />
+    <BoundingMax X="0.775047" Y="3.069852" Z="0.869256" />
+    <BoundingCenter X="0.004959" Y="2.552611" Z="-0.005647" />
     <Placement></Placement>
 </Template>
 

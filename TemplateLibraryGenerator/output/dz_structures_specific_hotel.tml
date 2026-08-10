@@ -3,7 +3,7 @@
     <Template>
     <Name>hotel</Name>
     <File>p:\dz\structures\specific\hotel\hotel.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-19.353168" Y="-27.042875" Z="-15.393071" />
+    <BoundingMax X="19.353168" Y="27.042873" Z="15.393071" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>hotel_damaged</Name>
     <File>p:\dz\structures\specific\hotel\hotel_damaged.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-19.494370" Y="-22.562857" Z="-15.393080" />
+    <BoundingMax X="19.494370" Y="22.562855" Z="15.393080" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>hotel_damaged_airplane_back</Name>
     <File>p:\dz\structures\specific\hotel\hotel_damaged_airplane_back.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.959008" Y="-0.419029" Z="-9.060149" />
+    <BoundingMax X="8.190021" Y="7.323270" Z="6.819218" />
+    <BoundingCenter X="1.115506" Y="3.452121" Z="-1.120466" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>hotel_damaged_airplane_wing</Name>
     <File>p:\dz\structures\specific\hotel\hotel_damaged_airplane_wing.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.905392" Y="-1.652867" Z="-6.385815" />
+    <BoundingMax X="6.905392" Y="1.652867" Z="6.385815" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>hotel_damaged_decal1</Name>
     <File>p:\dz\structures\specific\hotel\hotel_damaged_decal1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+    <BoundingMax X="1.000000" Y="1.000000" Z="1.000000" />
+    <BoundingCenter X="0.500000" Y="0.500000" Z="0.500000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>hotel_damaged_decal2</Name>
     <File>p:\dz\structures\specific\hotel\hotel_damaged_decal2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -201,7 +201,7 @@
 <Template>
     <Name>hotel_damaged_rubble</Name>
     <File>p:\dz\structures\specific\hotel\hotel_damaged_rubble.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-32.127403" Y="-0.478960" Z="-21.174700" />
+    <BoundingMax X="-0.999449" Y="9.003680" Z="22.292101" />
+    <BoundingCenter X="-16.563426" Y="4.262360" Z="0.558701" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>houseb_tenement_dayz_airplane</Name>
     <File>p:\dz\structures\specific\hotel\proxy\houseb_tenement_dayz_airplane.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-17.988802" Y="18.591501" Z="-10.636201" />
+    <BoundingMax X="1.937160" Y="34.425003" Z="9.576520" />
+    <BoundingCenter X="-8.025821" Y="26.508252" Z="-0.529840" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>houseb_tenement_dayz_alfa</Name>
     <File>p:\dz\structures\specific\hotel\proxy\houseb_tenement_dayz_alfa.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.467470" Y="-10.999899" Z="-7.309670" />
+    <BoundingMax X="10.467470" Y="10.999901" Z="7.309670" />
+    <BoundingCenter X="0.000000" Y="0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>houseb_tenement_dayz_proxy</Name>
     <File>p:\dz\structures\specific\hotel\proxy\houseb_tenement_dayz_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,9 +325,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-16.673601" Y="0.000000" Z="-8.104851" />
+    <BoundingMax X="4.696610" Y="40.612503" Z="7.422911" />
+    <BoundingCenter X="-5.988496" Y="20.306252" Z="-0.340970" />
     <Placement></Placement>
 </Template>
 

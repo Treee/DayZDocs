@@ -3,7 +3,7 @@
     <Template>
     <Name>airfield_hangar_green</Name>
     <File>p:\dz\structures\military\airfield\airfield_hangar_green.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-15.907837" Y="-6.855123" Z="-25.796730" />
+    <BoundingMax X="15.907837" Y="6.855123" Z="25.796730" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>airfield_radar_tall</Name>
     <File>p:\dz\structures\military\airfield\airfield_radar_tall.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.020870" Y="-23.198944" Z="-5.248134" />
+    <BoundingMax X="9.020870" Y="23.198942" Z="5.248134" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>airfield_servicehangar_l</Name>
     <File>p:\dz\structures\military\airfield\airfield_servicehangar_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-22.234402" Y="-1.839349" Z="-24.184837" />
+    <BoundingMax X="21.414999" Y="14.541501" Z="26.000000" />
+    <BoundingCenter X="-0.409701" Y="6.351076" Z="0.907581" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>airfield_servicehangar_r</Name>
     <File>p:\dz\structures\military\airfield\airfield_servicehangar_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-21.281343" Y="-1.645705" Z="-25.156645" />
+    <BoundingMax X="21.612045" Y="12.839300" Z="24.425327" />
+    <BoundingCenter X="0.165351" Y="5.596798" Z="-0.365659" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_aircraftshelter</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-18.982027" Y="-2.203275" Z="-25.146320" />
+    <BoundingMax X="21.004150" Y="8.749679" Z="24.900028" />
+    <BoundingCenter X="1.011062" Y="3.273202" Z="-0.123146" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_aircraftshelter_door_l</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_door_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.453768" Y="-3.736786" Z="-1.224675" />
+    <BoundingMax X="3.453768" Y="3.736786" Z="1.224675" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_aircraftshelter_door_r</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_door_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.453768" Y="-3.736786" Z="-1.224675" />
+    <BoundingMax X="3.453768" Y="3.736786" Z="1.224675" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_aircraftshelter_grass_l</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_grass_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-19.247280" Y="-1.019245" Z="-0.319718" />
+    <BoundingMax X="0.444674" Y="9.362698" Z="45.673374" />
+    <BoundingCenter X="-9.401303" Y="4.171727" Z="22.676828" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_aircraftshelter_grass_r</Name>
     <File>p:\dz\structures\military\airfield\mil_aircraftshelter_grass_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.912582" Y="-1.089369" Z="-0.134276" />
+    <BoundingMax X="20.931452" Y="9.407989" Z="46.857769" />
+    <BoundingCenter X="10.009435" Y="4.159310" Z="23.361746" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_airfield_hq</Name>
     <File>p:\dz\structures\military\airfield\mil_airfield_hq.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.846030" Y="-5.875120" Z="-11.260885" />
+    <BoundingMax X="9.846030" Y="5.875121" Z="11.260885" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_atc_big</Name>
     <File>p:\dz\structures\military\airfield\mil_atc_big.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-15.000001" Y="-17.830173" Z="-21.255001" />
+    <BoundingMax X="15.000001" Y="17.830172" Z="21.255001" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_atc_small</Name>
     <File>p:\dz\structures\military\airfield\mil_atc_small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.979725" Y="-12.301215" Z="-7.591587" />
+    <BoundingMax X="10.979725" Y="12.301215" Z="7.591587" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover1</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-17.500549" Y="-1.990881" Z="-11.936914" />
+    <BoundingMax X="17.500549" Y="1.990881" Z="11.936915" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover1_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover1_grass.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-17.156898" Y="-0.210498" Z="-7.740123" />
+    <BoundingMax X="17.454113" Y="5.090741" Z="15.900007" />
+    <BoundingCenter X="0.148607" Y="2.440122" Z="4.079942" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover2</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-17.332401" Y="-2.043437" Z="-8.092500" />
+    <BoundingMax X="17.332401" Y="2.043437" Z="8.092500" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover2_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover2_grass.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-17.221027" Y="-0.172987" Z="-7.596519" />
+    <BoundingMax X="17.391500" Y="5.136921" Z="8.213525" />
+    <BoundingCenter X="0.085237" Y="2.481967" Z="0.308503" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover3</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-13.648701" Y="-2.011093" Z="-11.848564" />
+    <BoundingMax X="13.648701" Y="2.011093" Z="11.848565" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover3_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover3_grass.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-13.344189" Y="-0.231753" Z="-7.693920" />
+    <BoundingMax X="13.531740" Y="4.984894" Z="15.858217" />
+    <BoundingCenter X="0.093776" Y="2.376570" Z="4.082149" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover4</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover4.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-26.519901" Y="-2.076235" Z="-8.035080" />
+    <BoundingMax X="26.519901" Y="2.076235" Z="8.035080" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover4_grass_l</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover4_grass_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-26.496889" Y="-0.203803" Z="-7.528245" />
+    <BoundingMax X="1.313901" Y="5.116570" Z="8.382219" />
+    <BoundingCenter X="-12.591494" Y="2.456384" Z="0.426987" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_blastcover4_grass_r</Name>
     <File>p:\dz\structures\military\airfield\mil_blastcover4_grass_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.000000" Y="-0.224122" Z="-7.612732" />
+    <BoundingMax X="26.697233" Y="5.001029" Z="8.377133" />
+    <BoundingCenter X="13.348617" Y="2.388453" Z="0.382201" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile1</Name>
     <File>p:\dz\structures\military\airfield\mil_radar_mobile1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -721,15 +721,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.684510" Y="-0.614263" Z="-5.746652" />
+    <BoundingMax X="6.283660" Y="14.203031" Z="12.649301" />
+    <BoundingCenter X="-0.700425" Y="6.794384" Z="3.451324" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile2</Name>
     <File>p:\dz\structures\military\airfield\mil_radar_mobile2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.796259" Y="-0.021367" Z="-4.045482" />
+    <BoundingMax X="7.707772" Y="12.258941" Z="7.293820" />
+    <BoundingCenter X="-0.544244" Y="6.118787" Z="1.624169" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile3</Name>
     <File>p:\dz\structures\military\airfield\mil_radar_mobile3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.882080" Y="-0.017262" Z="-4.903480" />
+    <BoundingMax X="4.923330" Y="8.565092" Z="4.901930" />
+    <BoundingCenter X="0.020625" Y="4.273915" Z="-0.000775" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank1</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.548600" Y="-0.214720" Z="-11.305800" />
+    <BoundingMax X="10.763201" Y="6.469740" Z="9.712191" />
+    <BoundingCenter X="0.107300" Y="3.127510" Z="-0.796805" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank1_grass</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank1_grass.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.315553" Y="0.000000" Z="-8.698377" />
+    <BoundingMax X="8.479625" Y="8.046229" Z="7.747571" />
+    <BoundingCenter X="0.082036" Y="4.023115" Z="-0.475403" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank2</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-18.965502" Y="-0.471487" Z="-18.965502" />
+    <BoundingMax X="18.965502" Y="11.482901" Z="18.965502" />
+    <BoundingCenter X="0.000000" Y="5.505707" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_grass_l</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2_grass_l.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-19.793303" Y="-0.463315" Z="-19.446802" />
+    <BoundingMax X="1.229520" Y="8.459470" Z="19.460199" />
+    <BoundingCenter X="-9.281891" Y="3.998077" Z="0.006699" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_grass_r</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2_grass_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -952,15 +952,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.107870" Y="-0.364163" Z="-19.607401" />
+    <BoundingMax X="19.779402" Y="8.622380" Z="19.601301" />
+    <BoundingCenter X="9.335766" Y="4.129109" Z="-0.003050" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_grass_top</Name>
     <File>p:\dz\structures\military\airfield\mil_reinforcedtank2_grass_top.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -985,15 +985,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-18.702801" Y="-0.152034" Z="-18.581600" />
+    <BoundingMax X="18.702801" Y="10.125901" Z="18.581600" />
+    <BoundingCenter X="0.000000" Y="4.986934" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>fusebox_dupe_2</Name>
     <File>p:\dz\structures\military\airfield\proxy\fusebox.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1018,15 +1018,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.058183" Y="-0.148398" Z="-0.155243" />
+    <BoundingMax X="0.058183" Y="0.148398" Z="0.155243" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>high_outlet</Name>
     <File>p:\dz\structures\military\airfield\proxy\high_outlet.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1051,15 +1051,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.075274" Y="-0.224593" Z="-0.082007" />
+    <BoundingMax X="0.075274" Y="0.224593" Z="0.082007" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>high_outlet_c</Name>
     <File>p:\dz\structures\military\airfield\proxy\high_outlet_c.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1084,15 +1084,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.073183" Y="-0.150571" Z="-0.086518" />
+    <BoundingMax X="0.073183" Y="0.150571" Z="0.086518" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>light_cone</Name>
     <File>p:\dz\structures\military\airfield\proxy\light_cone.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1117,15 +1117,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.096448" Y="-0.241995" Z="-0.241995" />
+    <BoundingMax X="0.096448" Y="0.241995" Z="0.241995" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>light_quad</Name>
     <File>p:\dz\structures\military\airfield\proxy\light_quad.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1150,15 +1150,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.045500" Y="-0.366779" Z="-0.578500" />
+    <BoundingMax X="0.045500" Y="0.366779" Z="0.578500" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mainframe</Name>
     <File>p:\dz\structures\military\airfield\proxy\mainframe.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1183,15 +1183,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.833910" Y="-23.112732" Z="-6.542074" />
+    <BoundingMax X="9.833910" Y="23.112732" Z="6.542074" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile_1_wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_1_wires.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1216,15 +1216,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.610855" Y="-3.164411" Z="-4.989620" />
+    <BoundingMax X="3.610855" Y="3.164411" Z="4.989620" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile_2_wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_2_wires.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1249,15 +1249,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.736896" Y="-2.559732" Z="-4.239765" />
+    <BoundingMax X="7.736896" Y="2.559732" Z="4.239765" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile_base</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_base.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1282,15 +1282,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.485970" Y="-0.709588" Z="-4.485970" />
+    <BoundingMax X="4.485970" Y="0.709588" Z="4.485970" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile_generator</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_generator.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1315,15 +1315,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.418596" Y="-1.691003" Z="-2.961328" />
+    <BoundingMax X="1.418596" Y="1.691003" Z="2.961328" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_mobile_head</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_mobile_head.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1348,15 +1348,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.584890" Y="-3.503216" Z="-3.205740" />
+    <BoundingMax X="3.584890" Y="3.503215" Z="3.205740" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_connections</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_connections.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1381,15 +1381,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.144455" Y="-16.756956" Z="-5.182366" />
+    <BoundingMax X="5.144455" Y="16.756958" Z="5.182366" />
+    <BoundingCenter X="0.000000" Y="0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_fuseboxs</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_fuseboxs.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1414,15 +1414,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.052990" Y="-0.680628" Z="-1.492673" />
+    <BoundingMax X="1.052990" Y="0.680628" Z="1.492673" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_generator</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_generator.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1447,15 +1447,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.415870" Y="-1.485535" Z="-2.958848" />
+    <BoundingMax X="1.415869" Y="1.485534" Z="2.958848" />
+    <BoundingCenter X="-0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_lightbulb</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_lightbulb.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1480,15 +1480,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.976579" Y="-9.817281" Z="-0.031614" />
+    <BoundingMax X="1.976579" Y="9.817282" Z="0.031614" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_lightcover</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_lightcover.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1513,15 +1513,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.176211" Y="-9.879326" Z="-0.231245" />
+    <BoundingMax X="2.176211" Y="9.879324" Z="0.231245" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_lighttop</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_lighttop.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1546,15 +1546,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.039088" Y="-9.927868" Z="-0.100196" />
+    <BoundingMax X="2.039088" Y="9.927866" Z="0.100196" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_mainframepart1</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_mainframepart1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1579,15 +1579,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.540300" Y="-0.132881" Z="-1.540600" />
+    <BoundingMax X="1.540300" Y="0.132877" Z="1.540600" />
+    <BoundingCenter X="0.000000" Y="-0.000002" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_mainframepart2</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_mainframepart2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1612,15 +1612,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.484109" Y="-17.052584" Z="-3.102937" />
+    <BoundingMax X="4.484109" Y="17.052586" Z="3.102937" />
+    <BoundingCenter X="0.000000" Y="0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_mainframepart3</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_mainframepart3.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1645,15 +1645,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.252935" Y="-22.952196" Z="-5.289235" />
+    <BoundingMax X="5.252935" Y="22.952194" Z="5.289235" />
+    <BoundingCenter X="0.000000" Y="-0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_planks</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_planks.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1678,15 +1678,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.492321" Y="-0.049114" Z="-1.365901" />
+    <BoundingMax X="1.492322" Y="0.049114" Z="1.365901" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_radardish</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_radardish.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1711,15 +1711,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.433156" Y="-3.594254" Z="-4.314278" />
+    <BoundingMax X="3.433156" Y="3.594250" Z="4.314278" />
+    <BoundingCenter X="0.000000" Y="-0.000002" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_sheets</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_sheets.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1744,15 +1744,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.044486" Y="-12.623289" Z="-5.029173" />
+    <BoundingMax X="5.044486" Y="12.623289" Z="5.029173" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_stairs</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_stairs.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1777,15 +1777,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.015678" Y="-16.930651" Z="-5.079775" />
+    <BoundingMax X="5.015678" Y="16.930651" Z="5.079775" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_radar_tall_wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_radar_tall_wires.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1810,15 +1810,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.914311" Y="-15.835281" Z="-3.829116" />
+    <BoundingMax X="7.914311" Y="15.835283" Z="3.829116" />
+    <BoundingCenter X="0.000000" Y="0.000001" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_shelter1</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_reinforcedtank2_shelter1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1843,15 +1843,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.271505" Y="-1.267050" Z="-1.315070" />
+    <BoundingMax X="1.271505" Y="1.267050" Z="1.315070" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_reinforcedtank2_shelter2</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_reinforcedtank2_shelter2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1876,15 +1876,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.108655" Y="-1.172950" Z="-1.319695" />
+    <BoundingMax X="1.108655" Y="1.172950" Z="1.319695" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_servicehangar_detail</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_servicehangar_detail.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1909,15 +1909,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-21.428139" Y="-5.014244" Z="-22.648479" />
+    <BoundingMax X="21.428139" Y="5.014244" Z="22.648481" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000001" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mil_servicehangar_detail_r</Name>
     <File>p:\dz\structures\military\airfield\proxy\mil_servicehangar_detail_r.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1942,15 +1942,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.170401" Y="-5.023622" Z="-22.206026" />
+    <BoundingMax X="1.170401" Y="5.023622" Z="22.206026" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>outlet_1</Name>
     <File>p:\dz\structures\military\airfield\proxy\outlet_1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -1975,15 +1975,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.010000" Y="-0.056522" Z="-0.033232" />
+    <BoundingMax X="0.010000" Y="0.056522" Z="0.033232" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>outlet_2</Name>
     <File>p:\dz\structures\military\airfield\proxy\outlet_2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -2008,15 +2008,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.010000" Y="-0.056522" Z="-0.033107" />
+    <BoundingMax X="0.010000" Y="0.056522" Z="0.033107" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>proxy_atcbig_details1</Name>
     <File>p:\dz\structures\military\airfield\proxy\proxy_atcbig_details1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -2041,15 +2041,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-13.480738" Y="-11.938656" Z="-19.130871" />
+    <BoundingMax X="13.480738" Y="11.938656" Z="19.130871" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>proxy_atcdoors</Name>
     <File>p:\dz\structures\military\airfield\proxy\proxy_atcdoors.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -2074,15 +2074,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-16.264250" Y="0.724298" Z="-5.639250" />
+    <BoundingMax X="4.614251" Y="22.600000" Z="31.072065" />
+    <BoundingCenter X="-5.825000" Y="11.662149" Z="12.716408" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>proxy_cables</Name>
     <File>p:\dz\structures\military\airfield\proxy\proxy_cables.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -2107,15 +2107,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.672865" Y="-11.616655" Z="-15.102588" />
+    <BoundingMax X="6.672865" Y="11.616656" Z="15.102588" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>switch_lights</Name>
     <File>p:\dz\structures\military\airfield\proxy\switch_lights.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -2140,15 +2140,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.026900" Y="-0.075000" Z="-0.060000" />
+    <BoundingMax X="0.026900" Y="0.075000" Z="0.060000" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>wires</Name>
     <File>p:\dz\structures\military\airfield\proxy\wires.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-65536</Fill>
     <Outline>-16777216</Outline>
@@ -2173,9 +2173,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.430147" Y="-21.231916" Z="-4.932840" />
+    <BoundingMax X="9.430147" Y="21.231916" Z="4.932840" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

@@ -3,7 +3,7 @@
     <Template>
     <Name>bed_large_metal</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\bed_large_metal.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.807868" Y="0.000000" Z="-1.153779" />
+    <BoundingMax X="0.775323" Y="1.099223" Z="0.704150" />
+    <BoundingCenter X="-0.016273" Y="0.549611" Z="-0.224814" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>bed_large_metal_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\bed_large_metal_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.813479" Y="-0.115146" Z="-1.156480" />
+    <BoundingMax X="1.025507" Y="0.738954" Z="1.283187" />
+    <BoundingCenter X="0.106014" Y="0.311904" Z="0.063353" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>bed_large_metal_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\bed_large_metal_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.869758" Y="-0.051125" Z="-1.632864" />
+    <BoundingMax X="1.027361" Y="0.188521" Z="1.469059" />
+    <BoundingCenter X="0.078801" Y="0.068698" Z="-0.081902" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>carpet_big_dirty</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\carpet_big_dirty.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.046040" Y="-0.013817" Z="-1.573125" />
+    <BoundingMax X="1.046040" Y="0.004500" Z="1.583625" />
+    <BoundingCenter X="0.000000" Y="-0.004659" Z="0.005250" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>carpet_big_dirty2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\carpet_big_dirty2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.046040" Y="-0.013817" Z="-1.500000" />
+    <BoundingMax X="1.046040" Y="0.004500" Z="1.500000" />
+    <BoundingCenter X="0.000000" Y="-0.004659" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>case_bedroom_a_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\case_bedroom_a.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.377281" Y="-0.281330" Z="-0.243848" />
+    <BoundingMax X="0.377281" Y="0.281330" Z="0.243848" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>case_bedroom_b_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\case_bedroom_b.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.485123" Y="0.001545" Z="-0.309133" />
+    <BoundingMax X="0.107065" Y="1.159517" Z="0.300488" />
+    <BoundingCenter X="-0.189029" Y="0.580531" Z="-0.004322" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\chair.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.197592" Y="-0.000010" Z="-0.184691" />
+    <BoundingMax X="0.186517" Y="0.880421" Z="0.271704" />
+    <BoundingCenter X="-0.005537" Y="0.440206" Z="0.043506" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\chair_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.279767" Y="-0.014506" Z="-0.548882" />
+    <BoundingMax X="0.264761" Y="0.767435" Z="0.263699" />
+    <BoundingCenter X="-0.007503" Y="0.376464" Z="-0.142592" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\chair_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.631489" Y="-0.018552" Z="-0.597894" />
+    <BoundingMax X="0.601864" Y="0.149251" Z="1.255589" />
+    <BoundingCenter X="-0.014812" Y="0.065349" Z="0.328847" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair_leisure</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\chair_leisure.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.282277" Y="-0.002462" Z="-0.356322" />
+    <BoundingMax X="0.282277" Y="1.182222" Z="0.356322" />
+    <BoundingCenter X="0.000000" Y="0.589880" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair_leisure_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\chair_leisure_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.454078" Y="-0.053925" Z="-0.411917" />
+    <BoundingMax X="0.399820" Y="1.155116" Z="0.677259" />
+    <BoundingCenter X="-0.027129" Y="0.550596" Z="0.132671" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>chair_leisure_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\chair_leisure_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.058830" Y="-0.025590" Z="-0.585002" />
+    <BoundingMax X="0.449588" Y="0.833539" Z="0.395514" />
+    <BoundingCenter X="-0.304621" Y="0.403974" Z="-0.094744" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>classroom_case_a</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\classroom_case_a.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.458660" Y="-0.021000" Z="-0.160500" />
+    <BoundingMax X="0.458660" Y="1.169100" Z="0.360000" />
+    <BoundingCenter X="0.000000" Y="0.574050" Z="0.099750" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>classroom_case_a_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\classroom_case_a_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.463843" Y="-0.010900" Z="-0.295349" />
+    <BoundingMax X="0.462651" Y="1.169100" Z="0.360000" />
+    <BoundingCenter X="-0.000596" Y="0.579100" Z="0.032326" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>classroom_case_a_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\classroom_case_a_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.102471" Y="-0.009602" Z="-1.558918" />
+    <BoundingMax X="0.661527" Y="0.684256" Z="0.444487" />
+    <BoundingCenter X="-0.220472" Y="0.337327" Z="-0.557216" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>classroom_case_b</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\classroom_case_b.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.601398" Y="-0.010900" Z="-0.338500" />
+    <BoundingMax X="0.601398" Y="1.605000" Z="0.361972" />
+    <BoundingCenter X="0.000000" Y="0.797050" Z="0.011736" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>classroom_case_b_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\classroom_case_b_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.601635" Y="-0.010900" Z="-0.507172" />
+    <BoundingMax X="0.600000" Y="1.605702" Z="0.361972" />
+    <BoundingCenter X="-0.000817" Y="0.797401" Z="-0.072600" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>classroom_case_b_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\classroom_case_b_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.322510" Y="-0.037293" Z="-2.513765" />
+    <BoundingMax X="1.317892" Y="0.685290" Z="0.447358" />
+    <BoundingCenter X="-0.002309" Y="0.323999" Z="-1.033204" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>drapes_long_torn</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\drapes_long_torn.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.396554" Y="-1.105192" Z="-0.047032" />
+    <BoundingMax X="0.396554" Y="1.105192" Z="0.047032" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>drapes_torn</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\drapes_torn.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.396554" Y="-0.552596" Z="-0.047032" />
+    <BoundingMax X="0.396554" Y="0.552596" Z="0.047032" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>flowerpot</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\flowerpot.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -721,15 +721,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.106294" Y="-0.001329" Z="-0.201907" />
+    <BoundingMax X="0.159188" Y="0.229194" Z="0.063575" />
+    <BoundingCenter X="0.026447" Y="0.113932" Z="-0.069166" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>lobby_table_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\lobby_table.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.749915" Y="-0.000000" Z="-0.350080" />
+    <BoundingMax X="0.750085" Y="0.492680" Z="0.349920" />
+    <BoundingCenter X="0.000085" Y="0.246340" Z="-0.000080" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>piano_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\piano_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.056999" Y="-0.568162" Z="-1.768906" />
+    <BoundingMax X="1.056999" Y="0.568162" Z="1.768906" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_a_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_a.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.268648" Y="0.003827" Z="-0.273830" />
+    <BoundingMax X="0.268648" Y="0.036173" Z="0.273830" />
+    <BoundingCenter X="0.000000" Y="0.020000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_b_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_b.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.149462" Y="0.001241" Z="-0.191299" />
+    <BoundingMax X="0.149462" Y="0.006759" Z="0.191299" />
+    <BoundingCenter X="0.000000" Y="0.004000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_c_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_c.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.331305" Y="0.001646" Z="-0.210073" />
+    <BoundingMax X="0.331305" Y="0.018354" Z="0.210073" />
+    <BoundingCenter X="-0.000000" Y="0.010000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_d_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_d.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.340511" Y="0.001646" Z="-0.244734" />
+    <BoundingMax X="0.340511" Y="0.018354" Z="0.244734" />
+    <BoundingCenter X="0.000000" Y="0.010000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_e_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_e.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -952,15 +952,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.292231" Y="0.001646" Z="-0.252435" />
+    <BoundingMax X="0.294194" Y="0.018354" Z="0.250652" />
+    <BoundingCenter X="0.000982" Y="0.010000" Z="-0.000891" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_f_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_f.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -985,15 +985,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.258807" Y="0.001646" Z="-0.307586" />
+    <BoundingMax X="0.258807" Y="0.018354" Z="0.307586" />
+    <BoundingCenter X="0.000000" Y="0.010000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>picture_g_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\picture_g.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1018,15 +1018,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.258807" Y="0.001646" Z="-0.338432" />
+    <BoundingMax X="0.258807" Y="0.018354" Z="0.338432" />
+    <BoundingCenter X="0.000000" Y="0.010000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>racks</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\racks.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1051,15 +1051,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.252186" Y="-0.010792" Z="-0.703837" />
+    <BoundingMax X="0.238089" Y="1.626161" Z="0.708502" />
+    <BoundingCenter X="-0.007048" Y="0.807685" Z="0.002332" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>racks_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\racks_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1084,15 +1084,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.356305" Y="-0.010792" Z="-1.297348" />
+    <BoundingMax X="0.238089" Y="1.596709" Z="0.701440" />
+    <BoundingCenter X="-0.059108" Y="0.792959" Z="-0.297954" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>racks_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\racks_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1117,15 +1117,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.478827" Y="-0.098108" Z="-1.896037" />
+    <BoundingMax X="2.049907" Y="0.768520" Z="1.836862" />
+    <BoundingCenter X="0.785540" Y="0.335206" Z="-0.029588" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_church2_01_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_church2_01_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1150,15 +1150,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.950810" Y="-7.133024" Z="-10.514550" />
+    <BoundingMax X="7.950810" Y="7.133023" Z="10.514550" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_church2_02_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_church2_02_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1183,15 +1183,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-12.675451" Y="-6.198046" Z="-21.850952" />
+    <BoundingMax X="12.675451" Y="6.198046" Z="21.850952" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_church2_03_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_church2_03_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1216,15 +1216,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.791031" Y="-3.919865" Z="-16.263105" />
+    <BoundingMax X="8.791031" Y="3.919865" Z="16.263103" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000001" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_church2_04_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_church2_04_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1249,15 +1249,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.446200" Y="-4.867787" Z="-4.936215" />
+    <BoundingMax X="1.446200" Y="4.867787" Z="4.936215" />
+    <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_church2_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_church2_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1282,15 +1282,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.014231" Y="-3.698477" Z="-19.930622" />
+    <BoundingMax X="7.358134" Y="15.168070" Z="9.020339" />
+    <BoundingCenter X="-0.328048" Y="5.734796" Z="-5.455142" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1b01_1_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1b01_1_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1315,15 +1315,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.255385" Y="-2.528584" Z="-10.036520" />
+    <BoundingMax X="7.255385" Y="2.528584" Z="10.036520" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1b01_2_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1b01_2_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1348,15 +1348,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.906105" Y="-0.909914" Z="-9.344067" />
+    <BoundingMax X="4.906105" Y="0.909914" Z="9.344067" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w02_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w02_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1381,15 +1381,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.701219" Y="-1.511755" Z="-4.105317" />
+    <BoundingMax X="3.701219" Y="1.511755" Z="4.105317" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w03_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w03_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1414,15 +1414,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.473560" Y="-1.610815" Z="-6.714772" />
+    <BoundingMax X="3.473560" Y="1.610815" Z="6.714772" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w04_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w04_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1447,15 +1447,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.891521" Y="-2.668032" Z="-9.775215" />
+    <BoundingMax X="4.891521" Y="2.668032" Z="9.775215" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w05_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w05_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1480,15 +1480,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.954768" Y="-2.858329" Z="-8.633120" />
+    <BoundingMax X="4.954768" Y="2.858329" Z="8.633120" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w06_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w06_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1513,15 +1513,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.529550" Y="-2.515049" Z="-5.878501" />
+    <BoundingMax X="4.529550" Y="2.515049" Z="5.878501" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w07_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w07_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1546,15 +1546,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.412789" Y="-2.493804" Z="-6.133488" />
+    <BoundingMax X="7.412789" Y="2.493804" Z="6.133488" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w09_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w09_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1579,15 +1579,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.601859" Y="-2.938434" Z="-4.780655" />
+    <BoundingMax X="5.601859" Y="2.938434" Z="4.780655" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w11_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w11_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1612,15 +1612,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.688220" Y="-2.767734" Z="-5.733119" />
+    <BoundingMax X="7.688220" Y="2.767734" Z="5.733119" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_1w12_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_1w12_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1645,15 +1645,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.244688" Y="-3.107890" Z="-6.863138" />
+    <BoundingMax X="6.244688" Y="3.107890" Z="6.863138" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2b01_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2b01_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1678,15 +1678,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.277281" Y="-2.387193" Z="-5.832435" />
+    <BoundingMax X="4.277281" Y="2.387193" Z="5.832435" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2b02_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2b02_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1711,15 +1711,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.856222" Y="-2.502386" Z="-7.290051" />
+    <BoundingMax X="9.856222" Y="2.502386" Z="7.290051" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2b03_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2b03_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1744,15 +1744,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.058101" Y="-2.259133" Z="-10.914289" />
+    <BoundingMax X="9.058101" Y="2.259133" Z="10.914289" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2b04_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2b04_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1777,15 +1777,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.635790" Y="-2.397770" Z="-8.487847" />
+    <BoundingMax X="8.635790" Y="2.397770" Z="8.487847" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2w01_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2w01_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1810,15 +1810,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.876536" Y="-3.014977" Z="-6.490935" />
+    <BoundingMax X="8.876536" Y="3.014977" Z="6.490935" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2w02_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2w02_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1843,15 +1843,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.438840" Y="-2.746294" Z="-6.252287" />
+    <BoundingMax X="7.438840" Y="2.746294" Z="6.252287" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2w03_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2w03_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1876,15 +1876,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.799677" Y="-2.795189" Z="-7.603149" />
+    <BoundingMax X="10.799677" Y="2.795189" Z="7.603149" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2w04_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2w04_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1909,15 +1909,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-12.184368" Y="-2.664794" Z="-7.172806" />
+    <BoundingMax X="12.184368" Y="2.664794" Z="7.172806" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_house_2w05_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_house_2w05_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1942,15 +1942,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.900112" Y="-2.612441" Z="-7.110778" />
+    <BoundingMax X="7.900112" Y="2.612441" Z="7.110778" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_half_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_half_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -1975,15 +1975,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.186595" Y="-7.338610" Z="-9.656401" />
+    <BoundingMax X="6.186595" Y="7.338610" Z="9.656401" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_half_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_half_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2008,15 +2008,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.294959" Y="-2.135986" Z="-9.317405" />
+    <BoundingMax X="6.841098" Y="7.569061" Z="10.109261" />
+    <BoundingCenter X="0.773070" Y="2.716538" Z="0.395928" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2041,15 +2041,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.010580" Y="-7.314255" Z="-11.669963" />
+    <BoundingMax X="9.010580" Y="7.314255" Z="11.669963" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2074,15 +2074,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.286978" Y="-1.045215" Z="-3.205146" />
+    <BoundingMax X="4.984026" Y="9.605095" Z="9.617382" />
+    <BoundingCenter X="-0.151476" Y="4.279940" Z="3.206118" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_proxy_overgrowth_02</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_proxy_overgrowth_02.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2107,15 +2107,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.163222" Y="-5.270580" Z="-10.543363" />
+    <BoundingMax X="5.306834" Y="10.855074" Z="1.603046" />
+    <BoundingCenter X="0.071806" Y="2.792247" Z="-4.470158" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_proxy_overgrowth_02_template</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_proxy_overgrowth_02_template.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2140,15 +2140,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.281958" Y="-0.770627" Z="-10.231732" />
+    <BoundingMax X="4.505058" Y="10.232886" Z="0.000000" />
+    <BoundingCenter X="-0.388450" Y="4.731130" Z="-5.115866" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig1_proxy_overgrowth_template</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig1_proxy_overgrowth_template.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2173,15 +2173,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.579589" Y="-1.246783" Z="-1.750960" />
+    <BoundingMax X="10.382767" Y="10.465800" Z="8.805375" />
+    <BoundingCenter X="2.901589" Y="4.609509" Z="3.527207" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig2_half_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig2_half_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2206,15 +2206,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.672580" Y="-4.844681" Z="-8.590685" />
+    <BoundingMax X="7.672580" Y="4.844680" Z="8.590685" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig2_half_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig2_half_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2239,15 +2239,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.070239" Y="-2.250000" Z="-8.535320" />
+    <BoundingMax X="11.054382" Y="8.277580" Z="7.770766" />
+    <BoundingCenter X="2.992072" Y="3.013790" Z="-0.382277" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig2_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig2_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2272,15 +2272,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-10.141293" Y="-6.701993" Z="-10.168686" />
+    <BoundingMax X="10.141293" Y="6.701993" Z="10.168686" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig2_proxy_02</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig2_proxy_02.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2305,15 +2305,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.438540" Y="-5.984228" Z="-8.531595" />
+    <BoundingMax X="8.438540" Y="5.984228" Z="8.531595" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig2_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig2_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2338,15 +2338,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.231637" Y="-3.461449" Z="-9.801855" />
+    <BoundingMax X="10.162025" Y="12.261470" Z="7.327987" />
+    <BoundingCenter X="2.465194" Y="4.400010" Z="-1.236934" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig3_half_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig3_half_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2371,15 +2371,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.524575" Y="-5.354546" Z="-11.447451" />
+    <BoundingMax X="6.524575" Y="5.354546" Z="11.447451" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig3_half_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig3_half_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2404,15 +2404,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.973099" Y="-2.507597" Z="-8.873855" />
+    <BoundingMax X="6.051269" Y="7.028242" Z="10.927295" />
+    <BoundingCenter X="0.039085" Y="2.260322" Z="1.026720" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig3_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig3_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2437,15 +2437,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.136291" Y="-7.050235" Z="-10.646925" />
+    <BoundingMax X="7.136291" Y="7.050235" Z="10.646925" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housebig3_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housebig3_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2470,15 +2470,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-5.907381" Y="-4.441006" Z="-9.207729" />
+    <BoundingMax X="6.061193" Y="12.915300" Z="11.133461" />
+    <BoundingCenter X="0.076906" Y="4.237147" Z="0.962866" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall1_half_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall1_half_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2503,15 +2503,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.485271" Y="-6.509931" Z="-7.276835" />
+    <BoundingMax X="9.485271" Y="6.509931" Z="7.276835" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall1_half_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall1_half_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2536,15 +2536,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.039201" Y="-2.370359" Z="-6.020480" />
+    <BoundingMax X="8.153662" Y="4.697195" Z="2.507986" />
+    <BoundingCenter X="0.057230" Y="1.163418" Z="-1.756247" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall1_proxy_01</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall1_proxy_01.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2569,15 +2569,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.449591" Y="-4.476161" Z="-5.954101" />
+    <BoundingMax X="8.449591" Y="4.476160" Z="5.954101" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall1_proxy_02</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall1_proxy_02.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2602,15 +2602,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.251010" Y="-4.551600" Z="-6.467395" />
+    <BoundingMax X="9.251010" Y="4.551600" Z="6.467395" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall1_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall1_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2635,15 +2635,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.152999" Y="-4.961022" Z="-6.295999" />
+    <BoundingMax X="8.963893" Y="8.357346" Z="5.552923" />
+    <BoundingCenter X="0.405447" Y="1.698162" Z="-0.371538" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall2_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall2_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2668,15 +2668,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.842811" Y="-4.921595" Z="-7.278260" />
+    <BoundingMax X="9.842811" Y="4.921595" Z="7.278260" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall2_proxy_bricks</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall2_proxy_bricks.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2701,15 +2701,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.062805" Y="-5.175635" Z="-7.878591" />
+    <BoundingMax X="9.062805" Y="5.175635" Z="7.878591" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_housesmall2_proxy_overgrowth</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_housesmall2_proxy_overgrowth.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2734,15 +2734,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.023396" Y="-5.123873" Z="-7.260772" />
+    <BoundingMax X="8.956831" Y="9.394007" Z="7.100961" />
+    <BoundingCenter X="-0.033283" Y="2.135067" Z="-0.079906" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ruin_mil_controltower_proxy</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\ruin_mil_controltower_proxy.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2767,15 +2767,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.756295" Y="-3.698296" Z="-6.290915" />
+    <BoundingMax X="6.756295" Y="3.698296" Z="6.290915" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shelfs_small</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\shelfs_small.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2800,15 +2800,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.264076" Y="-0.009826" Z="-0.483837" />
+    <BoundingMax X="0.264076" Y="1.064080" Z="0.483837" />
+    <BoundingCenter X="0.000000" Y="0.527127" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shelfs_small_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\shelfs_small_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2833,15 +2833,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.335076" Y="-0.017560" Z="-0.531590" />
+    <BoundingMax X="0.308378" Y="1.112442" Z="0.535803" />
+    <BoundingCenter X="-0.013349" Y="0.547441" Z="0.002107" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>shelfs_small_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\shelfs_small_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2866,15 +2866,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.431346" Y="-0.002101" Z="-0.490421" />
+    <BoundingMax X="1.164647" Y="0.247150" Z="1.520346" />
+    <BoundingCenter X="0.366651" Y="0.122525" Z="0.514963" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>skrin_bar_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\skrin_bar.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2899,15 +2899,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.327580" Y="0.003712" Z="-0.603032" />
+    <BoundingMax X="1.341220" Y="2.226720" Z="0.003080" />
+    <BoundingCenter X="0.006820" Y="1.115216" Z="-0.299976" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sofacorner_dupe_2</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\sofacorner.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2932,15 +2932,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.038772" Y="-0.421358" Z="-1.347235" />
+    <BoundingMax X="1.038772" Y="0.421359" Z="1.347235" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>table</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\table.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2965,15 +2965,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.582484" Y="-0.453672" Z="-0.741508" />
+    <BoundingMax X="0.582484" Y="0.453672" Z="0.741508" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>table_broken</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\table_broken.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -2998,15 +2998,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.850101" Y="-0.590735" Z="-1.228336" />
+    <BoundingMax X="0.850101" Y="0.590735" Z="1.228336" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>table_crushed</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\table_crushed.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -3031,15 +3031,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.514679" Y="-0.256767" Z="-1.890244" />
+    <BoundingMax X="1.514679" Y="0.256767" Z="1.890244" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>tools_racking</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\tools_racking.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -3064,15 +3064,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.555000" Y="-0.001560" Z="-0.305000" />
+    <BoundingMax X="0.561236" Y="2.010000" Z="0.312172" />
+    <BoundingCenter X="0.003118" Y="1.004220" Z="0.003586" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>wardrobe_a</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\wardrobe_a.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -3097,15 +3097,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.512489" Y="-0.000765" Z="-0.513550" />
+    <BoundingMax X="0.512056" Y="1.907690" Z="0.334705" />
+    <BoundingCenter X="-0.000216" Y="0.953462" Z="-0.089423" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>wardrobe_b</Name>
     <File>p:\dz\structures_bliss\ruins\proxy\wardrobe_b.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -3130,9 +3130,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.681557" Y="-0.000198" Z="-0.358667" />
+    <BoundingMax X="0.681557" Y="1.927061" Z="0.283847" />
+    <BoundingCenter X="0.000000" Y="0.963431" Z="-0.037410" />
     <Placement></Placement>
 </Template>
 

@@ -3,7 +3,7 @@
     <Template>
     <Name>house_ferryjetty</Name>
     <File>p:\alv_un_structures_misc\bridges\house_ferryjetty.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.059806" Y="-8.398428" Z="-20.362841" />
+    <BoundingMax X="4.687103" Y="4.256278" Z="21.789597" />
+    <BoundingCenter X="2.313649" Y="-2.071075" Z="0.713378" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_ferrypier</Name>
     <File>p:\alv_un_structures_misc\bridges\house_ferrypier.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-22.524658" Y="-5.757885" Z="-15.044493" />
+    <BoundingMax X="22.558228" Y="0.968401" Z="5.048265" />
+    <BoundingCenter X="0.016785" Y="-2.394742" Z="-4.998114" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_ticketoffice_1</Name>
     <File>p:\alv_un_structures_misc\bridges\house_ticketoffice_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.751159" Y="-0.838130" Z="-5.894856" />
+    <BoundingMax X="7.921762" Y="9.473324" Z="5.869313" />
+    <BoundingCenter X="0.585302" Y="4.317597" Z="-0.012772" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_woodenjetty_12m</Name>
     <File>p:\alv_un_structures_misc\bridges\house_woodenjetty_12m.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.627507" Y="-8.615941" Z="-2.431503" />
+    <BoundingMax X="7.706087" Y="0.339727" Z="2.701085" />
+    <BoundingCenter X="0.039290" Y="-4.138107" Z="0.134791" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_woodenjetty_25m</Name>
     <File>p:\alv_un_structures_misc\bridges\house_woodenjetty_25m.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-12.025558" Y="-8.615941" Z="-2.431503" />
+    <BoundingMax X="12.749543" Y="0.339727" Z="2.701085" />
+    <BoundingCenter X="0.361993" Y="-4.138107" Z="0.134791" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_woodenjetty_landing</Name>
     <File>p:\alv_un_structures_misc\bridges\house_woodenjetty_landing.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-12.028396" Y="-8.615941" Z="-2.431503" />
+    <BoundingMax X="12.769862" Y="0.339727" Z="6.897138" />
+    <BoundingCenter X="0.370733" Y="-4.138107" Z="2.232817" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_woodenpier_25m</Name>
     <File>p:\alv_un_structures_misc\bridges\house_woodenpier_25m.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,9 +226,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-11.998062" Y="-9.093999" Z="-2.431503" />
+    <BoundingMax X="12.748926" Y="0.339727" Z="2.408637" />
+    <BoundingCenter X="0.375432" Y="-4.377136" Z="-0.011433" />
     <Placement></Placement>
 </Template>
 

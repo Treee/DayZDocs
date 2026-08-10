@@ -3,7 +3,7 @@
     <Template>
     <Name>underground_entrance</Name>
     <File>p:\dz\structures_bliss\underground\entrance\underground_entrance.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-13.352195" Y="-0.991000" Z="-12.627947" />
+    <BoundingMax X="14.081131" Y="8.771549" Z="8.216001" />
+    <BoundingCenter X="0.364468" Y="3.890275" Z="-2.205973" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_panel</Name>
     <File>p:\dz\structures_bliss\underground\entrance\underground_panel.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.159340" Y="-0.237762" Z="-0.234136" />
+    <BoundingMax X="0.159340" Y="0.237762" Z="0.234136" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_panel_lever</Name>
     <File>p:\dz\structures_bliss\underground\entrance\underground_panel_lever.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.159955" Y="-0.237763" Z="-0.234136" />
+    <BoundingMax X="0.159955" Y="0.237763" Z="0.234136" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_entrance_detail</Name>
     <File>p:\dz\structures_bliss\underground\entrance\proxy\underground_entrance_detail.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.878630" Y="-0.127319" Z="-6.516848" />
+    <BoundingMax X="5.898932" Y="5.240867" Z="6.394920" />
+    <BoundingCenter X="1.510151" Y="2.556774" Z="-0.060964" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>underground_entrance_door</Name>
     <File>p:\dz\structures_bliss\underground\entrance\proxy\underground_entrance_door.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,9 +160,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.061678" Y="-0.024992" Z="-6.791801" />
+    <BoundingMax X="1.755627" Y="4.689565" Z="0.000000" />
+    <BoundingCenter X="-0.153025" Y="2.332287" Z="-3.395901" />
     <Placement></Placement>
 </Template>
 

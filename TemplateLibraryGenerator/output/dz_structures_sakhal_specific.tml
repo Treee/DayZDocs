@@ -3,7 +3,7 @@
     <Template>
     <Name>airport_small_hangar</Name>
     <File>p:\dz\structures_sakhal\specific\airport\airport_small_hangar.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-16.129093" Y="-4.212844" Z="-15.046235" />
+    <BoundingMax X="16.129093" Y="4.212844" Z="15.046235" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>airport_small_hangar2</Name>
     <File>p:\dz\structures_sakhal\specific\airport\airport_small_hangar2.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-21.024551" Y="-10.641354" Z="-16.437973" />
+    <BoundingMax X="21.024551" Y="10.641354" Z="16.437973" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>airport_small_main</Name>
     <File>p:\dz\structures_sakhal\specific\airport\airport_small_main.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-19.112745" Y="-12.564491" Z="-17.153652" />
+    <BoundingMax X="19.112747" Y="12.564491" Z="17.153652" />
+    <BoundingCenter X="0.000001" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>map_chernarus_bunker_dupe_2</Name>
     <File>p:\dz\structures_sakhal\specific\maps\map_chernarus_bunker.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
 <Template>
     <Name>map_livonia_bunker_dupe_2</Name>
     <File>p:\dz\structures_sakhal\specific\maps\map_livonia_bunker.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -168,7 +168,7 @@
 <Template>
     <Name>monument_bears</Name>
     <File>p:\dz\structures_sakhal\specific\monuments\monument_bears.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.001740" Y="-0.251553" Z="-5.056047" />
+    <BoundingMax X="3.000980" Y="4.764789" Z="10.008142" />
+    <BoundingCenter X="-0.000380" Y="2.256618" Z="2.476048" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>monument_workcamp</Name>
     <File>p:\dz\structures_sakhal\specific\monuments\monument_workcamp.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.506144" Y="-4.464313" Z="-2.425497" />
+    <BoundingMax X="2.506144" Y="4.464313" Z="2.425497" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>radio_building_east</Name>
     <File>p:\dz\structures_sakhal\specific\radio\radio_building_east.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-11.547750" Y="-5.639398" Z="-7.493323" />
+    <BoundingMax X="11.547750" Y="5.639398" Z="7.493323" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>radio_building_logo_east</Name>
     <File>p:\dz\structures_sakhal\specific\radio\proxy\radio_building_logo_east.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.181856" Y="-0.094102" Z="-0.102650" />
+    <BoundingMax X="2.150893" Y="1.094102" Z="0.102650" />
+    <BoundingCenter X="-0.015481" Y="0.500000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mobilelaboratory</Name>
     <File>p:\dz\structures_sakhal\specific\volcano\mobilelaboratory.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.416486" Y="-1.740000" Z="-4.290000" />
+    <BoundingMax X="3.285428" Y="4.312357" Z="4.067947" />
+    <BoundingCenter X="-0.065529" Y="1.286178" Z="-0.111027" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>mobilelaboratory_ruin</Name>
     <File>p:\dz\structures_sakhal\specific\volcano\mobilelaboratory_ruin.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,9 +358,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.490810" Y="-1.739610" Z="-4.256410" />
+    <BoundingMax X="3.270030" Y="3.117926" Z="4.726500" />
+    <BoundingCenter X="-0.110390" Y="0.689158" Z="0.235045" />
     <Placement></Placement>
 </Template>
 

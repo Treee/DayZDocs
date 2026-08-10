@@ -3,7 +3,7 @@
     <Template>
     <Name>medicalgarbage_bandage</Name>
     <File>p:\dz\structures\furniture\medical\medical_garbage\medicalgarbage_bandage.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.079354" Y="-0.000468" Z="-0.088379" />
+    <BoundingMax X="0.077272" Y="0.023737" Z="0.089469" />
+    <BoundingCenter X="-0.001041" Y="0.011635" Z="0.000545" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>medical_table</Name>
     <File>p:\dz\structures\furniture\medical\medical_table\medical_table.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.549185" Y="-0.000335" Z="-0.290659" />
+    <BoundingMax X="0.508387" Y="1.016515" Z="0.244013" />
+    <BoundingCenter X="-0.020399" Y="0.508090" Z="-0.023323" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>patient_monitor</Name>
     <File>p:\dz\structures\furniture\medical\patient_monitor\patient_monitor.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,9 +94,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.411231" Y="-0.008436" Z="-0.616362" />
+    <BoundingMax X="0.295307" Y="1.558579" Z="0.619920" />
+    <BoundingCenter X="-0.057962" Y="0.775071" Z="0.001779" />
     <Placement></Placement>
 </Template>
 

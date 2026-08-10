@@ -3,7 +3,7 @@
     <Template>
     <Name>sidewalk1_10m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_10m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.590750" Y="-0.100000" Z="-5.100496" />
+    <BoundingMax X="1.590750" Y="0.102000" Z="5.100500" />
+    <BoundingCenter X="0.000000" Y="0.001000" Z="0.000002" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_1m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_1m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.590750" Y="-0.100000" Z="-0.555500" />
+    <BoundingMax X="1.590750" Y="0.102000" Z="0.555500" />
+    <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_5m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_5m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.590750" Y="-0.100000" Z="-2.575500" />
+    <BoundingMax X="1.590750" Y="0.102000" Z="2.575500" />
+    <BoundingCenter X="0.000000" Y="0.001000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_corner</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_corner.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+    <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+    <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_end</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_end.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.060500" />
+    <BoundingMax X="1.590750" Y="0.102000" Z="1.060500" />
+    <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_tcross</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_tcross.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+    <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+    <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_turn_10deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_10deg.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.568647" Y="-0.100000" Z="-1.324349" />
+    <BoundingMax X="1.585449" Y="0.102000" Z="1.324349" />
+    <BoundingCenter X="0.008401" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_turn_20deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_20deg.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.568505" Y="-0.100000" Z="-1.324349" />
+    <BoundingMax X="1.556779" Y="0.102000" Z="1.324349" />
+    <BoundingCenter X="-0.005863" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_turn_30deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_30deg.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.568246" Y="-0.100000" Z="-1.324349" />
+    <BoundingMax X="1.504847" Y="0.102000" Z="1.324349" />
+    <BoundingCenter X="-0.031700" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk1_turn_5deg</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk1_turn_5deg.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.568660" Y="-0.100000" Z="-1.324797" />
+    <BoundingMax X="1.590653" Y="0.102000" Z="1.323902" />
+    <BoundingCenter X="0.010996" Y="0.001000" Z="-0.000447" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk2_1m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk2_1m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.150000" Y="-0.100000" Z="-0.550000" />
+    <BoundingMax X="3.161635" Y="0.102000" Z="0.550000" />
+    <BoundingCenter X="0.005818" Y="0.001000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk2_5m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk2_5m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.150000" Y="-0.100000" Z="-2.550000" />
+    <BoundingMax X="3.150885" Y="0.102000" Z="2.550000" />
+    <BoundingCenter X="0.000442" Y="0.001000" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_border</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_border.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.056880" Y="-0.252217" Z="-0.536089" />
+    <BoundingMax X="2.056880" Y="0.252217" Z="0.536089" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_border_nolc</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_border_nolc.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.056880" Y="-0.252217" Z="-0.536089" />
+    <BoundingMax X="2.056880" Y="0.252217" Z="0.536089" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_narrow_12m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_narrow_12m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.986293" Y="-0.245249" Z="-1.284236" />
+    <BoundingMax X="6.986293" Y="0.245249" Z="1.284236" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_narrow_4m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_narrow_4m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.021848" Y="-0.261856" Z="-1.292465" />
+    <BoundingMax X="3.021848" Y="0.261856" Z="1.292465" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_narrow_corner</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_narrow_corner.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.779397" Y="-0.235809" Z="-1.762370" />
+    <BoundingMax X="1.779397" Y="0.235809" Z="1.762371" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_wide_12m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wide_12m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.974532" Y="-0.245249" Z="-2.037913" />
+    <BoundingMax X="6.974532" Y="0.245249" Z="2.037913" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_wide_4m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wide_4m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.995000" Y="-0.253874" Z="-2.027711" />
+    <BoundingMax X="2.995000" Y="0.253874" Z="2.027711" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_wide_corner</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wide_corner.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.644391" Y="-0.233371" Z="-1.686001" />
+    <BoundingMax X="1.644391" Y="0.233371" Z="1.686001" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sidewalk3_wideb_4m</Name>
     <File>p:\dz\structures\roads\sidewalks\sidewalk3_wideb_4m.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -688,9 +688,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.490520" Y="-0.245248" Z="-2.007021" />
+    <BoundingMax X="2.490520" Y="0.245248" Z="2.007021" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 

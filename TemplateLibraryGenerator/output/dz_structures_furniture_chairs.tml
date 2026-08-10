@@ -3,7 +3,7 @@
     <Template>
     <Name>airport_bench</Name>
     <File>p:\dz\structures\furniture\chairs\airport_bench\airport_bench.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.432876" Y="-0.036631" Z="-0.338826" />
+    <BoundingMax X="1.435778" Y="0.566940" Z="0.343226" />
+    <BoundingCenter X="0.001451" Y="0.265154" Z="0.002200" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ch_mod_c</Name>
     <File>p:\dz\structures\furniture\chairs\ch_mod_c\ch_mod_c.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.197592" Y="-0.000010" Z="-0.184691" />
+    <BoundingMax X="0.186517" Y="0.880421" Z="0.271704" />
+    <BoundingCenter X="-0.005537" Y="0.440206" Z="0.043506" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ch_mod_h</Name>
     <File>p:\dz\structures\furniture\chairs\ch_mod_h\ch_mod_h.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.232061" Y="-0.002462" Z="-0.286400" />
+    <BoundingMax X="0.225821" Y="0.945778" Z="0.286400" />
+    <BoundingCenter X="-0.003120" Y="0.471658" Z="-0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>ch_office_b</Name>
     <File>p:\dz\structures\furniture\chairs\ch_office_b\ch_office_b.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.325226" Y="0.000000" Z="-0.326907" />
+    <BoundingMax X="0.321947" Y="1.055330" Z="0.307121" />
+    <BoundingCenter X="-0.001640" Y="0.527665" Z="-0.009893" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>church_chair</Name>
     <File>p:\dz\structures\furniture\chairs\church_chair\church_chair.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.487375" Y="-0.592916" Z="-1.644710" />
+    <BoundingMax X="0.487375" Y="0.592916" Z="1.644710" />
+    <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>hospital_bench</Name>
     <File>p:\dz\structures\furniture\chairs\hospital_bench\hospital_bench.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.605132" Y="-0.002477" Z="-0.264674" />
+    <BoundingMax X="0.616895" Y="0.906975" Z="0.269047" />
+    <BoundingCenter X="0.005882" Y="0.452249" Z="0.002186" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>kitchen_chair_a</Name>
     <File>p:\dz\structures\furniture\chairs\kitchen_chair_a\kitchen_chair_a.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.269806" Y="0.000000" Z="-0.222478" />
+    <BoundingMax X="0.269806" Y="0.926758" Z="0.273373" />
+    <BoundingCenter X="0.000000" Y="0.463379" Z="0.025448" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>lobby_chair</Name>
     <File>p:\dz\structures\furniture\chairs\lobby_chair\lobby_chair.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.433191" Y="0.000000" Z="-0.369369" />
+    <BoundingMax X="0.432924" Y="0.743328" Z="0.369164" />
+    <BoundingCenter X="-0.000133" Y="0.371664" Z="-0.000102" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>office_chair</Name>
     <File>p:\dz\structures\furniture\chairs\office_chair\office_chair.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.231514" Y="-0.399183" Z="-0.227623" />
+    <BoundingMax X="0.231514" Y="0.399183" Z="0.227623" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>postel_manz_kov</Name>
     <File>p:\dz\structures\furniture\chairs\postel_manz_kov\postel_manz_kov.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.130242" Y="0.060994" Z="-0.153779" />
+    <BoundingMax X="1.832327" Y="1.105611" Z="1.704150" />
+    <BoundingCenter X="0.981285" Y="0.583302" Z="0.775186" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>postel_manz_kov_rust</Name>
     <File>p:\dz\structures\furniture\chairs\postel_manz_kov\postel_manz_kov_rust.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="0.130242" Y="0.060994" Z="-0.153779" />
+    <BoundingMax X="1.832327" Y="1.105611" Z="1.704150" />
+    <BoundingCenter X="0.981285" Y="0.583302" Z="0.775186" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>postel_panelak1_dupe_2</Name>
     <File>p:\dz\structures\furniture\chairs\postel_panelak1\postel_panelak1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.251005" Y="-0.020052" Z="-1.296686" />
+    <BoundingMax X="1.211144" Y="0.416178" Z="1.318678" />
+    <BoundingCenter X="0.480070" Y="0.198063" Z="0.010996" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>brown_sofa_old</Name>
     <File>p:\dz\structures\furniture\chairs\sofa_leather\brown_sofa_old.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.903200" Y="-0.412100" Z="-0.507500" />
+    <BoundingMax X="0.903200" Y="0.412100" Z="0.507500" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sofa_leather_new</Name>
     <File>p:\dz\structures\furniture\chairs\sofa_leather\sofa_leather_new.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.903200" Y="-0.412100" Z="-0.507500" />
+    <BoundingMax X="0.903200" Y="0.412100" Z="0.507500" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sofa_leather_old</Name>
     <File>p:\dz\structures\furniture\chairs\sofa_leather\sofa_leather_old.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.903200" Y="-0.412100" Z="-0.507500" />
+    <BoundingMax X="0.903200" Y="0.412100" Z="0.507500" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sofa_sakhal_1</Name>
     <File>p:\dz\structures\furniture\chairs\sofa_sakhal\sofa_sakhal_1.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.185751" Y="-0.010560" Z="-1.324774" />
+    <BoundingMax X="0.848804" Y="1.215718" Z="1.324774" />
+    <BoundingCenter X="0.331526" Y="0.602579" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>sofacorner</Name>
     <File>p:\dz\structures\furniture\chairs\sofacorner\sofacorner.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.038772" Y="-0.420304" Z="-1.347235" />
+    <BoundingMax X="1.038772" Y="0.420304" Z="1.347235" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>vojenska_palanda</Name>
     <File>p:\dz\structures\furniture\chairs\vojenska_palanda\vojenska_palanda.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,9 +589,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.630402" Y="-0.019157" Z="-1.421626" />
+    <BoundingMax X="0.431827" Y="1.580785" Z="0.790993" />
+    <BoundingCenter X="-0.099288" Y="0.780814" Z="-0.315317" />
     <Placement></Placement>
 </Template>
 

@@ -3,7 +3,7 @@
     <Template>
     <Name>radar_electronics</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_electronics.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.549268" Y="-0.891989" Z="-0.418067" />
+    <BoundingMax X="0.549268" Y="0.891989" Z="0.418067" />
+    <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>radar_panel</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_panel.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.560558" Y="-0.000002" Z="-0.974517" />
+    <BoundingMax X="0.607088" Y="1.790838" Z="0.015830" />
+    <BoundingCenter X="0.023265" Y="0.895418" Z="-0.479343" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>radar_panel_flat</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_panel_flat.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.560558" Y="-0.000002" Z="-0.686230" />
+    <BoundingMax X="0.607088" Y="1.262483" Z="0.261000" />
+    <BoundingCenter X="0.023265" Y="0.631240" Z="-0.212615" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>radar_rack</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_rack.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-0.390048" Y="-0.000017" Z="-0.331741" />
+    <BoundingMax X="0.380076" Y="1.991151" Z="0.332689" />
+    <BoundingCenter X="-0.004986" Y="0.995567" Z="0.000474" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>radar_rack_quad</Name>
     <File>p:\dz\structures\furniture\radar_equipment\radar_rack_quad.p3d</File>
-    <Date>Sat Aug 8 15:29:54 2026</Date>
+    <Date>Mon Aug 10 14:34:27 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,9 +160,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.189916" Y="-0.000017" Z="-0.315313" />
+    <BoundingMax X="1.993125" Y="1.991151" Z="0.344524" />
+    <BoundingCenter X="0.401604" Y="0.995567" Z="0.014606" />
     <Placement></Placement>
 </Template>
 

@@ -3,7 +3,7 @@
     <Template>
     <Name>house_barn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_barn.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -28,15 +28,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.987360" Y="-1.446256" Z="-8.286545" />
+    <BoundingMax X="8.849900" Y="7.601157" Z="9.106573" />
+    <BoundingCenter X="-0.068730" Y="3.077451" Z="0.410014" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_barn_construction</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_barn_construction.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -61,15 +61,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.172304" Y="-0.151654" Z="-5.325389" />
+    <BoundingMax X="5.988033" Y="5.531637" Z="4.618406" />
+    <BoundingCenter X="-0.092135" Y="2.689992" Z="-0.353491" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_blacksmiths</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_blacksmiths.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -94,15 +94,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.207248" Y="-0.410382" Z="-8.286545" />
+    <BoundingMax X="8.515740" Y="5.898985" Z="7.183075" />
+    <BoundingCenter X="-0.345754" Y="2.744302" Z="-0.551735" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_largebarn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_largebarn.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -127,15 +127,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-13.784706" Y="-0.067480" Z="-6.231320" />
+    <BoundingMax X="13.873529" Y="10.294432" Z="5.944155" />
+    <BoundingCenter X="0.044412" Y="5.113476" Z="-0.143583" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_largestable</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_largestable.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -160,15 +160,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-8.920506" Y="-0.196644" Z="-7.560370" />
+    <BoundingMax X="8.736754" Y="7.895772" Z="8.681163" />
+    <BoundingCenter X="-0.091876" Y="3.849564" Z="0.560396" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_longwarehouse</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_longwarehouse.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -193,15 +193,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.164646" Y="-1.251051" Z="-11.870892" />
+    <BoundingMax X="7.594284" Y="8.826649" Z="10.324060" />
+    <BoundingCenter X="0.214819" Y="3.787799" Z="-0.773416" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_lumberyardoffice</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_lumberyardoffice.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -226,15 +226,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.028217" Y="-0.584148" Z="-2.246175" />
+    <BoundingMax X="6.212097" Y="4.140237" Z="18.286545" />
+    <BoundingCenter X="1.091940" Y="1.778044" Z="8.020185" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_medium_construction</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_medium_construction.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -259,15 +259,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.326287" Y="-0.593556" Z="-0.238920" />
+    <BoundingMax X="6.994579" Y="4.628608" Z="10.607092" />
+    <BoundingCenter X="-0.165854" Y="2.017526" Z="5.184086" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_mediumbarn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_mediumbarn.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -292,15 +292,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.499866" Y="-0.129645" Z="-6.561450" />
+    <BoundingMax X="7.434999" Y="6.366704" Z="8.529988" />
+    <BoundingCenter X="-1.032434" Y="3.118530" Z="0.984269" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_mediumbarn_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_mediumbarn_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -325,15 +325,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.499866" Y="-0.129644" Z="-6.561450" />
+    <BoundingMax X="7.741334" Y="6.366704" Z="8.529988" />
+    <BoundingCenter X="-0.879266" Y="3.118530" Z="0.984269" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_pigshed</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_pigshed.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -358,15 +358,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.640564" Y="-0.018067" Z="-1.136273" />
+    <BoundingMax X="1.523787" Y="2.128238" Z="1.071267" />
+    <BoundingCenter X="-0.058388" Y="1.055085" Z="-0.032503" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_pigshed_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_pigshed_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -391,15 +391,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.902323" Y="-0.023247" Z="-2.768490" />
+    <BoundingMax X="1.836288" Y="2.234731" Z="0.304700" />
+    <BoundingCenter X="-0.033017" Y="1.105742" Z="-1.231895" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_pigshed_3</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_pigshed_3.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -424,15 +424,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.432689" Y="-0.160627" Z="-3.689486" />
+    <BoundingMax X="2.374958" Y="3.385650" Z="3.108742" />
+    <BoundingCenter X="-0.028865" Y="1.612511" Z="-0.290372" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_shoehorsebarn</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_shoehorsebarn.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -457,15 +457,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.395812" Y="-0.103118" Z="-4.826594" />
+    <BoundingMax X="6.402190" Y="5.542637" Z="5.301522" />
+    <BoundingCenter X="0.003189" Y="2.719759" Z="0.237464" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_simple_stable</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_simple_stable.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -490,15 +490,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.870734" Y="-0.029337" Z="-3.969059" />
+    <BoundingMax X="6.869784" Y="3.050826" Z="1.331088" />
+    <BoundingCenter X="2.499525" Y="1.510744" Z="-1.318985" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_simple_stable_b</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_simple_stable_b.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -523,15 +523,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.170733" Y="-0.029337" Z="-2.669059" />
+    <BoundingMax X="4.569784" Y="3.050826" Z="2.631088" />
+    <BoundingCenter X="0.199525" Y="1.510744" Z="-0.018986" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_simpleshed_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_simpleshed_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -556,15 +556,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.312329" Y="-0.164390" Z="-2.661836" />
+    <BoundingMax X="2.766915" Y="3.712497" Z="3.517752" />
+    <BoundingCenter X="-0.272707" Y="1.774054" Z="0.427958" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_simpleshed_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_simpleshed_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -589,15 +589,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-2.678120" Y="-0.395961" Z="-2.735893" />
+    <BoundingMax X="2.875247" Y="3.712497" Z="3.517752" />
+    <BoundingCenter X="0.098563" Y="1.658268" Z="0.390930" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_small_construction</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_small_construction.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -622,15 +622,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.595971" Y="-0.651996" Z="-5.479744" />
+    <BoundingMax X="2.418495" Y="4.945035" Z="5.644811" />
+    <BoundingCenter X="-0.588738" Y="2.146520" Z="0.082533" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_stable_shop</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_stable_shop.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -655,15 +655,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-14.517962" Y="-0.597958" Z="-8.883242" />
+    <BoundingMax X="15.991260" Y="8.114777" Z="10.641956" />
+    <BoundingCenter X="0.736649" Y="3.758409" Z="0.879357" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_storagehouse</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagehouse.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -688,15 +688,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-1.975080" Y="-0.666428" Z="-3.567690" />
+    <BoundingMax X="1.975191" Y="3.217358" Z="3.382581" />
+    <BoundingCenter X="0.000056" Y="1.275465" Z="-0.092555" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_storagesilo_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagesilo_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -721,15 +721,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.495200" Y="-0.136666" Z="-6.075552" />
+    <BoundingMax X="4.004604" Y="17.339310" Z="5.541109" />
+    <BoundingCenter X="-0.245298" Y="8.601322" Z="-0.267222" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_storagestable_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagestable_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -754,15 +754,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.020785" Y="-0.083970" Z="-1.009206" />
+    <BoundingMax X="9.204132" Y="5.352577" Z="4.864161" />
+    <BoundingCenter X="3.091673" Y="2.634303" Z="1.927478" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_storagestable_2</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagestable_2.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -787,15 +787,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.155000" Y="-0.083970" Z="-1.009206" />
+    <BoundingMax X="3.532759" Y="5.352577" Z="4.864161" />
+    <BoundingCenter X="-2.811121" Y="2.634303" Z="1.927478" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_storagestabledouble</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storagestabledouble.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -820,15 +820,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-9.155000" Y="-0.083970" Z="-1.009206" />
+    <BoundingMax X="9.204132" Y="5.595940" Z="4.864161" />
+    <BoundingCenter X="0.024566" Y="2.755985" Z="1.927478" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_storehouse_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_storehouse_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -853,15 +853,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-7.762705" Y="-0.017712" Z="-4.897577" />
+    <BoundingMax X="6.304566" Y="8.377484" Z="6.217636" />
+    <BoundingCenter X="-0.729069" Y="4.179886" Z="0.660029" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_wood_workshop</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_wood_workshop.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -886,15 +886,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.740962" Y="-1.278279" Z="-8.685453" />
+    <BoundingMax X="6.633723" Y="8.974180" Z="14.726843" />
+    <BoundingCenter X="-0.053619" Y="3.847951" Z="3.020695" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_wooden_stable</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_wooden_stable.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -919,15 +919,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-4.948077" Y="-0.635681" Z="-14.141094" />
+    <BoundingMax X="6.663521" Y="5.364768" Z="9.383978" />
+    <BoundingCenter X="0.857722" Y="2.364543" Z="-2.378558" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_workshop</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_workshop.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -952,15 +952,15 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-6.941793" Y="-1.536558" Z="-8.563745" />
+    <BoundingMax X="7.007548" Y="5.804758" Z="18.286545" />
+    <BoundingCenter X="0.032877" Y="2.134100" Z="4.861400" />
     <Placement></Placement>
 </Template>
 <Template>
     <Name>house_workshop_1</Name>
     <File>p:\alv_un_structures_industrial\industrial\house_workshop_1.p3d</File>
-    <Date>Sat Aug 8 16:26:32 2026</Date>
+    <Date>Mon Aug 10 14:45:16 2026</Date>
     <Archive></Archive>
     <Fill>-16777216</Fill>
     <Outline>-16777216</Outline>
@@ -985,9 +985,9 @@
     <YShift>0.000000</YShift>
     <ZShift>0.000000</ZShift>
     <Height>0.000000</Height>
-    <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-    <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-    <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+    <BoundingMin X="-3.655849" Y="-0.117249" Z="-8.193943" />
+    <BoundingMax X="5.499818" Y="4.739334" Z="1.722576" />
+    <BoundingCenter X="0.921985" Y="2.311042" Z="-3.235683" />
     <Placement></Placement>
 </Template>
 
